@@ -1,0 +1,555 @@
+@0
+{z}{s:0320}That must be the fort we're after... The supply depot is in there...{g}{x:00}
+
+@1
+{z}{s:0320}If we take the depot, the enemy will surely withdraw from here.{g}{x:00}
+
+@2
+{z}{s:0320}It doesn't matter if they don't. Without food they can't fight.{g}{x:00}
+
+@3
+{z}If they keep fighting, they'll collapse sooner or later... Then we simply take them prisoner.{g}{x:00}
+
+@4
+{z}{s:0320}We're not supposed to wipe them out? We were planning to.{g}{x:00}
+
+@5
+{z}{s:0320}Wipe them out if you like, but make taking the depot your priority.{g}{x:00}
+
+@6
+{z}{s:0320}Aye.{g}{x:00}
+
+@7
+{z}{s:0320}We only have four companies! Why is the enemy attacking with such a huge army?!{g}{x:00}
+
+@8
+{z}{s:0320}Perhaps they thought: better safe than sorry?{g}{x:00}
+
+@9
+{z}{s:0320}Damn... Even I can't handle a difference in numbers like this...{g}{x:00}
+
+@10
+{z}{s:0320}We made it, just in time.{g}{x:00}
+
+@11
+{z}{s:0320}Where is the supply depot?{g}{x:00}
+
+@12
+{z}{s:0320}Inside that fort over there.{g}{x:00}
+
+@13
+{z}{s:0320}Hey, you lot! Are you our mercenaries?{g}{x:00}
+
+@14
+{z}{s:0320}Would the enemy hire even more mercenaries?{g}{x:00}
+
+@15
+{z}{s:0320}I know that much! I'm just making sure!{g}{x:00}
+
+@16
+{z}{s:0320}We were hired by {p:01} to come and guard that depot.{g}{x:00}
+
+@17
+{z}{s:0320}That's good news. They're reinforcements.{g}{x:00}
+
+@18
+{z}{s:0320}I thought we were done for...{g}{x:00}
+
+@19
+{z}{s:0320}That's the Tigre... This battle may give us trouble.{g}{x:00}
+
+@20
+{z}{s:0320}Are they that strong?{g}{x:00}
+
+@21
+{z}{s:0320}So the rumour goes. We won't know until we try.{g}{x:00}
+
+@22
+{z}{s:0320}Let the mercenaries do the fighting here, and when the enemy's numbers are down, we...{g}{x:00}
+
+@23
+{z}{s:0320}The mercenaries will guard the depot, and we'll go after the enemy knights.{g}{x:00}
+
+@24
+{z}{s:0320}What? We're to charge? Even though we have mercenaries...{g}{x:00}
+
+@25
+{z}{s:0320}How can we leave it to mercenaries?! Attacking ourselves is the surer way.{g}{x:00}
+
+@26
+{z}{s:0320}...{w}{w} Understood.{g}{x:00}
+
+@27
+{z}{s:0320}Hey, you lot! The depot is yours to guard!{g}{x:00}
+
+@28
+{z}{s:0320}You leave the depot to us? What do you intend to do?{g}{x:00}
+
+@29
+{z}{s:0320}We're charging the enemy.{g}{x:00}
+
+@30
+{z}{s:0320}Instead of that, we could all just guard the depot together...{g}{x:00}
+
+@31
+{z}{s:0320}Quiet! We charge! Don't meddle with my plan!{g}{x:00}
+
+@32
+{z}{s:0320}We have no choice but to obey.{g}{x:00}
+
+@33
+{z}{s:0320}...{g}{x:00}
+
+@34
+{z}{s:0320}When the mercenaries come this way, we charge. Understood?{g}{x:00}
+
+@35
+{z}{s:0320}...Yes, sir.{g}{x:00}
+
+@36
+{z}{s:0320}We head straight for the depot. No tactics.{g}{x:00}
+
+@37
+{z}{s:0320}Understood.{g}{x:00}
+
+@38
+{z}{s:0320}The whole army is going for the depot?{g}{x:00}
+
+@39
+{z}{s:0320}Yes, that's right.{g}{x:00}
+
+@40
+{z}{s:0320}Right, we've reached the fort. Now, where's the depot...{w}{w} Here it is...{g}{x:00}
+
+@41
+{z}We've taken the depot! We've taken the enemy's depot!{g}{x:00}
+
+@42
+{z}{s:0320}We set out for the fort first, and they still got there before us...{g}{x:00}
+
+@43
+{z}They say mercenaries are the heart of war, but knights really are something.{g}{x:00}
+
+@44
+{z}{s:0320}Right! We've reached the fort! Now, where's that depot...{w}{w} Here it is...{g}{x:00}
+
+@45
+{z}We've taken the enemy's depot!{g}{x:00}
+
+@46
+{z}{s:0320}You took it? Well done!{g}{x:00}
+
+@47
+{z}We struggled against the enemy knights... Today's victory is thanks to the mercenaries.{g}{x:00}
+
+@48
+{z}{s:0320}Damn! They've taken the depot... Impossible...{g}{x:00}
+
+@49
+{z}Damn... We couldn't beat their numbers after all. Numbers are everything in war.{g}{x:00}
+
+@50
+{z}...{w}{w} No! We must withdraw quickly! If we go on fighting, we'll starve or be taken prisoner.{g}{x:00}
+
+@51
+{z}We've lost! We've lost! Withdraw!{g}{x:00}
+
+@52
+{z}{s:0320}Let's withdraw quickly, too! I won't be taken prisoner!{g}{x:00}
+
+@53
+{z}{s:0320}No choice... we must withdraw. I'll not be taken prisoner.{g}{x:00}
+
+@54
+{z}{s:0320}Damn... we have to withdraw... I'll never be taken prisoner!{g}{x:00}
+
+@55
+{z}{s:0320}Let's withdraw quickly! I won't be a prisoner!{g}{x:00}
+
+@56
+{z}{s:0320}Nothing for it... we retreat. I'll not be taken prisoner.{g}{x:00}
+
+@57
+{z}{s:0320}We have no choice but to withdraw... Damn, we failed the mission...{g}{x:00}
+
+@58
+{z}{s:0320}They took the depot... We failed the mission...{g}{x:00}
+
+@59
+{z}No! This is no time to be downhearted! We must withdraw quickly!{g}{x:00}
+
+@60
+{z}If we stay, we'll starve or be taken prisoner...{g}{x:00}
+
+@61
+{z}{s:0320}They took it from us...{g}{x:00}
+
+@62
+{z}Wait, this is no time for regrets. Let's clear out at once.{g}{x:00}
+
+@63
+{z}If we stay here, we'll starve or be taken prisoner.{g}{x:00}
+
+@64
+{z}{s:0320}Damn... they took it, and we were right here...{g}{x:00}
+
+@65
+{z}Whoa, no! There's no time for regrets! Let's withdraw quickly!{g}{x:00}
+
+@66
+{z}If we stay here, it's starvation or capture by the enemy!{g}{x:00}
+
+@67
+{z}{s:0320}They actually took it...{g}{x:00}
+
+@68
+{z}But there's no time to be downhearted. We must withdraw quickly!{g}{x:00}
+
+@69
+{z}At this rate we'll either starve or be taken prisoner. One or the other!{g}{x:00}
+
+@70
+{z}{s:0320}They took it from us... Then let's withdraw.{g}{x:00}
+
+@71
+{z}We have no food left. If we stay here, it's starving or enemy captivity.{g}{x:00}
+
+@72
+{z}{s:0320}They took it... Damn, how pathetic...{g}{x:00}
+
+@73
+{z}But there's no time to sulk. We must get out of here quickly...{g}{x:00}
+
+@74
+{z}If we stay here, it's starvation or capture...{g}{x:00}
+
+@75
+{z}{s:0320}Tch...{w}{w} They held it to the end.{w}{w} A complete defeat.{g}{x:00}
+
+@76
+{z}{s:0320}The enemy is wiped out... We're safe now.{g}{x:00}
+
+@77
+{z}Hey, mercenaries! Thanks to you the depot held. Good work.{g}{x:00}
+
+@78
+{z}You needn't stay here any longer. Go home and rest.{g}{x:00}
+
+@79
+{z}{s:0320}No need to tell us twice. Let's go home.{g}{x:00}
+
+@80
+{z}{s:0320}Then let's go home.{g}{x:00}
+
+@81
+{z}{s:0320}Well then, we'll withdraw.{g}{x:00}
+
+@82
+{z}{s:0320}Right, time to go home. See you.{g}{x:00}
+
+@83
+{z}{s:0320}Then we'll take you at your word... and head home.{g}{x:00}
+
+@84
+{z}{s:0320}Look! The enemy is wiped out! We held the depot!{g}{x:00}
+
+@85
+{z}Another fierce fight, but I didn't retreat this time either.{g}{x:00}
+
+@86
+{z}{s:0320}The enemy is wiped out... Thank goodness we held the depot...{g}{x:00}
+
+@87
+{z}It was fierce, but I'm so glad I never retreated... I think I was of some use...{g}{x:00}
+
+@88
+{z}{s:0320}The enemy is wiped out... The depot is safe now.{g}{x:00}
+
+@89
+{z}Haah... Must be my age... After a hard fight like this, I always get sleepy.{g}{x:00}
+
+@90
+{z}{s:0320}Phew... It's over... We somehow held it.{g}{x:00}
+
+@91
+{z}Captain, let's go home and rest. We need to shake off the fatigue before the next job.{g}{x:00}
+
+@92
+{z}{s:0320}That's the enemy wiped out. Haah... We held it...{g}{x:00}
+
+@93
+{z}With our comrades retreating one after another, I wondered how it would end... I'm glad we completed the mission...{g}{x:00}
+
+@94
+{z}{s:0320}We've reached our limit... Staying any longer is too dangerous...{g}{x:00}
+
+@95
+{z}Everyone, I'm sorry! Withdraw! We're nearly out of food!{g}{x:00}
+
+@96
+{z}At this rate we'll starve! Withdraw quickly!{g}{x:00}
+
+@97
+{z}{s:0320}We couldn't break through... Damn...{g}{x:00}
+
+@98
+{z}No choice... Let's withdraw. I won't starve to death.{g}{x:00}
+
+@99
+{z}{s:0320}We've reached our limit... Staying any longer is too dangerous...{g}{x:00}
+
+@100
+{z}Everyone, withdraw! The food has run out! We'll starve!{g}{x:00}
+
+@101
+{z}All forces, retreat!{g}{x:00}
+
+@102
+{z}{s:0320}Huh? The enemy is pulling out... They've finally given up.{g}{x:00}
+
+@103
+{z}You lot! You're safe now! The enemy gave up and withdrew! We held this place!{g}{x:00}
+
+@104
+{z}{s:0320}Then let's withdraw. No point staying here any longer.{g}{x:00}
+
+@105
+{z}We're going home. See you.{g}{x:00}
+
+@106
+{z}{s:0320}Then let's withdraw. We've no more business here.{g}{x:00}
+
+@107
+{z}We'll take our leave now. Until we meet again!{g}{x:00}
+
+@108
+{z}{s:0320}Then we shall withdraw. There's no point staying here.{g}{x:00}
+
+@109
+{z}We shall take our leave. Farewell.{g}{x:00}
+
+@110
+{z}{s:0320}Well, we can go home now, can't we? We did complete the mission...{g}{x:00}
+
+@111
+{z}We're going home! See you!{g}{x:00}
+
+@112
+{z}{s:0320}Then let's go home. We've no more business here.{g}{x:00}
+
+@113
+{z}We're going home! Goodbye!{g}{x:00}
+
+@114
+{z}{s:0320}Then we shall take our leave. We've no more business here.{g}{x:00}
+
+@115
+{z}Farewell!{g}{x:00}
+
+@116
+{z}{s:0320}The mercenaries have gone home... Such a cold bunch.{g}{x:00}
+
+@117
+{z}The Tigre, was it... They're strong, that lot...{g}{x:00}
+
+@118
+{z}{s:0320}The enemy's gone... Their food must have run out.{g}{x:00}
+
+@119
+{z}Our duty is done. Let's go home.{g}{x:00}
+
+@120
+{z}{s:0320}The enemy is pulling out... Out of food, I suppose.{g}{x:00}
+
+@121
+{z}Then let's go home. If we don't rest up soon, it'll tell on the next job.{g}{x:00}
+
+@122
+{z}{s:0320}The enemy is pulling out... Perhaps their provisions ran out.{g}{x:00}
+
+@123
+{z}Then let's go home. No point staying here any longer.{g}{x:00}
+
+@124
+{z}{s:0320}Huh? The enemy is pulling out... What on earth happened?{g}{x:00}
+
+@125
+{z}Well, never mind! The mission is accomplished!{g}{x:00}
+
+@126
+{z}{s:0320}Huh? The enemy is pulling out... What's going on?{g}{x:00}
+
+@127
+{z}Anyway, it's over. I'm glad we completed the mission.{g}{x:00}
+
+@128
+{z}{s:0320}I'm sorry... truly...{g}{x:00}
+
+@129
+{z}{s:0320}Damn... that I should lose... Curses...{g}{x:00}
+
+@130
+{z}{s:0320}The rest is up to you all... Do your best...{g}{x:00}
+
+@131
+{z}{s:0320}I'm sorry... I must retreat.{g}{x:00}
+
+@132
+{z}{s:0320}My company is wiped out... Forgive me.{g}{x:00}
+
+@133
+{z}{s:0320}How pathetic... We've been wiped out... But don't give up until the end.{g}{x:00}
+
+@134
+{z}Do not let the enemy have the depot... Defend it... without fail...{g}{x:00}
+
+@135
+{z}Once you've held the depot, you may withdraw...{g}{x:00}
+
+@136
+{z}{s:0320}I'll defend it without fail... Without fail...{g}{x:00}
+
+@137
+{z}{s:0320}That's what we came for. We'll defend it, you can count on it.{g}{x:00}
+
+@138
+{z}{s:0320}Of course we'll defend it! It's our mission!{g}{x:00}
+
+@139
+{z}{s:0320}No need to tell us twice. You do go on, don't you?{g}{x:00}
+
+@140
+{z}{s:0320}Yes, we shall defend it without fail.{g}{x:00}
+
+@141
+{z}{s:0320}Impossible... To lose to a company like this...{g}{x:00}
+
+@142
+{z}{s:0320}That's why I didn't want to fight... We should have let the mercenaries do it...{g}{x:00}
+
+@143
+{z}{s:0320}Our {p:01} wiped out... Forgive me.{g}{x:00}
+
+@144
+{z}Take the depot without fail... I beg you...{g}{x:00}
+
+@145
+{z}{s:0320}We fight on our own... That's a bit hard...{g}{x:00}
+
+@146
+{z}{s:0320}I, a Knight Commander, retreating... How pathetic...{g}{x:00}
+
+@147
+{z}{s:0320}M-my company... I am sorry...{g}{x:00}
+
+@148
+{z}{s:0320}We're wiped out... Sorry...{g}{x:00}
+
+@149
+{z}{s:0320}Only we are left... Well, so be it...{g}{x:00}
+
+@150
+{z}{s:0320}Some commander I am... I seem to have let my guard down.{g}{x:00}
+
+@151
+{z}{s:0320}Not bad, you lot... Beating my company...{g}{x:00}
+
+@152
+{z}{s:0320}I'm retreating... I can't go on.{g}{x:00}
+
+@153
+{z}{s:0320}...{w}{w}! What's this?! Our food is running out...{g}{x:00}
+
+@154
+{z}It won't be gone right away, but it's only a matter of time. We must finish quickly...{g}{x:00}
+
+@155
+{z}{s:0320}Damn! The food's nearly gone! Why didn't we bring more?{g}{x:00}
+
+@156
+{z}We don't have to retreat this minute, but this is bad... It's a matter of time. We must finish fast...{g}{x:00}
+
+@157
+{z}{s:0320}I am the Knight Commander of {p:01}! Charge!{g}{x:00}
+
+@158
+{z}{s:0320}Taking the depot is my sworn duty... I can't go back without it!{g}{x:00}
+
+@159
+{z}{s:0320}I won't stop advancing till we reach the fort! Be ready!{g}{x:00}
+
+@160
+{z}{s:0320}So your company is my opponent... Perhaps you'll give me some sport.{g}{x:00}
+
+@161
+{z}{s:0320}Out of the way! Make way for {p:01}!{g}{x:00}
+
+@162
+{z}{s:0320}You'll not get near that fort! Turn back!{g}{x:00}
+
+@163
+{z}{s:0320}Why must I fight?... What are the mercenaries for?{g}{x:00}
+
+@164
+{z}{s:0320}I'm {a:0002} of the Tigre! I won't lose to the likes of you!{g}{x:00}
+
+@165
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@166
+{z}{s:0320}Phew... Oh, very well... I'll take you on.{g}{x:00}
+
+@167
+{z}{s:0320}I'm ready any time, you know. Come on, then.{g}{x:00}
+
+@168
+{z}{s:0320}Right! Charge!{g}{x:00}
+
+@169
+{z}{s:0320}Follow the Commander!{g}{x:00}
+
+@170
+{z}{s:0320}Our target is the depot!{g}{x:00}
+
+@171
+{z}{s:0320}Charge!{g}{x:00}
+
+@172
+{z}{s:0320}I wonder how good the Tigre are...{w}{w} I'm looking forward to it.{g}{x:00}
+
+@173
+{z}{s:0320}Why don't they let the mercenaries fight?... What are they thinking?{g}{x:00}
+
+@174
+{z}{s:0320}You lot! Get over here! We can't attack until you do!{g}{x:00}
+
+@175
+{z}{s:0320}Let's go.{g}{x:00}
+
+@176
+{z}{s:0320}Those mercenaries have come quite close... Here we go! Charge!{g}{x:00}
+
+@177
+{z}Everyone! Let's withdraw!{g}{x:00}
+
+@178
+{z}Far more so than us. How they'll use that power...{w}{w} I look forward to it.{g}{x:00}
+
+@179
+{z}{s:0320}What are you doing?! Get over here! Do you mean to disobey orders?!{g}{x:00}
+
+@180
+{z}{s:0320}I can't wait any longer! All forces, charge!{g}{x:00}
+
+@181
+{z}{s:0320}The mercenaries are fighting for us, so isn't that enough?...{g}{x:00}
+
+@182
+{z}{s:0320}Commander...{g}{x:00}
+
+@183
+{z}{s:0320}Silence! It's the mercenaries' fault for disobeying orders!{g}{x:00}
+
+@184
+{z}Go!{g}{x:00}
+

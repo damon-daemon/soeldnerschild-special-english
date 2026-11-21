@@ -1,0 +1,267 @@
+@0
+{z}{s:0320}This is the place, isn't it? Where the pirates often show up.{g}{x:00}
+
+@1
+{z}{s:0320}Naval battle is new to us, so nobody let your guard down.{g}{x:00}
+
+@2
+{z}{s:0320}Sea or mountain, makes no difference to me!{g}{x:00}
+
+@3
+{z}{s:0320}They're masters of sea fighting. It's dangerous to underestimate them.{g}{x:00}
+
+@4
+{z}{s:0320}Prey coming to us in a bunch! Life isn't so bad after all.{g}{x:00}
+
+@5
+{z}{s:0320}Look! Here they come!{g}{x:00}
+
+@6
+{z}{s:0320}Are you so sure of that?{g}{x:00}
+
+@7
+{z}{s:0320}What? You're mercenaries?{g}{x:00}
+
+@8
+{z}Fewer folk put to sea these days, so I thought this would be our first good haul in ages...{g}{x:00}
+
+@9
+{z}{s:0320}No need to be glum, boss. I hear mercenaries are doing well lately.{g}{x:00}
+
+@10
+{z}{s:0320}What? You want to raid them?{g}{x:00}
+
+@11
+{z}Right! Attack!{g}{x:00}
+
+@12
+{z}{s:0320}That's more like it! Right, let's meet them head on!{g}{x:00}
+
+@13
+{z}{s:0320}Careful. They're after money.{g}{x:00}
+
+@14
+{z}If you go down, they'll take your gold.{g}{x:00}
+
+@15
+{z}{s:0320}You're the captain? I hear you're rolling in it.{g}{x:00}
+
+@16
+{z}You're a cheeky young whelp. I'll teach you a lesson in a duel. Well? Will you accept?{g}{x:00}
+
+@17
+{z}{s:0320}Impressive.{g}{x:00}
+
+@18
+{z}{s:0320}I'd have won more easily, but well, not bad.{g}{x:00}
+
+@19
+{z}{s:0320}{a:0000}... You're getting stronger and stronger...{g}{x:00}
+
+@20
+{z}{s:0320}Thank goodness...{g}{x:00}
+
+@21
+{z}{s:0320}Impressive...{g}{x:00}
+
+@22
+{z}{s:0320}How are we supposed to fight people our boss can't beat...{g}{x:00}
+
+@23
+{z}Maybe I'll quit... piracy... Make enemies of men this strong and you won't live long, however lucky you are.{g}{x:00}
+
+@24
+{z}{s:0320}Who was it that suggested attacking mercenaries...{g}{x:00}
+
+@25
+{z}{s:0320}Sorry... I'm done for...{g}{x:00}
+
+@26
+{z}{s:0320}If you're serious about quitting, I'll let it go today.{g}{x:00}
+
+@27
+{z}{s:0320}If you're serious about quitting, I'll let it go today.{g}{x:00}
+
+@28
+{z}{s:0320}If you really want to quit piracy, now's your chance.{g}{x:00}
+
+@29
+{z}{s:0320}That's right! Give up piracy!{g}{x:00}
+
+@30
+{z}{s:0320}If you're willing, give it up this very moment.{g}{x:00}
+
+@31
+{z}{s:0320}If you're serious about quitting, I'll let it go today.{g}{x:00}
+
+@32
+{z}{s:0320}You're right... I don't want to die...{g}{x:00}
+
+@33
+{z}Sorry, boss...{w}{w} but I'm quitting right here!{g}{x:00}
+
+@34
+{z}Even if we got lucky and escaped, making a living from piracy is hard anyway...{g}{x:00}
+
+@35
+{z}{s:0320}We came to wipe them out, and ended up reforming them.{g}{x:00}
+
+@36
+{z}Well, it makes a nice change now and then.{g}{x:00}
+
+@37
+{z}{s:0320}If we can avoid fighting, so much the better.{g}{x:00}
+
+@38
+{z}That's just the way {a:0023} always wanted to do things.{g}{x:00}
+
+@39
+{z}{s:0320}I was going to teach them a lesson, but well, never mind.{g}{x:00}
+
+@40
+{z}{s:0320}They seem to have changed their ways... Good.{g}{x:00}
+
+@41
+{z}You think so too, don't you, {a:0000}?{g}{x:00}
+
+@42
+{z}{s:0320}Reforming them... I never expected that...{g}{x:00}
+
+@43
+{z}{s:0320}Ha ha... So you were cowards after all.{g}{x:00}
+
+@44
+{z}Or do you fancy your chances in a melee instead?{g}{x:00}
+
+@45
+{z}{s:0320}Wiped out... it's over...{g}{x:00}
+
+@46
+{z}{s:0320}Phew... it's over. The job's done.{g}{x:00}
+
+@47
+{z}{s:0320}Well done, everyone. We've finished the job safe and sound.{g}{x:00}
+
+@48
+{z}{s:0320}Look! The enemy's wiped out! Peace is back on this sea!{g}{x:00}
+
+@49
+{z}{s:0320}The pirates are gone. This sea will surely be peaceful now.{g}{x:00}
+
+@50
+{z}{s:0320}It seems we've won. Thank goodness we didn't botch it...{g}{x:00}
+
+@51
+{z}{s:0320}Everyone... I'm sorry... for being such a burden...{g}{x:00}
+
+@52
+{z}{a:0001} now has 0 G!{g}{x:00}
+
+@53
+{z}{s:0320}Damn... they even took our gold...{g}{x:00}
+
+@54
+{z}{a:0002} now has 0 G!{g}{x:00}
+
+@55
+{z}{s:0320}What are you doing! Give it back...{g}{x:00}
+
+@56
+{z}{a:0003} now has 0 G!{g}{x:00}
+
+@57
+{z}{s:0320}They took it after all... What bad luck...{g}{x:00}
+
+@58
+{z}{a:0004} now has 0 G!{g}{x:00}
+
+@59
+{z}{s:0320}They even took our gold...{g}{x:00}
+
+@60
+{z}{a:0005} now has 0 G!{g}{x:00}
+
+@61
+{z}{s:0320}You'll regret everything you've done!{g}{x:00}
+
+@62
+{z}{s:0320}Good at sea fighting? Don't make me laugh!{g}{x:00}
+
+@63
+{z}{s:0320}Well? What's the matter? Come on, hurry up.{g}{x:00}
+
+@64
+{z}{s:0320}Thought you could beat me? What a fool...{g}{x:00}
+
+@65
+{z}{s:0320}I'll grant you the courage to challenge me.{g}{x:00}
+
+@66
+{z}But what matters is what comes next...{w}{w} yes... whether you're truly strong!{g}{x:00}
+
+@67
+{z}{s:0320}I didn't become a mercenary on a whim!{g}{x:00}
+
+@68
+{z}{s:0320}Die!{g}{x:00}
+
+@69
+{z}{s:0320}Right.{g}{x:00}
+
+@70
+{z}{s:0320}When you put it like that... I'm getting nervous...{g}{x:00}
+
+@71
+{z}{s:0320}Then lure them onto land.{g}{x:00}
+
+@72
+{z}{s:0320}Onto land?{g}{x:00}
+
+@73
+{z}{s:0320}Not all mercenaries are strong, you know.{g}{x:00}
+
+@74
+{z}{s:0320}I see... Let's try it!{g}{x:00}
+
+@75
+{z}{s:0320}We just have to wipe them all out, right?{g}{x:00}
+
+@76
+{z}{s:0320}It seems that's all we can do.{g}{x:00}
+
+@77
+{z}{s:0320}B-boss... No way...{g}{x:00}
+
+@78
+{z}Or would you rather die with honour?{g}{x:00}
+
+@79
+{z}If you want to die, I'll oblige...{g}{x:00}
+
+@80
+{z}If you want us to wipe you out, we'll do just that.{g}{x:00}
+
+@81
+{z}If you truly mean it, I'll forgive you.{g}{x:00}
+
+@82
+{z}How long can you last, carrying on as outlaws like this?{g}{x:00}
+
+@83
+{z}Or do you want to die here?{g}{x:00}
+
+@84
+{z}{s:0320}We were no match for mercenaries after all...{g}{x:00}
+
+@85
+{z}{s:0320}If I'd known, I'd never have fought...{g}{x:00}
+
+@86
+{z}{s:0320}If you take us for easy prey, you're dead wrong!{g}{x:00}
+
+@87
+{z}With all these wars, they say men who can barely hold a weapon are turning mercenary and raking it in.{g}{x:00}
+
+@88
+{z}Ha, this'll be fun. Come and get it!{g}{x:00}
+

@@ -1,0 +1,585 @@
+@0
+{z}{s:0320}...{g}{x:00}
+
+@1
+{z}So you came...{g}{x:00}
+
+@2
+{z}{f}{l:00e7}{s:0001}There they are... The Funeral Mercenaries!{g}{x:00}
+
+@3
+{z}{s:0320}Is {a:0031} here too?{g}{x:00}
+
+@4
+{z}{s:0320}Yes...{w} he is...{g}{x:00}
+
+@5
+{z}I can feel his presence as plainly as if I held it in my hand...{g}{x:00}
+
+@6
+{z}{s:0320}{a:0005}...{g}{x:00}
+
+@7
+{z}You old fool... Had you kept quiet, you could have lived out your days in peace...{g}{x:00}
+
+@8
+{z}Are you so eager to die?{g}{x:00}
+
+@9
+{z}{s:0320}{a:0031}...{g}{x:00}
+
+@10
+{z}I raised a man like you... Until I atone for that sin... I cannot sit idle...{g}{x:00}
+
+@11
+{z}{s:0320}Hmph...{w} I see...{g}{x:00}
+
+@12
+{z}Then I shall free you from that torment!{g}{x:00}
+
+@13
+{z}{s:0320}It seems some stout allies have come to join us...{g}{x:00}
+
+@14
+{z}{s:0320}...The Crotoi Mercenaries?{g}{x:00}
+
+@15
+{z}{f}{l:00e7}{s:0001}Mr {a:0025}!{g}{x:00}
+
+@16
+{z}How did you know about this battle...?{g}{x:00}
+
+@17
+{z}{s:0320}Before the continent is united, there was one job I had left unfinished...{g}{x:00}
+
+@18
+{z}It just happens to be the same as yours...{g}{x:00}
+
+@19
+{z}We'll lend what support we can!{g}{x:00}
+
+@20
+{z}{s:0320}{a:0025}...{g}{x:00}
+
+@21
+{z}This time we'll avenge {a:0023}!{g}{x:00}
+
+@22
+{z}{s:0320}Hahahahaha...{g}{x:00}
+
+@23
+{z}To think the pests would come flocking to me of their own accord...{g}{x:00}
+
+@24
+{z}I shall crush you all here, then sweep on and destroy {p:01}...{g}{x:00}
+
+@25
+{z}Then I shall become king of {p:01}, and my realm will rule the continent...{g}{x:00}
+
+@26
+{z}Thanks to you, I am spared the trouble of destroying the nations one by one... You have my thanks...{g}{x:00}
+
+@27
+{z}{s:0320}Ngh...{g}{x:00}
+
+@28
+{z}{f}{l:00e9}{s:0002}Save the big talk until you've beaten us!{g}{x:00}
+
+@29
+{z}{a:0000}! Old man! Let's go!{g}{x:00}
+
+@30
+{z}{s:0320}Mm...{g}{x:00}
+
+@31
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@32
+{z}Do you know how {a:0023} came to lose his arm...?{g}{x:00}
+
+@33
+{z}{s:0320}No... I don't...{g}{x:00}
+
+@34
+{z}{s:0320}It was my son {a:0031} who took {a:0023}'s left hand...{g}{x:00}
+
+@35
+{z}{s:0320}What!{g}{x:00}
+
+@36
+{z}{a:0023} never said a word...{g}{x:00}
+
+@37
+{z}{s:0320}It was because of me...{g}{x:00}
+
+@38
+{z}He shielded me when {a:0031} nearly killed me...{g}{x:00}
+
+@39
+{z}If only he'd had his left hand then, {a:0023} might not have died...{g}{x:00}
+
+@40
+{z}{s:0320}{a:0005}...{g}{x:00}
+
+@41
+{z}{f}{l:00e7}{s:0001}I won't lose to you... Watch me...{w} {a:0023}!{g}{x:00}
+
+@42
+{z}{f}{l:00e9}{s:0002}We can finally fight you as equals! Let's go!{g}{x:00}
+
+@43
+{z}{s:0320}Might is right, you say... That kind of thinking won't stand!{g}{x:00}
+
+@44
+{z}{s:0320}We'll finish off the infamous Funeral Mercenaries here and now.{g}{x:00}
+
+@45
+{z}{s:0320}You who were led astray by my son... Fall into hell with him!{g}{x:00}
+
+@46
+{z}{s:0320}Let's go!{g}{x:00}
+
+@47
+{z}We'll clear away the small fry and leave {a:0031} to {a:0000}!{g}{x:00}
+
+@48
+{z}{s:0320}Don't underestimate the Crotoi Mercenaries!{g}{x:00}
+
+@49
+{z}{s:0320}We must wear {a:0031} down at least a little...{g}{x:00}
+
+@50
+{z}{s:0320}No matter how many small fry gather, they cannot bar my way!{g}{x:00}
+
+@51
+{z}{s:0320}Today I'll make an end of you too!{g}{x:00}
+
+@52
+{z}{s:0320}Heh... hehehehehe... This time you won't get away!{g}{x:00}
+
+@53
+{z}{f}{l:00e7}{s:0001}{a:0000}... Keep fighting, for both of us...{g}{x:00}
+
+@54
+{z}{s:0320}And we finally had a chance to bring him down...{g}{x:00}
+
+@55
+{z}It's galling, but... I leave the rest to you! Make sure you beat {a:0031}!{g}{x:00}
+
+@56
+{z}Avenge {a:0023}... Promise me you will!{g}{x:00}
+
+@57
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@58
+{z}{s:0320}Damn! The Funeral Mercenaries are strong...{g}{x:00}
+
+@59
+{z}But you, {a:0000}, are more than a match for him... Fight with all you have to the end...{w} Understood?{g}{x:00}
+
+@60
+{z}{s:0320}Ugh... I couldn't hold out...{g}{x:00}
+
+@61
+{z}If we miss this chance, we may never get another to beat {a:0031}...{g}{x:00}
+
+@62
+{z}Defeat him without fail... Defeat my son...{g}{x:00}
+
+@63
+{z}{s:0320}Captain!{g}{x:00}
+
+@64
+{z}{s:0320}{a:0025}!{g}{x:00}
+
+@65
+{z}{s:0320}Mr {a:0025}!{g}{x:00}
+
+@66
+{z}{s:0320}Ngh...{w}{w} Guh...{g}{x:00}
+
+@67
+{z}{a:0000}...{w}{w} This is as far as I go...{g}{x:00}
+
+@68
+{z}I can't...{w}{w} see this to the end, but...{w}{w} {a:0023}'s will...{w}{w} carry it{w}{w} on...{g}{x:00}
+
+@69
+{z}{s:0320}{a:0025}...{g}{x:00}
+
+@70
+{z}{f}{l:00e7}{s:0001}No... All to save us...{g}{x:00}
+
+@71
+{z}{s:0320}Another one gone because of him...{w} Forgive me...{g}{x:00}
+
+@72
+{z}{s:0320}We'll avenge you, that's a promise!{g}{x:00}
+
+@73
+{z}{s:0320}Even Mr {a:0025}...{g}{x:00}
+
+@74
+{z}{s:0320}{a:0025}... You did it for us...{w}{w} I'm sorry...{g}{x:00}
+
+@75
+{z}{s:0320}I thinned out the enemy a little...{w}{w} The rest is{w} up to you,{w} then...{g}{x:00}
+
+@76
+{z}{s:0320}I hope I was of some use...{w}{w}{w} Everyone...{w}{w} don't give up until the very end,{w} all right...{g}{x:00}
+
+@77
+{z}{s:0320}Ngh...{w}{w} In so short a time, you have{w} grown{w} this skilled...{g}{x:00}
+
+@78
+{z}{s:0320}Heh...{w} Cut down instead, huh... What a{w} sorry end...{g}{x:00}
+
+@79
+{z}{s:0320}Now! {a:0000}! Defeat {a:0031} in a duel!{g}{x:00}
+
+@80
+{z}{s:0320}Hahahahaha...{g}{x:00}
+
+@81
+{z}Is there anyone on this continent who can defeat me? Don't make me laugh!{g}{x:00}
+
+@82
+{z}{a:0000}... Shall we find out? Have you the courage to cross swords with me?{g}{x:00}
+
+@83
+{z}{s:0320}Let's settle this... {a:0031}!{g}{x:00}
+
+@84
+{z}Today I'll defeat you and avenge {a:0023}!{g}{x:00}
+
+@85
+{z}{s:0320}...{g}{x:00}
+
+@86
+{z}{s:0320}Hahahahaha...{g}{x:00}
+
+@87
+{z}It seems you know your limits well enough...{g}{x:00}
+
+@88
+{z}You could never hope to defeat me!{g}{x:00}
+
+@89
+{z}{s:0320}Defeat him without fail... Defeat my son...{g}{x:00}
+
+@90
+{z}{f}{l:00e7}{s:0001}We can't let {a:0031} live!{g}{x:00}
+
+@91
+{z}Please! Avenge {a:0023} with your own hand!{w} I believe in you!{g}{x:00}
+
+@92
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@93
+{z}However much we unite the continent, the wars won't end while {a:0031} lives!{g}{x:00}
+
+@94
+{z}So...{w}{w} win!{g}{x:00}
+
+@95
+{z}{f}{l:00e9}{s:0002}{a:0000}! Everything rides on this fight!{g}{x:00}
+
+@96
+{z}If you lose, you'll answer to me!{g}{x:00}
+
+@97
+{z}{s:0320}{a:0031} is a formidable foe, but...{w}{w} you've grown beyond him!{g}{x:00}
+
+@98
+{z}You can't possibly lose to him!{g}{x:00}
+
+@99
+{z}{s:0320}{a:0000}...{w}{w} This...{w}{w} might have been our only chance...{g}{x:00}
+
+@100
+{z}{f}{l:00e7}{s:0001}This can't be...{w} You of all people should know better!{g}{x:00}
+
+@101
+{z}{f}{l:00e9}{s:0002}Damn you!{w} Why won't you face him?!{g}{x:00}
+
+@102
+{z}Is that the kind of man I've followed all this time...?{w}{w} Don't let me down like this...{g}{x:00}
+
+@103
+{z}{s:0320}{a:0000}! Have you forgotten {a:0023}'s words?{g}{x:00}
+
+@104
+{z}To end the wars, {a:0031} must be defeated!{g}{x:00}
+
+@105
+{z}{s:0320}Seriously...?{g}{x:00}
+
+@106
+{z}Is there some way to beat him other than a duel...?{g}{x:00}
+
+@107
+{z}{s:0320}...{w}{w} {a:0000}...{g}{x:00}
+
+@108
+{z}Don't you want to avenge {a:0023}?{g}{x:00}
+
+@109
+{z}I thought you had inherited his will, but it seems I was mistaken...{g}{x:00}
+
+@110
+{z}Our morale fell.{g}{x:00}
+
+@111
+{z}{f}{l:00e7}{s:0001}We must do some damage at least... Even if we are cut down...{g}{x:00}
+
+@112
+{z}You're someone who has to be stopped!{g}{x:00}
+
+@113
+{z}{s:0320}{a:0031}!{g}{x:00}
+
+@114
+{z}You should have finished us before we grew strong!{g}{x:00}
+
+@115
+{z}{s:0320}Hmph...{w} It's not too late even now... I'll finish you off here!{g}{x:00}
+
+@116
+{z}{s:0320}We'll see about that!!{g}{x:00}
+
+@117
+{z}{s:0320}For {a:0023}! {a:0031}! Prepare yourself!{g}{x:00}
+
+@118
+{z}{s:0320}All who defy me are fated to die...{g}{x:00}
+
+@119
+{z}You can go and join {a:0023}!{g}{x:00}
+
+@120
+{z}{s:0320}Until you're beaten, we can't even go out and have fun in peace...{g}{x:00}
+
+@121
+{z}No hard feelings...{g}{x:00}
+
+@122
+{z}{s:0320}Hmph... So you think you can beat me...{g}{x:00}
+
+@123
+{z}{s:0320}Of course... I never fight a battle I can't win.{g}{x:00}
+
+@124
+{z}Vengeance for {a:0023}... by my own hand!{g}{x:00}
+
+@125
+{z}{s:0320}You old fool...{g}{x:00}
+
+@126
+{z}I spared your life until today, but that was clearly a mistake...{g}{x:00}
+
+@127
+{z}Today I'll defeat you and correct that mistake...{g}{x:00}
+
+@128
+{z}{s:0320}{a:0031}...{g}{x:00}
+
+@129
+{z}I too have lived to this day for one purpose alone: to put right a single mistake...{g}{x:00}
+
+@130
+{z}Yes... The mistake of raising a man like you!{g}{x:00}
+
+@131
+{z}{s:0320}{a:0025}, is it...{g}{x:00}
+
+@132
+{z}With skill like yours, you cannot defeat me...{g}{x:00}
+
+@133
+{z}{s:0320}We'll see... Don't underestimate this mercenary's spirit!{g}{x:00}
+
+@134
+{z}{s:0320}You... You mean to die...{g}{x:00}
+
+@135
+{z}You mean to throw yourself away as a pawn and stake everything on {a:0000}...{g}{x:00}
+
+@136
+{z}{s:0320}Who knows... I only want to defeat you!{g}{x:00}
+
+@137
+{z}{s:0320}Fool... That will only be a wasted death...{g}{x:00}
+
+@138
+{z}{s:0320}{v:00a8}Did we get him?!{u}{x:00}
+
+@139
+{z}{f}{l:00e7}{s:0001}{v:00a9}What!{w}{w} Did we do it!?{u}{x:00}
+
+@140
+{z}{s:0320}{v:00aa}We did it! Did we really do it!?{u}{x:00}
+
+@141
+{z}{s:0320}{v:00ab}We did it!{u}{x:00}
+
+@142
+{z}{s:0320}{v:00ac}So he really did defeat {a:0031}...{u}{x:00}
+
+@143
+{z}{s:0320}{v:00ad}The great {a:0031}... beaten at last...{u}{x:00}
+
+@144
+{z}{s:0320}{a:0031}...{w} That monster, beaten...{g}{x:00}
+
+@145
+{z}What are we going to do now?!{g}{x:00}
+
+@146
+{z}{s:0320}{v:00ae}Ugh...{w}{w}!{u}{x:00}
+
+@147
+{z}{v:00af}My{w} body... This body of mine,{w} meant to be invincible...{u}{x:00}
+
+@148
+{z}{s:0320}{v:00b0}{a:0031}...{w}{w} You were indeed invincible...{u}{x:00}
+
+@149
+{z}{v:00b1}But one stronger than you has appeared, and you can no longer be called invincible...{u}{x:00}
+
+@150
+{z}{s:0320}{v:00b2}And that...{w}{w} is him, you say...{u}{x:00}
+
+@151
+{z}{s:0320}{v:00b3}Yes...{u}{x:00}
+
+@152
+{z}{v:00b4}A body to match yours, and a stronger will besides... That is who he is...{u}{x:00}
+
+@153
+{z}{s:0320}...{g}{x:00}
+
+@154
+{z}{s:0320}{v:00b5}Heh...{w}{w} Hahahahaha...{u}{x:00}
+
+@155
+{z}{s:0320}{v:00b6}What is so funny?{u}{x:00}
+
+@156
+{z}{s:0320}{v:00b7}I do not believe it...{w}{w} I will not believe it...{u}{x:00}
+
+@157
+{z}{v:00b8}I...{w} am the strongest man on the continent... I...{w} shall rule this entire{w} continent... I{w}...{w}...{u}{x:00}
+
+@158
+{z}{s:0320}{v:00b9}Grr...{u}{x:00}
+
+@159
+{z}...{w}{v:00ba}So even at the end, you never awakened to the right use of power...{w}{w} {a:0031}...{u}{x:00}
+
+@160
+{z}{s:0320}...{g}{x:00}
+
+@161
+{z}{v:00bc}My{w} body...{u}{x:00}
+
+@162
+{z}{s:0320}{v:00bb}Gah...{w}{w}!{u}{x:00}
+
+@163
+{z}{v:00bd}{a:0005}, damn you! Was I not invincible?!{u}{x:00}
+
+@164
+{z}{s:0320}{a:0031}...{w}{w} Nothing in this world is perfect...{g}{x:00}
+
+@165
+{z}That belief of yours is what destroyed you in the end...{g}{x:00}
+
+@166
+{z}No matter how much power a man has, without a strong will to restrain it, it will destroy him...{g}{x:00}
+
+@167
+{z}{a:0005} always said that about you...{g}{x:00}
+
+@168
+{z}Deep down, he must have been worried about you...{g}{x:00}
+
+@169
+{z}{s:0320}{v:00be}Heh...{w} ...{w} ...{w} ...{u}{x:00}
+
+@170
+{z}{v:00bf}Heh...{w}{w} Hahahahaha...{u}{x:00}
+
+@171
+{z}{s:0320}What is so funny?{g}{x:00}
+
+@172
+{z}{s:0320}{v:00c0}That fool {a:0005}...{u}{x:00}
+
+@173
+{z}{v:00c1}If that is so,{w} he should{w} never{w} have raised me{w} in the first place...{u}{x:00}
+
+@174
+{z}{v:00c2}The old{w}{w} fool...{u}{x:00}
+
+@175
+{z}{s:0320}{a:0031}...{w}{w} If only you had a stronger will...{g}{x:00}
+
+@176
+{z}Just as {a:0005} wished...{w} you might have become a hero able to unite the continent...{g}{x:00}
+
+@177
+{z}{s:0320}Very well...{g}{x:00}
+
+@178
+{z}Be cut down by me and learn how powerless you are...{g}{x:00}
+
+@179
+{z}{s:0320}Here I come! {a:0031}!{g}{x:00}
+
+@180
+{z}{s:0320}Hahahahaha...{w} Now die...{g}{x:00}
+
+@181
+{z}{s:0320}Buster Sword!{g}{x:00}
+
+@182
+{z}{s:0320}Ray Blade!{g}{x:00}
+
+@183
+{z}{s:0320}Overdrive!{g}{x:00}
+
+@184
+{z}{s:0320}Ho... To think you have grown this skilled...{g}{x:00}
+
+@185
+{z}{s:0320}Grr...{w} You have actually wounded me...{g}{x:00}
+
+@186
+{z}You are a dangerous man after all... I must cut you down here, whatever it takes...{g}{x:00}
+
+@187
+{z}{s:0320}For the sake of the continent's future...{w} I can't fall here!{g}{x:00}
+
+@188
+{z}{s:0320}{a:0023}... The time to avenge you has finally come...{g}{x:00}
+
+@189
+{z}{a:0031}...{w} This is the end for you!{g}{x:00}
+
+@190
+{z}{s:0320}This is the end...{g}{x:00}
+
+@191
+{z}{a:0000}... You can go and join {a:0023}!{g}{x:00}
+
+@192
+{z}To atone for that,{w} I will defeat {a:0031}...{g}{x:00}
+
+@193
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@194
+{z}{s:0320}Now the whole cast is assembled...{g}{x:00}
+

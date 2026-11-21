@@ -1,0 +1,528 @@
+@0
+{z}{s:0320}The pursuers are right behind us! We'll never outrun them!{g}{x:00}
+
+@1
+{z}{s:0320}One last push. Don't lose heart.{g}{x:00}
+
+@2
+{z}If we can just cross that river, we'll manage... Just that river...{g}{x:00}
+
+@3
+{z}{s:0320}Damn! Always scurrying away from us!{g}{x:00}
+
+@4
+{z}{s:0320}Why so anxious? We've got them cornered now.{g}{x:00}
+
+@5
+{z}{s:0320}If they cross that river, it's over!{g}{x:00}
+
+@6
+{z}That river is the border, and beyond it is a foreign land. If we, another nation's regular army, are caught there...{g}{x:00}
+
+@7
+{z}We'll be taken prisoner... or held hostage... or killed!{g}{x:00}
+
+@8
+{z}Is that what you want?!{g}{x:00}
+
+@9
+{z}{s:0320}I understand. It's just...{g}{x:00}
+
+@10
+{z}{s:0320}Just what?{g}{x:00}
+
+@11
+{z}{s:0320}Just that we have a trump card, so there's no need to panic.{g}{x:00}
+
+@12
+{z}{s:0320}A trump card? What is it?{g}{x:00}
+
+@13
+{z}{s:0320}You'll have to wait and see, sir.{g}{x:00}
+
+@14
+{z}{s:0320}Stop teasing! Tell me now!{g}{x:00}
+
+@15
+{z}{s:0320}Y-{w}{w}yes, sir! {w}{w}It's like this...{g}{x:00}
+
+@16
+{z}{s:0320}Look! Mercenaries! Enemy or ally?{g}{x:00}
+
+@17
+{z}{s:0320}Oh no! They're about to catch us!{g}{x:00}
+
+@18
+{z}{s:0320}This looks pretty bad...{g}{x:00}
+
+@19
+{z}{s:0320}Allies! No doubt! {w}{w}But in this situation...{g}{x:00}
+
+@20
+{z}{s:0320}The enemy is right behind us. Do something!{g}{x:00}
+
+@21
+{z}{s:0320}Just run, please!{g}{x:00}
+
+@22
+{z}{s:0320}We're heading your way now. Don't get caught until we arrive.{g}{x:00}
+
+@23
+{z}There, you see? Here they come!{g}{x:00}
+
+@24
+{z}{s:0320}We'd like to start work at once. Where should we begin?{g}{x:00}
+
+@25
+{z}{s:0320}We want to wipe out the regular army that's on the run. Help us with that.{g}{x:00}
+
+@26
+{z}{s:0320}No, let them deal with the enemy mercenaries.{g}{x:00}
+
+@27
+{z}If we capture the regular army meanwhile, we won't lose any of our own troops.{g}{x:00}
+
+@28
+{z}{s:0320}A fine idea.{g}{x:00}
+
+@29
+{z}Hey! Change of plan! Get between the enemy mercenaries and the regular army and take on both!{g}{x:00}
+
+@30
+{z}{s:0320}Yes, understood.{g}{x:00}
+
+@31
+{z}{s:0320}Taking on both of them alone will be tough...{g}{x:00}
+
+@32
+{z}{s:0320}O-{w}{w}of course. We'll charge too, don't worry.{g}{x:00}
+
+@33
+{z}{s:0320}Enemies over there as well... But we can't turn back...{g}{x:00}
+
+@34
+{z}{s:0320}How do we rescue them... Captain, it's all down to you.{g}{x:00}
+
+@35
+{z}{s:0320}And we got this far...{g}{x:00}
+
+@36
+{z}{s:0320}One company left! One more push!{g}{x:00}
+
+@37
+{z}{s:0320}After we ran all this way... Oh...{g}{x:00}
+
+@38
+{z}{s:0320}This is no time to be downhearted! Save yourselves, at least!{g}{x:00}
+
+@39
+{z}{s:0320}It may sound cold, but think only of saving yourself now...{g}{x:00}
+
+@40
+{z}{s:0320}I'm sorry for them, but think only of escaping now.{g}{x:00}
+
+@41
+{z}{s:0320}No time for moping! Run, quickly!{g}{x:00}
+
+@42
+{z}{s:0320}It's hard, I know, but think only of saving yourself now.{g}{x:00}
+
+@43
+{z}{s:0320}I understand...{g}{x:00}
+
+@44
+{z}{s:0320}Go for the last company! Beat them and it's over!{g}{x:00}
+
+@45
+{z}{s:0320}Gh... we couldn't escape... {w}{w}and {p:01} is right in front of us...{g}{x:00}
+
+@46
+{z}{s:0320}Right! That's the last! The regular army is wiped out!{g}{x:00}
+
+@47
+{z}{s:0320}Our duty is done. Time to go home...{g}{x:00}
+
+@48
+{z}{s:0320}Right! That's the last! The regular army is wiped out!{g}{x:00}
+
+@49
+{z}Right, pull out.{g}{x:00}
+
+@50
+{z}{s:0320}Finally over. They gave us a lot of trouble...{g}{x:00}
+
+@51
+{z}Well then, shall we go home?{g}{x:00}
+
+@52
+{z}{s:0320}It's over... We were no use at all...{g}{x:00}
+
+@53
+{z}{s:0320}Wiped out... even with us here. What a mess...{g}{x:00}
+
+@54
+{z}{s:0320}Wiped out... {w}{w}even with us here... {w}{w}Pathetic...{g}{x:00}
+
+@55
+{z}{s:0320}How pathetic... If only we'd been stronger...{g}{x:00}
+
+@56
+{z}{s:0320}We lacked the strength...{g}{x:00}
+
+@57
+{z}{s:0320}I am so sorry...{g}{x:00}
+
+@58
+{z}{s:0320}We're finally back... It was a long road.{g}{x:00}
+
+@59
+{z}{s:0320}We're finally back... It was a long road.{g}{x:00}
+
+@60
+{z}{s:0320}Damn! They got away.{g}{x:00}
+
+@61
+{z}{s:0320}There's still one company left. It's too soon to be downhearted.{g}{x:00}
+
+@62
+{z}{s:0320}The mission was to wipe out the regular army... We failed. It's over.{g}{x:00}
+
+@63
+{z}{s:0320}What? Was that it? Then we're going home.{g}{x:00}
+
+@64
+{z}{s:0320}Wait! We're coming too...{g}{x:00}
+
+@65
+{z}{s:0320}They escaped... and they were the last ones...{g}{x:00}
+
+@66
+{z}{s:0320}Don't be so glum. You wiped out one company, after all.{g}{x:00}
+
+@67
+{z}{s:0320}The mission was to wipe them out... If they get away, it's all over!{g}{x:00}
+
+@68
+{z}{s:0320}What? Was that it...{g}{x:00}
+
+@69
+{z}Then we're going home. Staying here any longer won't earn us any money.{g}{x:00}
+
+@70
+{z}{s:0320}Wait! We're coming too...{g}{x:00}
+
+@71
+{z}{s:0320}They got away... We came because we were told to wipe them out...{g}{x:00}
+
+@72
+{z}No choice... Retreat...{g}{x:00}
+
+@73
+{z}{s:0320}They got away... and they were the last ones...{g}{x:00}
+
+@74
+{z}Damn... we got careless at the end.{g}{x:00}
+
+@75
+{z}{s:0320}Uh-oh... we let them get away. We were told to wipe them out...{g}{x:00}
+
+@76
+{z}No bonus pay... If there's no money in it, there's no point fighting.{g}{x:00}
+
+@77
+{z}We're going home! Retreat!{g}{x:00}
+
+@78
+{z}{s:0320}Uh-oh... we let them get away. We were told to wipe them out...{g}{x:00}
+
+@79
+{z}At this rate... we won't get our bonus pay, will we...{g}{x:00}
+
+@80
+{z}{s:0320}Looks like they've given up. {w}{w}Phew...{g}{x:00}
+
+@81
+{z}{s:0320}They got away somehow...{g}{x:00}
+
+@82
+{z}True, the mission is done, but it's not what you'd call perfect.{g}{x:00}
+
+@83
+{z}{s:0320}The enemy is pulling out... Looks like it's over.{g}{x:00}
+
+@84
+{z}{s:0320}We managed to get them away. The mission is accomplished...{g}{x:00}
+
+@85
+{z}It wasn't a perfect job, but...{g}{x:00}
+
+@86
+{z}{s:0320}The enemy is pulling out... Thank goodness. Now we can relax.{g}{x:00}
+
+@87
+{z}{s:0320}I'm glad they got away... I thought it was hopeless.{g}{x:00}
+
+@88
+{z}{s:0320}Looks like they gave up. We did it! We won!{g}{x:00}
+
+@89
+{z}{s:0320}We got them away. Mission complete!{g}{x:00}
+
+@90
+{z}{s:0320}They've given up... Phew, that was close.{g}{x:00}
+
+@91
+{z}{s:0320}Phew... that was close.{g}{x:00}
+
+@92
+{z}{s:0320}We did it... {w}{w}We're saved!{g}{x:00}
+
+@93
+{z}{s:0320}You're strong... {w}{w}Tigre...{g}{x:00}
+
+@94
+{z}{s:0320}Retreating before his own men... Shameful...{g}{x:00}
+
+@95
+{z}{s:0320}We did it! The enemy is wiped out! Now we can cross the border safely.{g}{x:00}
+
+@96
+{z}{s:0320}We did it! Mission accomplished!{g}{x:00}
+
+@97
+{z}{s:0320}The enemy's gone... Now we can cross the border safely.{g}{x:00}
+
+@98
+{z}{s:0320}Thank goodness... It's over.{g}{x:00}
+
+@99
+{z}{s:0320}The enemy is wiped out! The nuisance is gone for good.{g}{x:00}
+
+@100
+{z}{s:0320}And so the mission is accomplished...{g}{x:00}
+
+@101
+{z}It's a pity we could only protect one company...{g}{x:00}
+
+@102
+{z}{s:0320}Phew... they're finally gone. Now nobody can get in our way.{g}{x:00}
+
+@103
+{z}{s:0320}Phew... it's over, then...{g}{x:00}
+
+@104
+{z}True, the mission is accomplished, but it's not what you'd call perfect.{g}{x:00}
+
+@105
+{z}{s:0320}The enemy is wiped out... Now nobody can get in our way.{g}{x:00}
+
+@106
+{z}{s:0320}That was a close call...{g}{x:00}
+
+@107
+{z}{s:0320}We won somehow. Now we can cross the border safely...{g}{x:00}
+
+@108
+{z}{s:0320}Then we take our leave. Thank you for your trouble today.{g}{x:00}
+
+@109
+{z}To think we'll get home safely... {w}{w}It's all thanks to you. We're grateful.{g}{x:00}
+
+@110
+{z}{s:0320}The enemy is wiped out... Now we can go home.{g}{x:00}
+
+@111
+{z}Thank you for your efforts today. Truly.{g}{x:00}
+
+@112
+{z}{s:0320}You think you can beat me, a Knight Commander?! Come on!{g}{x:00}
+
+@113
+{z}{s:0320}Why are you after me... There are plenty of others...{g}{x:00}
+
+@114
+{z}{s:0320}Come and get me!{g}{x:00}
+
+@115
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@116
+{z}{s:0320}Have a taste of our attack! Hyaah!{g}{x:00}
+
+@117
+{z}{s:0320}I should have left it to the mercenaries...{g}{x:00}
+
+@118
+{z}{s:0320}Why... why me, beaten by this lot...{g}{x:00}
+
+@119
+{z}{s:0320}No... {w}{w}It can't be...{g}{x:00}
+
+@120
+{z}{s:0320}You lot! You're relentless!{g}{x:00}
+
+@121
+{z}{s:0320}I won't fall here!{g}{x:00}
+
+@122
+{z}{s:0320}We'll protect the regular army!{g}{x:00}
+
+@123
+{z}{s:0320}Not a finger on the regular army!{g}{x:00}
+
+@124
+{z}{s:0320}I'm sorry... {a:0000}... I'm retreating...{g}{x:00}
+
+@125
+{z}{s:0320}Damn... retreat...{g}{x:00}
+
+@126
+{z}{s:0320}I can't go on any longer...{g}{x:00}
+
+@127
+{z}{s:0320}And me of all people... {w}{w}Withdraw...{g}{x:00}
+
+@128
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@129
+{z}{s:0320}Understood.{g}{x:00}
+
+@130
+{z}Then use our trump card too! What is it, anyway?{g}{x:00}
+
+@131
+{z}{s:0320}Mercenaries. We have hired mercenaries as well.{g}{x:00}
+
+@132
+{z}{s:0320}Really? Where are they?{g}{x:00}
+
+@133
+{z}{s:0320}They should appear any moment. With their help, victory will be easy.{g}{x:00}
+
+@134
+{z}{s:0320}{a:0000} can do it. It'll be fine!{g}{x:00}
+
+@135
+{z}{s:0320}Right, all units, advance!{g}{x:00}
+
+@136
+{z}{s:0320}Ah, thank you for your trouble.{g}{x:00}
+
+@137
+{z}{s:0320}See you!{g}{x:00}
+
+@138
+{z}{s:0320}Shall we pull out too?{g}{x:00}
+
+@139
+{z}It's all thanks to you. We shall never forget this debt.{g}{x:00}
+
+@140
+{z}Be sure to get those men out as well. Without fail!{g}{x:00}
+
+@141
+{z}Forgive us, but we must hurry on. Truly, thank you for today.{g}{x:00}
+
+@142
+{z}Getting one company out was the most I could manage...{g}{x:00}
+
+@143
+{z}{s:0320}We had them cornered, and yet... Damn...{g}{x:00}
+
+@144
+{z}{s:0320}Wipe out the regular army... That was your mission...{g}{x:00}
+
+@145
+{z}{s:0320}So we have to wipe them out after all... What a nuisance...{g}{x:00}
+
+@146
+{z}{s:0320}We weren't much help... Sorry...{g}{x:00}
+
+@147
+{z}{s:0320}Useless wretches...{g}{x:00}
+
+@148
+{z}Protecting one company was all I could manage...{g}{x:00}
+
+@149
+{z}{s:0320}Leave it to us, he says... Can we win on our own?{g}{x:00}
+
+@150
+{z}{s:0320}They were tough after all... {w}{w}the Tigre...{g}{x:00}
+
+@151
+{z}{s:0320}Forgive us... We're wiped out...{g}{x:00}
+
+@152
+{z}{s:0320}Tch... Useless lot...{g}{x:00}
+
+@153
+{z}Well, a win is a win, but... it doesn't feel satisfying, somehow.{g}{x:00}
+
+@154
+{z}{s:0320}We've finally made it this far... We should be safe now.{g}{x:00}
+
+@155
+{z}Now, I must hurry on! My thanks for today, all of you!{g}{x:00}
+
+@156
+{z}{s:0320}Please give up.{g}{x:00}
+
+@157
+{z}{s:0320}As I thought...{g}{x:00}
+
+@158
+{z}{s:0320}Stop arguing and run! Or we won't help you!{g}{x:00}
+
+@159
+{z}{s:0320}R-{w}{w}right.{g}{x:00}
+
+@160
+{z}{s:0320}What? Not fighting any more? The regular army is still here.{g}{x:00}
+
+@161
+{z}{s:0320}Fight if you want to! We've no time for that!{g}{x:00}
+
+@162
+{z}{s:0320}Tch... What's wrong with this lot...{g}{x:00}
+
+@163
+{z}I can't be bothered with this lot. {w}{w}We're going home!{g}{x:00}
+
+@164
+{z}We did it! We're saved!{g}{x:00}
+
+@165
+{z}{s:0320}That may be fine for you, but we don't get any bonus pay!{g}{x:00}
+
+@166
+{z}{s:0320}Not our concern! Blame your own weakness!{g}{x:00}
+
+@167
+{z}{s:0320}Damn... this lot...{g}{x:00}
+
+@168
+{z}Well then, let's go home. We've no business here any more.{g}{x:00}
+
+@169
+{z}Then let's go home. There's no point staying here any longer.{g}{x:00}
+
+@170
+{z}Let's go home, then. We've no business in a place like this.{g}{x:00}
+
+@171
+{z}Well, time to go home. We've no business in a place like this.{g}{x:00}
+
+@172
+{z}Then let us go home. There's no point staying here any longer.{g}{x:00}
+
+@173
+{z}{s:0320}Enemy mercenaries... showing up at a time like this!{g}{x:00}
+
+@174
+{z}You'll lend us a hand too, won't you?{g}{x:00}
+
+@175
+{z}But right now... please think only of escaping.{g}{x:00}
+

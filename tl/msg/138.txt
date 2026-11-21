@@ -1,0 +1,669 @@
+@0
+{z}{s:0320}Uncle... What is the meaning of this?!{g}{x:00}
+
+@1
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@2
+{z}I will not have you drag the people about on your private feelings any longer!{g}{x:00}
+
+@3
+{z}From now on I shall be king, and rule with fairness and without favour!{g}{x:00}
+
+@4
+{z}{s:0320}Tch...{g}{x:00}
+
+@5
+{z}{s:0320}Your Highness...{w}{w} I have told you time and again...{g}{x:00}
+
+@6
+{z}It is unforgivable for a prince to act for one girl and not for his people!{g}{x:00}
+
+@7
+{z}Forget {a:00a8} and look to the people!{g}{x:00}
+
+@8
+{z}{s:0320}Now! Surrender quietly...{g}{x:00}
+
+@9
+{z}Do that, and neither the king nor {a:00a8} will be harmed...{g}{x:00}
+
+@10
+{z}{s:0320}Cowardly... Unforgivable...{g}{x:00}
+
+@11
+{z}{s:0320}I do this only for the people's sake. None of it can be avoided!{g}{x:00}
+
+@12
+{z}{a:0000} agreed with my views and chose to rise with me!{g}{x:00}
+
+@13
+{z}{s:0320}...{g}{x:00}
+
+@14
+{z}{s:0320}Well... what will you do, Your Highness?{g}{x:00}
+
+@15
+{z}Will you surrender quietly? Or abandon even your own father?{g}{x:00}
+
+@16
+{z}{s:0320}Your Highness... Please surrender...{g}{x:00}
+
+@17
+{z}We do not wish to fight you either, Your Highness...{g}{x:00}
+
+@18
+{z}{s:0320}...{w}{w} No!{g}{x:00}
+
+@19
+{z}{s:0320}What?{g}{x:00}
+
+@20
+{z}{s:0320}I said I refuse to surrender!{g}{x:00}
+
+@21
+{z}Whatever your reasons, I will not bow to such threats!{g}{x:00}
+
+@22
+{z}{s:0320}Oh...{w} So you do not care what becomes of the king and {a:00a8}!{g}{x:00}
+
+@23
+{z}{s:0320}If any harm comes to those two, I will not forgive you, even if you are my uncle!{g}{x:00}
+
+@24
+{z}I will have you quartered alive and sunk in shark-infested seas!{g}{x:00}
+
+@25
+{z}{s:0320}Hmph... Such brave words...{g}{x:00}
+
+@26
+{z}Just like a wilful prince. Your own will matters more than their lives, does it...{g}{x:00}
+
+@27
+{z}Very well... {a:0080}! Seize the prince!{g}{x:00}
+
+@28
+{z}{s:0320}...{w}{w} Yes, my lord...{g}{x:00}
+
+@29
+{z}{s:0320}...{g}{x:00}
+
+@30
+{z}{s:0320}It won't be that easy!{g}{x:00}
+
+@31
+{z}{a:007f}! Let us go!{g}{x:00}
+
+@32
+{z}{s:0320}The enemy seems to have blocked the front...{g}{x:00}
+
+@33
+{z}{s:0320}Your Highness... What shall we do?{g}{x:00}
+
+@34
+{z}{s:0320}The bridge road to the castle does not seem to have been destroyed yet...{g}{x:00}
+
+@35
+{z}Good! We cross the bridge road and strike the castle from behind!{g}{x:00}
+
+@36
+{z}{s:0320}Your Highness... I shall stay here...{g}{x:00}
+
+@37
+{z}{s:0320}What?{g}{x:00}
+
+@38
+{z}{s:0320}I will hold off Lady {a:0080} and her men.{g}{x:00}
+
+@39
+{z}Meanwhile...{w} Your Highness, go to the castle and strike down the Grand Duke!{g}{x:00}
+
+@40
+{z}{s:0320}...{g}{x:00}
+
+@41
+{z}Understood... I leave this to you...{g}{x:00}
+
+@42
+{z}I am leaving five companies with you. Use them as you see fit...{g}{x:00}
+
+@43
+{z}{s:0320}Thank you, Your Highness...{g}{x:00}
+
+@44
+{z}{s:0320}Listen well, {a:007f}... Your life exists to protect mine.{g}{x:00}
+
+@45
+{z}I forbid you to die before me...{g}{x:00}
+
+@46
+{z}{s:0320}I understand...{g}{x:00}
+
+@47
+{z}{s:0320}The rest, follow me!{g}{x:00}
+
+@48
+{z}Let us save Father and {a:00a8}!{g}{x:00}
+
+@49
+{z}{s:0320}And just when I thought the world had finally found peace...{g}{x:00}
+
+@50
+{z}{s:0320}Whatever the time, I give it everything I have!{g}{x:00}
+
+@51
+{z}{s:0320}At this rate the continent will split apart again!{g}{x:00}
+
+@52
+{z}{s:0320}Defeat the prince and the fighting should end at once, but...{g}{x:00}
+
+@53
+{z}{s:0320}I would like this to be the last battle...{g}{x:00}
+
+@54
+{z}{s:0320}Do not flinch!{g}{x:00}
+
+@55
+{z}For the prince and for Mylard... this fight cannot be avoided!{g}{x:00}
+
+@56
+{z}{s:0320}Only heaven knows which side is just...{g}{x:00}
+
+@57
+{z}{s:0320}For Mylard's sake, I cannot lose!{g}{x:00}
+
+@58
+{z}{s:0320}Out of my way! Block my path and I cut you down!{g}{x:00}
+
+@59
+{z}{s:0320}I fight for the prince with my life!{g}{x:00}
+
+@60
+{z}Let's go!{g}{x:00}
+
+@61
+{z}{s:0320}Oh no, they got me...{g}{x:00}
+
+@62
+{z}{a:0000}... Keep going to the very end, won't you...{g}{x:00}
+
+@63
+{z}{s:0320}Me, of all people... I botched it...{g}{x:00}
+
+@64
+{z}{s:0320}Retreating in such an important battle...{g}{x:00}
+
+@65
+{z}{s:0320}Damn... What a mess...{g}{x:00}
+
+@66
+{z}{a:0000}... It's all up to you now... I'm counting on you...{g}{x:00}
+
+@67
+{z}{s:0320}{a:0000}... It seems this is as far as I go...{g}{x:00}
+
+@68
+{z}{s:0320}Your Highness! Please reconsider!{g}{x:00}
+
+@69
+{z}One of princely rank must not put personal feelings before public duty!{g}{x:00}
+
+@70
+{z}{s:0320}Ha... Don't make me laugh!{g}{x:00}
+
+@71
+{z}I united the continent for all its people! {a:00a8}'s wish was merely the spark!{g}{x:00}
+
+@72
+{z}{s:0320}Even so, the people of Mylard have endured the hardships of unification all this time!{g}{x:00}
+
+@73
+{z}Since we cannot know what Lady {a:00a8} may wish for next...{g}{x:00}
+
+@74
+{z}and since the prince, once king, would try to grant it...{g}{x:00}
+
+@75
+{z}we cannot recognise his accession!{g}{x:00}
+
+@76
+{z}{s:0320}Then you must defeat me and seize the throne!{g}{x:00}
+
+@77
+{z}{s:0320}Your Highness... Why can you not understand...{g}{x:00}
+
+@78
+{z}{s:0320}Let's go, {a:0000}! Fight me!{g}{x:00}
+
+@79
+{z}{s:0320}The people of Mylard are exhausted by the long war...{g}{x:00}
+
+@80
+{z}If you mean to go on ruling so wilfully, we have to block your accession, Your Highness!{g}{x:00}
+
+@81
+{z}{s:0320}The continent is already united. There will be no more burden on the people...{g}{x:00}
+
+@82
+{z}{s:0320}True, the continent has been united, but...{g}{x:00}
+
+@83
+{z}as long as you don't change, Your Highness, the same thing will happen again and again!{g}{x:00}
+
+@84
+{z}{s:0320}They are...{w} fed up with your wilfulness!{g}{x:00}
+
+@85
+{z}So the old Grand Duke and {a:0080} started a rebellion...{g}{x:00}
+
+@86
+{z}Well, I'm in no position to blame anyone else's wilfulness...{g}{x:00}
+
+@87
+{z}{s:0320}Heh... I think we'd get along...{g}{x:00}
+
+@88
+{z}A pity we have to fight!{g}{x:00}
+
+@89
+{z}{s:0320}I'm glad of it!{g}{x:00}
+
+@90
+{z}With a man like you, fighting will tell us more than talking.{g}{x:00}
+
+@91
+{z}{s:0320}Yes... exactly so... Here I come!{g}{x:00}
+
+@92
+{z}{s:0320}Come on!{g}{x:00}
+
+@93
+{z}{s:0320}As a prince...{g}{x:00}
+
+@94
+{z}Your conduct, Your Highness, lacks fairness...{g}{x:00}
+
+@95
+{z}This rebellion, in the end, is of your own making!{g}{x:00}
+
+@96
+{z}{s:0320}Then I will crush the rebellion and reap what I have sown!{g}{x:00}
+
+@97
+{z}{s:0320}Do you still not understand?!{g}{x:00}
+
+@98
+{z}Unless you change yourself, you will go on sowing the seeds of strife forever!{g}{x:00}
+
+@99
+{z}{s:0320}Your Highness!{g}{x:00}
+
+@100
+{z}Would this rebellion not end if you bowed your head just once?{g}{x:00}
+
+@101
+{z}{s:0320}Why should I?!{g}{x:00}
+
+@102
+{z}Why should I bow to someone who stoops to taking hostages?!{g}{x:00}
+
+@103
+{z}{s:0320}One who unites a nation needs that much largeness of heart.{g}{x:00}
+
+@104
+{z}{s:0320}Absurd!{g}{x:00}
+
+@105
+{z}I would sooner hand him the whole country than do that!{g}{x:00}
+
+@106
+{z}{s:0320}Oh dear... I can understand how you feel, though...{g}{x:00}
+
+@107
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@108
+{z}You lose your composure whenever Lady {a:00a8} is concerned... Surely you know it yourself.{g}{x:00}
+
+@109
+{z}{s:0320}...{g}{x:00}
+
+@110
+{z}{s:0320}For the king of a nation, that will not do.{g}{x:00}
+
+@111
+{z}You must govern for all the people, not for one girl...{g}{x:00}
+
+@112
+{z}If you cannot, I am afraid you are not fit to be king.{g}{x:00}
+
+@113
+{z}{s:0320}I united the continent, and I am unfit to be king?{g}{x:00}
+
+@114
+{z}I may not give everything I have to loving someone?{g}{x:00}
+
+@115
+{z}If that is so...{w}{w} if that is so...{w} I want no throne!{g}{x:00}
+
+@116
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@117
+{z}{s:0320}Come to your senses!{g}{x:00}
+
+@118
+{z}{s:0320}{a:0080}, is it...{g}{x:00}
+
+@119
+{z}Do you know how many lives have been lost since you started this war?!{g}{x:00}
+
+@120
+{z}One who rules must think of all the people, not selfish desires!{g}{x:00}
+
+@121
+{z}{s:0320}There is no time to talk of that now!{g}{x:00}
+
+@122
+{z}{s:0320}Your Highness!{g}{x:00}
+
+@123
+{z}If you will not look to the people, we have no choice but to remove {a:00a8}!{g}{x:00}
+
+@124
+{z}{s:0320}That...{w}{w} I will never allow!{g}{x:00}
+
+@125
+{z}{s:0320}Your Highness... Forgive my rudeness!{g}{x:00}
+
+@126
+{z}{s:0320}Don't make me laugh!{g}{x:00}
+
+@127
+{z}With your skill, you'll never take me!{g}{x:00}
+
+@128
+{z}{s:0320}Your Highness... To think you came this far...{g}{x:00}
+
+@129
+{z}{s:0320}Uncle... Your jest has gone too far!{g}{x:00}
+
+@130
+{z}Now! Take me to my father and {a:00a8}!{g}{x:00}
+
+@131
+{z}{s:0320}If you insist, you must defeat me first!{g}{x:00}
+
+@132
+{z}{s:0320}{a:007f}! You were the prince's closest friend!{g}{x:00}
+
+@133
+{z}If you had been a little firmer, it would never have come to this...{g}{x:00}
+
+@134
+{z}{s:0320}Lady {a:0080}... The prince is a fine man.{g}{x:00}
+
+@135
+{z}You, of all people, know that best...{g}{x:00}
+
+@136
+{z}{s:0320}No!{g}{x:00}
+
+@137
+{z}Lately he neglects his duties and uses his power only to satisfy his own desires!{g}{x:00}
+
+@138
+{z}Such a man can never be a fine king!{g}{x:00}
+
+@139
+{z}{s:0320}Grand Duke... In the prince's place, I shall strike you down!{g}{x:00}
+
+@140
+{z}{s:0320}{a:007f}, is it...{g}{x:00}
+
+@141
+{z}Always at the prince's side, and you never once checked his wilfulness. Fool!{g}{x:00}
+
+@142
+{z}{s:0320}I wanted you to serve as the prince's right arm...{g}{x:00}
+
+@143
+{z}To end up fighting like this...{w} what a pity...{g}{x:00}
+
+@144
+{z}{s:0320}I feel the same...{g}{x:00}
+
+@145
+{z}{s:0320}But having met on the battlefield, I can only give my all...{g}{x:00}
+
+@146
+{z}Have at you! Sir {a:0000}!{g}{x:00}
+
+@147
+{z}{s:0320}Your Highness!{g}{x:00}
+
+@148
+{z}{s:0320}Tch... A blunder...{g}{x:00}
+
+@149
+{z}{s:0320}{a:007f}!{g}{x:00}
+
+@150
+{z}{s:0320}Yes... Your Highness!{g}{x:00}
+
+@151
+{z}{s:0320}At least you...{w}{w} retreat!{g}{x:00}
+
+@152
+{z}{s:0320}What?!{w}{w} But, Your Highness...{g}{x:00}
+
+@153
+{z}{s:0320}That is an order!{g}{x:00}
+
+@154
+{z}{s:0320}...{w} ...{w} Understood. Please stay safe, Your Highness...{g}{x:00}
+
+@155
+{z}{s:0320}{a:007f}... Are you safe?!{g}{x:00}
+
+@156
+{z}{s:0320}Yes... Somehow...{g}{x:00}
+
+@157
+{z}{s:0320}Pull back from here!{g}{x:00}
+
+@158
+{z}{s:0320}What?!{w}{w} But, Your Highness...{g}{x:00}
+
+@159
+{z}{s:0320}That is an order!{g}{x:00}
+
+@160
+{z}{s:0320}...{w} ...{w} Understood. Please stay safe, Your Highness...{g}{x:00}
+
+@161
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@162
+{z}Please understand how we feel...{g}{x:00}
+
+@163
+{z}{s:0320}So this is it... I'm sorry... I must retreat...{g}{x:00}
+
+@164
+{z}{s:0320}I shall withdraw into the castle...{g}{x:00}
+
+@165
+{z}But... {a:007e}...{w}{w} remember this...{g}{x:00}
+
+@166
+{z}One who governs for private gain can never be a great ruler...{g}{x:00}
+
+@167
+{z}{s:0320}Wait, Uncle! Where are {a:00a8} and Father?!{g}{x:00}
+
+@168
+{z}{s:0320}Damn... He has fled into the castle...{g}{x:00}
+
+@169
+{z}Then we strike down the remaining enemies first and hunt Uncle down! Let's go!{g}{x:00}
+
+@170
+{z}{s:0320}{a:0000}... There is no need to take the prince's life...{g}{x:00}
+
+@171
+{z}Once you have captured him, return to the castle. Is that clear?{g}{x:00}
+
+@172
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@173
+{z}Had you only understood, we would not have needed such rough means...{g}{x:00}
+
+@174
+{z}{s:0320}...{g}{x:00}
+
+@175
+{z}{s:0320}...{g}{x:00}
+
+@176
+{z}Escort the prince... with every courtesy.{g}{x:00}
+
+@177
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@178
+{z}Had you only understood, we would not have needed such rough means...{g}{x:00}
+
+@179
+{z}{s:0320}...{g}{x:00}
+
+@180
+{z}{s:0320}...{g}{x:00}
+
+@181
+{z}{a:0000}... We have the prince in our care...{g}{x:00}
+
+@182
+{z}Go into the castle and report to the Grand Duke...{g}{x:00}
+
+@183
+{z}{s:0320}Understood... Look after the prince...{g}{x:00}
+
+@184
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@185
+{z}If you had only stopped being so wilful, there would have been no war...{g}{x:00}
+
+@186
+{z}{s:0320}...{g}{x:00}
+
+@187
+{z}{s:0320}...{g}{x:00}
+
+@188
+{z}{a:0000}... We are looking after the prince for you...{g}{x:00}
+
+@189
+{z}Go into the castle and report to the Grand Duke and the others...{g}{x:00}
+
+@190
+{z}{s:0320}Yes...{w} Look after the prince...{g}{x:00}
+
+@191
+{z}{s:0320}As for the prince's future...{g}{x:00}
+
+@192
+{z}{s:0320}...{g}{x:00}
+
+@193
+{z}{s:0320}The Grand Duke must have a plan...{g}{x:00}
+
+@194
+{z}{a:0000}... Go and find out.{g}{x:00}
+
+@195
+{z}{s:0320}Right...{w} Look after the prince...{g}{x:00}
+
+@196
+{z}I'll keep watch on the prince.{g}{x:00}
+
+@197
+{z}{s:0320}{a:0000}... What will you do with the prince?{g}{x:00}
+
+@198
+{z}{s:0320}I mean to leave that to the Grand Duke...{g}{x:00}
+
+@199
+{z}Surely he will not take the prince's life...{g}{x:00}
+
+@200
+{z}{s:0320}I see...{g}{x:00}
+
+@201
+{z}Then I'll look after the prince.{g}{x:00}
+
+@202
+{z}You go and talk with the Grand Duke.{g}{x:00}
+
+@203
+{z}{s:0320}So I shall...{w} Look after the prince...{g}{x:00}
+
+@204
+{z}{s:0320}As for the prince's future...{g}{x:00}
+
+@205
+{z}{s:0320}...{g}{x:00}
+
+@206
+{z}{s:0320}The Grand Duke doubtless has a plan.{g}{x:00}
+
+@207
+{z}{a:0000}...{w} Could you find out?{g}{x:00}
+
+@208
+{z}{s:0320}Understood...{w} Meanwhile...{w} look after the prince...{g}{x:00}
+
+@209
+{z}{s:0320}Your Highness!{w} I must take you captive!{g}{x:00}
+
+@210
+{z}{s:0320}Take me captive, you say...{w}{w} Interesting! Try it if you can!{g}{x:00}
+
+@211
+{z}{s:0320}Your Highness! Forgive me!{g}{x:00}
+
+@212
+{z}{s:0320}I will beat you,{w} and save {a:00a8}!{g}{x:00}
+
+@213
+{z}{s:0320}Here I come!{w} Buster Sword!{g}{x:00}
+
+@214
+{z}{s:0320}Ray-{w}Blade!{g}{x:00}
+
+@215
+{z}{s:0320}Take this!{w}{w} Over-{w}drive!{g}{x:00}
+
+@216
+{z}{s:0320}Prince {a:007e} lives up to his name... At this rate{w} I cannot win...{g}{x:00}
+
+@217
+{z}{s:0320}Not yet!{w} I cannot lose!{g}{x:00}
+
+@218
+{z}{s:0320}Your Highness! It is...{w} time to end this!{g}{x:00}
+
+@219
+{z}{s:0320}This ends it, {a:0000}!{g}{x:00}
+
+@220
+{z}{s:0320}Your Highness... I am sorry...{g}{x:00}
+
+@221
+{z}{s:0320}Your Highness! Are you hurt?!{g}{x:00}
+
+@222
+{z}{s:0320}{p:01}!{g}{x:00}
+

@@ -1,0 +1,378 @@
+@0
+{z}{s:0320}There! Over there!{g}{x:00}
+
+@1
+{z}{s:0320}So they were huddled up there... Right, let's get to work.{g}{x:00}
+
+@2
+{z}{s:0320}Aren't those mercenaries? What are they doing here?{g}{x:00}
+
+@3
+{z}{s:0320}...Perhaps they came to put us down...{g}{x:00}
+
+@4
+{z}Fools... Little do they know they'll be the ones cut down...{g}{x:00}
+
+@5
+{z}{s:0320}But, sir... They say mercenaries these days are very strong.{g}{x:00}
+
+@6
+{z}{s:0320}What are you saying?! They're mercenaries, not knights!{g}{x:00}
+
+@7
+{z}{s:0320}...But...{g}{x:00}
+
+@8
+{z}{s:0320}Don't talk back! Charge!{g}{x:00}
+
+@9
+{z}{s:0320}Oho, they mean to charge us.{g}{x:00}
+
+@10
+{z}{s:0320}Meet them head on!{g}{x:00}
+
+@11
+{z}{s:0320}Fighting them will only get us hurt. Charging is madness!{g}{x:00}
+
+@12
+{z}{s:0320}...{w}{w} I've got it!{g}{x:00}
+
+@13
+{z}Pick one target and hit it with everything. Crush them one company at a time.{g}{x:00}
+
+@14
+{z}{s:0320}But the other enemies won't just stand and watch.{g}{x:00}
+
+@15
+{z}{s:0320}For once you say something sensible...{g}{x:00}
+
+@16
+{z}Right! The rest of you, hold the other companies back, one each!{g}{x:00}
+
+@17
+{z}{s:0320}...But even then, I doubt we can win...{g}{x:00}
+
+@18
+{z}We must pin down the other companies while we strike...{g}{x:00}
+
+@19
+{z}{s:0320}First target... {w}{w}that girl! {w}{w}Men! At them!{g}{x:00}
+
+@20
+{z}{s:0320}{a:0001}, be careful. The enemy is after you.{g}{x:00}
+
+@21
+{z}{s:0320}...I know.{g}{x:00}
+
+@22
+{z}{s:0320}This is absurd...{g}{x:00}
+
+@23
+{z}{s:0320}...{g}{x:00}
+
+@24
+{z}{s:0320}What is it? Why aren't you moving?{g}{x:00}
+
+@25
+{z}{s:0320}I'm sick of fights we can't win. Do you want to die that badly?{g}{x:00}
+
+@26
+{z}{s:0320}Y-you! Who do you think you're talking to?{g}{x:00}
+
+@27
+{z}{s:0320}Me too. I can't follow you any more. From today, I'm out.{g}{x:00}
+
+@28
+{z}{s:0320}You two are really quitting? Then I will too.{g}{x:00}
+
+@29
+{z}{s:0320}W-what? Are you serious?{g}{x:00}
+
+@30
+{z}{s:0320}Yes, we're serious! I'm sick of being your henchman.{g}{x:00}
+
+@31
+{z}I'm quitting banditry.{g}{x:00}
+
+@32
+{z}{s:0320}Betray me and you think you'll get away with it?{g}{x:00}
+
+@33
+{z}{s:0320}In a spot like this, you'd make enemies of us as well?{g}{x:00}
+
+@34
+{z}{s:0320}...{g}{x:00}
+
+@35
+{z}{s:0320}They seem to be quarrelling. What's going on?{g}{x:00}
+
+@36
+{z}{s:0320}...{w}{w} Infighting.{g}{x:00}
+
+@37
+{z}{s:0320}Then we'll be leaving you here.{g}{x:00}
+
+@38
+{z}{s:0320}W-wait! We'll hear this after we drive off the mercenaries!{g}{x:00}
+
+@39
+{z}{s:0320}That's exactly what we refuse to do!{g}{x:00}
+
+@40
+{z}{s:0320}Boss!{g}{x:00}
+
+@41
+{z}{s:0320}Huff... huff... You were so late, we were worried...{g}{x:00}
+
+@42
+{z}{s:0320}You lot... Good timing.{g}{x:00}
+
+@43
+{z}{s:0320}Leave the traitors to us. Boss, see to the mercenaries.{g}{x:00}
+
+@44
+{z}{s:0320}Damn... {w}{w}Run!{g}{x:00}
+
+@45
+{z}{s:0320}So it seems. We heard everything.{g}{x:00}
+
+@46
+{z}{s:0320}This has got complicated.{g}{x:00}
+
+@47
+{z}{s:0320}Don't mind it. Just carry out the mission.{g}{x:00}
+
+@48
+{z}{s:0320}But what about the ones who say they're quitting banditry?{g}{x:00}
+
+@49
+{z}{s:0320}Leave them be. They don't seem to want to fight.{g}{x:00}
+
+@50
+{z}{s:0320}Shouldn't we help them?{g}{x:00}
+
+@51
+{z}{s:0320}Well... if we could, I'd like to help them.{g}{x:00}
+
+@52
+{z}{s:0320}We finally made it this far... Now we're done with banditry...{g}{x:00}
+
+@53
+{z}{s:0320}We let them escape...{g}{x:00}
+
+@54
+{z}{s:0320}We should be safe now... A second life begins from here.{g}{x:00}
+
+@55
+{z}{s:0320}They got away again... If only the mercenaries weren't here...{g}{x:00}
+
+@56
+{z}{s:0320}Good, they've all got away. Farewell, bandits!{g}{x:00}
+
+@57
+{z}{s:0320}Traitors! You'll regret this!{g}{x:00}
+
+@58
+{z}{s:0320}Those people... they made it...{g}{x:00}
+
+@59
+{z}{s:0320}Good for them... They all got away.{g}{x:00}
+
+@60
+{z}{s:0320}They all got away? Well done!{g}{x:00}
+
+@61
+{z}{s:0320}They all seem to have escaped... Thank goodness...{g}{x:00}
+
+@62
+{z}{s:0320}They escaped by their own efforts... Quite something.{g}{x:00}
+
+@63
+{z}{s:0320}Leaving banditry... {w}{w}I have no... {w}{w}regrets...{g}{x:00}
+
+@64
+{z}{s:0320}So much left undone... Damn...{g}{x:00}
+
+@65
+{z}{s:0320}If only there had been no traitors...{g}{x:00}
+
+@66
+{z}{s:0320}So the mission is accomplished.{g}{x:00}
+
+@67
+{z}But we couldn't protect those people. It's no use saying so now.{g}{x:00}
+
+@68
+{z}{s:0320}Phew... the enemy is wiped out. Our job here is done.{g}{x:00}
+
+@69
+{z}But to let men who tried to leave that life end up like that...{g}{x:00}
+
+@70
+{z}{s:0320}The enemy is gone... We won.{g}{x:00}
+
+@71
+{z}But those people... they were trying so hard to leave banditry...{g}{x:00}
+
+@72
+{z}{s:0320}The enemy is wiped out. That was close for us too.{g}{x:00}
+
+@73
+{z}If we could have, I'd have liked to help the ones who tried to run.{g}{x:00}
+
+@74
+{z}{s:0320}The enemy is wiped out... The mission is accomplished.{g}{x:00}
+
+@75
+{z}It grieves me that we couldn't protect those men...{g}{x:00}
+
+@76
+{z}{s:0320}The traitors escaped, and the mercenaries beat us outright...{g}{x:00}
+
+@77
+{z}{s:0320}So the mission is complete. Good work, everyone.{g}{x:00}
+
+@78
+{z}{s:0320}Phew... we got through it somehow.{g}{x:00}
+
+@79
+{z}{s:0320}Thank goodness... it's over...{g}{x:00}
+
+@80
+{z}{s:0320}The enemy is wiped out! Mission complete!{g}{x:00}
+
+@81
+{z}{s:0320}The enemy is wiped out... Our part is done.{g}{x:00}
+
+@82
+{z}{s:0320}Damn... wiped out in the end... Maybe this is how bandits end...{g}{x:00}
+
+@83
+{z}{s:0320}Wiped out... That's why I said not to fight...{g}{x:00}
+
+@84
+{z}Hey, mercenaries! Thanks to you, we could leave that life behind.{g}{x:00}
+
+@85
+{z}Thank you!{g}{x:00}
+
+@86
+{z}{s:0320}We only did the task we were given.{g}{x:00}
+
+@87
+{z}{s:0320}Good for you. I hope we meet again somewhere!{g}{x:00}
+
+@88
+{z}{s:0320}The enemy is wiped out! Mission accomplished!{g}{x:00}
+
+@89
+{z}{s:0320}We should be thanking you. Fighting you as well would have been dangerous.{g}{x:00}
+
+@90
+{z}{s:0320}Well decided. Never forget that resolve.{g}{x:00}
+
+@91
+{z}{s:0320}Damn... those traitors... Somebody... {w}{w}please...{g}{x:00}
+
+@92
+{z}{s:0320}That side is wiped out... and we've our hands full with the mercenaries...{g}{x:00}
+
+@93
+{z}Oh, well. Forget those traitors.{g}{x:00}
+
+@94
+{z}{s:0320}I... have no regrets...{g}{x:00}
+
+@95
+{z}{s:0320}One day you'll realise... that we were right...{g}{x:00}
+
+@96
+{z}{s:0320}We... weren't wrong...{g}{x:00}
+
+@97
+{z}{s:0320}{a:0000}... Sorry... I wasn't much use...{g}{x:00}
+
+@98
+{z}{s:0320}Damn... Beaten by the likes of them...{g}{x:00}
+
+@99
+{z}{s:0320}{a:0000}... I leave the rest to you...{g}{x:00}
+
+@100
+{z}{s:0320}Ow, ow, ow... Sorry... retreating.{g}{x:00}
+
+@101
+{z}{s:0320}I'm pulling out... forgive me.{g}{x:00}
+
+@102
+{z}{s:0320}Who shall we go for next...{g}{x:00}
+
+@103
+{z}In a mess like this we've no time to plan every move... {w}{w}Just run riot!{g}{x:00}
+
+@104
+{z}{s:0320}Betrayed by my own men! It's all your fault to begin with!{g}{x:00}
+
+@105
+{z}{s:0320}Why attack them? Let them go.{g}{x:00}
+
+@106
+{z}{s:0320}Captain, what's the point of attacking them?{g}{x:00}
+
+@107
+{z}{s:0320}Why must we fight these people...{g}{x:00}
+
+@108
+{z}{s:0320}Why do we have to attack these people...{g}{x:00}
+
+@109
+{z}I'd like to praise the courage of those who quit banditry.{g}{x:00}
+
+@110
+{z}Still, they had real nerve. A shame to waste them as bandits.{g}{x:00}
+
+@111
+{z}When the infighting began, I didn't know what to do.{g}{x:00}
+
+@112
+{z}We did well, but the ones who quit and ran were impressive too.{g}{x:00}
+
+@113
+{z}{s:0320}You lot! You betrayed me! Too late to regret it now!{g}{x:00}
+
+@114
+{z}{s:0320}You'll be the ones to regret it! We weren't wrong!{g}{x:00}
+
+@115
+{z}{s:0320}Why must we attack these men...{g}{x:00}
+
+@116
+{z}{s:0320}Your wicked deeds end today!{g}{x:00}
+
+@117
+{z}{s:0320}If you want to quit banditry too, now is the time.{g}{x:00}
+
+@118
+{z}{s:0320}I won't lose! Don't think it'll be easy!{g}{x:00}
+
+@119
+{z}{s:0320}Come on! I'll cut you down!{g}{x:00}
+
+@120
+{z}{s:0320}I know that much already!{g}{x:00}
+
+@121
+{z}It'd be better to flee early...{g}{x:00}
+
+@122
+{z}{s:0320}They could just run... Why must they fight...{g}{x:00}
+
+@123
+{z}Anyway, deal with the mercenaries in front of us.{g}{x:00}
+
+@124
+{z}Little lady, haven't you forgotten you're the one they're after?{g}{x:00}
+
+@125
+{z}Were we in the wrong...?{g}{x:00}
+

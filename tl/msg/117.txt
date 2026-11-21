@@ -1,0 +1,288 @@
+@0
+{z}{f}{l:00e7}{s:0001}{a:0028}... because of you...{w}{w} how many people have been brought to misery...{g}{x:00}
+
+@1
+{z}{f}{l:00e9}{s:0002}Out of my way!{w} Move!{w}{w} {a:0028}!{w} Where are you!{g}{x:00}
+
+@2
+{z}{s:0320}I can't let you live!{g}{x:00}
+
+@3
+{z}{s:0320}Damn... and we were so close...{g}{x:00}
+
+@4
+{z}{s:0320}H-help me!{g}{x:00}
+
+@5
+{z}{s:0320}Heh heh heh... Die!{g}{x:00}
+
+@6
+{z}{f}{l:00e7}{s:0001}{a:0000}... {a:0002}... Make sure you get your revenge!{g}{x:00}
+
+@7
+{z}{f}{l:00e9}{s:0002}Damn! I've fought all this time for this very day!{g}{x:00}
+
+@8
+{z}{s:0320}I leave the rest to you.{g}{x:00}
+
+@9
+{z}{s:0320}Sorry, but I'm pulling out... Don't you lose!{g}{x:00}
+
+@10
+{z}{s:0320}{a:0028} is a dangerous man. See that you cut him down...{g}{x:00}
+
+@11
+{z}{s:0320}I wanted to see those children's faces one more time...{g}{x:00}
+
+@12
+{z}{s:0320}O Lord...{w}{w} must I die in a place like this...{g}{x:00}
+
+@13
+{z}{s:0320}I-it can't be... me, beaten by a nobody like this...{g}{x:00}
+
+@14
+{z}{s:0320}I-it can't be... me, beaten by a nobody like this...{g}{x:00}
+
+@15
+{z}{s:0320}{a:0028}! Where are you going?{g}{x:00}
+
+@16
+{z}{s:0320}No choice. We're pulling out too!{g}{x:00}
+
+@17
+{z}{s:0320}Tch... they got us... No choice... retreat!{g}{x:00}
+
+@18
+{z}{s:0320}This lot are good! Watch yourself, {a:0028}!{g}{x:00}
+
+@19
+{z}{s:0320}This is for {a:00aa}! Prepare yourself!{g}{x:00}
+
+@20
+{z}{s:0320}{a:00aa}...? Who's that?{g}{x:00}
+
+@21
+{z}{s:0320}{a:00aa} of Orbia, who died at your hands!{g}{x:00}
+
+@22
+{z}{s:0320}Heh heh heh... I don't remember the names of the men I kill.{g}{x:00}
+
+@23
+{z}{s:0320}Fine then...{g}{x:00}
+
+@24
+{z}{a:0028}! Now feel the hatred of all those you killed, in your own flesh!{g}{x:00}
+
+@25
+{z}{s:0320}I refuse!{g}{x:00}
+
+@26
+{z}Who knows what foul tricks you'd use? I will not duel a man like that!{g}{x:00}
+
+@27
+{z}{s:0320}Tch...{w}{w} how dull. And I was going to carve you to ribbons.{g}{x:00}
+
+@28
+{z}{f}{l:00e7}{s:0001}This is for my father! {a:0028}! Prepare yourself!{g}{x:00}
+
+@29
+{z}{s:0320}Ha! A brat like you could never beat me!{g}{x:00}
+
+@30
+{z}{f}{l:00e9}{s:0002}For my dad! For my mum, my sister, my brother! {a:0028}... you won't get away this time!{g}{x:00}
+
+@31
+{z}{s:0320}Killing is meant to be savoured. Like this... {w}Heh heh heh...{g}{x:00}
+
+@32
+{z}{f}{l:00e7}{s:0001}Why! You promised to avenge my father!{g}{x:00}
+
+@33
+{z}{f}{l:00e7}{s:0001}{a:0000}! Please, avenge my father!{g}{x:00}
+
+@34
+{z}{f}{l:00e9}{s:0002}{a:0000}! I'm counting on you!{g}{x:00}
+
+@35
+{z}{f}{l:00e9}{s:0002}{a:0000}! Why! Why are you refusing?{g}{x:00}
+
+@36
+{z}{s:0320}What?!{w}{w} Why... Isn't {a:0028} the one you want revenge on?{g}{x:00}
+
+@37
+{z}{s:0320}Hey, what's going on? Didn't you come here for revenge?{g}{x:00}
+
+@38
+{z}{s:0320}...{g}{x:00}
+
+@39
+{z}Our morale fell.{g}{x:00}
+
+@40
+{z}{s:0320}Wait! {a:0028}!{g}{x:00}
+
+@41
+{z}Damn... he got away...{g}{x:00}
+
+@42
+{z}{s:0320}Damn it...!{g}{x:00}
+
+@43
+{z}Next time we meet, I'll...{w}{w} I'll kill him for certain!{g}{x:00}
+
+@44
+{z}{f}{l:00e7}{s:0001}He got away...{g}{x:00}
+
+@45
+{z}{s:0320}You'd best sharpen your skills before you meet him again.{g}{x:00}
+
+@46
+{z}{s:0320}Yes...{g}{x:00}
+
+@47
+{z}{s:0320}Killing villagers without batting an eye...{g}{x:00}
+
+@48
+{z}I can never forgive that man... {a:0031} isn't our only enemy.{g}{x:00}
+
+@49
+{z}{s:0320}The hatred of all the people you killed... feel it here and now!{g}{x:00}
+
+@50
+{z}{s:0320}Heh heh heh... Here I come!{g}{x:00}
+
+@51
+{z}{s:0320}Heavy Crush!{g}{x:00}
+
+@52
+{z}{s:0320}Sand Break!{g}{x:00}
+
+@53
+{z}{s:0320}What's the matter? Weren't you going to take your revenge?{g}{x:00}
+
+@54
+{z}{s:0320}Gah... curse you, {a:0028}...{g}{x:00}
+
+@55
+{z}{s:0320}{a:0028}! Prepare yourself!{g}{x:00}
+
+@56
+{z}{s:0320}Heh heh heh!{w}{w} Die!{g}{x:00}
+
+@57
+{z}{s:0320}Ha! And you call yourselves my men?{g}{x:00}
+
+@58
+{z}Useless...{w}{w} I'll just take the rest for myself!{g}{x:00}
+
+@59
+{z}{s:0320}Ha! Villagers are far too weak!{g}{x:00}
+
+@60
+{z}Hurry up and finish off those mercenaries!{g}{x:00}
+
+@61
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@62
+{z}{s:0320}Everyone! Nearly there!{g}{x:00}
+
+@63
+{z}Once we cross this river, the town is right there!{g}{x:00}
+
+@64
+{z}{s:0320}No one is chasing us any more... Looks like we're safe...{g}{x:00}
+
+@65
+{z}{s:0320}Heh heh heh heh heh...{w}{w} I wouldn't be so sure!{g}{x:00}
+
+@66
+{z}{s:0320}Die!{g}{x:00}
+
+@67
+{z}{s:0320}Gah... aaah!{g}{x:00}
+
+@68
+{z}{s:0320}Heh heh heh heh heh... Nothing beats it.{g}{x:00}
+
+@69
+{z}I never tire of a slow kill, no matter how many times.{w}{w} Heh heh heh heh...{g}{x:00}
+
+@70
+{z}{s:0320}There they are!{g}{x:00}
+
+@71
+{z}Damn! They're attacking villagers!{g}{x:00}
+
+@72
+{z}{f}{l:00e7}{s:0001}We must help them quickly! Those people will be killed!{g}{x:00}
+
+@73
+{z}{f}{l:00e9}{s:0002}{a:0000} and the others aren't here yet, but we're going in anyway!{g}{x:00}
+
+@74
+{z}{f}{l:00e7}{s:0001}Yes!{g}{x:00}
+
+@75
+{z}{s:0320}{a:0028}! Someone's coming. Looks like a mercenary company!{g}{x:00}
+
+@76
+{z}{s:0320}Ha! Just what we need.{g}{x:00}
+
+@77
+{z}I was just getting bored with such weak opponents!{g}{x:00}
+
+@78
+{z}{s:0320}Hey, {a:0028}...{w} Leave some prey for us, will you?{g}{x:00}
+
+@79
+{z}{s:0320}Tch...{w} Fine, then...{w}{g}{x:00}
+
+@80
+{z}Do as you please with whoever is left!{g}{x:00}
+
+@81
+{z}{s:0320}Yes!{w} At last, something to sink our teeth into!{g}{x:00}
+
+@82
+{z}{s:0320}Those young ladies...{w}{w} they've pushed far ahead. I understand how they feel, but it's reckless.{g}{x:00}
+
+@83
+{z}{s:0320}We must hurry and join them...{g}{x:00}
+
+@84
+{z}{s:0320}Let's go!{g}{x:00}
+
+@85
+{z}{f}{l:00e7}{s:0001}{a:0002}! {a:0000} and the others have arrived too.{g}{x:00}
+
+@86
+{z}{s:0320}Yes!{w}{w}{w} But {a:0028} is mine to kill!{g}{x:00}
+
+@87
+{z}{s:0320}How cruel... to attack people who have done nothing wrong...{g}{x:00}
+
+@88
+{z}{s:0320}I can barely walk any more... They hurt us badly.{g}{x:00}
+
+@89
+{z}{s:0320}That was certainly close... But we're safe now.{g}{x:00}
+
+@90
+{z}{s:0320}Die!{g}{x:00}
+
+@91
+{z}{s:0320}Heh... Not a chance!{g}{x:00}
+
+@92
+{z}{s:0320}This is unforgivable...{g}{x:00}
+
+@93
+{z}Today, without fail, I'll bring him down!{g}{x:00}
+
+@94
+{z}{s:0320}You wretch! You won't get away with this!{g}{x:00}
+
+@95
+{z}{s:0320}Oh, I'll gladly take a duel. I'll paint my armour with your blood!{g}{x:00}
+

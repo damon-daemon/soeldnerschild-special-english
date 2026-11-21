@@ -1,0 +1,288 @@
+@0
+{z}{s:0320}Which way do we go from here?{g}{x:00}
+
+@1
+{z}{s:0320}Beyond the mountains to the southwest, past the forest.{g}{x:00}
+
+@2
+{z}{s:0320}And after the forest?{g}{x:00}
+
+@3
+{z}{s:0320}That... I can't say now. You never know who's listening.{g}{x:00}
+
+@4
+{z}{s:0320}If the enemy got there first, it'd all be over.{g}{x:00}
+
+@5
+{z}{s:0320}Damn! We were so close!{g}{x:00}
+
+@6
+{z}{s:0320}Shh! The enemy will notice us! Keep quiet!{g}{x:00}
+
+@7
+{z}{s:0320}Enemies... {w}{w}right? {w}{w}What are they up to?{g}{x:00}
+
+@8
+{z}{s:0320}Maybe they'll ambush the medics from there...{g}{x:00}
+
+@9
+{z}Or they meant to tail us to find where the wounded are. One or the other.{g}{x:00}
+
+@10
+{z}{s:0320}So they noticed us after all... They've even seen through what we planned...{g}{x:00}
+
+@11
+{z}{s:0320}Then we'll have to fight. We can't find the wounded now.{g}{x:00}
+
+@12
+{z}Let's finish off the medics.{g}{x:00}
+
+@13
+{z}{s:0320}Just the medics?{g}{x:00}
+
+@14
+{z}{s:0320}Without the medics, the wounded will die on their own.{g}{x:00}
+
+@15
+{z}{s:0320}If the medics fall, it's over. Don't let anyone lay a finger on them.{g}{x:00}
+
+@16
+{z}{s:0320}If we go straight west, there'll be enemies, right? And then...{g}{x:00}
+
+@17
+{z}I think we should go south through the forest and change direction there. What do you think?{g}{x:00}
+
+@18
+{z}{s:0320}Understood. We'll go south first.{g}{x:00}
+
+@19
+{z}{s:0320}Understood. We just keep going west, then.{g}{x:00}
+
+@20
+{z}{s:0320}Leave the enemy to us. Just keep advancing, whatever happens.{g}{x:00}
+
+@21
+{z}{s:0320}Oh? The medics are heading south.{g}{x:00}
+
+@22
+{z}...Which means the wounded are to the southwest?{g}{x:00}
+
+@23
+{z}{s:0320}Oh? The medics are heading west.{g}{x:00}
+
+@24
+{z}...Which means the wounded are to the southwest?{g}{x:00}
+
+@25
+{z}{s:0320}It's too late now. We'd never get there first.{g}{x:00}
+
+@26
+{z}Looks like we have no choice but to finish off the medics.{g}{x:00}
+
+@27
+{z}{s:0320}Wait a moment. Haven't you forgotten about them?{g}{x:00}
+
+@28
+{z}{s:0320}Oh... right.{g}{x:00}
+
+@29
+{z}All of you! Come out!{g}{x:00}
+
+@30
+{z}{s:0320}Is it our turn already?{g}{x:00}
+
+@31
+{z}{s:0320}Target only the medics! Don't let them escape!{g}{x:00}
+
+@32
+{z}{s:0320}Huh? Was that all of them?{g}{x:00}
+
+@33
+{z}{s:0320}They had men lying in wait...{g}{x:00}
+
+@34
+{z}{s:0320}Come to think of it, there was something over there...{g}{x:00}
+
+@35
+{z}{s:0320}I thought you'd come this way.{g}{x:00}
+
+@36
+{z}{s:0320}Come to think of it, there was something over there...{g}{x:00}
+
+@37
+{z}{s:0320}I thought you'd come this way.{g}{x:00}
+
+@38
+{z}{s:0320}Well done!{g}{x:00}
+
+@39
+{z}{s:0320}Everyone, be careful!{g}{x:00}
+
+@40
+{z}{s:0320}Damn! There are still more of them!{g}{x:00}
+
+@41
+{z}{s:0320}More of them lying in wait... I hadn't counted on that.{g}{x:00}
+
+@42
+{z}{s:0320}Hiding here, were they... Enemies or not, they read us well.{g}{x:00}
+
+@43
+{z}{s:0320}Hiding in a place like that...{g}{x:00}
+
+@44
+{z}{s:0320}More enemies in hiding... I hadn't counted on that.{g}{x:00}
+
+@45
+{z}{s:0320}Attacking in such numbers...{g}{x:00}
+
+@46
+{z}{s:0320}Damn... {w}{w}I leave the rest to you... {w}{w}I'm counting on you.{g}{x:00}
+
+@47
+{z}{s:0320}I'm pulling out ahead of you... Sorry...{g}{x:00}
+
+@48
+{z}{s:0320}One company... {w}{w}Just one company... {w}{w}If only we'd wiped them out...{g}{x:00}
+
+@49
+{z}{s:0320}The enemy's been wiped out... Then let's hurry on.{g}{x:00}
+
+@50
+{z}{s:0320}Right, let's hurry too.{g}{x:00}
+
+@51
+{z}{s:0320}Come on, let's hurry too.{g}{x:00}
+
+@52
+{z}{s:0320}Come on, we must hurry too.{g}{x:00}
+
+@53
+{z}{s:0320}Let's get moving too.{g}{x:00}
+
+@54
+{z}{s:0320}Well, we'd best hurry too.{g}{x:00}
+
+@55
+{z}{s:0320}Head straight through the forest! Go on ahead!{g}{x:00}
+
+@56
+{z}{s:0320}Straight into the forest! Hurry!{g}{x:00}
+
+@57
+{z}{s:0320}Get through the forest in one go! Now! Quickly!{g}{x:00}
+
+@58
+{z}{s:0320}Go straight through the forest. Quickly.{g}{x:00}
+
+@59
+{z}{s:0320}Get through the forest in one go!{g}{x:00}
+
+@60
+{z}{s:0320}Go straight through the forest! Quickly!{g}{x:00}
+
+@61
+{z}{s:0320}Understood. Sorry, but we're going ahead.{g}{x:00}
+
+@62
+{z}Thanks to you, we made it. We are grateful.{g}{x:00}
+
+@63
+{z}{s:0320}Ah! The medics are in the forest! Damn...{g}{x:00}
+
+@64
+{z}We can't catch them now... And after we went to the trouble of lying in wait...{g}{x:00}
+
+@65
+{z}All units, retreat!{g}{x:00}
+
+@66
+{z}{s:0320}For my comrades... {w}{w}I must... hurry...{g}{x:00}
+
+@67
+{z}{s:0320}All right! We've beaten the medics!{g}{x:00}
+
+@68
+{z}{s:0320}Our work here is done.{g}{x:00}
+
+@69
+{z}Without the medics, it's only a matter of time before the wounded all die...{g}{x:00}
+
+@70
+{z}{s:0320}We couldn't protect them... just one company...{g}{x:00}
+
+@71
+{z}{s:0320}Unable to protect even one company... How pathetic.{g}{x:00}
+
+@72
+{z}{s:0320}Damn... I couldn't protect them... Pathetic...{g}{x:00}
+
+@73
+{z}{s:0320}I couldn't protect them...{g}{x:00}
+
+@74
+{z}{s:0320}Couldn't protect them, eh... How pathetic...{g}{x:00}
+
+@75
+{z}{s:0320}Sorry... {w}{w}I'm retreating.{g}{x:00}
+
+@76
+{z}{s:0320}Almost there...{g}{x:00}
+
+@77
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@78
+{z}{s:0320}Damn... why me...{g}{x:00}
+
+@79
+{z}{s:0320}...I can't go on.{g}{x:00}
+
+@80
+{z}{s:0320}Captain... I'm sorry...{g}{x:00}
+
+@81
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@82
+{z}{s:0320}The wounded are waiting! I won't let you get in the way!{g}{x:00}
+
+@83
+{z}{s:0320}You won't get near the medics!{g}{x:00}
+
+@84
+{z}{s:0320}Come on, then, hurry up! Come on!{g}{x:00}
+
+@85
+{z}{s:0320}Taking me on... Fools. Don't say I didn't warn you.{g}{x:00}
+
+@86
+{z}{s:0320}I'll give it everything I've got!{g}{x:00}
+
+@87
+{z}{s:0320}Here I come!{g}{x:00}
+
+@88
+{z}{s:0320}This should be more fun than fighting the wounded.{g}{x:00}
+
+@89
+{z}{s:0320}Scum like you are no match for me!{g}{x:00}
+
+@90
+{z}{s:0320}Attacking me... You fool.{g}{x:00}
+
+@91
+{z}{s:0320}Raaah! Come and get me!{g}{x:00}
+
+@92
+{z}{s:0320}Damn... you're determined not to let us pass...{g}{x:00}
+
+@93
+{z}{s:0320}I must get through this forest quickly...{g}{x:00}
+
+@94
+{z}Aha... {w}{w}So that's what they're up to...{g}{x:00}
+
+@95
+{z}Target only the medics! Dodge the rest as best you can!{g}{x:00}
+

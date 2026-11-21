@@ -1,0 +1,18 @@
+# spell effects (0x8001a6dc): KEY|English, at most 11 letters (see tools/tables.py; Japanese: tables.py show effects)
+00|Attack
+01|HP Heal
+02|AT Down
+03|AT Up
+04|DF Down
+05|DF Up
+06|AG Down
+07|AG Up
+08|MR Down
+09|MR Up
+0a|Morale Dn
+0b|Morale Up
+0c|Summon
+0d|Dismiss
+0e|Order Seal
+0f|Magic Seal
+10|Nullify

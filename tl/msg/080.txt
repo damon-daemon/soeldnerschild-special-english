@@ -1,0 +1,372 @@
+@0
+{z}{s:0320}That's the fort, then.{g}{x:00}
+
+@1
+{z}{s:0320}Yes.{g}{x:00}
+
+@2
+{z}{s:0320}Four enemy companies... Our strengths are nearly even.{g}{x:00}
+
+@3
+{z}{s:0320}But we have mercenaries. If only we can join up with them...{g}{x:00}
+
+@4
+{z}{s:0320}Commander! Enemies to the north! It looks like the army of {p:01}!{g}{x:00}
+
+@5
+{z}{s:0320}What?{g}{x:00}
+
+@6
+{z}{s:0320}The mercenaries are nearly here... Will they be too late?{g}{x:00}
+
+@7
+{z}{s:0320}Right! We attack! Our target is the southern fort!{g}{x:00}
+
+@8
+{z}All forces, charge!{g}{x:00}
+
+@9
+{z}{s:0320}Hm?{g}{x:00}
+
+@10
+{z}{s:0320}Hey, we're to take that fort, right?{g}{x:00}
+
+@11
+{z}{s:0320}They've come at just the right time... That's a relief.{g}{x:00}
+
+@12
+{z}{s:0320}Yes. Our victory is now certain.{g}{x:00}
+
+@13
+{z}{s:0320}Hey, Commander! Any special orders?{g}{x:00}
+
+@14
+{z}{s:0320}Just take the fort. Understood?{g}{x:00}
+
+@15
+{z}{s:0320}Right!{g}{x:00}
+
+@16
+{z}{s:0320}Lucky us. Jobs this easy are rare.{g}{x:00}
+
+@17
+{z}{s:0320}...Doesn't look that way to me.{g}{x:00}
+
+@18
+{z}{s:0320}Why not? There's only that handful of enemies...{g}{x:00}
+
+@19
+{z}Those are... {w}{w}the Tigre...{g}{x:00}
+
+@20
+{z}{s:0320}Hey, any orders?{g}{x:00}
+
+@21
+{z}{s:0320}Keep the enemy away from the fort. That's all.{g}{x:00}
+
+@22
+{z}{s:0320}Understood.{g}{x:00}
+
+@23
+{z}{s:0320}You men, meet the enemy at the mouth of the peninsula.{g}{x:00}
+
+@24
+{z}I'll defend the fort.{g}{x:00}
+
+@25
+{z}{s:0320}Yes, sir.{g}{x:00}
+
+@26
+{z}{s:0320}This fort symbolises the land we seized... If it falls, the land goes back to the enemy...{g}{x:00}
+
+@27
+{z}And all our hard work will have been for nothing.{g}{x:00}
+
+@28
+{z}For the prosperity of our country... and for the soldiers who gave their lives, we must hold this fort!{g}{x:00}
+
+@29
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@30
+{z}{s:0320}I don't know how the enemy will move, but...{g}{x:00}
+
+@31
+{z}Split into two forces. One holds off the mercenaries, the other heads for the fort.{g}{x:00}
+
+@32
+{z}{s:0320}Understood.{g}{x:00}
+
+@33
+{z}{s:0320}Then all forces, charge!{g}{x:00}
+
+@34
+{z}{s:0320}Yes! We've taken the fort! This fort is ours once more!{g}{x:00}
+
+@35
+{z}{s:0320}That's our part done. Phew...{g}{x:00}
+
+@36
+{z}{s:0320}Ha! Piece of cake!{g}{x:00}
+
+@37
+{z}{s:0320}Well done! Splendid work!{g}{x:00}
+
+@38
+{z}{s:0320}It's been taken back... The fort we won at such cost...{g}{x:00}
+
+@39
+{z}No help for it... We withdraw.{g}{x:00}
+
+@40
+{z}{s:0320}Haah... how shameful...{g}{x:00}
+
+@41
+{z}{s:0320}To those who fell taking this fort... I'm so sorry.{g}{x:00}
+
+@42
+{z}{s:0320}Damn...{g}{x:00}
+
+@43
+{z}{s:0320}We lost...{g}{x:00}
+
+@44
+{z}{s:0320}What are you doing? We're pulling out.{g}{x:00}
+
+@45
+{z}{s:0320}Ugh...{g}{x:00}
+
+@46
+{z}{s:0320}The fort, in enemy hands...{g}{x:00}
+
+@47
+{z}We weren't strong enough...{g}{x:00}
+
+@48
+{z}{s:0320}Couldn't hold it...{g}{x:00}
+
+@49
+{z}{s:0320}Damn... the fort has fallen...{g}{x:00}
+
+@50
+{z}{s:0320}Ah... to end like this...{g}{x:00}
+
+@51
+{z}And after so many soldiers gave their lives...{g}{x:00}
+
+@52
+{z}{s:0320}Couldn't hold it...{g}{x:00}
+
+@53
+{z}{s:0320}Their defence... is too solid...{g}{x:00}
+
+@54
+{z}{s:0320}Take that fort at all costs... Is that clear...?{g}{x:00}
+
+@55
+{z}{s:0320}Knights, and wiped out? What a pathetic lot!{g}{x:00}
+
+@56
+{z}Fine, then! We'll do it ourselves!{g}{x:00}
+
+@57
+{z}{s:0320}They blocked our attack... Utterly beaten...{g}{x:00}
+
+@58
+{z}{s:0320}The rest is up to you... Do your best...{g}{x:00}
+
+@59
+{z}{s:0320}Next to the enemy's mercenaries, this lot... Spineless good-for-nothings...{g}{x:00}
+
+@60
+{z}{s:0320}The enemy is wiped out! Victory is ours! We held the fort!{g}{x:00}
+
+@61
+{z}{s:0320}It's over...{g}{x:00}
+
+@62
+{z}{s:0320}Phew... it's finally over... Ah... I'm exhausted.{g}{x:00}
+
+@63
+{z}{s:0320}Seems we've won. Good, it ended safely.{g}{x:00}
+
+@64
+{z}{s:0320}Ha ha! Easy win!{g}{x:00}
+
+@65
+{z}{s:0320}Thank goodness... I thought we were done for...{g}{x:00}
+
+@66
+{z}{s:0320}The enemy is wiped out! We held the fort!{g}{x:00}
+
+@67
+{z}{s:0320}The fort is safe. Thank goodness...{g}{x:00}
+
+@68
+{z}{s:0320}Phew... wiped out at last... The mission is accomplished.{g}{x:00}
+
+@69
+{z}{s:0320}We held the fort somehow. Mission accomplished.{g}{x:00}
+
+@70
+{z}{s:0320}We were hard pressed, but the mission is accomplished, at least.{g}{x:00}
+
+@71
+{z}{s:0320}Looks like we have to pull out...{g}{x:00}
+
+@72
+{z}{s:0320}Damn... to the likes of them...{g}{x:00}
+
+@73
+{z}{s:0320}I'm so ashamed of myself...{g}{x:00}
+
+@74
+{z}{s:0320}I can't go on... We'll have to pull out.{g}{x:00}
+
+@75
+{z}{s:0320}...My company is wiped out.{g}{x:00}
+
+@76
+{z}{s:0320}Hold the fort... whatever happens... Don't let it fall to the enemy...{g}{x:00}
+
+@77
+{z}{s:0320}M-me, of all people... What's going on...{g}{x:00}
+
+@78
+{z}{s:0320}I'll be pulling out... I can fight no more...{g}{x:00}
+
+@79
+{z}{s:0320}Hold the fort whatever happens... Whatever happens...{g}{x:00}
+
+@80
+{z}{s:0320}The Commander and the staff officer, retreating... What are we to do...{g}{x:00}
+
+@81
+{z}{s:0320}Commander...{g}{x:00}
+
+@82
+{z}{s:0320}Me, retreating... Against the likes of them...{g}{x:00}
+
+@83
+{z}{s:0320}My company is wiped out... Forgive me...{g}{x:00}
+
+@84
+{z}{s:0320}D-damn...{g}{x:00}
+
+@85
+{z}{s:0320}Just taking a fort... I thought it would be easy...{g}{x:00}
+
+@86
+{z}{s:0320}No way to win this... They're too strong...{g}{x:00}
+
+@87
+{z}{s:0320}Strange... me, losing... It's impossible...{g}{x:00}
+
+@88
+{z}{s:0320}They've got this far at last... This is bad...{g}{x:00}
+
+@89
+{z}{s:0320}You'll go no further, whatever happens!{g}{x:00}
+
+@90
+{z}{s:0320}I'll defend this fort! Even at the cost of my life!{g}{x:00}
+
+@91
+{z}{s:0320}I'm the Knight Commander of {p:01}! I'll show you my strength!{g}{x:00}
+
+@92
+{z}{s:0320}We've no business with you! Get out of the way!{g}{x:00}
+
+@93
+{z}{s:0320}Attacking me, are you? You've got some nerve.{g}{x:00}
+
+@94
+{z}{s:0320}Out of my way! Small fry!{g}{x:00}
+
+@95
+{z}{s:0320}Out of the way! {p:01} is coming through!{g}{x:00}
+
+@96
+{z}{s:0320}Keep advancing until we reach the fort!{g}{x:00}
+
+@97
+{z}{s:0320}Thinking you can beat me... How blissfully naive you are...{g}{x:00}
+
+@98
+{z}{s:0320}I won't let the others' sacrifice be in vain!{g}{x:00}
+
+@99
+{z}{s:0320}If you don't want to get hurt, go home now.{g}{x:00}
+
+@100
+{z}{s:0320}If you want the fort, you'll have to beat me first!{g}{x:00}
+
+@101
+{z}{s:0320}We won't let you go any further.{g}{x:00}
+
+@102
+{z}{s:0320}How do you mean to split our forces?{g}{x:00}
+
+@103
+{z}{s:0320}You and I will head for the fort.{g}{x:00}
+
+@104
+{z}{s:0320}And everyone else takes on the Tigre?{g}{x:00}
+
+@105
+{z}{s:0320}Right. They're said to be quite formidable.{g}{x:00}
+
+@106
+{z}Even that may not be enough.{g}{x:00}
+
+@107
+{z}{s:0320}I've heard they're strong, but isn't that overdoing it?{g}{x:00}
+
+@108
+{z}Our objective is to take the fort. It means nothing if we don't achieve that.{g}{x:00}
+
+@109
+{z}{s:0320}...True enough.{g}{x:00}
+
+@110
+{z}{s:0320}Then put me on the fort side.{g}{x:00}
+
+@111
+{z}{s:0320}So, three companies for the fort... four against the Tigre...{g}{x:00}
+
+@112
+{z}Right! It's settled!{g}{x:00}
+
+@113
+{z}{s:0320}This fort is ours. Yes... ours for ever...{g}{x:00}
+
+@114
+{z}{s:0320}The Commander need not step in... We'll hold all the enemy right here.{g}{x:00}
+
+@115
+{z}{s:0320}Sorry, did I keep you waiting?{g}{x:00}
+
+@116
+{z}I'm on my way now.{g}{x:00}
+
+@117
+{z}{s:0320}Ugh... the enemy hired mercenaries too...{g}{x:00}
+
+@118
+{z}{s:0320}Even with mercenaries' help, they're only small fry.{g}{x:00}
+
+@119
+{z}{s:0320}Exactly.{g}{x:00}
+
+@120
+{z}...Pathetic.{g}{x:00}
+
+@121
+{z}...Pathetic.{g}{x:00}
+
+@122
+{z}...A total defeat, then.{g}{x:00}
+
+@123
+{z}Understood?{g}{x:00}
+

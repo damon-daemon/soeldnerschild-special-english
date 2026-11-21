@@ -1,0 +1,1765 @@
+@0
+Orphaned young, he is taken in by Robert, a wealthy merchant and friend of his father.{j:0001}{x:00}
+
+@1
+{n}
+He is raised with Anastasia in the peaceful Papal Domain.{j:0002}{x:00}
+
+@2
+{n}
+A fateful meeting with Steindorf leads him to join the Tigre Mercenaries.{x:00}
+
+@5
+Robert's only daughter. Raised like a sister to the orphaned hero.{j:0006}{x:00}
+
+@6
+ Shy and quiet, she hates being alone, but sometimes shows a strong side on the battlefield.{j:0007}{x:00}
+
+@7
+{n}
+She excels at healing magic.{x:00}
+
+@10
+Born on a Papal Domain farm, he lives in peace with his family.{j:000b}{x:00}
+
+@11
+ When Blood Mist raiders slaughter his family, he becomes a mercenary for revenge.{j:000c}{x:00}
+
+@12
+{n}
+Travelling with Steindorf, he begins to think of fighting for peace on the continent.{n}
+{j:000d}{x:00}
+
+@13
+He never flinches, even against strong foes.{x:00}
+
+@15
+Raised in a merchant house where knights often call, he admires them from childhood.{j:0010}{x:00}
+
+@16
+ He resolves to become a knight who values honour and pride.{j:0011}{x:00}
+
+@17
+ He joins the Tigre Mercenaries at 21 and, his skill recognised, rises to company captain.{j:0012}{x:00}
+
+@18
+{n}
+Knows every nation's knights and mercenaries well.{x:00}
+
+@20
+He loves drink, women and flashy clothes, and swaggers through town, a greatsword on his back.{j:0015}{x:00}
+
+@21
+{n}
+He loathes feeble officials who throw their weight around, and starts fights with them anywhere.{x:00}
+
+@25
+An old sorcerer famed across the continent.{j:001a}{x:00}
+
+@26
+ His life's goal is to defeat Smiley, and he expects great things of the hero.{x:00}
+
+@30
+Leaving a town about to become a battlefield, he lived at ease deep in the forest.{j:001f}{x:00}
+
+@31
+ Living by the hunt, he honed his skill with the bow.{n}
+{j:0020}{x:00}
+
+@32
+He sides with the people and resents the nobles and knights who spread war for selfish gain.{x:00}
+
+@35
+He has the blood of the Humers, who live on the fringes of Liguria.{n}
+{j:0024}{x:00}
+
+@36
+Undefeated in the arena, he deeply resented being a plaything of the rich.{j:0025}{x:00}
+
+@37
+{n}
+Envying the hero, who acts by his own will, he joins his company.{x:00}
+
+@40
+Sent to the church as a child to become a priest, he is taught morals and theology,{j:0029}{x:00}
+
+@41
+ but rebels and runs away at 17.{j:002a}{x:00}
+
+@42
+{n}
+Since then he denies God's existence and condemns clergy as "deceivers of the people".{j:002b}{x:00}
+
+@43
+{n}
+He picks a fight with any man who looks strong.{x:00}
+
+@45
+A swordswoman; her lover died in war.{j:002e}{x:00}
+
+@46
+ She meets the hero while struggling to recover a keepsake sword stolen by bandits.{n}
+{j:002f}{x:00}
+
+@47
+Sympathising with the hero's wish to save the suffering, she joins the Tigre Mercenaries.{x:00}
+
+@50
+Told that her wounded father died on the battlefield untended, she studies healing magic.{j:0033}{x:00}
+
+@51
+ She wishes to save those wounded by war.{j:0034}{x:00}
+
+@52
+{n}
+Saved by the hero from brigands, she joins the Tigre Mercenaries.{x:00}
+
+@55
+A brigand, brother of Orestes, whom the hero slew.{j:0038}{x:00}
+
+@56
+ He awaits a chance to avenge him.{x:00}
+
+@60
+He meets Antonio in a tavern and, talking with him, comes to share the hero's views.{j:003d}{x:00}
+
+@61
+ He looks just like Antonio, and when the hero mistakes him for his friend, he joins the Tigre Mercenaries.{j:003e}{x:00}
+
+@62
+{n}
+His odd posturing is also like Antonio's, and he too leads cavalry.{x:00}
+
+@65
+He loves watching arena fights, and in time wants to fight himself.{j:0042}{x:00}
+
+@66
+ Drawn by the hero's fame and sharing his cause, he joins the Tigre Mercenaries.{j:0043}{x:00}
+
+@67
+{n}
+Refined and well-bred in looks, but strong-willed and stubborn.{x:00}
+
+@70
+An old sorcerer. Guilford's old friend; they sought to master magic together.{j:0047}{x:00}
+
+@71
+ He never saw magic as a tool of war, but hearing again and again of Guilford's deeds, he decides to lend his aid.{j:0048}{x:00}
+
+@72
+{n}
+His magic is every bit the equal of Guilford's.{x:00}
+
+@75
+A platoon leader. Leads infantry.{n}
+{j:004c}{x:00}
+
+@76
+She turned mercenary to live on the edge.{n}
+{j:004d}{x:00}
+
+@77
+She sees Luisa, a fellow woman, as her rival.{x:00}
+
+@80
+A platoon leader. Leads infantry.{n}
+{j:0051}{x:00}
+
+@81
+As Orhan's henchman, he followed him into the Tigre Mercenaries. As a boy he was often bullied by Orhan.{n}
+{j:0052}{x:00}
+
+@82
+He grows a beard to hide his timidity.{x:00}
+
+@85
+A platoon leader. Leads pikemen.{n}
+{j:0056}{x:00}
+
+@86
+He became a mercenary to make money fast.{n}
+{j:0057}{x:00}
+
+@87
+Loyal to his superiors, he obeys even reckless orders without complaint.{x:00}
+
+@90
+A platoon leader. Leads archers.{n}
+{j:005b}{x:00}
+
+@91
+A nun before turning mercenary. Saved by Steindorf, she took up arms to repay him.{n}
+{j:005c}{x:00}
+
+@92
+Very dutiful, and earnest in all she does.{x:00}
+
+@95
+A commander found seeking work{j:0060}{x:00}
+
+@96
+ at a tavern. Leads infantry.{n}
+{j:0061}{x:00}
+
+@97
+Drawn to the mercenary life, he became one.{x:00}
+
+@100
+A commander found seeking work{j:0065}{x:00}
+
+@101
+ at a tavern. Leads cavalry.{n}
+{j:0066}{x:00}
+
+@102
+Once a platoon leader in a knightly order, expelled for striking an unfair superior.{n}
+{j:0067}{x:00}
+
+@103
+So he had to turn mercenary.{x:00}
+
+@105
+A commander found seeking work{j:006a}{x:00}
+
+@106
+ at a tavern. Leads cavalry.{n}
+{j:006b}{x:00}
+
+@107
+Became a mercenary to quickly earn his mother's medical fees.{x:00}
+
+@110
+A commander found seeking work{j:006f}{x:00}
+
+@111
+ at a tavern. Leads pikemen.{n}
+{j:0070}{x:00}
+
+@112
+Turned mercenary on hearing women love them. Loves wooing tavern singers.{x:00}
+
+@115
+A commander found seeking work{j:0074}{x:00}
+
+@116
+ at a tavern. Leads archers.{n}
+{j:0075}{x:00}
+
+@117
+A born lover of war; sees mercenary work as his calling.{x:00}
+
+@120
+A commander found seeking work{j:0079}{x:00}
+
+@121
+ at a tavern. Leads cavalry.{n}
+{j:007a}{x:00}
+
+@122
+A merchant's son, bored by dull trade, he became a mercenary.{n}
+{j:007b}{x:00}
+
+@125
+A commander found seeking work{j:007e}{x:00}
+
+@126
+ at a tavern. Leads cavalry.{n}
+{j:007f}{x:00}
+
+@127
+Admires chivalry; became a mercenary seeking someone worthy of his loyalty.{x:00}
+
+@130
+A commander found seeking work{j:0083}{x:00}
+
+@131
+ at a tavern. Leads archers.{n}
+{j:0084}{x:00}
+
+@132
+Ran up huge gambling debts, and became a mercenary to escape the collectors.{x:00}
+
+@135
+A commander found seeking work{j:0088}{x:00}
+
+@136
+ at a tavern. Leads infantry.{n}
+{j:0089}{x:00}
+
+@137
+Dreams of saving up to open a fine restaurant.{x:00}
+
+@140
+A commander found seeking work{j:008d}{x:00}
+
+@141
+ at a tavern. Leads pikemen.{n}
+{j:008e}{x:00}
+
+@142
+Second son of a fallen noble house. Became a mercenary to earn the money to restore its glory. Elitist.{x:00}
+
+@145
+A commander found seeking work{j:0092}{x:00}
+
+@146
+ at a tavern. Leads cavalry.{n}
+{j:0093}{x:00}
+
+@147
+Half tribesman, he grew up scorned in his village and left to be a mercenary, a trade that asks no questions.{x:00}
+
+@150
+A commander found seeking work{j:0097}{x:00}
+
+@151
+ at a tavern. Leads archers.{n}
+{j:0098}{x:00}
+
+@152
+A firm believer that might is all, he became a mercenary.{x:00}
+
+@155
+A commander found seeking work{j:009c}{x:00}
+
+@156
+ at a tavern. Leads pikemen.{n}
+{j:009d}{x:00}
+
+@157
+Went to the city to get rich in trade, was crushed by harsh reality and ended up a mercenary.{x:00}
+
+@160
+A commander found seeking work{j:00a1}{x:00}
+
+@161
+ at a tavern. Leads infantry.{n}
+{j:00a2}{x:00}
+
+@162
+A bad drunk who killed a man in a brawl and fled his village to become a mercenary.{x:00}
+
+@165
+A commander found seeking work{j:00a6}{x:00}
+
+@166
+ at a tavern. Leads cavalry.{n}
+{j:00a7}{x:00}
+
+@167
+Had no talent but brawn, so became a mercenary.{x:00}
+
+@170
+A commander found seeking work{j:00ab}{x:00}
+
+@171
+ at a tavern. Leads archers.{n}
+{j:00ac}{x:00}
+
+@172
+Hated a life spent waiting to be killed, so became a mercenary.{n}
+{j:00ad}{x:00}
+
+@173
+Sharing Steindorf's ideals, he joined the Tigre Mercenaries.{x:00}
+
+@175
+Born to tenant farmers. When war burns his fields, he resolves to{j:00b0}{x:00}
+
+@176
+ form a company and restore peace to the continent.{j:00b1}{x:00}
+
+@177
+{n}
+He wins fame with a mighty special move, but loses his left hand in battle.{j:00b2}{x:00}
+
+@178
+ Since then he fights one-handed; foes dread the "Mighty Right Arm".{x:00}
+
+@180
+Born on a farm.{j:00b5}{x:00}
+
+@181
+ Known as the village ruffian from childhood.{j:00b6}{x:00}
+
+@182
+ When fellow villager Steindorf forms a company,{j:00b7}{x:00}
+
+@183
+ he is taken on for his skill.{n}
+Even as a company captain his conduct does not improve;{j:00b8}{x:00}
+
+@184
+ greedy for money, he has even seized his men's loot and been shunned for it.{x:00}
+
+@185
+His mercenary father dies in battle; at 26 he succeeds him{j:00ba}{x:00}
+
+@186
+ as captain.{j:00bb}{x:00}
+
+@187
+ He bans all bandit-like plunder, and his fair, selfless manner{j:00bc}{x:00}
+
+@188
+ wins the support of his men and the people alike.{x:00}
+
+@190
+Company captain, Crotoi Mercenaries. Leads infantry.{n}
+{j:00bf}{x:00}
+
+@191
+Hating to lose, he will not retreat even as those around him fall,{j:00c0}{x:00}
+
+@192
+ so he is often nearly killed.{n}
+{j:00c1}{x:00}
+
+@193
+Admiring Percival, he became a mercenary.{x:00}
+
+@195
+Company captain, Crotoi Mercenaries. Summons holy soldiers.{j:00c4}{x:00}
+
+@196
+ A good-natured woman, always smiling.{x:00}
+
+@200
+He killed the families of Ryuk and Anastasia.{n}
+He earns more plundering the people{j:00c9}{x:00}
+
+@201
+ than by working as a mercenary.{j:00ca}{x:00}
+
+@202
+ His favourite axe, used in{j:00cb}{x:00}
+
+@203
+ endless slaughter, is called "Blood Drinker". He{j:00cc}{x:00}
+
+@204
+ fights for the joy of seeing his armour dyed with blood.{x:00}
+
+@205
+Company captain, Blood Mist Mercenaries. Leads infantry.{n}
+{j:00ce}{x:00}
+
+@206
+He thinks the brutal Cortes a splendid man.{x:00}
+
+@210
+Company captain, Blood Mist Mercenaries. Summons dark soldiers.{j:00d3}{x:00}
+
+@211
+ Always currying favour with Cortes.{x:00}
+
+@215
+Succeeding her lover, a captain who fell in battle,{j:00d8}{x:00}
+
+@216
+ she became the continent's only woman captain. Used to blood.{j:00d9}{x:00}
+
+@217
+{n}
+Loves finery;{j:00da}{x:00}
+
+@218
+ she takes well-paid jobs to buy clothes. Vain of her beauty,{j:00db}{x:00}
+
+@219
+ she is openly hostile to any beautiful woman she meets.{x:00}
+
+@220
+Company captain, Medusa Mercenaries. Leads cavalry.{n}
+{j:00dd}{x:00}
+
+@221
+His love of brawling made him a mercenary. Since joining,{j:00de}{x:00}
+
+@222
+ he takes it seriously.{x:00}
+
+@225
+Company captain, Medusa Mercenaries. Leads pikemen.{n}
+{j:00e2}{x:00}
+
+@226
+Cannot resist the thrill of risking his life, so he goes to war.{x:00}
+
+@230
+Sees mercenary work only as a way to make money. Unless he is hard up,{j:00e7}{x:00}
+
+@231
+ he flees as soon as the battle turns against him.{n}
+{j:00e8}{x:00}
+
+@232
+A cross-dresser, he was once shot in the chest{j:00e9}{x:00}
+
+@233
+ while fighting in a dress, but the padding{j:00ea}{x:00}
+
+@234
+ saved his life.{x:00}
+
+@235
+Company captain, White Rose Mercenaries. Leads infantry.{n}
+{j:00ec}{x:00}
+
+@236
+He always stays at the side of Captain Leonardo.{x:00}
+
+@240
+Company captain, White Rose Mercenaries. Leads pikemen.{n}
+{j:00f1}{x:00}
+
+@241
+Open and frank by nature.{x:00}
+
+@245
+His body is like steel; even the best knights of all{j:00f6}{x:00}
+
+@246
+ nations hesitate to face him.{n}
+He always wears a fearsome helm,{j:00f7}{x:00}
+
+@247
+ and no one has ever seen his face.{j:00f8}{x:00}
+
+@248
+ Not even his own men know his birth or upbringing.{n}
+{j:00f9}{x:00}
+
+@249
+He fights battles beyond the jobs he takes on. No one knows why.{x:00}
+
+@250
+Company captain, Funeral Mercenaries. Leads cavalry.{n}
+{j:00fb}{x:00}
+
+@251
+He batters foes mercilessly in battle and almost never{j:00fc}{x:00}
+
+@252
+ goes on the defensive.{x:00}
+
+@255
+Company captain, Funeral Mercenaries. Leads pikemen.{n}
+{j:0100}{x:00}
+
+@256
+Quick-tempered, he goes for any man in town he dislikes,{j:0101}{x:00}
+
+@257
+ even a total stranger.{x:00}
+
+@260
+A martial artist in training whose men all fight bare-handed. He turned{j:0105}{x:00}
+
+@261
+ mercenary for money, then challenged his captain to a duel,{j:0106}{x:00}
+
+@262
+ beat him and took his place.{x:00}
+
+@265
+Company captain, Fost Mercenaries. Summons holy soldiers.{x:00}
+
+@270
+Company captain, Fost Mercenaries. Summons dark soldiers.{x:00}
+
+@275
+His mother is a Humer of the eastern mountains, so from childhood he suffers prejudice{j:0114}{x:00}
+
+@276
+ and grows hostile to everyone on the continent.{j:0115}{x:00}
+
+@277
+{n}
+He gathers fellow sufferers{j:0116}{x:00}
+
+@278
+ into a company and wages his own war of revenge.{x:00}
+
+@280
+Company captain, Rearing Horse Mercenaries. Summons holy soldiers.{x:00}
+
+@285
+Company captain, Rearing Horse Mercenaries. Summons dark soldiers.{x:00}
+
+@290
+A former Ragail knight. When Feuerbach declared independence, he{j:0123}{x:00}
+
+@291
+ opposed it fiercely and was nearly killed,{j:0124}{x:00}
+
+@292
+ but escaped.{n}
+{j:0125}{x:00}
+
+@293
+Believing fighting his only way to regain his honour,{j:0126}{x:00}
+
+@294
+ he gathered his clan and formed a company.{x:00}
+
+@295
+Company captain, Treue Mercenaries. Summons holy soldiers.{x:00}
+
+@300
+Company captain, Treue Mercenaries. Summons dark soldiers.{x:00}
+
+@305
+Raised in poverty, he has a strong complex about the rich.{n}
+{j:0132}{x:00}
+
+@306
+Wanted after killing a man by accident,{j:0133}{x:00}
+
+@307
+ he took to crime, robbing again and again with fellow rogues.{n}
+{j:0134}{x:00}
+
+@308
+Reasoning that a mercenary is paid to run riot,{j:0135}{x:00}
+
+@309
+ he formed a company.{x:00}
+
+@310
+Company captain, Silver Wolf Mercenaries. Summons holy soldiers.{x:00}
+
+@315
+Company captain, Silver Wolf Mercenaries. Summons dark soldiers.{x:00}
+
+@320
+Lost his ranch to war; became a mercenary.{j:0141}{x:00}
+
+@321
+ Swinging his axe with his huge frame,{j:0142}{x:00}
+
+@322
+ he came up with a special move.{n}
+{j:0143}{x:00}
+
+@323
+A show-off, he is obsessed with winning{j:0144}{x:00}
+
+@324
+ fame.{x:00}
+
+@325
+Company captain, Unicorn Mercenaries. Summons holy soldiers.{x:00}
+
+@330
+Company captain, Unicorn Mercenaries. Summons dark soldiers.{x:00}
+
+@335
+A former Ragail knight.{n}
+{j:0150}{x:00}
+
+@336
+His rival Clovis{j:0151}{x:00}
+
+@337
+ schemed to have him{j:0152}{x:00}
+
+@338
+ banished by the late king.{n}
+{j:0153}{x:00}
+
+@339
+He has since given up on state service and turned mercenary.{x:00}
+
+@340
+Company captain, Swallow Mercenaries. Leads pikemen.{x:00}
+
+@345
+Company captain, Swallow Mercenaries. Summons holy soldiers.{x:00}
+
+@350
+His son, who was to succeed him, fell in battle, so{j:015f}{x:00}
+
+@351
+ he means to command until his{j:0160}{x:00}
+
+@352
+ grandson is grown.{n}
+{j:0161}{x:00}
+
+@353
+He fears one nation will unite the continent by force and end his work.{x:00}
+
+@355
+Company captain, Red Helm Mercenaries. Leads pikemen.{n}
+{j:0164}{x:00}
+
+@356
+Grandson of Captain Oleg.{x:00}
+
+@360
+Company captain, Red Helm Mercenaries. Summons holy soldiers.{x:00}
+
+@365
+He shot the captain dead{j:016e}{x:00}
+
+@366
+ and took his place.{j:016f}{x:00}
+
+@367
+ A ruthless man who stops at nothing{j:0170}{x:00}
+
+@368
+ for power.{x:00}
+
+@370
+Company captain, Darkness Mercenaries. Leads pikemen.{x:00}
+
+@375
+Company captain, Darkness Mercenaries. Summons holy soldiers.{x:00}
+
+@380
+Succeeds his father as captain of the Gold Mercenaries, the oldest of all companies.{n}
+{j:017d}{x:00}
+
+@381
+He fights to uphold the company's tradition,{j:017e}{x:00}
+
+@382
+ but repeated{j:017f}{x:00}
+
+@383
+ defeats have cost him his dignity.{n}
+{j:0180}{x:00}
+
+@384
+He measures a company's worth by its fee.{x:00}
+
+@385
+Company captain, Gold Mercenaries. Leads pikemen.{x:00}
+
+@390
+Company captain, Gold Mercenaries. Summons holy soldiers.{x:00}
+
+@395
+A pirate's son. To own land on the{j:018c}{x:00}
+
+@396
+ continent, he and{j:018d}{x:00}
+
+@397
+ his crew turn mercenary.{n}
+{j:018e}{x:00}
+
+@398
+Once he has land, he wants to plant a vineyard and drink wine{j:018f}{x:00}
+
+@399
+ at his leisure.{x:00}
+
+@400
+Company captain, Woge Mercenaries. Leads pikemen.{x:00}
+
+@405
+Company captain, Woge Mercenaries. Summons holy soldiers.{x:00}
+
+@410
+Renowned for his strength in youth, he became overbearing as captain,{j:019b}{x:00}
+
+@411
+ and the jobs offered him dwindled.{j:019c}{x:00}
+
+@412
+ To repay huge gambling debts from his youth,{j:019d}{x:00}
+
+@413
+ he now takes any job.{x:00}
+
+@415
+Company captain, Fire Wheel Mercenaries. Leads cavalry.{x:00}
+
+@420
+Company captain, Fire Wheel Mercenaries. Leads pikemen.{x:00}
+
+@425
+He became a mercenary hearing he could be violent and get paid.{n}
+{j:01aa}{x:00}
+
+@426
+War broke out just after he formed his company, so he{j:01ab}{x:00}
+
+@427
+ is convinced he has great foresight.{x:00}
+
+@430
+Company captain, Gewalt Mercenaries. Leads cavalry.{x:00}
+
+@435
+Company captain, Gewalt Mercenaries. Leads pikemen.{x:00}
+
+@440
+Born to rich merchants, he formed a{j:01b9}{x:00}
+
+@441
+ company for fun. His men are tough fellows he hired{j:01ba}{x:00}
+
+@442
+ with his own fortune.{j:01bb}{x:00}
+
+@443
+ He attacks any foe who looks weak without mercy.{x:00}
+
+@445
+Company captain, Amour Mercenaries. Leads cavalry.{x:00}
+
+@450
+Company captain, Amour Mercenaries. Leads pikemen.{x:00}
+
+@455
+Easygoing, he{j:01c8}{x:00}
+
+@456
+ joined the weakest company, the Wandering Crow Mercenaries, on a drunken whim.{j:01c9}{x:00}
+
+@457
+ Later he was elected captain.{j:01ca}{x:00}
+
+@458
+ He cares little for repute or money,{j:01cb}{x:00}
+
+@459
+ and flees at the first sign of danger.{x:00}
+
+@460
+Company captain, Wandering Crow Mercenaries. Leads cavalry.{x:00}
+
+@465
+Company captain, Wandering Crow Mercenaries. Leads pikemen.{x:00}
+
+@470
+Vice-Chancellor of the Holy Rana Empire, deeply trusted by the Emperor. A Fenrir knight until, fed up with{j:01d7}{x:00}
+
+@471
+ a state ruled by religion, he defected to the Emperor, who{j:01d8}{x:00}
+
+@472
+ trusts only worldly power.{j:01d9}{x:00}
+
+@473
+ To keep this secret, he always{j:01da}{x:00}
+
+@474
+ wears a black helm over his face and is nicknamed "Black Flash".{x:00}
+
+@475
+Staff officer of Rana's Holy Emperor's Lightning Knights. Leads infantry.{j:01dc}{x:00}
+
+@476
+ The Emperor valued his broad political vision and made him Oswald's staff officer young.{x:00}
+
+@480
+Commander of Rana's Thunder Knights, of one of Rana's oldest houses. His pike skill, famed in youth,{j:01e1}{x:00}
+
+@481
+ is still sharp. With a long career comes great pride;{j:01e2}{x:00}
+
+@482
+ he holds that a knight proves himself by winning glory in battle.{n}
+{j:01e3}{x:00}
+
+@483
+The exploits of young men{j:01e4}{x:00}
+
+@484
+ fire his fighting spirit.{x:00}
+
+@485
+Staff officer of Rana's Thunder Knights. Summons holy soldiers.{j:01e6}{x:00}
+
+@486
+ Taciturn; seldom speaks except to cast spells.{x:00}
+
+@490
+Commander of Rana's Thunderfire Knights. Leads cavalry.{x:00}
+
+@495
+Staff officer of Rana's Thunderfire Knights. Leads archers.{x:00}
+
+@500
+Commander of Rana's Swift Thunder Knights. Leads infantry.{x:00}
+
+@505
+Staff officer of Rana's Swift Thunder Knights. Leads pikemen.{x:00}
+
+@510
+Supreme Commander of Saxen. Brother of Queen Leutgard.{n}
+Opposing Clovis's{j:01ff}{x:00}
+
+@511
+ policies, he moved from Grandcour to Saxen.{j:0200}{x:00}
+
+@512
+{n}
+As a boy{j:0201}{x:00}
+
+@513
+ he ran wild in battle,{j:0202}{x:00}
+
+@514
+ and is feared as the "Axe of a Hundred Slain".{x:00}
+
+@515
+Staff officer of Saxen's Twin-Headed Dragon Knights. Leads pikemen.{n}
+{j:0204}{x:00}
+
+@516
+Ferdinand's trusted adviser. Always reading books on tactics.{x:00}
+
+@520
+A Saxen knight. Sister of Queen Leutgard and Twin-Headed Dragon commander Ferdinand.{j:0209}{x:00}
+
+@521
+ Skilled at arms and fully trusted by the king,{j:020a}{x:00}
+
+@522
+ she has a title of her own.{n}
+{j:020b}{x:00}
+
+@523
+On the battlefield and in private alike, she never lets her sex show,{j:020c}{x:00}
+
+@524
+ always bearing herself with dignity.{x:00}
+
+@525
+Staff officer of Saxen's Rising Dragon Knights. Leads infantry.{n}
+{j:020e}{x:00}
+
+@526
+Thinking the battlefield her only stage, she{j:020f}{x:00}
+
+@527
+ trains in martial arts daily.{x:00}
+
+@530
+Commander of Saxen's Fire Dragon Knights. Leads cavalry.{x:00}
+
+@535
+Staff officer of Saxen's Fire Dragon Knights. Leads archers.{x:00}
+
+@540
+Commander of Saxen's Wyvern Knights. Leads infantry.{x:00}
+
+@545
+Staff officer of Saxen's Wyvern Knights. Leads pikemen.{x:00}
+
+@550
+Governor of Grandcour. Younger brother of Saxen's Ferdinand and Theresia. Opposite in nature to{j:0227}{x:00}
+
+@551
+ Ferdinand, at odds with him since boyhood, he shunned the revolt{j:0228}{x:00}
+
+@552
+ and stayed in Grandcour. In battle he is his brother's equal.{n}
+{j:0229}{x:00}
+
+@553
+Careful of his looks, he always puts on perfume before{j:022a}{x:00}
+
+@554
+ battle.{x:00}
+
+@555
+Staff officer of Grandcour's Sun Knights. Leads cavalry.{n}
+{j:022c}{x:00}
+
+@556
+Still young and not much of a team player.{x:00}
+
+@560
+Commander of Grandcour's Moonlight Knights.{n}
+Francois's comrade-in-arms, violent of temper. He counts every enemy he has{j:0231}{x:00}
+
+@561
+ killed, and fights eager to see{j:0232}{x:00}
+
+@562
+ the number grow with each battle.{n}
+{j:0233}{x:00}
+
+@563
+Despite his service to the state,{j:0234}{x:00}
+
+@564
+ his savage nature has held back his promotion.{x:00}
+
+@565
+Staff officer of Grandcour's Moonlight Knights. Leads pikemen.{n}
+{j:0236}{x:00}
+
+@566
+Sleeps a lot; always looks sleepy on the field.{x:00}
+
+@570
+Commander of Grandcour's Comet Knights. Leads cavalry.{x:00}
+
+@575
+Staff officer of Grandcour's Comet Knights. Leads archers.{x:00}
+
+@580
+Commander of Grandcour's Meteor Knights. Leads infantry.{x:00}
+
+@585
+Staff officer of Grandcour's Meteor Knights. Leads pikemen.{x:00}
+
+@590
+Estania's old knight, the only knight who fights with two swords. A fierce warrior in youth,{j:024f}{x:00}
+
+@591
+ he was offered a title but refused it, hating a life bound by custom.{j:0250}{x:00}
+
+@592
+{n}
+Age once made him lay down his sword,{j:0251}{x:00}
+
+@593
+ but as the wars grow worse{j:0252}{x:00}
+
+@594
+ and innocents suffer, he takes it up again.{x:00}
+
+@595
+Staff officer of Estania's Purple Cloud Knights. Experienced but plain, he is overshadowed by Alberto.{j:0254}{x:00}
+
+@596
+ To show his{j:0255}{x:00}
+
+@597
+ loyalty to Estania, he fights against his will.{n}
+{j:0256}{x:00}
+
+@598
+Lately, sick of a life of killing,{j:0257}{x:00}
+
+@599
+ he seeks peace of mind in religion.{x:00}
+
+@600
+Commander of Estania's Heat Haze Knights and granddaughter of old Alberto. Raised wanting for nothing, she is bored with a life lacking in{j:0259}{x:00}
+
+@601
+ excitement.{n}
+{j:025a}{x:00}
+
+@603
+Hearing of Alberto's glorious deeds,{j:025c}{x:00}
+
+@604
+ she took the knight's path over everyone's objections.{x:00}
+
+@605
+Staff officer of Estania's Heat Haze Knights. Leads pikemen.{n}
+{j:025e}{x:00}
+
+@606
+He opposes sending young Bianca to the battlefield,{j:025f}{x:00}
+
+@607
+ but has no choice but to obey her.{x:00}
+
+@610
+Commander of Estania's Firelight Knights. Leads cavalry.{x:00}
+
+@615
+Staff officer of Estania's Firelight Knights. Leads archers.{x:00}
+
+@620
+Commander of Estania's Phantasm Knights. Leads infantry.{x:00}
+
+@625
+Staff officer of Estania's Phantasm Knights. Leads pikemen.{x:00}
+
+@630
+Prince of Mylard. Hot-blooded, a lover of sailing since boyhood. Charmed by the beauty of{j:0277}{x:00}
+
+@631
+ Mary, a noble's daughter, he sets out to win the continent to grant her{j:0278}{x:00}
+
+@632
+ innocent wish.{n}
+Caring nothing for power{j:0279}{x:00}
+
+@633
+ or treasure, he will win anything Mary wants,{j:027a}{x:00}
+
+@634
+ even by war.{x:00}
+
+@635
+Staff officer of Mylard's White Whale Knights. Born on Prince Willem's birthday, he is raised by Mylard law{j:027c}{x:00}
+
+@636
+ with the{j:027d}{x:00}
+
+@637
+ Prince.{n}
+{j:027e}{x:00}
+
+@638
+His sword skill wins him leave{j:027f}{x:00}
+
+@639
+ to stay at the castle past the age limit of 18.{x:00}
+
+@640
+Commander of Mylard's Wave Fang Knights. She loved Willem, but on learning he loves Mary{j:0281}{x:00}
+
+@641
+ she decided her role is to make Willem's dream come true.{j:0282}{x:00}
+
+@642
+ Now she is like an elder sister to him.{j:0283}{x:00}
+
+@643
+ Lately she has come to question sacrificing many lives just for{j:0284}{x:00}
+
+@644
+ one person's feelings.{x:00}
+
+@645
+Staff officer of Mylard's Wave Fang Knights. Leads pikemen.{n}
+{j:0286}{x:00}
+
+@646
+Prefers solitude and has a shadowy air.{x:00}
+
+@650
+Commander of Mylard's Sea Tiger Knights. Leads cavalry.{x:00}
+
+@655
+Staff officer of Mylard's Sea Tiger Knights. Leads archers.{x:00}
+
+@660
+Commander of Mylard's Whirlpool Knights. Leads infantry.{x:00}
+
+@665
+Staff officer of Mylard's Whirlpool Knights. Leads pikemen.{x:00}
+
+@670
+Chief Advisor of Fenrir. Famed from youth as the continent's strongest woman knight.{j:029f}{x:00}
+
+@671
+ She is a match for any nation's finest knights.{j:02a0}{x:00}
+
+@672
+ Her crimson armour earns her the name "Crimson Phantom".{j:02a1}{x:00}
+
+@673
+ Her pride as a knight is great.{n}
+She is married to Gustav.{x:00}
+
+@675
+Staff officer of Fenrir's Rime Knights. In woman-led Fenrir, his rise is rare for a man. Calm in battle, he wins again and again{j:02a4}{x:00}
+
+@676
+ and is nicknamed the "Giant of the North".{j:02a5}{x:00}
+
+@677
+ Loved by the people; while he and his wife Frederica live,{j:02a6}{x:00}
+
+@678
+ Fenrir is thought safe.{n}
+{j:02a7}{x:00}
+
+@679
+Before he married, the Queen and Sophia both secretly adored him.{x:00}
+
+@680
+Commander of Fenrir's Ice Fog Knights. While an unknown knight, he attended a royal ceremony and{j:02a9}{x:00}
+
+@681
+ fell for the Queen's sister Sophia at first sight. Since then he{j:02aa}{x:00}
+
+@682
+ wears flashy armour to catch her eye.{n}
+{j:02ab}{x:00}
+
+@683
+His deeds in battle won him swift promotion.{j:02ac}{x:00}
+
+@684
+ He dreams of rising higher still, to a rank worthy of Sophia.{x:00}
+
+@685
+Staff officer of Fenrir's Ice Fog Knights. Summons holy soldiers.{j:02ae}{x:00}
+
+@686
+ Pays more heed to beauty and style than most.{x:00}
+
+@690
+Commander of Fenrir's Ice Ring Knights. Leads cavalry.{x:00}
+
+@695
+Staff officer of Fenrir's Ice Ring Knights. Leads archers.{x:00}
+
+@700
+Commander of Fenrir's Ice Blade Knights. Leads infantry.{x:00}
+
+@705
+Staff officer of Fenrir's Ice Blade Knights. Leads pikemen.{x:00}
+
+@710
+Archbishop of Naxos Cathedral in the Papal Domain. Like any priest, he{j:02c7}{x:00}
+
+@711
+ usually collects alms from the people and spreads{j:02c8}{x:00}
+
+@712
+ God's gospel.{n}
+{j:02c9}{x:00}
+
+@713
+But when the Pope is in danger, he{j:02ca}{x:00}
+
+@714
+ leads the Pope's own Knights of St. Matthaus into battle himself.{x:00}
+
+@715
+Staff officer of the Knights of St. Matthaus. Leads pikemen.{n}
+{j:02cc}{x:00}
+
+@716
+Usually serves as a bishop.{x:00}
+
+@720
+An Emperor of Ragail royal blood.{j:02d1}{x:00}
+
+@721
+ He murdered his three brothers, rival{j:02d2}{x:00}
+
+@722
+ claimants, to take the throne. His only kin is his daughter{j:02d3}{x:00}
+
+@723
+ Margarete.{n}
+He burns to expand west{j:02d4}{x:00}
+
+@724
+ and unite the continent, and is still physically strong.{x:00}
+
+@725
+Rana's Chancellor. Usurping the Emperor's place, he holds{j:02d6}{x:00}
+
+@726
+ real power. He builds up the army and{j:02d7}{x:00}
+
+@727
+ taxes and works the people{j:02d8}{x:00}
+
+@728
+ hard.{n}
+{j:02d9}{x:00}
+
+@729
+He worries over the Emperor's feud with the Pope.{x:00}
+
+@730
+Only daughter of Emperor Friedolm II. Her mother died early,{j:02db}{x:00}
+
+@731
+ so perhaps she is mature beyond her years. A beauty, but her gaze{j:02dc}{x:00}
+
+@732
+ is cold like her father's, and she rarely smiles.{n}
+{j:02dd}{x:00}
+
+@733
+She knows that on the throne, her ability will sway{j:02de}{x:00}
+
+@734
+ the nation.{x:00}
+
+@735
+Prince of Saxen. Feuerbach's eldest son.{n}
+{j:02e0}{x:00}
+
+@736
+A gentle youth who loves growing plants. Some fear he is too{j:02e1}{x:00}
+
+@737
+ gentle, but his policies beautifying towns and strengthening order{j:02e2}{x:00}
+
+@738
+ win him wide support.{n}
+{j:02e3}{x:00}
+
+@739
+Theresia is his best confidante.{x:00}
+
+@740
+Regent of Grandcour. After the death of Ragail's last king,{j:02e5}{x:00}
+
+@741
+ he rules as a despot. He failed to stop Feuerbach's revolt, but held the{j:02e6}{x:00}
+
+@742
+ troubled realm together. He burns to make Grandcour as strong as Ragail once was{j:02e7}{x:00}
+
+@743
+ and to unite the continent.{n}
+{j:02e8}{x:00}
+
+@744
+A harsh disciplinarian, he punishes even the smallest mistake.{x:00}
+
+@745
+Once a marquis of an old Ragail house, now Chairman of Estania's Noble Council. When Ragail split, Grandcour and{j:02ea}{x:00}
+
+@746
+ Saxen sought his help, but he chose neutral Estania to keep out of{j:02eb}{x:00}
+
+@747
+ the bloody feud.{n}
+{j:02ec}{x:00}
+
+@748
+In the Council, Lorenzo{j:02ed}{x:00}
+
+@749
+ has him on the ropes, and his seat is in danger.{x:00}
+
+@750
+A former Ragail count. When Ragail split, he gave land to{j:02ef}{x:00}
+
+@751
+ fleeing nobles and used that base to wield{j:02f0}{x:00}
+
+@752
+ great sway in the Council.{j:02f1}{x:00}
+
+@753
+ A hardliner bent on war, he drew neutral Estania{j:02f2}{x:00}
+
+@754
+ into the fighting.{x:00}
+
+@755
+Half-brother of King Alexios III. Hot-tempered, angered by trifles.{j:02f4}{x:00}
+
+@756
+ Bitterly resenting the undignified king and the wilful prince,{j:02f5}{x:00}
+
+@757
+ he is convinced that he alone upholds the nation's prestige.{j:02f6}{x:00}
+
+@758
+{x:00}
+
+@760
+Queen of Fenrir. Devout, she prays every morning and night.{j:02f9}{x:00}
+
+@761
+ While other nations only spread war, she{j:02fa}{x:00}
+
+@762
+ vowed to use force only for defence, winning her people's{j:02fb}{x:00}
+
+@763
+ support.{n}
+Though queen,{j:02fc}{x:00}
+
+@764
+ she can rarely defy her mother, the former Queen.{x:00}
+
+@765
+The former Queen, and mother of Queen Christina IV.{j:02fe}{x:00}
+
+@766
+ Seeing her eldest mature, she handed{j:02ff}{x:00}
+
+@767
+ over early to steady the realm.{j:0300}{x:00}
+
+@768
+ She is the Queen's emotional support and still holds political influence.{n}
+{j:0301}{x:00}
+
+@769
+She urges the Queen to build up forces to hold Fenrir's lands.{x:00}
+
+@770
+A brigand chief. When the world fell into chaos, he turned brigand at once to feed his family.{j:0303}{x:00}
+
+@771
+{n}
+A known rogue since boyhood, feared even by his men.{j:0304}{x:00}
+
+@772
+{n}
+Settles everything with violence.{x:00}
+
+@775
+A pirate chief. Once head of a merchant fleet, but as war spread,{j:0308}{x:00}
+
+@776
+ trade became impossible and he sank to piracy.{j:0309}{x:00}
+
+@777
+{n}
+Backed by a powerful patron,{j:030a}{x:00}
+
+@778
+ he has become a major force and raids the coast{j:030b}{x:00}
+
+@779
+ from west to south, preying on warships as well as merchantmen.{x:00}
+
+@780
+Great King of the Humers' realm in the eastern mountains. Using{j:030d}{x:00}
+
+@781
+ the continent's chaos, he aims to expand into infidel lands.{n}
+{j:030e}{x:00}
+
+@782
+Deified among his people and charismatic enough to be worshipped,{j:030f}{x:00}
+
+@783
+ he is exclusive, denies other peoples and attacks them all.{x:00}
+
+@785
+A political scholar in Rana with democratic ideas.{j:0312}{x:00}
+
+@788
+He wants to help those crushed by taxes,{j:0315}{x:00}
+
+@789
+ but is unsure how to push for democracy against imperial rule.{x:00}
+
+@790
+A tenant farmer in rural Estania. He works hard, yet{j:0317}{x:00}
+
+@791
+ his work is seldom rewarded; he stays poor.{n}
+{j:0318}{x:00}
+
+@792
+As control of his land passes from the king to the Council, he hopes{j:0319}{x:00}
+
+@793
+ democracy will improve his life. His dream is to raise{j:031a}{x:00}
+
+@794
+ a plain, happy family.{x:00}
+
+@795
+A farm girl of Grandcour.{j:031c}{x:00}
+
+@796
+ She has a mystical air. A fierce patriot, though young she worries for Grandcour's{j:031d}{x:00}
+
+@797
+ future. Very pious,{j:031e}{x:00}
+
+@798
+ she goes to church each morning to pray{j:031f}{x:00}
+
+@799
+ for peace to come soon.{x:00}
+
+@800
+He became Pope of the Wigg Church at 17.{j:0321}{x:00}
+
+@801
+ Nations then vied to donate land and gold, and the Church's{j:0322}{x:00}
+
+@802
+ power grew enormous.{n}
+To protect priests, he{j:0323}{x:00}
+
+@803
+ placed all clerical appointments in the Pope's hands,{j:0324}{x:00}
+
+@804
+ which threatened the Holy Emperor, himself a cleric, and soured relations with Rana.{x:00}
+
+@805
+King of Saxen. A former Ragail duke, he used knights' grievances against Regent Clovis{j:0326}{x:00}
+
+@806
+ to revolt. He named the new kingdom the Duchy of Saxen{j:0327}{x:00}
+
+@807
+ and at 45 achieved his ambition of becoming king.{n}
+{j:0328}{x:00}
+
+@808
+His vast lands{j:0329}{x:00}
+
+@809
+ have shrunk, shared among new vassals, and illness saps his strong body.{x:00}
+
+@810
+Queen of Saxen. Eldest of four siblings with Ferdinand, Theresia and Francois.{j:032b}{x:00}
+
+@811
+ At 17 she caught Feuerbach's eye and was forced to become his concubine.{j:032c}{x:00}
+
+@812
+ Soon after, his wife died, and she unexpectedly took her place.{n}
+{j:032d}{x:00}
+
+@813
+She is unhappy living as a queen treated like an ornament.{x:00}
+
+@815
+A noblewoman of Ansbach. With her great wealth she bought Luisa's{j:0330}{x:00}
+
+@816
+ family home and lives there.{n}
+{j:0331}{x:00}
+
+@817
+She hates the sight of blood and cannot even cook meat or fish.{j:0332}{x:00}
+
+@818
+ Seeing Luisa and other mercenaries return from battle bloodied,{j:0333}{x:00}
+
+@819
+ she shows fierce disgust.{x:00}
+
+@820
+King of Grandcour. His father Karl VIII died of illness, and he was crowned at just one.{j:0335}{x:00}
+
+@821
+{n}
+He leaves all politics to Clovis, who steadied{j:0336}{x:00}
+
+@822
+ the realm after Feuerbach's revolt.{x:00}
+
+@825
+A noble's daughter, the fairest girl in the land.{j:033a}{x:00}
+
+@826
+ Picked by Queen Mother Claudia as Karl IX's nurse, she treats him like a younger{j:033b}{x:00}
+
+@827
+ brother.{n}
+She loves music and{j:033c}{x:00}
+
+@828
+ poetry, and forgets that war{j:033d}{x:00}
+
+@829
+ rages just outside the castle.{x:00}
+
+@830
+Mother of King Karl IX.{j:033f}{x:00}
+
+@831
+ She cares nothing for politics; in the revolt she worried more that her party dinner{j:0340}{x:00}
+
+@832
+ would go to waste. She leaves politics entirely to Clovis.{j:0341}{x:00}
+
+@834
+High-born, but an ordinary, devoted mother.{x:00}
+
+@835
+King of Mylard. He leaves military foreign policy to Prince Willem{j:0344}{x:00}
+
+@836
+ and works on domestic affairs. The caring king{j:0345}{x:00}
+
+@837
+ and the brave prince are both very popular.{n}
+{j:0346}{x:00}
+
+@838
+Easygoing, his one flaw is that he{j:0347}{x:00}
+
+@839
+ trusts people too much.{x:00}
+
+@840
+A noble's daughter. Prince Willem's childhood friend and fiancee.{j:0349}{x:00}
+
+@841
+{n}
+She begs Willem to show her the sun setting on the horizon at least once.{j:034a}{x:00}
+
+@842
+{n}
+She often troubles those around her, but means no harm and is hard to dislike.{x:00}
+
+@845
+A Fenrir knight and sister of Queen Christina IV. Still childlike for her age.{j:034e}{x:00}
+
+@846
+ Comparing herself with her sister, she acts grown-up and longs to share in{j:034f}{x:00}
+
+@847
+ government, but the Queen does not allow it.{j:0350}{x:00}
+
+@848
+{n}
+Craving a dramatic romance, she{j:0351}{x:00}
+
+@849
+ waits for a prince on a white horse.{x:00}
+
+@850
+Anastasia's father. An old friend of the hero's father, he takes in the{j:0353}{x:00}
+
+@851
+ orphaned hero.{n}
+{j:0354}{x:00}
+
+@852
+He met Steindorf in an Orbia tavern, they hit it off,{j:0355}{x:00}
+
+@853
+ and parted promising to meet again; they have written since.{n}
+{j:0356}{x:00}
+
+@854
+He looked forward to the hero's future.{x:00}
+
+@855
+A strategist versed in many tactics. He studied past battles so keenly that{j:0358}{x:00}
+
+@856
+ people call him a "murder scholar" behind his back.{j:0359}{x:00}
+
+@857
+{j:035a}{x:00}
+
+@858
+ Even in everyday talk he argues as if in a debate.{x:00}
+
+@860
+A blacksmith of top skill on the continent.{n}
+{j:035d}{x:00}
+
+@861
+He never sells his best work to ordinary shops{j:035e}{x:00}
+
+@862
+ and gives it only to those who can master it.{j:035f}{x:00}
+
+@863
+ Knights and mercenaries desperate for{j:0360}{x:00}
+
+@864
+ his weapons never stop coming.{x:00}
+
+@865
+An inventor in Oristano; Antonio's boyhood partner in mischief.{j:0362}{x:00}
+
+@866
+ He has worried about Antonio ever since he suddenly vanished.{n}
+{j:0363}{x:00}
+
+@867
+He used to loathe mercenaries, but on learning about Antonio,{j:0364}{x:00}
+
+@868
+ he changed his mind.{n}
+{j:0365}{x:00}
+
+@869
+A homebody who loves lazing around the house.{x:00}
+
+@870
+A girl of Homtov, cheerful and brisk. Her father fell in war,{j:0367}{x:00}
+
+@871
+ her mother died of illness, and she lived with her sister Margaret.{n}
+{j:0368}{x:00}
+
+@872
+When brigands targeted her, the hero saved her.{j:0369}{x:00}
+
+@873
+ She gladly sends off her sister{j:036a}{x:00}
+
+@874
+ to chase her dream with the hero.{x:00}
+
+@875
+An Orbia swordmaster, a rare two-sword fighter. The only disciple he{j:036c}{x:00}
+
+@876
+ rated is Steindorf.{n}
+{j:036d}{x:00}
+
+@877
+Deeply grieved by Steindorf's death in battle,{j:036e}{x:00}
+
+@878
+ he is looking for a new successor, but{j:036f}{x:00}
+
+@879
+ will pass on his art only to one with both talent and character.{x:00}
+
+@880
+Tavern singer of Tornio. Loves buying clothes; all her earnings go on them.{x:00}
+
+@885
+Tavern singer of Resnoi. Clingy and tearful, but kind-hearted.{x:00}
+
+@890
+Tavern singer of Giessen. Enjoys bewitching men with her alluring voice.{x:00}
+
+@895
+Tavern singer of Weiden. Lost her parents in the war and works to raise her little sister.{x:00}
+
+@900
+Tavern singer of Plauen. Won the village beauty contest. Enjoys playing the lute.{x:00}
+
+@905
+Tavern singer of Freiheit. A ten-year veteran who likes teasing young men.{x:00}
+
+@910
+Tavern singer of Orbia. A rich merchant's daughter who insists on earning her own keep.{x:00}
+
+@915
+Tavern singer of Homtov. Deeply devout; gives all her earnings to the church.{x:00}
+
+@920
+Tavern singer of Trier. Twists men round her finger with a piercing gaze.{x:00}
+
+@925
+Tavern singer of Ansbach. Dislikes make-up; her motto is "Nature is best".{x:00}
+
+@930
+Tavern singer of Verden. Lively and restless. Hates gloomy men.{x:00}
+
+@935
+Tavern singer of Chatroux. A cheerful girl, always smiling. Enjoys writing poems.{x:00}
+
+@940
+Tavern singer of Orthodox. A former mercenary who loved drink and became a singer.{x:00}
+
+@945
+Tavern singer of Rosfried. Quiet by nature; prefers plain clothes.{x:00}
+
+@950
+Tavern singer of Langres. Likes playing the big sister; treats even older men as children.{x:00}
+
+@955
+Tavern singer of Bastia. Works at the tavern to cure her shyness. Enjoys painting.{x:00}
+
+@960
+Tavern singer of Marsala. Has only just learnt to use make-up. Customers often treat her as a child.{x:00}
+
+@965
+Tavern singer of Loire. Wears heavy make-up; her perfume reaches you from afar.{x:00}
+
+@970
+Tavern singer of Oristano. Despite her meek looks, she loves horse riding.{x:00}
+
+@975
+Tavern singer of Hoick. Likes revealing clothes. Acts on impulse without thinking ahead.{x:00}
+

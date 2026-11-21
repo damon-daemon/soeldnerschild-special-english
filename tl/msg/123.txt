@@ -1,0 +1,297 @@
+@0
+{z}{s:0320}The White Rose Mercenaries are here too. So the enemy isn't only the revolutionaries...{g}{x:00}
+
+@1
+{z}{f}{l:00e7}{s:0001}Say...{w} {a:0000}...{g}{x:00}
+
+@2
+{z}Do we really have to fight these people?{g}{x:00}
+
+@3
+{z}{s:0320}...{g}{x:00}
+
+@4
+{z}{s:0320}{a:0001}... We have no choice.{g}{x:00}
+
+@5
+{z}If we leave it alone, this movement will spread across Rana and the same fighting will break out everywhere.{g}{x:00}
+
+@6
+{z}Other nations would step in, Rana would fall to pieces, and everyone would suffer more than now.{g}{x:00}
+
+@7
+{z}{f}{l:00e7}{s:0001}Yes...{w}{w} But...{g}{x:00}
+
+@8
+{z}{s:0320}I understand her feelings well. Even we knights hate to strike the people.{g}{x:00}
+
+@9
+{z}The ones truly to be hated are only the handful of revolutionaries misleading them.{g}{x:00}
+
+@10
+{z}{s:0320}{a:009d}, they called him... Bring him down and the revolutionary army will fall apart.{g}{x:00}
+
+@11
+{z}{s:0320}So that is the best solution...{g}{x:00}
+
+@12
+{z}{s:0320}Now, let us move out!{g}{x:00}
+
+@13
+{z}{f}{l:00e7}{s:0001}...{g}{x:00}
+
+@14
+{z}What should I do? Can I really fight those people? I don't know...{w}{w} I don't know...{g}{x:00}
+
+@15
+{z}{s:0320}I just can't... I'm sorry...{w}{w} I'm retreating...{g}{x:00}
+
+@16
+{z}{s:0320}To think I'd be beaten by the likes of these...{g}{x:00}
+
+@17
+{z}{s:0320}They're stronger than expected... Be careful, {a:0000}.{g}{x:00}
+
+@18
+{z}{s:0320}Argh...{w}{w} They're better than they look... Withdraw...{g}{x:00}
+
+@19
+{z}{s:0320}Beaten... Sorry...{w}{w} I'm pulling out...{g}{x:00}
+
+@20
+{z}{s:0320}Argh...{w}{w} I took them for mere citizens and grew far too careless...{g}{x:00}
+
+@21
+{z}{s:0320}Lord {a:0060}... I am sorry...{g}{x:00}
+
+@22
+{z}{f}{l:00e7}{s:0001}Even children! Why...{g}{x:00}
+
+@23
+{z}{f}{l:00e7}{s:0001}{a:0000}...{w} please... Don't make me fight any more...{g}{x:00}
+
+@24
+{z}{f}{l:00e7}{s:0001}I can't bear it any more...{w} I can't bear it...{g}{x:00}
+
+@25
+{z}{s:0320}I was only a farmer once myself...{w}{w} Damn it!{g}{x:00}
+
+@26
+{z}{s:0320}We can't let this strife go on... We must bring back peace soon...{g}{x:00}
+
+@27
+{z}{s:0320}Why do you fight so hard? What do you object to in His Majesty's rule?{g}{x:00}
+
+@28
+{z}{s:0320}Rana's knights striking down Rana's people... Can this really be right...{g}{x:00}
+
+@29
+{z}{s:0320}To build a new Rana!{g}{x:00}
+
+@30
+{z}{s:0320}Comrades!{w} The Emperor has sent his knights!{g}{x:00}
+
+@31
+{z}He cuts down even his own people to keep his rule.{w} That is the way of imperial rule!{g}{x:00}
+
+@32
+{z}Now! Take up arms and rise!{g}{x:00}
+
+@33
+{z}We must shed blood. That blood will become a great river and in time a great ocean.{g}{x:00}
+
+@34
+{z}When the Emperor's blood is poured into it, the ocean will become land, the foundation of a new Rana!{g}{x:00}
+
+@35
+{z}{s:0320}Does that {a:009d} really care about Rana, I wonder?{g}{x:00}
+
+@36
+{z}{s:0320}Who knows... What do you think, Captain?{g}{x:00}
+
+@37
+{z}{s:0320}Doesn't matter. So long as we get our pay...{g}{x:00}
+
+@38
+{z}{s:0320}We're not from Rana anyway... True enough.{g}{x:00}
+
+@39
+{z}It seems the enemy has appeared... It's time we moved.{g}{x:00}
+
+@40
+{z}{s:0320}Yes!{g}{x:00}
+
+@41
+{z}{s:0320}Why must everything be settled by force?!{g}{x:00}
+
+@42
+{z}{s:0320}You are the one from before...{w}{w} I see...{w} So you were on the Emperor's side after all...{g}{x:00}
+
+@43
+{z}Without force we cannot overthrow imperial rule... That is plain fact.{g}{x:00}
+
+@44
+{z}If you stand in the way of that, we must defeat you after all!{g}{x:00}
+
+@45
+{z}{s:0320}Wait!{g}{x:00}
+
+@46
+{z}{f}{l:00e7}{s:0001}We have to defeat you...{g}{x:00}
+
+@47
+{z}It is the way that sheds the least blood...{g}{x:00}
+
+@48
+{z}{s:0320}Defeat me, and another revolutionary will rise.{g}{x:00}
+
+@49
+{z}The same strife must not be repeated again and again. I alone will bear that sin.{g}{x:00}
+
+@50
+{z}{s:0320}{a:009d}!{g}{x:00}
+
+@51
+{z}Have you ever thought how the citizens feel, dying because you stirred them up?{g}{x:00}
+
+@52
+{z}{s:0320}Once the Emperor is gone, what then? How will you protect Rana's people?{g}{x:00}
+
+@53
+{z}{s:0320}We will build a republic like Estania's. Knights and mercenaries will serve the people's will.{g}{x:00}
+
+@54
+{z}{s:0320}Estania! That's no republic at all!{g}{x:00}
+
+@55
+{z}A handful of nobles run the government to suit themselves!{g}{x:00}
+
+@56
+{z}{s:0320}I have my own ideas... I will not make everything like Estania.{g}{x:00}
+
+@57
+{z}To realise them, we must win this battle! Let us go!{g}{x:00}
+
+@58
+{z}{s:0320}Play the revolutionary if you like, but don't drag innocent people into it.{g}{x:00}
+
+@59
+{z}{s:0320}They sacrificed their precious lives for Rana.{g}{x:00}
+
+@60
+{z}They surely watch our fight from Heaven.{g}{x:00}
+
+@61
+{z}{s:0320}Oh, please...{w}{w} How very convenient.{g}{x:00}
+
+@62
+{z}If your revolution succeeds, I think you'll turn into a dictator.{g}{x:00}
+
+@63
+{z}{s:0320}!{w}{w}{w} I cannot let those words pass!!{g}{x:00}
+
+@64
+{z}{s:0320}Traitor, inciting rebellion against His Majesty! {a:0060} will send you to Hell!{g}{x:00}
+
+@65
+{z}{s:0320}If only {a:009d} falls... this rebellion should subside...{g}{x:00}
+
+@66
+{z}{s:0320}Heh...{w}{w} So the revolution was not to be...{g}{x:00}
+
+@67
+{z}But surely someone will appear to carry on my will...{g}{x:00}
+
+@68
+{z}{s:0320}Comrades...{w}{w} I could not bring the revolution...{g}{x:00}
+
+@69
+{z}But I believe someone will surely carry on my will...{g}{x:00}
+
+@70
+{z}Until then...{w}{w} live...{w} and gather your strength...{g}{x:00}
+
+@71
+{z}{s:0320}{a:009d}...{w} We shall surely carry on your will...{g}{x:00}
+
+@72
+{z}Everyone, flee for now! Flee and await the next chance!{g}{x:00}
+
+@73
+{z}{s:0320}What! Our client has been killed?{g}{x:00}
+
+@74
+{z}Then we'll pull out too!{g}{x:00}
+
+@75
+{z}{s:0320}Phew...{w}{w} {a:009d} is down...{g}{x:00}
+
+@76
+{z}Will the citizens quieten down now...{g}{x:00}
+
+@77
+{z}{s:0320}...{g}{x:00}
+
+@78
+{z}{s:0320}Lord {a:0060} has fallen, but we have put down the revolutionary army...{g}{x:00}
+
+@79
+{z}{f}{l:00e7}{s:0001}...{g}{x:00}
+
+@80
+{z}That was a terribly painful fight... Those people were guilty of nothing...{g}{x:00}
+
+@81
+{z}{s:0320}...{g}{x:00}
+
+@82
+{z}{s:0320}We won, but... we took heavy losses ourselves...{g}{x:00}
+
+@83
+{z}I wonder if {a:0001} is all right...{g}{x:00}
+
+@84
+{z}{s:0320}To quell this chaos, it seems the only way is to cut you down.{g}{x:00}
+
+@85
+{z}{s:0320}I cannot lose, for the people of Rana...{w}{w} Here I come!{g}{x:00}
+
+@86
+{z}{s:0320}Not every one of Rana's people wants a republic, I tell you!{g}{x:00}
+
+@87
+{z}{s:0320}You...{w}{w} You are {a:002e} of the White Rose Mercenaries!{g}{x:00}
+
+@88
+{z}{s:0320}Hmph!{w} Don't put on airs! I'll take you on!{g}{x:00}
+
+@89
+{z}{s:0320}Damn...{w}{w} I wanted to see how our revolution turned out before I died...{g}{x:00}
+
+@90
+{z}{s:0320}To die in a place like this... I should never have joined the revolutionary army...{g}{x:00}
+
+@91
+{z}{s:0320}It hurts...{w}{w} I don't want to die...{g}{x:00}
+
+@92
+{z}{s:0320}Long live the revolution!{g}{x:00}
+
+@93
+{z}{s:0320}Mum...{w}{w} I'm sorry...{g}{x:00}
+
+@94
+{z}{s:0320}Well, {a:009d}, this is as far as we go...{g}{x:00}
+
+@95
+{z}But we've earned our pay, so don't think too badly of us...{g}{x:00}
+
+@96
+{z}{s:0320}Damn...{w}{w} To think I would be beaten...{g}{x:00}
+
+@97
+{z}{s:0320}Huff... huff... I have to get away somehow...{g}{x:00}
+
+@98
+{z}{s:0320}{a:0001}...{g}{x:00}
+

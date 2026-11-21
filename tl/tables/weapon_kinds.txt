@@ -1,0 +1,8 @@
+# weapon skills (0x800176b8): KEY|English, at most 6 letters (see tools/tables.py; Japanese: tables.py show weapon_kinds)
+00|Fist
+01|1H Swd
+02|1H Axe
+03|2H Swd
+04|2H Axe
+05|Spear
+06|Dual

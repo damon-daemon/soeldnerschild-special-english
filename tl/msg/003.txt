@@ -1,0 +1,558 @@
+@0
+{z}{f}{l:00d5}{s:02cd}Hmm-hmm-hmmm! Flex those muscles, twitch, twitch!!{g}{x:00}
+
+@1
+{z}{f}{l:00d5}{s:02cd}Wooo, look at me! Behold these beautiful muscles!!{g}{x:00}
+
+@2
+{z}{f}{l:00d5}{s:02cd}Oh, stop it! Don't stare at me so!{g}{x:00}
+
+@3
+{z}{f}{l:00c8}{s:02c0}I am the master of this dojo!!{g}{x:00}
+
+@4
+{z}{f}{l:00c8}{s:02c0}What, you still want more?!{g}{x:00}
+
+@5
+{z}{f}{l:00c8}{s:02c0}Keen, aren't you? Back again?{g}{x:00}
+
+@6
+{z}{f}{l:00c8}{s:02c0}You again! Are you here to learn or not? Make up your mind!{g}{x:00}
+
+@7
+{z}{f}{l:00c8}Well, what will you learn? Speak up!!{x:00}
+
+@8
+{z}This dojo teaches unarmed special moves.{g}{x:00}
+
+@9
+{z}This dojo teaches one-handed sword special moves.{g}{x:00}
+
+@10
+{z}This dojo teaches one-handed axe special moves.{g}{x:00}
+
+@11
+{z}This dojo teaches two-handed sword special moves.{g}{x:00}
+
+@12
+{z}This dojo teaches two-handed axe special moves.{g}{x:00}
+
+@13
+{z}This dojo teaches spear special moves.{g}{x:00}
+
+@14
+{z}You look like a beginner. I'll teach you a move that suits one: {c:05}{p:00}{c:07}!{g}{x:00}
+
+@15
+{z}You have mastered the beginner's moves. Now I'll teach you an intermediate move: {c:05}{p:00}{c:07}!{g}{x:00}
+
+@16
+{z}You lack experience. I can't teach you a second-stage move yet. Come back at {c:05}level 10{c:07}.{g}{x:00}
+
+@17
+{z}You can learn the ultimate technique now. Very well, I'll teach you. The ultimate technique: {c:05}{p:00}{c:07}!{g}{x:00}
+
+@18
+{z}Hmm, you lack experience. It's too early for the ultimate technique. Come back at {c:05}level 20{c:07}.{g}{x:00}
+
+@19
+{z}You have already mastered the ultimate technique. I have no more moves to teach you.{g}{j:0014}{x:00}
+
+@20
+{z}If you want special moves for other weapons, try the dojos in other cities.{g}{x:00}
+
+@21
+{z}{f}{l:00d4}{s:02cc}Results are no matter of luck. Daily practice is what counts!{g}{x:00}
+
+@22
+{z}{f}{l:00d4}{s:02cc}Enter the tournament! And test your true strength!{g}{x:00}
+
+@23
+{z}{f}{l:00d4}{s:02cc}Believe in yourself and train hard! Where there's a will, there's a way!{g}{x:00}
+
+@24
+{z}This move costs {b:00}G to learn. Will you learn it?{x:00}
+
+@25
+{z}Can't pay? Then give it up.{g}{x:00}
+
+@26
+{z}Hmm... You don't have enough for the fee. A pity, but I can't teach you.{g}{x:00}
+
+@27
+{z}Now, follow me and practise! Here we go! {p:00}!{g}{x:00}
+
+@28
+{z}Learned {c:05}{p:00}{c:07}.{g}{x:00}
+
+@29
+{z}What do you want to know?{x:00}
+
+@30
+{z}I'll teach you about commanders. What would you like to ask about?{x:00}
+
+@31
+{z}{c:05}Vitality{c:07}, or {c:05}HP{c:07}, shows how much damage you can endure. The higher it is, the harder you are to fell.{g}{j:0020}{x:00}
+
+@32
+{z}{c:05}Magic power{c:07}, or {c:05}MP{c:07}, shows how much magic you can use. The higher it is, the more spells you can cast.{g}{j:0021}{x:00}
+
+@33
+{z}{c:05}Attack power{c:07}, or {c:05}AT{c:07}, shows how much damage you deal to enemies. It rises when you equip weapons.{g}{j:0022}{x:00}
+
+@34
+{z}{c:05}Defence{c:07}, or {c:05}DF{c:07}, shows how hard you are to damage. It rises when you equip armour and shields.{g}{j:0023}{x:00}
+
+@35
+{z}{c:05}Agility{c:07}, or {c:05}AG{c:07}, shows your hit rate and evasion rate. The higher it is, the easier your attacks land.{g}{j:0024}{x:00}
+
+@36
+{z}{c:05}Magic resistance{c:07}, or {c:05}MR{c:07}, shows how hard you are to damage with attack magic.{j:007a}{x:00}
+
+@37
+{z}{c:05}Mobility{c:07}, or {c:05}MV{c:07}, shows how far your company can move. The higher it is, the farther it can go.{g}{j:0026}{x:00}
+
+@38
+{z}{c:05}Leadership{c:07}, or {c:05}CP{c:07}, is the power that raises your mercenaries' abilities. It's the most important quality in a leader.{g}{x:00}
+
+@39
+{z}{c:05}Commander level{c:07} shows how much battle experience you have.{g}{j:0028}{x:00}
+
+@40
+{z}As you fight, you gather {c:05}experience points{c:07}. When you have gathered enough, your commander level rises.{g}{j:0029}{x:00}
+
+@41
+{z}When your commander level rises, each of your abilities improves a little, and you become a more capable commander.{g}{j:002a}{x:00}
+
+@42
+{z}Two commanders of the same level are not necessarily equally strong. Level only shows how much battle you have seen.{g}{x:00}
+
+@43
+{z}Your {c:05}commander class{c:07} shows which {c:05}unit types{c:07} you can command.{g}{j:002c}{x:00}
+
+@44
+{z}Once your {c:05}commander level{c:07} passes a certain point, you change to a higher commander class. This is called a {c:05}class change{c:07}.{g}{j:002d}{x:00}
+
+@45
+{z}A commander who has changed class can handle higher-ranking mercenaries.{g}{j:002e}{x:00}
+
+@46
+{z}For example, a {c:05}Sword Commander{c:07} can only handle {c:05}Fighters{c:07}.{g}{j:002f}{x:00}
+
+@47
+{z}But a higher {c:05}Sword Elite{c:07} can handle {c:05}Guardians{c:07} as well as {c:05}Fighters{c:07}.{g}{x:00}
+
+@48
+{z}Knowing the traits of unit types is basic for a commander. There are seven unit types. Which would you like to ask about?{x:00}
+
+@49
+{z}Infantry are soldiers handled by classes such as {c:05}Sword Commander{c:07}. Strong against {c:05}pikemen{c:07}, weak against {c:05}cavalry{c:07}.{g}{x:00}
+
+@50
+{z}Pikemen are soldiers handled by classes such as {c:05}Pike Commander{c:07}. Strong against {c:05}cavalry{c:07}, weak against {c:05}infantry{c:07}.{g}{x:00}
+
+@51
+{z}Cavalry are soldiers handled by classes such as {c:05}Horse Commander{c:07}. Strong against {c:05}infantry{c:07}, weak against {c:05}pikemen{c:07}.{g}{x:00}
+
+@52
+{z}Archers are soldiers handled by classes such as {c:05}Bow Commander{c:07}.{g}{j:0038}{x:00}
+
+@53
+{z}Holy soldiers can be led by classes such as {c:05}Summoner{c:07} once {c:05}summoned{c:07} by magic.{g}{j:0039}{x:00}
+
+@54
+{z}Dark soldiers can be led by classes such as {c:05}Necromancer{c:07} once {c:05}summoned{c:07} by magic.{g}{j:003a}{x:00}
+
+@55
+{z}Soldiers only {c:05}pirates{c:07} possess. Strong {c:05}on board ship{c:07}, but weak once they step onto {c:05}land{c:07}.{g}{x:00}
+
+@56
+{z}They can make {c:05}ranged attacks{c:07} with bows. But they can't fight in {c:05}close combat{c:07}, so never put them in the front row.{g}{x:00}
+
+@57
+{z}High in {c:05}vitality{c:07}, {c:05}attack{c:07} and {c:05}defence{c:07}, they're fearsome in {c:05}close combat{c:07}.{g}{j:0078}{x:00}
+
+@58
+{z}Their {c:05}magic resistance{c:07} is very high, so magic attacks hardly work on them.{g}{x:00}
+
+@59
+{z}You can't win melee by brute force. You must learn the factors involved. What would you like to ask about?{x:00}
+
+@60
+{z}Every {c:05}order{c:07} and {c:05}spell{c:07} takes a fixed {c:05}time{c:07} to execute. This is called {c:05}Command Points{c:07}.{g}{j:003d}{x:00}
+
+@61
+{z}Command Points are spent when you execute orders or spells, and slowly build up while you do nothing.{g}{j:003e}{x:00}
+
+@62
+{z}The more {c:05}advanced the spell{c:07}, the more Command Points it needs.{g}{j:003f}{x:00}
+
+@63
+{z}Read the enemy's moves well before you issue orders or cast spells.{g}{j:0040}{x:00}
+
+@64
+{z}Order recklessly and you'll burn your Command Points, then be unable to give orders when it counts.{g}{x:00}
+
+@65
+{z}When you lead {c:05}infantry{c:07}, {c:05}pikemen{c:07} and {c:05}cavalry{c:07}, mind how each matches up against the others.{g}{j:0042}{x:00}
+
+@66
+{z}Each unit type has foes it beats and foes it fears. It's a three-way standoff, like rock, paper, scissors.{g}{j:0079}{x:00}
+
+@67
+{z}If infantry stand in the enemy's front row and you have cavalry, send them to the front.{g}{x:00}
+
+@68
+{z}The terrain where companies fight affects the soldiers' {c:05}defence{c:07}. This is called the {c:05}terrain effect{c:07}.{g}{j:0045}{x:00}
+
+@69
+{z}By checking the makeup of your company and the enemy's, you can judge where fighting favours you.{g}{j:0046}{x:00}
+
+@70
+{z}Cavalry excel on {c:05}roads{c:07} and {c:05}grasslands{c:07}, but weaken at {c:05}sea{c:07}, in {c:05}castles{c:07} and {c:05}forts{c:07}.{g}{j:0047}{x:00}
+
+@71
+{z}{c:05}Infantry{c:07}, {c:05}pikemen{c:07} and {c:05}archers{c:07} gain defence inside buildings such as {c:05}castles{c:07}, and are average elsewhere.{g}{j:0048}{x:00}
+
+@72
+{z}{c:05}Holy{c:07} and {c:05}dark soldiers{c:07} perform evenly on any terrain.{g}{x:00}
+
+@73
+{z}The soldiers' eagerness for battle is shown by their {c:05}morale{c:07}.{g}{j:004a}{x:00}
+
+@74
+{z}Morale affects the soldiers' {c:05}agility{c:07}. The higher it is, the more easily their attacks land.{g}{j:004b}{x:00}
+
+@75
+{z}Morale slowly falls with every battle. It also falls when a soldier dies.{g}{j:004c}{x:00}
+
+@76
+{z}Even the strongest enemy can be beaten if you lower its morale.{g}{j:004d}{x:00}
+
+@77
+{z}To {c:05}recover{c:07} morale, {c:05}wait{c:07} during a march. Waiting in a {c:05}fort{c:07} or {c:05}castle{c:07} restores it greatly.{g}{x:00}
+
+@78
+{z}If the front rows differ in number of soldiers, the intimidation affects {c:05}attack{c:07} and {c:05}defence{c:07}.{g}{j:004f}{x:00}
+
+@79
+{z}A larger number raises attack and defence; a smaller number lowers them.{g}{j:0050}{x:00}
+
+@80
+{z}Avoid putting a small platoon in the front row. It will be crushed at once.{g}{x:00}
+
+@81
+{z}A melee battlefield is divided into three areas: the {c:05}enemy camp{c:07}, the {c:05}centre{c:07} and your {c:05}camp{c:07}.{g}{j:0052}{x:00}
+
+@82
+{z}In the enemy camp, {c:05}morale{c:07} falls less when soldiers die, but {c:05}defence{c:07} drops slightly.{g}{j:0053}{x:00}
+
+@83
+{z}Fight in the enemy camp for back-to-back battles, and in your own camp to conserve your strength.{g}{x:00}
+
+@84
+{z}I can't grant you magic. But I know well how to put it to use. What would you like to ask about?{x:00}
+
+@85
+{z}{c:05}Attack magic{c:07} damages soldiers within a certain range. The range differs with each spell.{g}{j:0056}{x:00}
+
+@86
+{z}The higher the caster's {c:05}magic resistance{c:07}, or {c:05}MR{c:07}, the more damage the soldiers in range take.{g}{j:0057}{x:00}
+
+@87
+{z}The higher the {c:05}magic resistance{c:07} of the soldiers in range, the less damage they take.{g}{x:00}
+
+@88
+{z}{c:05}Healing magic{c:07} restores the vitality of a chosen target. The target differs with each spell.{g}{j:0059}{x:00}
+
+@89
+{z}A dead soldier never comes back. When your men take damage, heal them quickly.{g}{j:005a}{x:00}
+
+@90
+{z}Put at least one commander who can use healing magic in each company.{g}{x:00}
+
+@91
+{z}{c:05}Support magic{c:07} raises or lowers four factors: {c:05}attack{c:07}, {c:05}defence{c:07}, {c:05}agility{c:07} and {c:05}magic resistance{c:07}.{g}{j:005c}{x:00}
+
+@92
+{z}You'll be sure to need it against a strong foe. Its effect is great.{g}{x:00}
+
+@93
+{z}{c:05}Special magic{c:07} has five kinds: {c:05}Summon{c:07}, {c:05}Dismiss{c:07}, {c:05}Order Seal{c:07}, {c:05}Magic Seal{c:07} and {c:05}Nullify{c:07}.{g}{j:005e}{x:00}
+
+@94
+{z}{c:05}Summon{c:07} calls forth {c:05}holy{c:07} or {c:05}dark soldiers{c:07}. {c:05}Dismiss{c:07} sends them back to the earth.{g}{j:005f}{x:00}
+
+@95
+{z}{c:05}Order Seal{c:07} confuses the enemy so that, for a time, they can give no {c:05}orders{c:07} at all.{g}{j:0060}{x:00}
+
+@96
+{z}{c:05}Magic Seal{c:07} casts a barrier over the field so that, for a time, no {c:05}magic{c:07} can be used. It binds both armies.{g}{j:0061}{x:00}
+
+@97
+{z}{c:05}Nullify{c:07} cancels all effects of {c:05}support magic{c:07}. The effects vanish for both armies.{g}{x:00}
+
+@98
+{z}Duels are my speciality. What would you like to ask about?{x:00}
+
+@99
+{z}{c:05}Focus{c:07} is the command to build up {c:05}TP{c:07}, or {c:05}Technical Points{c:07}, which{j:0064}{x:00}
+
+@100
+ special moves and counters need.{g}{z}Use it when you absolutely must use a special move.{g}{x:00}
+
+@101
+{z}A {c:05}special move{c:07} can be used once you have built up enough {c:05}TP{c:07}.{g}{j:0066}{x:00}
+
+@102
+{z}Unlike an {c:05}attack{c:07}, it can't be {c:05}dodged{c:07} or {c:05}countered{c:07}. It always hits.{g}{j:0067}{x:00}
+
+@103
+{z}It's very effective against enemies who excel at dodging.{g}{j:0068}{x:00}
+
+@104
+{z}The {c:05}TP{c:07} cost differs with each special move. To use a powerful one, you must build up enough TP.{g}{x:00}
+
+@105
+{z}{c:05}Guard{c:07} is the command that cuts the damage you take from the enemy in {c:05}half{c:07}.{g}{j:006a}{x:00}
+
+@106
+{z}It can halve even damage from a {c:05}special move{c:07}.{g}{j:006b}{x:00}
+
+@107
+{z}When you sense the enemy is about to use a special move, guard at once.{g}{x:00}
+
+@108
+{z}{c:05}Dodge{c:07} is the command to evade an enemy attack. If it succeeds, your {c:05}TP{c:07} rises and you take no damage.{g}{j:006d}{x:00}
+
+@109
+{z}But if it fails, you take damage and your TP does not rise.{g}{j:006e}{x:00}
+
+@110
+{z}Also, you can't dodge a {c:05}special move{c:07}, so don't use it when the enemy looks about to launch one.{g}{x:00}
+
+@111
+{z}{c:05}Counter{c:07} is the command to dodge an enemy attack and strike back at once.{g}{j:0070}{x:00}
+
+@112
+{z}It costs {c:05}TP{c:07}, so you can't use it when you haven't built up enough.{g}{j:0071}{x:00}
+
+@113
+{z}If the counter fails, you take damage.{g}{j:0072}{x:00}
+
+@114
+{z}Also, you can't counter a {c:05}special move{c:07}, so don't use it when the enemy looks about to launch one.{g}{x:00}
+
+@115
+{z}If you've no will to learn, get out of here!{g}{x:00}
+
+@116
+{z}You have real talent. Keep training hard!{g}{x:00}
+
+@117
+{z}Those with ambition are always welcome here!{g}{x:00}
+
+@119
+{z}The command for a normal {c:05}attack{c:07}. Unlike a {c:05}special move{c:07}, it can be {c:05}dodged{c:07} or {c:05}countered{c:07}.{g}{x:00}
+
+@120
+{z}Its {c:05}magic resistance{c:07} is low, so it is weak against magic attacks.{g}{x:00}
+
+@121
+{z}{c:05}Infantry{c:07} beat {c:05}pikemen{c:07}, {c:05}pikemen{c:07} beat {c:05}cavalry{c:07}, and {c:05}cavalry{c:07} beat {c:05}infantry{c:07}.{g}{j:0043}{x:00}
+
+@122
+ The higher it is, the less damage you take.{g}{z}It also affects the power of your own attack magic. The higher it is, the more damage you deal.{g}{j:0025}{x:00}
+
+@150
+{z}{f}{l:00c8}You're a keen one. Coming here every day... but I've nothing left to teach you.{w}{w}{w}{x:00}
+
+@151
+{z}{f}{l:0002}Then you're not much of a master, are you?{w}{w}{z}Tsk... I'll try the training ground in another town...{w}{w}{z}{f}{l:00c8}What will you do with all that{j:0098}{x:00}
+
+@152
+ strength? Enter the tournament?{w}{w}{w}{x:00}
+
+@153
+{z}{f}{l:0002}Not really...{w} I just want to get stronger.{w}{w}{z}I can't stand that there's someone in this world I can't beat.{w}{w}{w}{x:00}
+
+@154
+Having won his revenge, Ryuk{x:00}
+
+@155
+trained hard to challenge{x:00}
+
+@156
+"the stronger ones."{x:00}
+
+@157
+Before he knew it, becoming{x:00}
+
+@158
+the strongest man on the{x:00}
+
+@159
+continent had become his goal...{x:00}
+
+@165
+{z}{f}{l:00c8}You're a keen one. The town is at peace now, yet you still come to train every day.{w}{w}{w}{w}{x:00}
+
+@166
+{z}{f}{l:0002}If you get lazy because it's peaceful, your body goes soft too.{w}{w}{w}{z}{f}{l:00c8}And what will you do with all that strength?{j:00a7}{x:00}
+
+@167
+ Enter the tournament, perhaps?{w}{w}{w}{x:00}
+
+@168
+{z}{f}{l:0002}For when the time comes... Who knows what lies ahead...{w}{w}{w}{z}{f}{l:00c8}Ahead...?{w}{w}{x:00}
+
+@170
+Though the continent had been{x:00}
+
+@171
+unified, this peace was only{x:00}
+
+@172
+fleeting, Ryuk felt deep{x:00}
+
+@173
+down.{x:00}
+
+@174
+With the instincts honed in his{x:00}
+
+@175
+mercenary days, he could smell{x:00}
+
+@176
+trouble brewing...{x:00}
+
+@180
+{z}{f}{l:00d5}{s:02cc}Cast Mega Force twice and you get the same effect as Giga Force!{g}{j:00b5}{x:00}
+
+@181
+{z}Casting Giga Force two or more times changes nothing.{g}{j:00b6}{x:00}
+
+@182
+{z}So cast other support magic, like Giga Armour or Giga Quick.{g}{x:00}
+
+@183
+{z}{f}{l:00d5}{s:02cc}Brigands, bandits and foreign tribes only field infantry!{g}{j:00b8}{x:00}
+
+@184
+{z}So for bandit-hunting jobs, plenty of cavalry gives you the edge.{g}{j:00b9}{x:00}
+
+@185
+{z}Pirates are the exception: they have sailors, so watch out.{g}{x:00}
+
+@186
+{z}{f}{l:00d5}{s:02cc}Commanders learn spells and buy items with their share of the pay after a battle.{g}{j:00bb}{x:00}
+
+@187
+{z}Fail a mission and there's no share, so your men can't shop or learn spells.{g}{x:00}
+
+@189
+{z}{f}{l:00d5}{s:02cc}To be a fine commander you need to know the art of war, they say.{g}{j:00be}{x:00}
+
+@190
+{z}Ask the master if you want to learn it. I gave up; I'm not clever enough.{g}{x:00}
+
+@192
+{z}{f}{l:00d5}{s:02cc}Line up two archer platoons and your bow attacks get stronger!{g}{j:00c1}{x:00}
+
+@193
+{z}Don't make all three platoons archers. You'll get beaten in close combat.{g}{x:00}
+
+@195
+{z}{f}{l:00d5}{s:02cc}Watch out for dark commanders. They use powerful attack magic.{g}{x:00}
+
+@198
+{z}{f}{l:00d5}{s:02cc}Holy commanders are good at healing magic.{g}{j:00c7}{x:00}
+
+@199
+{z}Take them out before they cast it!{g}{x:00}
+
+@201
+{z}{f}{l:00d5}{s:02cc}Are you using Drain magic?{g}{j:00ca}{x:00}
+
+@202
+{z}Drain is pointless on its own. Cast attack magic after it.{g}{x:00}
+
+@204
+{z}{f}{l:00d5}{s:02cc}Support magic only lasts for one melee battle.{g}{j:00cd}{x:00}
+
+@205
+{z}Casting it just before time runs out is a waste!{g}{x:00}
+
+@207
+{z}{f}{l:00d5}{s:02cc}Special moves come in three stages!{g}{j:00d0}{x:00}
+
+@208
+{z}I'm training for the second stage. I want to learn the third-stage ultimate technique soon!{g}{x:00}
+
+@210
+{z}{f}{l:00d5}{s:02cc}If morale differs greatly, it's no contest even when abilities are equal.{g}{j:00d3}{x:00}
+
+@211
+{z}Compare your morale with the enemy's before you fight.{g}{x:00}
+
+@213
+{z}{f}{l:00d5}{s:02cc}Beat the enemy company captain and the enemy retreats, even with platoon leaders left!{g}{j:00d6}{x:00}
+
+@214
+{z}If the captain is in the rear row, aim at him with magic. Bows aren't bad either.{g}{x:00}
+
+@216
+{z}{f}{l:00d5}{s:02cc}If a retreat fails, the commander dies!{g}{j:00d9}{x:00}
+
+@217
+{z}The dead don't come back, so don't force a fight you can't win.{g}{x:00}
+
+@219
+{z}{f}{l:00d5}{s:02cc}Keep sending your company into battle and morale drops fast.{g}{j:00dc}{x:00}
+
+@220
+{z}Have it wait to raise morale. Spells like Bravery work too.{g}{x:00}
+
+@222
+{z}{f}{l:00d5}{s:02cc}To win the arena, training alone won't do.{g}{j:00df}{x:00}
+
+@223
+{z}You need proper equipment. Armour especially matters!{g}{x:00}
+
+@225
+{z}{f}{l:00d5}{s:02cc}They say Smiley of the Funeral Mercenaries can use the legendary spell Inferno.{g}{j:00e2}{x:00}
+
+@226
+{z}Hit by that, there'd be not a bone left!{g}{x:00}
+
+@228
+{z}{f}{l:00d5}{s:02cc}The special moves you can use change with your equipped weapon!{g}{j:00e5}{x:00}
+
+@229
+{z}For example, to use spear moves, equip a spear.{g}{j:00e6}{x:00}
+
+@230
+{z}To use unarmed moves, equip nothing.{g}{x:00}
+
+@231
+{z}{f}{l:00d5}{s:02cc}In battle you never know when a duel will break out.{g}{j:00e8}{x:00}
+
+@232
+{z}Get the best gear you can. No use regretting it once you're dead!{g}{x:00}
+
+@234
+{z}{f}{l:00d5}{s:02cc}Use your magic wisely, at just the right moment!{g}{j:00eb}{x:00}
+
+@235
+{z}How you use magic can decide the battle!{g}{x:00}
+
+@237
+{z}{f}{l:00d5}{s:02cc}If the battlefield has a fort or castle, make good use of it!{g}{j:00ee}{x:00}
+
+@238
+{z}Infantry, pikemen and archers gain defence. Cavalry lose it, which is bad.{g}{j:00ef}{x:00}
+
+@239
+{z}Wait there and morale recovers twice as fast.{g}{x:00}
+

@@ -1,0 +1,103 @@
+# item descriptions: KEY|English, at most 25 letters (see tools/tables.py; Japanese: tables.py show item_desc)
+00|A short-bladed sword
+01|A common soldier's sword
+02|Slim blade for thrusting
+03|Short, broad, heavy sword
+04|Good to cut and to thrust
+05|Sword with a silver blade
+06|Cursed blade of the East
+07|Used to slay evil spirits
+08|Holds great magical power
+09|A legendary king's sword
+0a|A simply made spear
+0b|A soldier's common spear
+0c|Spear with a broad head
+0d|Head shaped like wings
+0e|Largest head of any spear
+0f|Spear with a complex head
+10|Head forks into three
+11|Noble pikemen's favourite
+12|Can both thrust and cut
+13|Said to be a god's spear
+14|Short-hafted throwing axe
+15|Spike opposite the blade
+16|An age-old battleaxe
+17|Axe with a platinum blade
+18|Mightiest one-handed axe
+19|A sword with a long blade
+1a|A wide-bladed long sword
+1b|An improved long sword
+1c|A stronger broadsword
+1d|A sword as tall as a man
+1e|Good to cut and to thrust
+1f|Holds the sun's power
+20|Finest blade of the East
+21|A legendary hero's sword
+22|Mightiest sword of all
+23|A woodcutter's axe
+24|Heavy axe of the natives
+25|Axe made to cut down foes
+26|Holds the moon's power
+27|Cleaves through anything
+28|A noble's formal wear
+29|A dress for noble parties
+2a|Sewn of the finest silk
+2b|Light armour of leather
+2c|Simple chest armour
+2d|Iron scales sewn together
+2e|Chain covering the body
+2f|Iron plate over the body
+30|Full silver armour
+31|Great magic resistance
+32|Very light and tough
+33|Legendary holy armour
+34|Made of dragon scales
+35|A round wooden shield
+36|Small, light round shield
+37|Shield shaped like a kite
+38|A very large shield
+39|A strong oblong shield
+3a|A shield of platinum
+3b|Studded with many spikes
+3c|Raises defence and magic
+3d|Holds the earth's power
+3e|A god's soul dwells in it
+3f|Makes you feel light
+40|Fills you with strength
+41|Holds Pegasus's power
+42|Worn by a great general
+43|Holds a wind god's power
+44|Made by the god of battle
+45|Holds the angels' power
+46|Holds the earth's power
+47|Holds the spirits' power
+48|Holds the sun's power
+49|Holds the fairies' power
+4a|Holds the heavens' power
+4b|A string of pearls
+4c|A necklace of silver
+4d|A string of black pearls
+4e|Costly pure gold necklace
+4f|Set with a magic stone
+50|From the Madonna's tears
+51|Glows reddish purple
+52|A gem that glows crimson
+53|A gem that glows blue
+54|A gem that glows green
+55|Shines in seven colours
+56|By the finest painter
+57|Carved as a goddess
+58|Artwork from the East
+59|Earrings carved of ivory
+5a|Coral of alluring shape
+5b|Every corner of the world
+5c|Languages of the world
+5d|Tactics of an old general
+5e|Tastes of every land
+5f|Myths of ancient times
+60|Makes food taste better
+61|Plays fine tunes any time
+62|Horn of a legendary beast
+63|Worn by an ancient king
+64|A fan of angel feathers
+65|Steindorf's keepsake

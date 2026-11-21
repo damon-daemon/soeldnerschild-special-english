@@ -1,0 +1,315 @@
+@0
+{z}{s:0320}Sir {a:0000}, you have finally arrived...{g}{x:00}
+
+@1
+{z}Enemy reinforcements will appear shortly. Let us destroy them together and keep them from joining their main force.{g}{x:00}
+
+@2
+{z}{s:0320}Where is Prince {a:007e}?{g}{x:00}
+
+@3
+{z}{s:0320}The White Whale Knights are said to be led by the Prince himself...{g}{x:00}
+
+@4
+{z}{s:0320}The Prince is probably...{w}{w} on a date, I believe. Today I am acting Commander.{g}{x:00}
+
+@5
+{z}{s:0320}A date?{g}{x:00}
+
+@6
+{z}{s:0320}Unbelievable! What a joker, with his own country under attack!{g}{x:00}
+
+@7
+{z}Prince or whatever, are you fine with that? He's off on a date while you risk your life...{g}{x:00}
+
+@8
+{z}{s:0320}I will not allow the Prince to be insulted!{g}{x:00}
+
+@9
+{z}The Prince is a magnificent man. One day he will surely unite the continent and end this war...{g}{x:00}
+
+@10
+{z}For the Prince, I would gladly throw my life away...{g}{x:00}
+
+@11
+{z}{s:0320}Is that so! How impressive!{g}{x:00}
+
+@12
+{z}{s:0320}{a:007f}...{g}{x:00}
+
+@13
+{z}{s:0320}! There's an army over there...{g}{x:00}
+
+@14
+{z}Is that our allied knights...?{w}{w} No...{w}{w} It's the enemy knights!{g}{x:00}
+
+@15
+{z}Men! It's a bad place to fight! Break out to the west!{g}{x:00}
+
+@16
+{z}{s:0320}The enemy seems to be fleeing west, where their main force waits.{g}{x:00}
+
+@17
+{z}Then let us cut them all down first! Come, Sir {a:0000}!{g}{x:00}
+
+@18
+{z}{s:0320}I've been beaten... I'm sorry...{g}{x:00}
+
+@19
+{z}{s:0320}Damn! How did we lose in a pursuit like this?!{g}{x:00}
+
+@20
+{z}{s:0320}We chased them too far...{w}{w} That was a mistake...{g}{x:00}
+
+@21
+{z}{s:0320}Ugh...{w}{w} Beaten... I got carried away...{g}{x:00}
+
+@22
+{z}{s:0320}We took an unexpected counterattack. No help for it... we withdraw...{g}{x:00}
+
+@23
+{z}{s:0320}Ugh...{w}{w} I wanted to see the battle through... Sir {a:0000}, the rest is yours!{g}{x:00}
+
+@24
+{z}{s:0320}Sir {a:0000}!{g}{x:00}
+
+@25
+{z}In this battle, I shall see whether you are fit to be the Prince's right hand.{g}{x:00}
+
+@26
+{z}{s:0320}...{g}{x:00}
+
+@27
+{z}{s:0320}Don't let a single unit escape!{g}{x:00}
+
+@28
+{z}{s:0320}I'll take down as many units as I can!{g}{x:00}
+
+@29
+{z}{s:0320}There are people who'd be troubled if you joined your main force.{g}{x:00}
+
+@30
+{z}{s:0320}Entrusted with the White Whale Knights by Prince {a:007e}, I cannot fight shamefully!{g}{x:00}
+
+@31
+{z}{s:0320}Damn...{w}{w} They caught us. Hit them once, then resume the retreat!{g}{x:00}
+
+@32
+{z}{s:0320}Ignore the others! Whoever lags behind dies!{g}{x:00}
+
+@33
+{z}{s:0320}Sorry, I'm going first! You make sure you escape too! Understood?{g}{x:00}
+
+@34
+{z}{s:0320}See you! We're off to join the main force!{g}{x:00}
+
+@35
+{z}{s:0320}Leaving comrades behind weighs on me, but I must join the main force fast!{g}{x:00}
+
+@36
+{z}{s:0320}We got away somehow. Now to join our allies...{g}{x:00}
+
+@37
+{z}{s:0320}For now we're clearing out! Staying alive is what counts!{g}{x:00}
+
+@38
+{z}{s:0320}So long! Too bad for you!{g}{x:00}
+
+@39
+{z}{s:0320}We're safe now. Heh! Serves you right!{g}{x:00}
+
+@40
+{z}{s:0320}We'll join the main force even if it's just us! The rest, follow after!{g}{x:00}
+
+@41
+{z}{s:0320}The enemy units escaped... The mission has failed, but...{g}{x:00}
+
+@42
+{z}We must still strike the remaining units and support the main force...{g}{x:00}
+
+@43
+{z}{s:0320}Wait! You won't get away!{g}{x:00}
+
+@44
+{z}{s:0320}Ha! Who waits just because he's told to?{g}{x:00}
+
+@45
+{z}But we'll be killed like this... No choice. Come and get us!{g}{x:00}
+
+@46
+{z}{s:0320}I, {a:007f}, shall face you in place of Prince {a:007e} of Mylard!{g}{x:00}
+
+@47
+{z}{s:0320}Cocky whelp! Take a blow from me!{g}{x:00}
+
+@48
+{z}{s:0320}My company is wiped out...{w}{w} But get as many companies out as you can!{g}{x:00}
+
+@49
+{z}{s:0320}Wiped out...? Wiped out?! Not one company got away?!{g}{x:00}
+
+@50
+{z}Ugh...{w}{w} Damn...{g}{x:00}
+
+@51
+{z}{s:0320}We lost... Let's join the units that escaped...{g}{x:00}
+
+@52
+{z}{s:0320}Good! Not one company escaped. Our allied knights were forced to withdraw, though...{g}{x:00}
+
+@53
+{z}{s:0320}We did it...{w}{w} Without reinforcements, the enemy main force will have to withdraw...{g}{x:00}
+
+@54
+{z}It is thanks to your efforts...{g}{x:00}
+
+@55
+{z}Now I can report your achievements to the Prince...{g}{x:00}
+
+@56
+{z}{s:0320}...{g}{x:00}
+
+@57
+{z}{s:0320}In truth, I too am of common birth, like you...{g}{x:00}
+
+@58
+{z}When I see someone like you, I cannot help but cheer you on.{g}{x:00}
+
+@59
+{z}If you became the Prince's right hand, nothing would be more reassuring...{g}{x:00}
+
+@60
+{z}{s:0320}...{g}{x:00}
+
+@61
+{z}{s:0320}Now, please go home and rest well...{g}{x:00}
+
+@62
+{z}{s:0320}{a:007f} truly cares for the Prince.{g}{x:00}
+
+@63
+{z}{s:0320}Sir {a:007f}...{w}{w} I'm a little envious.{g}{x:00}
+
+@64
+{z}To have a lord worth serving is the greatest happiness for a knight, I think...{g}{x:00}
+
+@65
+{z}{s:0320}That man said he'd die for {a:007e}...{g}{x:00}
+
+@66
+{z}If we aim to be Mylard knights, we need that kind of resolve, I guess...{g}{x:00}
+
+@67
+{z}{s:0320}We let the enemy escape... I wonder if the main force is all right...{g}{x:00}
+
+@68
+{z}I wonder how Sir {a:007f} will take this result...{g}{x:00}
+
+@69
+{z}{s:0320}Sir {a:0000}, thank you for your efforts...{g}{x:00}
+
+@70
+{z}{s:0320}But the enemy units escaped... The mission has failed...{g}{x:00}
+
+@71
+{z}{s:0320}What is done is done...{g}{x:00}
+
+@72
+{z}Depending on your showing in this battle, I had thought to place you at the Prince's side...{g}{x:00}
+
+@73
+{z}It seems I misjudged you.{g}{x:00}
+
+@74
+{z}{s:0320}...{g}{x:00}
+
+@75
+{z}{s:0320}Now then, Sir {a:0000}, we return to the castle...{g}{x:00}
+
+@76
+{z}Perhaps we shall meet again somewhere. Until then, farewell...{g}{x:00}
+
+@77
+{z}{s:0320}...{g}{x:00}
+
+@78
+{z}Prince {a:007e} will hear of this failure. The Tigre Mercenaries' standing may well suffer for it...{g}{x:00}
+
+@79
+{z}{s:0320}We let Sir {a:007f} down.{g}{x:00}
+
+@80
+{z}He was commanding in the Prince's place, and lost. He can't face the Prince now...{g}{x:00}
+
+@81
+{z}{s:0320}Sir {a:007f}...{w}{w} I'm a little envious, though.{g}{x:00}
+
+@82
+{z}He truly respects Prince {a:007e}...{g}{x:00}
+
+@83
+{z}Having a lord you can trust must be the greatest happiness for a knight...{g}{x:00}
+
+@84
+{z}{s:0320}A failure is a failure. No use brooding over it...{g}{x:00}
+
+@85
+{z}Let's go back to town too...{g}{x:00}
+
+@86
+{z}{s:0320}{a:007f}, huh...{g}{x:00}
+
+@87
+{z}That man said he'd die for {a:007e}...{g}{x:00}
+
+@88
+{z}If we aim to be Mylard knights, we need that kind of resolve, I guess...{g}{x:00}
+
+@89
+{z}{s:0320}Aw, they got away...{g}{x:00}
+
+@90
+{z}The knights have retreated too. No point fighting any more...{g}{x:00}
+
+@91
+{z}{a:0000}...{w}{w} Shouldn't we withdraw?{g}{x:00}
+
+@92
+{z}{s:0320}Damn! They got away!{g}{x:00}
+
+@93
+{z}So the mission is a failure... No use fighting on.{g}{x:00}
+
+@94
+{z}Let's go home! {a:0000}!{g}{x:00}
+
+@95
+{z}{s:0320}They escaped us...{g}{x:00}
+
+@96
+{z}{a:0001} and the others are down too, so there is no point fighting on.{g}{x:00}
+
+@97
+{z}Let's withdraw... {a:0000}...{g}{x:00}
+
+@98
+{z}{s:0320}It seems they escaped...{g}{x:00}
+
+@99
+{z}Fighting on is just working for free... Let's withdraw! {a:0000}!{g}{x:00}
+
+@100
+{z}{s:0320}So they got out...{g}{x:00}
+
+@101
+{z}Only you and I are left on our side too...{g}{x:00}
+
+@102
+{z}We'd best withdraw here...{g}{x:00}
+
+@103
+{z}{s:0320}A pity... but we have no choice but to withdraw.{g}{x:00}
+
+@104
+{z}Well then...{w} until we meet again!{g}{x:00}
+

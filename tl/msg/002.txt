@@ -1,0 +1,405 @@
+@2
+{z}{f}{l:00c6}{s:02be}Welcome to the Wigg Church.{g}{x:00}
+
+@3
+{z}Ah, I see a holy light behind you. Proof of your good deeds, no doubt. I can tell.{g}{x:00}
+
+@4
+{z}Oh? A dark shadow lies behind you... I pray no calamity befalls you...{g}{x:00}
+
+@5
+{z}{f}{l:00c6}{s:02be}Thank you for your earlier donation.{g}{x:00}
+
+@6
+{z}{f}{l:00c6}{s:02be}Please give a donation for the relief of war orphans...{g}{x:00}
+
+@7
+{z}{f}{l:00c6}What do you wish?{x:00}
+
+@8
+{z}Let us see what aptitude you have.{g}{x:00}
+
+@9
+{z}Donations are used to raise the orphans.{g}{x:00}
+
+@10
+{z}We accept donations from 100 G. How much can you give?{x:00}
+
+@11
+{z}You will not donate...? What a pity.{g}{x:00}
+
+@12
+{z}Ah... I thank you for your kind heart.{g}{x:00}
+
+@13
+{z}The Pope does not receive ordinary folk.{g}{x:00}
+
+@14
+{z}May God's protection be with you...{g}{x:00}
+
+@15
+{z}{f}{l:00c7}{s:02bf}Would you care for a magic item...?{g}{x:00}
+
+@16
+{z}{f}{l:00c7}What would you like...?{x:00}
+
+@17
+{z}You cannot carry any more. Please sell something.{g}{x:00}
+
+@18
+{z}I am afraid you do not have enough gold.{g}{x:00}
+
+@19
+{z}You seem to have nothing to sell...{g}{x:00}
+
+@20
+{z}Er... I am sorry, but we cannot take equipped items.{g}{x:00}
+
+@21
+{z}I am afraid we cannot buy that.{g}{x:00}
+
+@22
+{z}Thank you very much.{g}{x:00}
+
+@23
+{z}Please come again...{g}{x:00}
+
+@24
+{z}You seem to lack the gold. Please come back another time.{g}{x:00}
+
+@25
+{z}Hmm... I have no more spells to teach you. Make good use of the ones you know.{g}{x:00}
+
+@26
+{z}Hmm... It seems this is beyond you for now. Come back at {c:05}level {b:00}{c:07}.{g}{x:00}
+
+@27
+{z}Ah, you have a fine aptitude. You can learn the {c:05}{p:00}{c:07} spell.{g}{j:001c}{x:00}
+
+@28
+{z}Learning it costs {b:00}G. Will you learn it?{x:00}
+
+@29
+{z}In the name of God and the spirits, I grant you {c:05}{p:00}{c:07}. Hah!{w}{w}{g}{x:00}
+
+@30
+{z}Learned {c:05}{p:00}{c:07}.{g}{x:00}
+
+@31
+{z}You seem to have nothing left to sell.{g}{x:00}
+
+@32
+{z}It seems you have no gold. I am afraid I cannot teach you.{g}{x:00}
+
+@33
+{z}That item is equipped... Do you really wish to sell it?{x:00}
+
+@34
+{z}A one-handed sword cannot be held in the left hand alone. I shall unequip the left one.{g}{x:00}
+
+@35
+{z}{f}{l:00d3}{s:02cf}Have you ever met the Pope?{g}{j:0024}{x:00}
+
+@36
+{z}Ah... {w}Just once, I would love to see him...{g}{x:00}
+
+@38
+{z}{f}{l:00d3}{s:02cf}Each city has a church to show the people God's way.{g}{j:0027}{x:00}
+
+@39
+{z}Every church has a priest in charge.{g}{j:0028}{x:00}
+
+@40
+{z}They say a priest knows every spell in the world. Truly great men they are.{g}{x:00}
+
+@41
+{z}{f}{l:00d3}{s:02cf}It is because life is so uncertain in this age that people seek salvation after death.{g}{j:002a}{x:00}
+
+@42
+{z}After all, everyone fears death...{g}{x:00}
+
+@44
+{z}{f}{l:00d3}{s:02cf}Servants of God must not use magic to kill.{g}{j:002d}{x:00}
+
+@45
+{z}The only exception is the Knights of St. Matthaus, the Pope's bodyguard.{g}{j:002e}{x:00}
+
+@46
+{z}And even they may fight only foreign tribes, it is said...{g}{x:00}
+
+@47
+{z}{f}{l:00d3}{s:02cf}The Papal Domain is land the Rana tribe gave to the Pope some 400 years ago.{g}{j:0030}{x:00}
+
+@48
+{z}Pleased, the Pope of the time made Drusus, chief of the Rana, the Holy Emperor.{g}{j:0031}{x:00}
+
+@49
+{z}That is how the Holy Rana Empire was born.{g}{x:00}
+
+@50
+{z}{f}{l:00d3}{s:02cf}Ah, I am glad I joined the Wigg faith. Every day I feel at peace.{g}{x:00}
+
+@53
+{z}{f}{l:00d3}{s:02cf}This cathedral is wonderful every time I see it.{g}{j:0036}{x:00}
+
+@54
+{z}Truly the Pope's own seat. No other city compares.{g}{x:00}
+
+@56
+{z}{f}{l:00d3}{s:02cf}Do you know why no nation lays a hand on the Papal Domain?{g}{j:0039}{x:00}
+
+@57
+{z}Because the Wigg Church is the authority on magic research.{g}{j:003a}{x:00}
+
+@58
+{z}Who knows what would happen if the Wigg Church ever showed its true strength...{g}{x:00}
+
+@59
+{z}{f}{l:00d3}{s:02cf}"Hold out a saving hand to everyone." So the priest taught me.{g}{j:003c}{x:00}
+
+@60
+{z}Why can people not understand that...?{g}{x:00}
+
+@62
+{z}{f}{l:00d3}{s:02cf}They say you cannot be a priest unless you master every spell.{g}{j:003f}{x:00}
+
+@63
+{z}If all the priests on the continent gathered, no order of knights could match them.{g}{j:0040}{x:00}
+
+@64
+{z}But priests serve God, and fighting is forbidden to them.{g}{x:00}
+
+@65
+{z}{f}{l:00d3}{s:02cf}Do you know why no nation can touch the Papal Domain?{g}{j:0042}{x:00}
+
+@66
+{z}They fear being excommunicated by the Pope.{g}{j:0043}{x:00}
+
+@67
+{z}Once excommunicated, they could no longer use magic.{g}{x:00}
+
+@68
+{z}{f}{l:00d3}{s:02cf}The Pope fears an invasion by the foreign tribes.{g}{j:0045}{x:00}
+
+@69
+{z}They follow a religion different from the Wigg faith.{g}{x:00}
+
+@71
+{z}{f}{l:00d3}{s:02cf}Archbishop Ignatius's magical power is beyond measure.{g}{j:0048}{x:00}
+
+@72
+{z}They say Smiley of the Funeral Mercenaries has power to match Ignatius.{g}{x:00}
+
+@74
+{z}{f}{l:00d3}{s:02cf}Do you know the strongest healing spell?{g}{j:004b}{x:00}
+
+@75
+{z}It is called Blessing.{g}{z}They say it fully restores your health, however badly wounded.{g}{x:00}
+
+@77
+{z}{f}{l:00d3}{s:02cf}My son was badly hurt the other day.{g}{j:004e}{x:00}
+
+@78
+{z}But the priest cast a healing spell, and he escaped with his life.{g}{j:004f}{x:00}
+
+@79
+{z}It made me truly grateful for magic.{g}{x:00}
+
+@80
+{z}{f}{l:00d3}{s:02cf}Archbishop Ignatius is the commander of the Knights of St. Matthaus.{g}{j:0051}{x:00}
+
+@81
+{z}Time and again he has driven back the savage foreign tribes.{g}{x:00}
+
+@83
+{z}{f}{l:00d3}{s:02cf}Do you know how the Wigg Church is organised?{g}{j:0054}{x:00}
+
+@84
+{z}At the top is Pope Crotone VII, then Archbishop Ignatius and Bishop Barletta.{g}{j:0055}{x:00}
+
+@85
+{z}Twenty priests in all, sent to the cities, support the Wigg Church.{g}{x:00}
+
+@86
+{z}{f}{l:00d3}{s:02cf}Crotone VII is nearing fifty years on the papal throne.{g}{j:0057}{x:00}
+
+@87
+{z}No Pope in the Wigg Church's history has reigned so long.{g}{x:00}
+
+@89
+{z}{f}{l:00d3}{s:02cf}Archbishop Ignatius oversees the priests in every land.{g}{j:005a}{x:00}
+
+@90
+{z}He also commands the Knights of St. Matthaus.{g}{j:005b}{x:00}
+
+@91
+{z}What a busy man he must be.{g}{x:00}
+
+@92
+{z}{f}{l:00d3}{s:02cf}Ah, why do people use magic to hurt one another?{g}{j:005d}{x:00}
+
+@93
+{z}Magic is meant to hold out a saving hand to people,{g}{z}not to deal death...{g}{j:005e}{x:00}
+
+@94
+{z}How good it would be if magic were only for healing...{g}{x:00}
+
+@100
+{z}{f}{l:00a0}{s:00a0}Fight, trusting in God's protection. Then you shall not be defeated.{g}{x:00}
+
+@101
+{z}{f}{l:00a0}{s:00a0}You... {w}Could you be the {a:0000} the Archbishop spoke of?{g}{z}I am Pope {a:00a0}. Your recent exploits{j:0066}{x:00}
+
+@102
+ have been well reported to me by the Archbishop.{g}{x:00}
+
+@103
+{z}{f}{l:00a0}{s:00a0}Spare no effort, that the Gospel may reach all peoples.{g}{x:00}
+
+@104
+{z}{f}{l:00a0}{s:00a0}You come at a good time... {w}Once again I have a request of you.{g}{z}It is this: I would ask you once more to drive back{j:0069}{x:00}
+
+@105
+ the foreign tribes... {w}But this time, the foe is of another calibre.{g}{z}At last the overlord of the foreign tribes has begun to move,{j:006a}{x:00}
+
+@106
+ with his eye on this continent of Liguria... {w}Even now he advances steadily on us.{g}{z}The knights of every nation do nothing but tear one another apart{j:006b}{x:00}
+
+@107
+ and pay no heed to the enemy we all share... {w}So I ask you once more!{g}{x:00}
+
+@108
+{z}{f}{l:00a0}Meet them head on! And crush them utterly, so they never again dare to eye our continent!{g}{j:006d}{x:00}
+
+@109
+{z}God is watching. You surely cannot lose... {w}As for the reward, see here: I have some 22600 G ready.{g}{z}Will you take it on?{y:00006e0071}{x:00}
+
+@110
+{z}{f}{l:00a0}Well said! Here is an advance. This should be ample.{g}{x:00}
+
+@111
+{z}You received 22600 G.{g}{x:00}
+
+@112
+{z}{f}{l:00a0}Return here once you are ready, and sally forth at once.{g}{x:00}
+
+@113
+{z}{f}{l:00a0}What? I never took you for such a coward... {w}Enough, I shall ask another. Begone!{g}{x:00}
+
+@120
+{z}{f}{l:00a0}{s:00a0}Are you ready?{y:000079007b}{x:00}
+
+@121
+{z}{f}{l:00a0}Good. I have already sent the Knights of St. Matthaus, led by the Archbishop. Fight alongside them.{g}{j:007a}{x:00}
+
+@122
+{z}I am counting on you! The fate of Liguria rests on you!{g}{x:00}
+
+@123
+{z}{f}{l:00a0}Make haste. There is no time to lose!{g}{x:00}
+
+@130
+{z}{f}{l:00a0}{s:00a0}Splendid, {a:0000}! To have defeated even them...{g}{x:00}
+
+@131
+{z}{f}{l:00a0}Next comes the disorder within the continent... {w}I too grieve deeply over its present state.{g}{j:0084}{x:00}
+
+@132
+{z}But I have little military strength... {w}So I wish to leave this matter to you as well.{g}{j:0085}{x:00}
+
+@133
+{z}No, you need not be asked. You seem to know your own mission already...{g}{x:00}
+
+@134
+{z}{f}{l:00a0}God and I are on your side. Go on to do great things!{g}{x:00}
+
+@140
+{z}{f}{l:00a0}{s:00a0}I want no excuses, {a:0000}. {w}Ah, did my eyes deceive me...?{g}{z}The foreign tribes will be dealt with by someone more{j:008d}{x:00}
+
+@141
+ useful than you... {w}I have no more use for you. Leave.{g}{x:00}
+
+@145
+{z}{f}{l:00c6}Lord Guilford! It has been a long time.{w}{w}{j:0092}{x:00}
+
+@146
+{z}I heard you were fighting alongside Lord {a:0000}...{w}{w}{w}{x:00}
+
+@147
+{z}{f}{l:0005}No... in fact, I have just taken my leave of him.{w}{w}{w}{z}And so... I wish to seal away the magic taught in the churches too.{j:0094}{x:00}
+
+@148
+ Will you inform the Pope?{w}{w}{w}{w}{w}{x:00}
+
+@149
+{z}{f}{l:00c6}You think the existence of magic will cause trouble later...{w}{w}{w}{j:0096}{x:00}
+
+@150
+{z}I understand... I shall inform him.{w}{w}{x:00}
+
+@151
+{z}{f}{l:0005}People are happier without needless power...{w}{w}{w}{x:00}
+
+@152
+Guilford was last seen on{x:00}
+
+@153
+that day, and never again.{x:00}
+
+@154
+With that, the age when{x:00}
+
+@155
+humans could wield magic{x:00}
+
+@156
+ended, and the great mage{x:00}
+
+@157
+Guilford became a legend...{x:00}
+
+@158
+{x:00}
+
+@165
+{z}{f}{l:00c6}Lord Guilford! It has been a long time.{w}{w}{j:00a6}{x:00}
+
+@166
+{z}I heard you were fighting alongside Lord {a:0000}...{w}{w}{w}{x:00}
+
+@167
+{z}{f}{l:0005}No... in fact, I have just taken my leave of him.{w}{w}{w}{z}And so... I wish to seal away the magic taught in the churches too.{j:00a8}{x:00}
+
+@168
+ Will you inform the Pope?{w}{w}{w}{w}{w}{x:00}
+
+@169
+{z}{f}{l:00c6}You think the existence of magic will cause trouble later...{w}{w}{w}{j:00aa}{x:00}
+
+@170
+{z}I understand... I shall inform him.{w}{w}{x:00}
+
+@171
+{z}{f}{l:0005}Needless power is the root of all calamity...{w}{w}{w}{x:00}
+
+@172
+Guilford was last seen{x:00}
+
+@173
+on that day, and never{x:00}
+
+@174
+again.{x:00}
+
+@175
+So that none might repeat{x:00}
+
+@176
+his son's mistake, he banished{x:00}
+
+@177
+magic itself from the world,{x:00}
+
+@178
+and vanished with it...{x:00}
+

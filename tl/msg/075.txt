@@ -1,0 +1,318 @@
+@0
+{z}{s:0320}Is that the Tigre Mercenaries coming from over there?{g}{x:00}
+
+@1
+{z}{s:0320}...{w}{w} Yes. There's no mistake.{g}{x:00}
+
+@2
+{z}{s:0320}The enemy hasn't arrived yet, it seems.{g}{x:00}
+
+@3
+{z}{s:0320}They're apparently replenishing their troops in a town on the way.{g}{x:00}
+
+@4
+{z}And word has it they're to join up with a detached force.{g}{x:00}
+
+@5
+{z}{s:0320}What? Reinforcing their arms? Solid thinking.{g}{x:00}
+
+@6
+{z}{s:0320}And joining a detached force on top of that...{g}{x:00}
+
+@7
+{z}{s:0320}They may have hired mercenaries too.{g}{x:00}
+
+@8
+{z}{s:0320}No...{g}{x:00}
+
+@9
+{z}{s:0320}It's not unthinkable.{g}{x:00}
+
+@10
+{z}{s:0320}What should we do...{g}{x:00}
+
+@11
+{z}{s:0320}Hey, calm down.{g}{x:00}
+
+@12
+{z}Sure, the more soldiers you have, the better your odds in battle.{g}{x:00}
+
+@13
+{z}{s:0320}True, but...{g}{x:00}
+
+@14
+{z}{s:0320}Incredible...{g}{x:00}
+
+@15
+{z}{s:0320}No, counting companies, it's about even.{g}{x:00}
+
+@16
+{z}They only look more numerous because they're bunched together. Don't be fooled.{g}{x:00}
+
+@17
+{z}{s:0320}So the enemy has strengthened their arms considerably.{g}{x:00}
+
+@18
+{z}{s:0320}But we have the momentum now.{g}{x:00}
+
+@19
+{z}{s:0320}And besides...{g}{x:00}
+
+@20
+{z}{s:0320}You mean that, don't you?{g}{x:00}
+
+@21
+{z}{s:0320}Yes, {w}{w}that.{g}{x:00}
+
+@22
+{z}{s:0320}Say, do you have any orders on how to fight?{g}{x:00}
+
+@23
+{z}{s:0320}Whatever you do, don't scatter the troops. The rest I leave to you.{g}{x:00}
+
+@24
+{z}{s:0320}Good luck, {a:0000}.{g}{x:00}
+
+@25
+{z}{s:0320}First, we mustn't leave any company isolated.{g}{x:00}
+
+@26
+{z}If that many enemies gang up on one company, it won't last.{g}{x:00}
+
+@27
+{z}{s:0320}The enemy aims to wipe us out and seize this territory...{g}{x:00}
+
+@28
+{z}{s:0320}There is no doubt of it.{g}{x:00}
+
+@29
+{z}{s:0320}Our lives and our livelihoods are all at stake.{g}{x:00}
+
+@30
+{z}{s:0320}Yes.{g}{x:00}
+
+@31
+{z}{s:0320}At this stage there is no great difference between our strength and theirs.{g}{x:00}
+
+@32
+{z}The enemy is split in two. First we must avoid being caught in a pincer...{g}{x:00}
+
+@33
+{z}{s:0320}Right.{g}{x:00}
+
+@34
+{z}{s:0320}Here they come...{g}{x:00}
+
+@35
+{z}{s:0320}Oh? Already started? We're a little late.{g}{x:00}
+
+@36
+{z}{s:0320}No, you've come at a good time.{g}{x:00}
+
+@37
+{z}{s:0320}So, where do we start?{g}{x:00}
+
+@38
+{z}{s:0320}Anything goes? Then I'll take you at your word.{g}{x:00}
+
+@39
+{z}{s:0320}Enemies behind us too... Damn, this is bad.{g}{x:00}
+
+@40
+{z}{s:0320}Everyone, be careful. If the enemy surrounds us, we're finished.{g}{x:00}
+
+@41
+{z}{s:0320}Everyone! If the enemy surrounds us, we're finished! Be careful!{g}{x:00}
+
+@42
+{z}{s:0320}Everyone, watch out! If we get surrounded, it's over!{g}{x:00}
+
+@43
+{z}{s:0320}So the mercenaries really came... Against such a huge army... will they be all right?{g}{x:00}
+
+@44
+{z}{s:0320}{a:0000}, I'm sure you can manage somehow.{g}{x:00}
+
+@45
+{z}{s:0320}We're wiped out... why... when we had such momentum...{g}{x:00}
+
+@46
+{z}{s:0320}We haven't lost just because the knights are gone.{g}{x:00}
+
+@47
+{z}We won't give up.{g}{x:00}
+
+@48
+{z}{s:0320}Such momentum... {w}{w}Such strength... {w}{w}All gone... {w}{w}It's over...{g}{x:00}
+
+@49
+{z}{s:0320}Sorry we couldn't help... We're wiped out...{g}{x:00}
+
+@50
+{z}{s:0320}What? Our mercenaries wiped out? Impossible...{g}{x:00}
+
+@51
+{z}{s:0320}Why... did we lose... when we led such a huge army...{g}{x:00}
+
+@52
+{z}I can't believe it... this lot...{g}{x:00}
+
+@53
+{z}{s:0320}We won... against such a huge army... We won...{g}{x:00}
+
+@54
+{z}Everyone! Well done! We've held this territory!{g}{x:00}
+
+@55
+{z}{s:0320}Our job seems to be done. We'll be heading home.{g}{x:00}
+
+@56
+{z}{s:0320}Our work seems to be done, so... I shall take my leave.{g}{x:00}
+
+@57
+{z}{s:0320}Looks like our job's over. Let's get home quick.{g}{x:00}
+
+@58
+{z}{s:0320}Our job seems to be done. Let's go home.{g}{x:00}
+
+@59
+{z}{s:0320}That's our job done, then. Well, time to go home.{g}{x:00}
+
+@60
+{z}{s:0320}Then, we'll be going now...{g}{x:00}
+
+@61
+{z}{s:0320}The enemy is wiped out! We won!{g}{x:00}
+
+@62
+{z}Everyone! We did it! We held this territory! We beat that huge army!{g}{x:00}
+
+@63
+{z}{s:0320}The enemy seems to be wiped out. Good, we completed the mission.{g}{x:00}
+
+@64
+{z}Good work, everyone. We held this territory, and against that huge army too.{g}{x:00}
+
+@65
+{z}{s:0320}The enemy is gone... We completed the mission.{g}{x:00}
+
+@66
+{z}{a:0000}! We held this place. We beat that huge army!{g}{x:00}
+
+@67
+{z}{s:0320}Phew... at last. The mission is done, for now.{g}{x:00}
+
+@68
+{z}We took losses, but we won, beyond doubt. We defended this place.{g}{x:00}
+
+@69
+{z}{s:0320}Hm... we've completed the mission.{g}{x:00}
+
+@70
+{z}To wipe out such a huge army... You're every bit the man I took you for.{g}{x:00}
+
+@71
+{z}{s:0320}I'm sorry... for being a burden...{g}{x:00}
+
+@72
+{z}{s:0320}Huge army or not... Damn it...{g}{x:00}
+
+@73
+{z}{s:0320}Everyone... I'm sorry... I wasn't strong enough...{g}{x:00}
+
+@74
+{z}{s:0320}I can't go on...{g}{x:00}
+
+@75
+{z}{s:0320}Everyone... forgive me...{g}{x:00}
+
+@76
+{z}{s:0320}Damn... wiped out before the mercenaries...{g}{x:00}
+
+@77
+{z}Stop that huge army... that momentum... Defend this territory...{g}{x:00}
+
+@78
+{z}{s:0320}Oh! The knights! {w}{w}What do we do...{g}{x:00}
+
+@79
+{z}{s:0320}The knights are wiped out... Well, we'll manage the rest somehow.{g}{x:00}
+
+@80
+{z}{s:0320}{a:0000}, give your orders carefully. The enemy will target only us.{g}{x:00}
+
+@81
+{z}{s:0320}We're the enemy's only target. Think it through, Captain.{g}{x:00}
+
+@82
+{z}{s:0320}This is bad... very bad...{g}{x:00}
+
+@83
+{z}{s:0320}So we really can't... stand against a huge army...{g}{x:00}
+
+@84
+{z}{s:0320}I am sorry... I am withdrawing...{g}{x:00}
+
+@85
+{z}{s:0320}Defend... this territory...{g}{x:00}
+
+@86
+{z}{s:0320}With such a huge army, and still... {w}{w}How shameful...{g}{x:00}
+
+@87
+{z}{s:0320}Why... Why must I retreat...{g}{x:00}
+
+@88
+{z}{s:0320}We weren't outnumbered...{g}{x:00}
+
+@89
+{z}{s:0320}Going only for me... You dogs... that's dirty...{g}{x:00}
+
+@90
+{z}{s:0320}This lot... they're no ordinary fighters...{g}{x:00}
+
+@91
+{z}{s:0320}I can't fight shamefully in front of my men!{g}{x:00}
+
+@92
+{z}{s:0320}Same goes for me! Here I come!{g}{x:00}
+
+@93
+{z}{s:0320}I hate cocky young pups like you!{g}{x:00}
+
+@94
+{z}{s:0320}I won't give up this territory!{g}{x:00}
+
+@95
+{z}{s:0320}Oho... spirited, aren't you? Maybe you'll give me some fun.{g}{x:00}
+
+@96
+{z}{s:0320}We're the bigger army!{g}{x:00}
+
+@97
+{z}{s:0320}Relying on numbers won't beat us.{g}{x:00}
+
+@98
+{z}{s:0320}We were told to do as we please, so let's.{g}{x:00}
+
+@99
+{z}I'll go for the regular army. You lot fight however you like.{g}{x:00}
+
+@100
+{z}{s:0320}We're free to target anyone?{g}{x:00}
+
+@101
+{z}{s:0320}We were told to do as we like. Of course we are.{g}{x:00}
+
+@102
+{z}{s:0320}Right! I'll run wild to my heart's content!{g}{x:00}
+
+@103
+{z}{s:0320}To wipe out the enemy, any means will do.{g}{x:00}
+
+@104
+{z}But it's only an advantage. It doesn't guarantee victory.{g}{x:00}
+
+@105
+{z}{s:0320}They're here...{g}{x:00}
+

@@ -1,0 +1,585 @@
+@0
+{z}{s:0320}Mother!{g}{x:00}
+
+@1
+{z}Do you truly mean to stop us from striking down {a:009b}?{g}{x:00}
+
+@2
+{z}{s:0320}We need their strength to keep our nation's economy alive!{g}{x:00}
+
+@3
+{z}They have done so much for us in uniting the continent... I cannot let you strike them down!{g}{x:00}
+
+@4
+{z}{s:0320}Mother...{g}{x:00}
+
+@5
+{z}{s:0320}...{g}{x:00}
+
+@6
+{z}{a:0086}! {a:009b}! {a:0088}! Seize the Queen!{g}{x:00}
+
+@7
+{z}{s:0320}Yes, my lady!{g}{x:00}
+
+@8
+{z}{s:0320}{a:0000}!{w} Now's the time...{g}{x:00}
+
+@9
+{z}You've been a nuisance long enough. Time for you to vanish!{g}{x:00}
+
+@10
+{z}{s:0320}...{g}{x:00}
+
+@11
+{z}So be it... Seize Mother...{w}{w} the former Queen, Caterina!{g}{x:00}
+
+@12
+{z}{s:0320}Yes, Your Majesty!{g}{x:00}
+
+@13
+{z}{s:0320}So mother and daughter must fight, eh...{g}{x:00}
+
+@14
+{z}{s:0320}Turning against Lady {a:0086}, of all people...{g}{x:00}
+
+@15
+{z}{s:0320}Hmph! {a:0000}, you wretch! Today I get my revenge!{g}{x:00}
+
+@16
+{z}{s:0320}Why...{w}{w} Why does it have to come to this?!{g}{x:00}
+
+@17
+{z}Why must friends fight each other?! And just when I thought we had peace!{g}{x:00}
+
+@18
+{z}{s:0320}Mother!{g}{x:00}
+
+@19
+{z}{s:0320}Christina... Call off your troops!{g}{x:00}
+
+@20
+{z}I will not allow you to strike down {a:009b}!{g}{x:00}
+
+@21
+{z}{s:0320}I will not make Fenrir a land of heretics!{g}{x:00}
+
+@22
+{z}If we earn the Pope's wrath, the people of the whole country will suffer!{g}{x:00}
+
+@23
+{z}{s:0320}The Pope no longer has that much power... There is nothing to fear...{g}{x:00}
+
+@24
+{z}{s:0320}Power is not the issue! The people live by their faith...{g}{x:00}
+
+@25
+{z}I cannot take away what supports them!{g}{x:00}
+
+@26
+{z}{s:0320}...{g}{x:00}
+
+@27
+{z}Mother... Am I in the wrong...?{g}{x:00}
+
+@28
+{z}But as Queen, I want to walk the path I believe in!{g}{x:00}
+
+@29
+{z}{s:0320}I'll fight...{g}{x:00}
+
+@30
+{z}Let this be the last battle of its kind!{g}{x:00}
+
+@31
+{z}{s:0320}You never know what will spark a war, do you!{g}{x:00}
+
+@32
+{z}{s:0320}The continent is united, and yet... Are battles still needed?{g}{x:00}
+
+@33
+{z}{s:0320}Only humans fight within a family, eh... The world's no good like this.{g}{x:00}
+
+@34
+{z}{s:0320}Still no end to the age of strife...{w} is that it?{g}{x:00}
+
+@35
+{z}{s:0320}As Queen...{w} I cannot let Fenrir go down the wrong path!{g}{x:00}
+
+@36
+{z}{s:0320}Forgive me for defying Your Majesty...{g}{x:00}
+
+@37
+{z}{s:0320}True, {a:009b} has always been a pillar of Fenrir...{g}{x:00}
+
+@38
+{z}We cannot simply cast them aside... Least of all for Lady {a:0099}...{g}{x:00}
+
+@39
+{z}{s:0320}I can't lose to {a:0000}... Let's go!{g}{x:00}
+
+@40
+{z}{s:0320}Even for the Commander's sake, to fight the Queen...{g}{x:00}
+
+@41
+{z}But...{w} it's too late to back down now!{g}{x:00}
+
+@42
+{z}{s:0320}I cannot abandon those who helped me, not now!{g}{x:00}
+
+@43
+{z}{s:0320}All this time{w} I've supported Fenrir from the shadows...{g}{x:00}
+
+@44
+{z}I won't stand for being treated as a nuisance all of a sudden!{g}{x:00}
+
+@45
+{z}{s:0320}{a:0000}... Protect the Queen to the end...{g}{x:00}
+
+@46
+{z}{s:0320}Beaten, eh... No help for it...{w}{w} Withdraw!{g}{x:00}
+
+@47
+{z}{s:0320}Damn it... Forced to withdraw here...{g}{x:00}
+
+@48
+{z}{s:0320}This is as far as I go... {a:0000}...{w}{w} I leave the rest to you!{g}{x:00}
+
+@49
+{z}{s:0320}Everyone... Stay alert to the very end...{g}{x:00}
+
+@50
+{z}{s:0320}Your Majesty!{g}{x:00}
+
+@51
+{z}By order of Lady Caterina, we shall take Your Majesty into protective custody!{g}{x:00}
+
+@52
+{z}{s:0320}{a:0086}... What you believe is your own affair...{g}{x:00}
+
+@53
+{z}But if you raise your sword to me, you cannot escape the charge of treason.{g}{x:00}
+
+@54
+{z}{s:0320}I was prepared for that from the start...{w}{w} I will offer no excuses now!{g}{x:00}
+
+@55
+{z}{s:0320}Your Majesty! Forgive my discourtesy!{g}{x:00}
+
+@56
+{z}{s:0320}{a:0087}... So even you turn against me...{g}{x:00}
+
+@57
+{z}{s:0320}Both Your Majesty and your lady mother are dear to me...{g}{x:00}
+
+@58
+{z}But I owe my position to your lady mother... I beg your pardon...{g}{x:00}
+
+@59
+{z}{s:0320}Your Majesty... I am truly sorry...{g}{x:00}
+
+@60
+{z}{s:0320}If I lose, {a:00a9} may become the new Queen.{g}{x:00}
+
+@61
+{z}Are you still content with that...?{g}{x:00}
+
+@62
+{z}{s:0320}You knew...?{g}{x:00}
+
+@63
+{z}{s:0320}Heh... What sort of ruler would I be if I didn't?{g}{x:00}
+
+@64
+{z}{s:0320}Your Majesty...{g}{x:00}
+
+@65
+{z}{s:0320}{a:0000}... To me you're nothing but a nuisance!{g}{x:00}
+
+@66
+{z}Now's my chance to get you out of Fenrir!{g}{x:00}
+
+@67
+{z}{s:0320}{a:0088}... Do you fight only for your own ends?{g}{x:00}
+
+@68
+{z}The others may be on different sides, but they fight for Fenrir's sake...{g}{x:00}
+
+@69
+{z}{s:0320}I...{w} will win glory for Lady {a:00a9}!{g}{x:00}
+
+@70
+{z}{s:0320}You're always going on about women! You'll get yourself killed one day!{g}{x:00}
+
+@71
+{z}{s:0320}You're in love with Lady {a:00a9}, aren't you... Take the plunge and confess!{g}{x:00}
+
+@72
+{z}{s:0320}None of your business!{g}{x:00}
+
+@73
+{z}{s:0320}Come on... Nothing will ever change that way...{g}{x:00}
+
+@74
+{z}{s:0320}Shut up! What do you...{w}{w} What could you know?!{g}{x:00}
+
+@75
+{z}{s:0320}Sorry, but we're taking the Queen into custody!{g}{x:00}
+
+@76
+{z}{s:0320}You're a Fenrir knight too! Why defy Her Majesty?!{g}{x:00}
+
+@77
+{z}{s:0320}I simply follow the Commander's orders!{g}{x:00}
+
+@78
+{z}{s:0320}Your Majesty! Are you unharmed?!{g}{x:00}
+
+@79
+{z}{s:0320}Yes... More or less...{g}{x:00}
+
+@80
+{z}{s:0320}It is too dangerous to stay! Please withdraw!{g}{x:00}
+
+@81
+{z}{s:0320}...{g}{x:00}
+
+@82
+{z}Very well...{w}{w} {a:0000}...{w} Please take care of{w} my mother...{g}{x:00}
+
+@83
+{z}{s:0320}Yes... I will bring her to the castle safely...{g}{x:00}
+
+@84
+{z}{s:0320}Damn you, {a:0000}... Remember this!{g}{x:00}
+
+@85
+{z}{s:0320}The Commander has retreated...? Then we have no choice...{w}{w} Retreat!{g}{x:00}
+
+@86
+{z}{s:0320}Eek! R-retreat!{g}{x:00}
+
+@87
+{z}{s:0320}What do you know about it?!{g}{x:00}
+
+@88
+{z}Those who never knew this country's old poverty cannot possibly understand how much wealth the pirates brought us!{g}{x:00}
+
+@89
+{z}When Fenrir was poor, what did the Pope ever do for us?! Nothing at all!{g}{x:00}
+
+@90
+{z}{s:0320}It seems... this is the end...{g}{x:00}
+
+@91
+{z}I can manage the rest alone... Any who survive, retreat!{g}{x:00}
+
+@92
+{z}{s:0320}There is no reason to fight now... I'll hide somewhere for a while...{g}{x:00}
+
+@93
+{z}Lady Caterina... Please be safe...{g}{x:00}
+
+@94
+{z}{s:0320}There's no place for me in this country any more...{g}{x:00}
+
+@95
+{z}{s:0320}Damn you, {a:0000}... Remember this!{g}{x:00}
+
+@96
+{z}{s:0320}I made Fenrir what it is today... Why must I abandon the country...?{g}{x:00}
+
+@97
+{z}{s:0320}Damn... Withdrawing!{g}{x:00}
+
+@98
+{z}{s:0320}I made Fenrir what it is today... Why must I be struck down...?{g}{x:00}
+
+@99
+{z}{s:0320}...{g}{x:00}
+
+@100
+{z}Mother... {a:009b} is dead...{w} Stop fighting and surrender!{g}{x:00}
+
+@101
+{z}{s:0320}{a:009b}...{w} slain...{g}{x:00}
+
+@102
+{z}...{g}{x:00}
+
+@103
+{z}Christina...{w}{w} Making you Queen was my mistake...{g}{x:00}
+
+@104
+{z}I shall have you step down from the throne!{g}{x:00}
+
+@105
+{z}{s:0320}You still mean to fight?!{g}{x:00}
+
+@106
+{z}Why?! There is no reason to fight any more!{g}{x:00}
+
+@107
+{z}{s:0320}Lady {a:0086}... Do you truly mean to defy Her Majesty?{g}{x:00}
+
+@108
+{z}{s:0320}My liege is Lady Caterina. That does not change, even if the enemy is Her Majesty.{g}{x:00}
+
+@109
+{z}If you stand in my way, I have no choice but to defeat you!{g}{x:00}
+
+@110
+{z}Let us settle this, {a:0000}!{g}{x:00}
+
+@111
+{z}{s:0320}Why could you not stop Lady Caterina?!{g}{x:00}
+
+@112
+{z}Mother and daughter at war... It is too cruel!{g}{x:00}
+
+@113
+{z}{s:0320}It has happened many times before... When beliefs differ, there is no avoiding it...{g}{x:00}
+
+@114
+{z}{s:0320}Why not just talk it over, calmly?! Going straight to battle...{g}{x:00}
+
+@115
+{z}{s:0320}It was Her Majesty who forced this fight...{g}{x:00}
+
+@116
+{z}There are things that talking cannot change...{g}{x:00}
+
+@117
+{z}Remember that well!{g}{x:00}
+
+@118
+{z}{s:0320}Hmph! I can't stand people who look down on others like you!{g}{x:00}
+
+@119
+{z}{s:0320}I pay no respect to the powerless! That is all there is to it!{g}{x:00}
+
+@120
+{z}{s:0320}True, I may have been powerless in the past...{g}{x:00}
+
+@121
+{z}But not now... See for yourself!{g}{x:00}
+
+@122
+{z}{s:0320}Lady {a:0086}...{g}{x:00}
+
+@123
+{z}I respect you... And yet I must fight you...{g}{x:00}
+
+@124
+{z}{s:0320}A strong will that is not swept away by emotion... A knight needs that quality.{g}{x:00}
+
+@125
+{z}All my life I have stifled my own feelings...{g}{x:00}
+
+@126
+{z}{s:0320}Lady {a:0086}...{g}{x:00}
+
+@127
+{z}{s:0320}Come at me! If that is the way to prove your valour!{g}{x:00}
+
+@128
+{z}{s:0320}Sir {a:0000}... To think we would end up on opposite sides...{g}{x:00}
+
+@129
+{z}{s:0320}I regret this... Sir {a:0087}...{g}{x:00}
+
+@130
+{z}{s:0320}But it may not be a bad thing for Fenrir...{g}{x:00}
+
+@131
+{z}Whichever side wins, knights worthy of defending the country will remain...{g}{x:00}
+
+@132
+{z}{s:0320}...{g}{x:00}
+
+@133
+{z}{s:0320}Here I come! {a:0000}!{g}{x:00}
+
+@134
+{z}{s:0320}Sir {a:0087}... Let us cross swords...{g}{x:00}
+
+@135
+{z}{s:0320}You would be Sir {a:0004}, I take it... You will do nicely as an opponent!{g}{x:00}
+
+@136
+{z}Here I come!{g}{x:00}
+
+@137
+{z}Not bad... But I won't be outdone!{g}{x:00}
+
+@138
+{z}{s:0320}Sir {a:0087}...{g}{x:00}
+
+@139
+{z}To you, the former Queen must matter more than Her Majesty, I suppose...{g}{x:00}
+
+@140
+{z}{s:0320}Just so...{g}{x:00}
+
+@141
+{z}I owe my rank to Lady Caterina... I cannot betray her.{g}{x:00}
+
+@142
+{z}Here I come, Sir {a:0005}! Show me your arts of sorcery!{g}{x:00}
+
+@143
+{z}{s:0320}Heh... So this is how it ends...{w}{w} How abrupt...{g}{x:00}
+
+@144
+{z}Lady Caterina... I could not protect you{w} to the end...{w}{w} I am so sorry...{w}{g}{x:00}
+
+@145
+{z}{s:0320}{a:0086}...{g}{x:00}
+
+@146
+{z}Wait for me just a little... I won't let you go alone...{g}{x:00}
+
+@147
+{z}{s:0320}Even {a:0086}...{g}{x:00}
+
+@148
+{z}Will you take even {a:0086} from me?! Christina...{w}{g}{x:00}
+
+@149
+{z}{s:0320}{a:0087}! Are you all right?!{g}{x:00}
+
+@150
+{z}{s:0320}Cough... Well, I'll manage...{g}{x:00}
+
+@151
+{z}{s:0320}Then withdraw! I'll deal with the rest!{g}{x:00}
+
+@152
+{z}{s:0320}I'd only be in the way if I stayed...{g}{x:00}
+
+@153
+{z}In return, you must come back safe...{g}{x:00}
+
+@154
+{z}{s:0320}Yes...{w}{w} Of course...{g}{x:00}
+
+@155
+{z}{s:0320}Good... Then I shall withdraw...{g}{x:00}
+
+@156
+{z}{s:0320}{a:0086}...{w} forgive me.{w} I...{w} seem to have reached my end...{g}{x:00}
+
+@157
+{z}From now on,{w} the three of us as a family,{w} in a world free of war,{w} let us live{w} in peace...{g}{x:00}
+
+@158
+{z}{s:0320}{a:0086} is Fenrir's strongest knight... {a:0000}... be careful...{w}{g}{x:00}
+
+@159
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@160
+{z}{s:0320}{a:0000}, {a:0086} is a master of the spear... Don't you lose...{g}{x:00}
+
+@161
+{z}{s:0320}This fight will decide Fenrir's future... Stay calm...{g}{x:00}
+
+@162
+{z}{s:0320}{a:0000}! I won't forgive you if you lose!{g}{x:00}
+
+@163
+{z}{s:0320}This duel between the two may decide the country's future...{g}{x:00}
+
+@164
+{z}{s:0320}Against {a:0086}, perhaps refusing is only natural...{g}{x:00}
+
+@165
+{z}{s:0320}{a:0000}! Have you lost your nerve?!{g}{x:00}
+
+@166
+{z}If you won't do it, I'll take down {a:0086} myself!{g}{x:00}
+
+@167
+{z}{s:0320}Facing {a:0086}, no wonder you lose your nerve...{g}{x:00}
+
+@168
+{z}{s:0320}{a:0000}, why refuse...?{g}{x:00}
+
+@169
+{z}Lady {a:0086} challenged you to a duel, staking her honour...{g}{x:00}
+
+@170
+{z}{s:0320}{a:0000}, why would you refuse?!{g}{x:00}
+
+@171
+{z}Do you not mean to protect Fenrir and the Queen?!{g}{x:00}
+
+@172
+{z}{s:0320}...{g}{x:00}
+
+@173
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@174
+{z}{s:0320}Mother...{g}{x:00}
+
+@175
+{z}{s:0320}Christina...{g}{x:00}
+
+@176
+{z}{s:0320}We shall hear you out at the castle... {a:0000}... prepare to return...{g}{x:00}
+
+@177
+{z}{s:0320}Yes...{g}{x:00}
+
+@178
+{z}{s:0320}Her Majesty will be waiting at the castle...{g}{x:00}
+
+@179
+{z}Please come with us...{g}{x:00}
+
+@180
+{z}{s:0320}Yes... I understand...{g}{x:00}
+
+@181
+{z}{s:0320}So be it...{g}{x:00}
+
+@182
+{z}As a knight, my only duty is to protect Her Majesty the Queen!{g}{x:00}
+
+@183
+{z}{s:0320}Protecting Her Majesty is the duty of us knights!{g}{x:00}
+
+@184
+{z}{s:0320}Lady Caterina has served Fenrir all this time...{g}{x:00}
+
+@185
+{z}A newcomer like you could never understand!{g}{x:00}
+
+@186
+{z}{s:0320}Phantom Spear!{g}{x:00}
+
+@187
+{z}{s:0320}Thunder Spin!{g}{x:00}
+
+@188
+{z}{s:0320}Northern{w} Cross!{g}{x:00}
+
+@189
+{z}{s:0320}Not yet... I can't fall...{w} here!{g}{x:00}
+
+@190
+{z}{s:0320}Ngh...{w} I'll protect Lady Caterina even at the cost of my life!{g}{x:00}
+
+@191
+{z}{s:0320}Lady {a:0086}! This blow will finish you!{g}{x:00}
+
+@192
+{z}{s:0320}{a:0000}! This...{w} ends it!{g}{x:00}
+
+@193
+{z}We're pulling out!{w} Follow me!{g}{x:00}
+
+@194
+{z}{s:0320}{p:01}!{g}{x:00}
+

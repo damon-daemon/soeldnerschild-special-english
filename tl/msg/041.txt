@@ -1,0 +1,352 @@
+@0
+{z}{s:0320}The fort we're aiming for is just beyond this mountain, right?{g}{x:00}
+
+@1
+{z}{s:0320}That's right. And {p:01} territory begins just over there.{g}{x:00}
+
+@2
+{z}{s:0320}So from here on is the most dangerous stretch.{g}{x:00}
+
+@3
+{z}{s:0320}I hope nothing happens.{g}{x:00}
+
+@4
+{z}{s:0320}Then what was the point of us coming?{g}{x:00}
+
+@5
+{z}{s:0320}Honestly, {a:0002}, if you say things like that, it really will...{g}{x:00}
+
+@6
+{z}{s:0320}You lot! Leave that nobleman and turn back!{g}{x:00}
+
+@7
+{z}{s:0320}Eek! They're here!{g}{x:00}
+
+@8
+{z}{s:0320}You men! Quick, engage them! What are you doing?!{g}{x:00}
+
+@9
+{z}{s:0320}Please calm yourself. We will protect you without fail.{g}{x:00}
+
+@10
+{z}{s:0320}Naturally. That is what I pay you for.{g}{x:00}
+
+@11
+{z}{s:0320}What's with this one... Acting so high and mighty...{g}{x:00}
+
+@12
+{z}{s:0320}What? You want a fight? Pointless...{g}{x:00}
+
+@13
+{z}{s:0320}If it's only a nobleman, this'll be over in no time.{g}{x:00}
+
+@14
+{z}{s:0320}Good, that's it. Come out...{g}{x:00}
+
+@15
+{z}{s:0320}You took your time. I'm sick of waiting.{g}{x:00}
+
+@16
+{z}{s:0320}Now, go wild!{g}{x:00}
+
+@17
+{z}{s:0320}An ambush...{g}{x:00}
+
+@18
+{z}{s:0320}So there was an ambush...{g}{x:00}
+
+@19
+{z}{s:0320}An ambush, of all things...{g}{x:00}
+
+@20
+{z}{s:0320}Nobody asked you to wait!{g}{z}But... they knew we'd come this way...{w}{w} These men are not to be underestimated.{g}{x:00}
+
+@21
+{z}{s:0320}An ambush, who would have thought...{g}{x:00}
+
+@22
+{z}{s:0320}They were lying in wait...{g}{x:00}
+
+@23
+{z}{s:0320}{a:0000}... Is it really all right to win that way?{g}{x:00}
+
+@24
+{z}{s:0320}I'll follow the Captain's judgement.{g}{x:00}
+
+@25
+{z}{s:0320}I trust your judgement.{g}{x:00}
+
+@26
+{z}{s:0320}We can win without paying anyone off! Turn him down!{g}{x:00}
+
+@27
+{z}{s:0320}It's for you to decide, Captain.{g}{x:00}
+
+@28
+{z}{s:0320}Oh! Splendid! Then I shall go and negotiate.{g}{x:00}
+
+@29
+{z}Hey, you {p:01} mercenaries! Hear me out! It's no bad offer!{g}{x:00}
+
+@30
+{z}{s:0320}What is it? Out with it.{g}{x:00}
+
+@31
+{z}{s:0320}I'll give you double what you're being paid if you let us through. What do you say?{g}{x:00}
+
+@32
+{z}Double, paid right now. Not a bad offer, I'd say...{g}{x:00}
+
+@33
+{z}{s:0320}Double... Not bad... What to do...{g}{x:00}
+
+@34
+{z}With that much gold, we could eat our fill of good food... and drink good liquor, too...{g}{x:00}
+
+@35
+{z}{s:0320}Excellent! Then here is the gold.{g}{x:00}
+
+@36
+{z}{s:0320}Right, got it.{g}{x:00}
+
+@37
+{z}Right, tonight we feast in town! I'll eat till I burst!{g}{x:00}
+
+@38
+{z}{s:0320}We could have won without paying...{g}{x:00}
+
+@39
+{z}{s:0320}Paying our way through a mission... I can't be glad of that...{g}{x:00}
+
+@40
+{z}{s:0320}Well, a win is a win, but...{g}{x:00}
+
+@41
+{z}{s:0320}Finishing the mission like this means nothing...{g}{x:00}
+
+@42
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Paying money to carry out a mission... I...{g}{x:00}
+
+@43
+{z}{s:0320}You lot would never think of a way to finish a job without fighting.{g}{x:00}
+
+@44
+{z}That's the power of money... Not that you'd know anything about it.{g}{x:00}
+
+@45
+{z}{s:0320}I'm the one paying. So why do you refuse?{g}{x:00}
+
+@46
+{z}I see... You mean you can win without my paying? I'm amazed... You're a remarkable lot.{g}{x:00}
+
+@47
+{z}Interesting, go on and try. I'll trust in your strength.{g}{x:00}
+
+@48
+{z}{s:0320}A useless company like yours...{w}{w} should just disband...{g}{x:00}
+
+@49
+{z}{s:0320}Trusting you...{w}{w} was my mistake...{g}{x:00}
+
+@50
+{z}{s:0320}Right! Our part is done! We've no more business here!{g}{x:00}
+
+@51
+{z}We're going home!{g}{x:00}
+
+@52
+{z}{s:0320}I couldn't protect... a single person...{g}{x:00}
+
+@53
+{z}{s:0320}I couldn't protect the honour of the Tigre...{g}{x:00}
+
+@54
+{z}{s:0320}Not even able to protect a single person...{g}{x:00}
+
+@55
+{z}{s:0320}To think it would come to this...{g}{x:00}
+
+@56
+{z}{s:0320}Not even able to protect one person... Damn it...{g}{x:00}
+
+@57
+{z}{s:0320}To think it'd end up like this...{g}{x:00}
+
+@58
+{z}{s:0320}Not even able to protect one person... How pathetic...{g}{x:00}
+
+@59
+{z}{s:0320}To think it would end like this...{g}{x:00}
+
+@60
+{z}{s:0320}Not even able to protect one person, hm... Haah...{g}{x:00}
+
+@61
+{z}{s:0320}To think it would end like this...{g}{x:00}
+
+@62
+{z}{s:0320}We've finally reached the fort...{g}{x:00}
+
+@63
+{z}{s:0320}Tch... They fled into the fort... We can't touch them now...{g}{x:00}
+
+@64
+{z}{s:0320}The enemy has withdrawn... There should be no danger now.{g}{x:00}
+
+@65
+{z}I'm sorry for doubting your strength earlier. By way of apology...{g}{x:00}
+
+@66
+{z}Please take this. It's the money I meant to give them just now.{g}{x:00}
+
+@67
+{z}You received 5000 G.{g}{x:00}
+
+@68
+{z}{s:0320}I think I've come to understand that money isn't everything in this world.{g}{x:00}
+
+@69
+{z}{s:0320}You wiped them out? Well now... You're quite something.{g}{x:00}
+
+@70
+{z}Now we're safe. Come, you'll keep me company a little longer.{g}{x:00}
+
+@71
+{z}{s:0320}You wiped them out? I never thought you'd really do it.{g}{x:00}
+
+@72
+{z}I'm sorry for doubting your strength earlier. By way of apology...{g}{x:00}
+
+@73
+{z}Please take this. It's the money I meant to give the enemy just now.{g}{x:00}
+
+@74
+{z}You received 5000 G.{g}{x:00}
+
+@75
+{z}{s:0320}The fort is just ahead. You'll stay with me until we get there.{g}{x:00}
+
+@76
+{z}{s:0320}Sorry... I'm retreating. I leave the rest to you.{g}{x:00}
+
+@77
+{z}{s:0320}Tch... Retreat. ...Sorry.{g}{x:00}
+
+@78
+{z}{s:0320}These people... are too strong...{g}{x:00}
+
+@79
+{z}{s:0320}All we had to do was get rid of one person...{g}{x:00}
+
+@80
+{z}{s:0320}Everyone... I'm sorry...{g}{x:00}
+
+@81
+{z}{s:0320}Damn... I'm stronger than this...{g}{x:00}
+
+@82
+{z}{s:0320}I can't go on any more...{g}{x:00}
+
+@83
+{z}{s:0320}Sorry... This is as far as I go...{g}{x:00}
+
+@84
+{z}{s:0320}...Forgive me... I withdraw.{g}{x:00}
+
+@85
+{z}{s:0320}S-stop it!{g}{x:00}
+
+@86
+{z}{s:0320}I'm the captain of {p:01}'s men! Here I come!{g}{x:00}
+
+@87
+{z}{s:0320}I'll send you packing with one blow!{g}{x:00}
+
+@88
+{z}{s:0320}Prepare yourselves!{g}{x:00}
+
+@89
+{z}{s:0320}You lot are in the way! Clear the road!{g}{x:00}
+
+@90
+{z}{s:0320}Come on then! Come at me!{g}{x:00}
+
+@91
+{z}{s:0320}Come at me from wherever you like!{g}{x:00}
+
+@92
+{z}{s:0320}Now, we'll form a wall and protect this man!{g}{x:00}
+
+@93
+{z}Right! All forces, charge! Aim only for the nobleman! Forget the rest!{g}{x:00}
+
+@94
+{z}{s:0320}Listen well! I'm running for the fort.{g}{x:00}
+
+@95
+{z}You will cover me. Don't let the enemy lay a finger on me. If I get so much as a scratch, there'll be trouble.{g}{x:00}
+
+@96
+{z}{s:0320}...{g}{x:00}
+
+@97
+{z}{s:0320}{a:0000}, think about where this man is heading before you give orders.{g}{x:00}
+
+@98
+{z}{s:0320}Lying in ambush in a place like this...{g}{x:00}
+
+@99
+{z}My own mercenaries can't be relied on... I'll have to use that trick...{g}{x:00}
+
+@100
+{z}Hey, Captain {a:0000}. A word with you.{g}{x:00}
+
+@101
+{z}My life is in danger right now. I doubt your command can get us out of this.{g}{x:00}
+
+@102
+{z}But there is one way. It is...{g}{x:00}
+
+@103
+{z}To pay the mercenaries over there.{g}{x:00}
+
+@104
+{z}Naturally, I'll pay. You will still count as having carried out the state's mission.{g}{x:00}
+
+@105
+{z}Very well, we'll let you through.{g}{x:00}
+
+@106
+{z}{s:0320}On the honour of the Tigre, we cannot lose!{g}{x:00}
+
+@107
+{z}{s:0320}On the honour of the Tigre, we cannot lose.{g}{x:00}
+
+@108
+{z}{s:0320}On the honour of the Tigre, we cannot lose.{g}{x:00}
+
+@109
+{z}{s:0320}On the honour of the Tigre, we can't lose!{g}{x:00}
+
+@110
+{z}{s:0320}Then we cannot fail to meet your expectations...{g}{x:00}
+
+@111
+{z}Pull out!{g}{x:00}
+
+@112
+{z}Unable to do even that...{g}{x:00}
+
+@113
+{z}Got it?{g}{x:00}
+
+@114
+{z}Well? I don't think there's any other way...{g}{x:00}
+
+@115
+{z}Well then, we'll meet again somewhere.{g}{x:00}
+
+@116
+{z}Let them have the anger of all that waiting too!{g}{x:00}
+

@@ -1,0 +1,309 @@
+@0
+{z}{s:0320}Have the Tigre lot arrived?{g}{x:00}
+
+@1
+{z}{s:0320}It seems not yet, sir.{g}{x:00}
+
+@2
+{z}{s:0320}It's just one fort. We can manage it ourselves.{g}{x:00}
+
+@3
+{z}Time we got going...{g}{x:00}
+
+@4
+{z}{s:0320}We're finally at the battlefield... That's the enemy fort, isn't it?{g}{x:00}
+
+@5
+{z}{s:0320}It seems that {a:0066} has arrived too...{g}{x:00}
+
+@6
+{z}{s:0320}!{g}{x:00}
+
+@7
+{z}That tower in front... I've seen it somewhere...{w}{w} Yes! That is...{g}{x:00}
+
+@8
+{z}{s:0320}{a:0005}... What about that tower?{g}{x:00}
+
+@9
+{z}{s:0320}Hm...{w}{w} It is the Tower of Souls, built 200 years ago.{g}{x:00}
+
+@10
+{z}{s:0320}Two hundred years ago...{g}{x:00}
+
+@11
+{z}{s:0320}Back then a sorcerer named Giselher studied immortality...{g}{x:00}
+
+@12
+{z}They say he built the Tower of Souls as the final instrument for completing his secret art...{g}{x:00}
+
+@13
+{z}{s:0320}Then precious treasure might be hidden there...{g}{x:00}
+
+@14
+{z}{s:0320}Really?{g}{x:00}
+
+@15
+{z}{s:0320}Hm...{w}{w} Not impossible...{g}{x:00}
+
+@16
+{z}{s:0320}Right, let's go look! Taking the fort can wait!{g}{x:00}
+
+@17
+{z}{s:0320}Agreed... There may be something useful in battle...{g}{x:00}
+
+@18
+{z}{s:0320}Lord {a:0066}...{w}{w} Can that tale be true...?{g}{x:00}
+
+@19
+{z}{s:0320}Hard to believe...{w}{w} But if it is true, we cannot let it pass.{g}{x:00}
+
+@20
+{z}{a:0000}! You lot, go into that tower and seize the treasure!{g}{x:00}
+
+@21
+{z}Then hand that treasure over to us!{g}{x:00}
+
+@22
+{z}{s:0320}The cheek of him... Giving orders like that!{g}{x:00}
+
+@23
+{z}If you want treasure, find it yourself!{g}{x:00}
+
+@24
+{z}{s:0320}Hmph! Insolent, for a mere mercenary...{g}{x:00}
+
+@25
+{z}Then we'll not need your help. {a:0067}! Turn the whole army towards that tower!{g}{x:00}
+
+@26
+{z}{s:0320}Sir! At once...{g}{x:00}
+
+@27
+{z}{s:0320}{a:0000}! I... I can't go on...{g}{x:00}
+
+@28
+{z}{s:0320}All because that {a:0066} wouldn't attack the fort...{g}{x:00}
+
+@29
+{z}{s:0320}Argh...{w}{w} We must withdraw or we'll die...{g}{x:00}
+
+@30
+{z}{s:0320}Beaten this far... We've no choice but to fall back.{g}{x:00}
+
+@31
+{z}{s:0320}To have to retreat with the Tower of Souls right before us...{g}{x:00}
+
+@32
+{z}{s:0320}A retreat, then... I'll look into that tower in town.{g}{x:00}
+
+@33
+{z}{s:0320}The treasure's been taken...{w}{w} What a pity...{g}{x:00}
+
+@34
+{z}{s:0320}{a:0000}! Don't get in my way!{g}{x:00}
+
+@35
+{z}You, attack that fort!{g}{x:00}
+
+@36
+{z}{s:0320}Phew... How many floors does this place have?{g}{x:00}
+
+@37
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! Th-this is... {w}{w}I'll take it with me for now.{g}{x:00}
+
+@38
+{z}{a:0000} obtained a Magic Stone Necklace.{g}{x:00}
+
+@39
+{z}{s:0320}Honestly! How many floors does this tower have?{g}{x:00}
+
+@40
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! That is...{g}{x:00}
+
+@41
+{z}{a:0001} obtained a Magic Stone Necklace.{g}{x:00}
+
+@42
+{z}{s:0320}{a:0000}! I'll leave this treasure with you!{g}{x:00}
+
+@43
+{z}{s:0320}Damn! How many floors does this tower have?{g}{x:00}
+
+@44
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! This thing...{g}{x:00}
+
+@45
+{z}{a:0002} obtained a Magic Stone Necklace.{g}{x:00}
+
+@46
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@47
+{z}This must be the treasure! I'll leave it with you for now!{g}{x:00}
+
+@48
+{z}{s:0320}How many floors does this tower have...?{g}{x:00}
+
+@49
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! {w}{w}Th-this is...{g}{x:00}
+
+@50
+{z}{a:0003} obtained a Magic Stone Necklace.{g}{x:00}
+
+@51
+{z}{s:0320}{a:0000}! I'll leave this treasure with you.{g}{x:00}
+
+@52
+{z}{s:0320}Oh dear... How many floors does this tower have...?{g}{x:00}
+
+@53
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}? Th-this is...{g}{x:00}
+
+@54
+{z}{a:0004} obtained a Magic Stone Necklace.{g}{x:00}
+
+@55
+{z}{s:0320}Captain, I'll give this treasure to you.{g}{x:00}
+
+@56
+{z}{s:0320}The Tower of Souls indeed... How many floors can it have...?{g}{x:00}
+
+@57
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! This gleam...{g}{x:00}
+
+@58
+{z}{a:0005} obtained a Magic Stone Necklace.{g}{x:00}
+
+@59
+{z}{s:0320}{a:0000}, keep this with you for now.{g}{x:00}
+
+@60
+{z}Let me examine it at leisure later...{g}{x:00}
+
+@61
+{z}{s:0320}This tower...{w}{w} How many floors can it have...?{g}{x:00}
+
+@62
+{z}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}...{w}{w}! Th-this is...{g}{x:00}
+
+@63
+{z}{a:0066} obtained the secret treasure.{g}{x:00}
+
+@64
+{z}{s:0320}Ha ha ha ha... {a:0000}! The secret treasure is mine!{g}{x:00}
+
+@65
+{z}I must have it examined. Leave that fort to the mercenaries. Back to the castle!{g}{x:00}
+
+@66
+{z}{a:0067}! Order the whole army to return!{g}{x:00}
+
+@67
+{z}{s:0320}Sir!{g}{x:00}
+
+@68
+{z}{s:0320}The treasure's been taken... What kind of treasure lay there, I wonder...?{g}{x:00}
+
+@69
+{z}{s:0320}Old man...{w}{w} Sorry, but we'll have to give up...{g}{x:00}
+
+@70
+{z}{s:0320}Yes... Let's get back to our proper job quickly...{g}{x:00}
+
+@71
+{z}{s:0320}Hm...{g}{x:00}
+
+@72
+{z}{s:0320}The enemy knights seem to have withdrawn... Only the mercenaries now.{g}{x:00}
+
+@73
+{z}{s:0320}Lord {a:0066}.{g}{x:00}
+
+@74
+{z}It seems the mercenaries beat us to it.{g}{x:00}
+
+@75
+{z}{s:0320}What! Hmph...{w}{w} Then so be it...{g}{x:00}
+
+@76
+{z}{a:0000}! So you got the treasure!{g}{x:00}
+
+@77
+{z}But I'll make you hand it over yourself one day! {w}{w}Ha ha ha ha ha...{g}{x:00}
+
+@78
+{z}{s:0320}Unbelievable... He's retreated!{g}{x:00}
+
+@79
+{z}What a selfish bastard! Damn!{g}{x:00}
+
+@80
+{z}{s:0320}Raaaah!{g}{x:00}
+
+@81
+{z}{s:0320}A fort like this? We can manage it alone.{g}{x:00}
+
+@82
+{z}{s:0320}You shouldn't have built a fort around this tower.{g}{x:00}
+
+@83
+{z}{s:0320}We'll hold this place at all costs! Prepare yourselves!{g}{x:00}
+
+@84
+{z}{s:0320}The enemy seems to be quarrelling. Let's watch for now.{g}{x:00}
+
+@85
+{z}{s:0320}We'll not let the likes of you take this fort!{g}{x:00}
+
+@86
+{z}{s:0320}Here we go!{g}{x:00}
+
+@87
+{z}{s:0320}Argh... They're strong...{g}{x:00}
+
+@88
+{z}All forces, retreat!{g}{x:00}
+
+@89
+{z}{s:0320}So the mission is done.{g}{x:00}
+
+@90
+{z}{s:0320}We got treasure and pay too. This job paid well.{g}{x:00}
+
+@91
+{z}{s:0320}Treasure...{w} It's nice when something like this happens now and then.{g}{x:00}
+
+@92
+{z}{s:0320}But we may have earned Lord {a:0066}'s displeasure...{g}{x:00}
+
+@93
+{z}Will we be all right...?{g}{x:00}
+
+@94
+{z}{s:0320}So the mission is done...{g}{x:00}
+
+@95
+{z}But what was the treasure in that tower, I wonder?{g}{x:00}
+
+@96
+{z}{s:0320}I wonder too... Though now we can never know.{g}{x:00}
+
+@97
+{z}{s:0320}A pity, but there's nothing to be done now.{g}{x:00}
+
+@98
+{z}{s:0320}I don't like that {a:0066} fellow.{g}{x:00}
+
+@99
+{z}Treating us like his own men...{g}{x:00}
+
+@100
+{z}{s:0320}Well, we get our pay. And that sort of treasure is sometimes cursed.{g}{x:00}
+
+@101
+{z}{s:0320}Cursed!?{g}{x:00}
+
+@102
+{z}{s:0320}Well, it's nothing to do with us!{g}{x:00}
+

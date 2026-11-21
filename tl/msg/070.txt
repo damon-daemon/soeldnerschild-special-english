@@ -1,0 +1,210 @@
+@0
+{z}{s:0320}The enemy's coming! Look! Over there!{g}{x:00}
+
+@1
+{z}{s:0320}We'll meet them head on. Everyone ready?{g}{x:00}
+
+@2
+{z}{s:0320}Aye!{g}{x:00}
+
+@3
+{z}{s:0320}Only mercenaries... An easy win.{g}{x:00}
+
+@4
+{z}{s:0320}Commander, surely you don't mean to fight mercenaries?{g}{x:00}
+
+@5
+{z}{s:0320}Of course I do.{g}{x:00}
+
+@6
+{z}{s:0320}Our orders are to join the main force advancing into enemy territory.{g}{x:00}
+
+@7
+{z}I don't think we should waste troops here...{g}{x:00}
+
+@8
+{z}{s:0320}Are you saying you won't follow my orders?{g}{x:00}
+
+@9
+{z}{s:0320}No... I didn't mean that...{g}{x:00}
+
+@10
+{z}{s:0320}We're sure to beat mercenaries, and victory brings momentum...{g}{x:00}
+
+@11
+{z}If we join the main force like that, their morale will rise too, and the whole army will benefit.{g}{x:00}
+
+@12
+{z}{s:0320}But... what if we lose...?{g}{x:00}
+
+@13
+{z}{s:0320}Losing is out of the question!{g}{x:00}
+
+@14
+{z}{s:0320}I suppose so, but...{g}{x:00}
+
+@15
+{z}{s:0320}We wipe out the mercenaries, then join the main force!{g}{x:00}
+
+@16
+{z}Understood?{g}{x:00}
+
+@17
+{z}{s:0320}...Yes, sir.{g}{x:00}
+
+@18
+{z}{s:0320}...{g}{x:00}
+
+@19
+{z}{s:0320}They mean to fight us before entering {p:01} territory.{g}{x:00}
+
+@20
+{z}{s:0320}No need to fight at all... What fools.{g}{x:00}
+
+@21
+{z}{s:0320}Looking down on us because we're mercenaries, are they?{g}{x:00}
+
+@22
+{z}We'll make them pay for it.{g}{x:00}
+
+@23
+{z}{s:0320}Victory depends on the captain's command.{g}{x:00}
+
+@24
+{z}{s:0320}Listen! Pick your own opponents! Understood?{g}{x:00}
+
+@25
+{z}{s:0320}Ah... he really means to fight... What is that man thinking...{g}{x:00}
+
+@26
+{z}{s:0320}Why... why lose to mere mercenaries? I was sure we'd win...{g}{x:00}
+
+@27
+{z}{s:0320}I should have stopped the Commander at all costs, if it was to end like this...{g}{x:00}
+
+@28
+{z}{s:0320}Wiped out in a place like this... The worst possible result...{g}{x:00}
+
+@29
+{z}{s:0320}Ha ha! We wiped them out! We win!{g}{x:00}
+
+@30
+{z}Fools. Overconfident in their own strength.{g}{x:00}
+
+@31
+{z}{s:0320}The enemy is wiped out... So we win.{g}{x:00}
+
+@32
+{z}Picking such a reckless fight without knowing our strength... Fools.{g}{x:00}
+
+@33
+{z}{s:0320}Phew... they're finished... They gave us a lot of trouble.{g}{x:00}
+
+@34
+{z}They looked down on us. It's only what they deserved.{g}{x:00}
+
+@35
+{z}{s:0320}The enemy's gone... We did it! We win!{g}{x:00}
+
+@36
+{z}{s:0320}Wiped out, then... But it was a hard fight.{g}{x:00}
+
+@37
+{z}Look how few soldiers we have left... Haven't we wasted too many?{g}{x:00}
+
+@38
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@39
+{z}{s:0320}Damn... I wanted to show these men up...{g}{x:00}
+
+@40
+{z}{s:0320}Knights or not, I thought I couldn't lose...{g}{x:00}
+
+@41
+{z}{s:0320}The knights live up to their name... to beat even me...{g}{x:00}
+
+@42
+{z}{s:0320}I can't fight any more... Forgive me.{g}{x:00}
+
+@43
+{z}{s:0320}Me... I'm losing? Who are these men...{g}{x:00}
+
+@44
+{z}{s:0320}The Commander is retreating...{g}{x:00}
+
+@45
+{z}But we can't give up the fight. If we lose a battle we didn't even need, our order's honour will be ruined.{g}{x:00}
+
+@46
+{z}Still, how did a man like that rise to Knight Commander...?{g}{x:00}
+
+@47
+{z}{s:0320}First the staff officer, and now even the Commander retreats... What is going on...{g}{x:00}
+
+@48
+{z}{s:0320}I'm sorry... My company has been wiped out...{g}{x:00}
+
+@49
+{z}{s:0320}Cowards...{g}{x:00}
+
+@50
+{z}{s:0320}We should never have fought... Too late now, though...{g}{x:00}
+
+@51
+{z}{s:0320}Mercenaries are no match for knights! Don't you understand that?{g}{x:00}
+
+@52
+{z}{s:0320}Why are we fighting...? I don't understand...{g}{x:00}
+
+@53
+{z}{s:0320}You want to take on my company?{g}{x:00}
+
+@54
+{z}{s:0320}Ah... we'll only lose more men... It's hopeless...{g}{x:00}
+
+@55
+{z}{s:0320}Looking down on us because we're mercenaries! I won't forgive you!{g}{x:00}
+
+@56
+{z}{s:0320}Don't underestimate mercenaries. Some of us are strong.{g}{x:00}
+
+@57
+{z}Well, those strong mercenaries would be us.{g}{x:00}
+
+@58
+{z}{s:0320}I'll never lose! I won't let the others down!{g}{x:00}
+
+@59
+{z}{s:0320}Any time you like! Come on!{g}{x:00}
+
+@60
+{z}{s:0320}I think I'll go after the company of that young whelp who looks like the captain...{g}{x:00}
+
+@61
+{z}{s:0320}Having chosen to fight, we can't lose.{g}{x:00}
+
+@62
+{z}No, with the main force to join, we can't even afford a hard fight.{g}{x:00}
+
+@63
+{z}{s:0320}Beaten again? Cowards...{g}{x:00}
+
+@64
+{z}Such a hard fight... I hadn't reckoned on it.{g}{x:00}
+
+@65
+{z}{s:0320}Damn... beaten again... This is getting very bad...{g}{x:00}
+
+@66
+{z}{s:0320}What are you doing? They're only mercenaries! Aren't you ashamed?{g}{x:00}
+
+@67
+{z}{s:0320}No... with so many lost, even victory is in doubt...{g}{x:00}
+
+@68
+{z}{s:0320}We're pushing them back completely... Good, keep it up.{g}{x:00}
+
+@69
+{z}He was afraid to fight, and that's why he opposed my plan...{g}{x:00}
+

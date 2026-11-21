@@ -1,0 +1,477 @@
+@0
+{z}{s:0320}That's the castle...{g}{x:00}
+
+@1
+{z}{s:0320}Looks hard to attack.{g}{x:00}
+
+@2
+{z}{s:0320}It does.{g}{x:00}
+
+@3
+{z}{s:0320}Enemy forces to the east! Regular army and mercenaries!{g}{x:00}
+
+@4
+{z}{s:0320}...{p:01}, then.{g}{x:00}
+
+@5
+{z}{s:0320}Did they foresee that we would invade {p:01}?{g}{x:00}
+
+@6
+{z}{s:0320}It seems so.{g}{x:00}
+
+@7
+{z}{s:0320}So they attacked before they could be attacked... Is that it?{g}{x:00}
+
+@8
+{z}{s:0320}Most likely...{g}{x:00}
+
+@9
+{z}{s:0320}Those are the mercenaries hired to invade {p:01}, aren't they?{g}{x:00}
+
+@10
+{z}{s:0320}Yes.{g}{x:00}
+
+@11
+{z}{s:0320}Say, Commander, do we charge in from the front?{g}{x:00}
+
+@12
+{z}{s:0320}No, we'll do that.{g}{x:00}
+
+@13
+{z}{s:0320}Then what about us?{g}{x:00}
+
+@14
+{z}{s:0320}Go round to the west.{g}{x:00}
+
+@15
+{z}{s:0320}West?{g}{x:00}
+
+@16
+{z}{s:0320}Beyond the western mountains is a forest leading to the castle.{g}{x:00}
+
+@17
+{z}I want you to attack the castle through it. What do you say?{g}{x:00}
+
+@18
+{z}{s:0320}Commander, there's no need to ask a mercenary's opinion...{g}{x:00}
+
+@19
+{z}{s:0320}On the battlefield, knight or mercenary makes no difference. Don't fuss over trifles.{g}{x:00}
+
+@20
+{z}{s:0320}Forgive me...{g}{x:00}
+
+@21
+{z}{s:0320}Will you go round to the west?{g}{x:00}
+
+@22
+{z}{s:0320}Then I'm counting on you.{g}{x:00}
+
+@23
+{z}{s:0320}I see... Then there's nothing for it. We'll go round by the west ourselves.{g}{x:00}
+
+@24
+{z}{s:0320}Captain, we attack from the front. Don't get it wrong.{g}{x:00}
+
+@25
+{z}{s:0320}Captain, we're heading for the western mountains. Don't get it wrong.{g}{x:00}
+
+@26
+{z}{s:0320}Leave the front to the mercenaries. We're going round to the west!{g}{x:00}
+
+@27
+{z}Let's go!{g}{x:00}
+
+@28
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@29
+{z}{s:0320}We attack the enemy from the front! Let's go!{g}{x:00}
+
+@30
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@31
+{z}{s:0320}The enemy is after this castle! Strengthen the defences!{g}{x:00}
+
+@32
+{z}{s:0320}Understood!{g}{x:00}
+
+@33
+{z}{s:0320}I told you to go round to the west. What are you doing?{g}{x:00}
+
+@34
+{z}{s:0320}Here they come...{g}{x:00}
+
+@35
+{z}{s:0320}Huh? Why are we being attacked?{g}{x:00}
+
+@36
+{z}{s:0320}The enemy foresaw our attack. Our plans are in ruins.{g}{x:00}
+
+@37
+{z}{s:0320}I don't mind helping, but all we can do is defend this place.{g}{x:00}
+
+@38
+{z}Beating off the attackers and then invading enemy territory as well would be quite a feat.{g}{x:00}
+
+@39
+{z}{s:0320}Of course. Defending this place is enough.{g}{x:00}
+
+@40
+{z}{s:0320}Can we slip past the mercenaries and reach the castle...?{g}{x:00}
+
+@41
+{z}{s:0320}Damn... Popping up from a place like that!{g}{x:00}
+
+@42
+{z}{s:0320}Mercenaries, from there... Can we reach the castle...?{g}{x:00}
+
+@43
+{z}{s:0320}This is troublesome...{g}{x:00}
+
+@44
+{z}{s:0320}Mercenaries appearing from there...{g}{x:00}
+
+@45
+{z}{s:0320}Captain, are you all right? There are more of them!{g}{x:00}
+
+@46
+{z}{s:0320}Fine timing you've got...{g}{x:00}
+
+@47
+{z}{s:0320}Huh? Weren't we going to attack? Why are we fighting here?{g}{x:00}
+
+@48
+{z}{s:0320}Things have changed.{g}{x:00}
+
+@49
+{z}{s:0320}Hmm... So what do we do?{g}{x:00}
+
+@50
+{z}{s:0320}We're to defend that castle.{g}{x:00}
+
+@51
+{z}{s:0320}Is that all? What about attacking enemy territory?{g}{x:00}
+
+@52
+{z}{s:0320}Scrapped. We only have to hold the castle.{g}{x:00}
+
+@53
+{z}{s:0320}So we just hold the castle against them? Right, got it.{g}{x:00}
+
+@54
+{z}{s:0320}And them?{g}{x:00}
+
+@55
+{z}{s:0320}Huh? Already fighting? Weren't we going to attack?{g}{x:00}
+
+@56
+{z}{s:0320}We meant to attack, but we were attacked instead...{g}{x:00}
+
+@57
+{z}{s:0320}Where are the captain and the others?{g}{x:00}
+
+@58
+{z}{s:0320}Wiped out long ago...{g}{x:00}
+
+@59
+{z}{s:0320}No...{g}{x:00}
+
+@60
+{z}{s:0320}Just lend us a hand! Come on! Quickly!{g}{x:00}
+
+@61
+{z}{s:0320}Understood... We're coming now.{g}{x:00}
+
+@62
+{z}{s:0320}More of them...{g}{x:00}
+
+@63
+{z}{s:0320}Honestly, one after another... {a:0000}, are you all right?{g}{x:00}
+
+@64
+{z}{s:0320}More of them... This is getting a bit dangerous.{g}{x:00}
+
+@65
+{z}{s:0320}Didn't think so many would come.{g}{x:00}
+
+@66
+{z}{s:0320}Of all the times... This is bad...{g}{x:00}
+
+@67
+{z}{s:0320}This is bad... What's to be done...{g}{x:00}
+
+@68
+{z}{s:0320}Yes! We've taken the enemy castle! This castle is ours!{g}{x:00}
+
+@69
+{z}{s:0320}Yes! We've taken the enemy castle!{g}{x:00}
+
+@70
+{z}{s:0320}See? Look! I took it, just as I said!{g}{x:00}
+
+@71
+{z}{s:0320}Everyone! The castle has fallen! We've taken the enemy castle!{g}{x:00}
+
+@72
+{z}{s:0320}Phew... that was a lot of trouble...{g}{x:00}
+
+@73
+{z}{s:0320}We took it at last... They gave us quite a time...{g}{x:00}
+
+@74
+{z}{s:0320}This castle has fallen! It is ours!{g}{x:00}
+
+@75
+{z}{s:0320}The castle... {w}{w}our castle, in enemy hands...{g}{x:00}
+
+@76
+{z}{s:0320}Sorry... and we were right here...{g}{x:00}
+
+@77
+{z}{s:0320}Spare me the clumsy comfort.{g}{x:00}
+
+@78
+{z}{s:0320}What now? Shall we take it back?{g}{x:00}
+
+@79
+{z}{s:0320}Our morale is badly shaken... Fighting on after all this...{g}{x:00}
+
+@80
+{z}We have no choice but to pull out here...{g}{x:00}
+
+@81
+{z}{s:0320}Understood. Then we're going home.{g}{x:00}
+
+@82
+{z}{s:0320}...Do as you please.{g}{x:00}
+
+@83
+{z}{s:0320}I'm truly sorry we couldn't be of more help...{g}{x:00}
+
+@84
+{z}{s:0320}If only we'd attacked a little sooner... {w}{w}Damn...{g}{x:00}
+
+@85
+{z}{s:0320}Our castle... in enemy hands... No...{g}{x:00}
+
+@86
+{z}A complete defeat... {w}{w}All forces, withdraw!{g}{x:00}
+
+@87
+{z}{s:0320}It fell... Guarding the castle was our job...{g}{x:00}
+
+@88
+{z}Nothing for it... Let's pull out. We've lost.{g}{x:00}
+
+@89
+{z}{s:0320}Well done, everyone! Victory is ours!{g}{x:00}
+
+@90
+{z}{s:0320}Looks like our part is done.{g}{x:00}
+
+@91
+{z}We'll take our leave, then.{g}{x:00}
+
+@92
+{z}{s:0320}Looks like our part is done.{g}{x:00}
+
+@93
+{z}Right, we're going home.{g}{x:00}
+
+@94
+{z}{s:0320}Looks like our part is over.{g}{x:00}
+
+@95
+{z}Right, we're off.{g}{x:00}
+
+@96
+{z}{s:0320}Looks like our part is done.{g}{x:00}
+
+@97
+{z}Well then, we're going home.{g}{x:00}
+
+@98
+{z}{s:0320}Our part seems to be done.{g}{x:00}
+
+@99
+{z}We'll be off, then.{g}{x:00}
+
+@100
+{z}{s:0320}Well done, everyone. The mission is accomplished.{g}{x:00}
+
+@101
+{z}{s:0320}Thank goodness... it ended safely.{g}{x:00}
+
+@102
+{z}{s:0320}Ha ha! Easy win! Piece of cake!{g}{x:00}
+
+@103
+{z}{s:0320}Phew... we've won, anyway.{g}{x:00}
+
+@104
+{z}{s:0320}We seem to have won somehow. I thought we were done for.{g}{x:00}
+
+@105
+{z}{s:0320}The castle... {w}{w}not the castle...{g}{x:00}
+
+@106
+{z}{s:0320}Hold the castle... at all costs... {w}{w}I beg you...{g}{x:00}
+
+@107
+{z}{s:0320}The knights are wiped out? Hey, hey... this is bad.{g}{x:00}
+
+@108
+{z}{s:0320}Sorry...{g}{x:00}
+
+@109
+{z}{s:0320}Sorry... we're finished...{g}{x:00}
+
+@110
+{z}{s:0320}What? Our mercenaries wiped out? Useless wretches...{g}{x:00}
+
+@111
+{z}{s:0320}Well done, everyone! Victory is ours!{g}{x:00}
+
+@112
+{z}Now, we occupy the enemy castle!{g}{x:00}
+
+@113
+{z}{s:0320}We've taken the enemy castle! This castle is ours!{g}{x:00}
+
+@114
+{z}{s:0320}Phew... it's over. Good that we finished the mission safely.{g}{x:00}
+
+@115
+{z}{s:0320}The mission is accomplished... ...I'm glad.{g}{x:00}
+
+@116
+{z}{s:0320}Thank goodness... mission accomplished.{g}{x:00}
+
+@117
+{z}{s:0320}The mission's done, right? Ha! Piece of cake!{g}{x:00}
+
+@118
+{z}{s:0320}The mission seems to be done. Phew... that was close.{g}{x:00}
+
+@119
+{z}{s:0320}The mission's done now, right?{g}{x:00}
+
+@120
+{z}{s:0320}The mission is accomplished. Well done, everyone.{g}{x:00}
+
+@121
+{z}{s:0320}What, wiped out already? Pah! They were nothing much.{g}{x:00}
+
+@122
+{z}{s:0320}Phew... wiped out at last... That completes the mission.{g}{x:00}
+
+@123
+{z}{s:0320}Haah... I thought we'd lose.{g}{x:00}
+
+@124
+{z}{s:0320}I'm so sorry...{g}{x:00}
+
+@125
+{z}{s:0320}Damn... I can't go on... Sorry...{g}{x:00}
+
+@126
+{z}{s:0320}This looks like the end... I'm sorry...{g}{x:00}
+
+@127
+{z}{s:0320}Sorry, Captain... I'm withdrawing...{g}{x:00}
+
+@128
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@129
+{z}{s:0320}The rest is up to you... Fight on...{g}{x:00}
+
+@130
+{z}We have been wiped out...{g}{x:00}
+
+@131
+{z}{s:0320}Take the castle... take it... I'm counting on you...{g}{x:00}
+
+@132
+{z}{s:0320}Understood!{g}{x:00}
+
+@133
+{z}{s:0320}Forgive me... My company is... wiped out...{g}{x:00}
+
+@134
+{z}{s:0320}Whatever happens... take the castle... Is that clear...?{g}{x:00}
+
+@135
+{z}{s:0320}Never... give up this castle...{g}{x:00}
+
+@136
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@137
+{z}{s:0320}This castle is ours... Hold it... to the death...{g}{x:00}
+
+@138
+{z}{s:0320}There's no way I should be losing to the likes of them...{g}{x:00}
+
+@139
+{z}{s:0320}No way I can win this... These guys are strong...{g}{x:00}
+
+@140
+{z}{s:0320}Everyone... I'm sorry... My company is wiped out...{g}{x:00}
+
+@141
+{z}{s:0320}On my honour as Knight Commander of {p:01}, I'll take that castle!{g}{x:00}
+
+@142
+{z}{s:0320}As a staff officer of {p:01}, I cannot fight shamefully!{g}{x:00}
+
+@143
+{z}{s:0320}Come on, then! I'll show you my strength!{g}{x:00}
+
+@144
+{z}{s:0320}I'll never let this castle fall! Never!{g}{x:00}
+
+@145
+{z}{s:0320}I won't hand this castle to the likes of you!{g}{x:00}
+
+@146
+{z}{s:0320}So you got this far...{g}{x:00}
+
+@147
+{z}{s:0320}Right, time to cause some havoc again today.{g}{x:00}
+
+@148
+{z}{s:0320}We don't care about castles. As long as we get paid, that's all!{g}{x:00}
+
+@149
+{z}{s:0320}You'll go no further, not while I'm here!{g}{x:00}
+
+@150
+{z}{s:0320}No need to rush to your death. You're a fool too...{g}{x:00}
+
+@151
+{z}{s:0320}You lot! Clear the way! You're in the way!{g}{x:00}
+
+@152
+{z}{s:0320}Give up! That castle is as good as fallen!{g}{x:00}
+
+@153
+{z}{s:0320}Don't underestimate me!{g}{x:00}
+
+@154
+{z}{s:0320}Shall I show you... what I can really do?{g}{x:00}
+
+@155
+{z}But don't worry. The mercenaries will be here soon.{g}{x:00}
+
+@156
+{z}{s:0320}Hurry round to the west! Hurry!{g}{x:00}
+
+@157
+{z}{s:0320}Couldn't hold it... damn...{g}{x:00}
+
+@158
+{z}{s:0320}So we're the only ones left...{g}{x:00}
+

@@ -1,0 +1,123 @@
+@0
+{z}{f}{l:00ce}{s:02c6}A remarkable fellow has turned up lately. He wins the title every month.{g}{j:0001}{x:00}
+
+@1
+{z}His name is {a:0007}. He belongs to no mercenary company. Such skill wasted!{g}{x:00}
+
+@2
+{z}{f}{l:00ce}{s:02c6}Quite a line-up today. They say even a Knight Commander is fighting.{g}{x:00}
+
+@3
+{z}{f}{l:00ce}{s:02c6}Too bad. Do better next time.{g}{x:00}
+
+@4
+{z}{f}{l:00ce}{s:02c6}So close! You nearly won it all.{g}{x:00}
+
+@5
+{z}{f}{l:00ce}{s:02c6}Congratulations on winning! You're strong!{g}{x:00}
+
+@6
+{z}{f}{l:00cb}{s:02c3}This is tournament registration. You can sign up to enter.{g}{x:00}
+
+@7
+{z}{f}{l:00cb}{s:02c3}Changed your mind? We're still taking entries.{g}{x:00}
+
+@8
+{z}{f}{l:00cb}{s:02c3}This month's tournament is over.{g}{x:00}
+
+@9
+{z}The entry fee is 500 G. Will you enter?{x:00}
+
+@10
+{z}{f}{l:00cb}{s:02c3}You lost. Come back stronger next time!{g}{x:00}
+
+@11
+{z}{f}{l:00cb}{s:02c3}Runner-up, eh? One step short.{g}{z}Here is the runner-up's prize. Take it.{g}{x:00}
+
+@12
+{z}You received 2000 G.{g}{x:00}
+
+@13
+{z}{f}{l:00cb}{s:02c3}You did it, champion! A fine bout.{g}{z}Now, the winner's purse. Take it.{g}{x:00}
+
+@14
+{z}You received 5000 G.{g}{x:00}
+
+@15
+{z}{f}{l:00ce}{s:02c6}It's dull once the matches are over. I wish next month would hurry up.{g}{x:00}
+
+@16
+{z}{f}{l:00cb}{s:02c3}Sorry to keep you waiting, folks! The monthly tournament begins!{g}{z}Round 1! Let me introduce the fighters!{g}{x:00}
+
+@17
+{z}{f}{l:00cb}{s:02c3}Next, round 2! Let me introduce the fighters!{g}{x:00}
+
+@18
+{z}{f}{l:00cb}{s:02c3}Now we begin round 3! Let me introduce the fighters!{g}{x:00}
+
+@19
+{z}{f}{l:00cb}{s:02c3}Now it's round 4, the semi-final! Let me introduce the fighters!{g}{x:00}
+
+@20
+{z}{f}{l:00cb}{s:02c3}At last, round 5, the final! Let me introduce the fighters!{g}{x:00}
+
+@21
+{z}{f}{l:00cb}On the left, from {p:00}:{n}{p:01}!{n}A master of {p:02}!{g}{x:00}
+
+@22
+{z}{f}{l:00cb}On the right, from {p:00}:{n}{p:01}!{n}A master of {p:02}!{g}{x:00}
+
+@23
+{z}{f}{l:00cb}{s:02c3}Match over! The winner is {p:00}!{g}{x:00}
+
+@24
+{z}{f}{l:00cb}{s:02c3}Match over! The champion is {p:00}!{g}{x:00}
+
+@25
+{z}{f}{l:00cb}Begin the match!{g}{x:00}
+
+@26
+{z}What? You're short of money. Come back when you have it.{g}{x:00}
+
+@27
+{z}Then I'll take 500 G.{g}{z}The arena is through that door. Go win it all!{g}{x:00}
+
+@28
+{z}{f}{l:00cb}On the right, the reigning champion:{n}{p:01}!{n}A master of {p:02}!{g}{x:00}
+
+@100
+{z}{f}{l:00ce}{s:02c6}Hey, {a:0007} has come out...{g}{z}He was unbeatable till now, but once beaten, he's nothing to fear.{w}{j:0065}{x:00}
+
+@101
+ Pathetic.{g}{z}Fighting's all you're good for anyway. You're finished now.{g}{x:00}
+
+@102
+{z}{f}{l:0007}{s:0007}You're strong...{w} A mercenary, I take it?{g}{x:00}
+
+@103
+{z}{f}{l:0000}{s:0000}Yes, I am {a:0000}, captain of the Tigre Mercenaries.{g}{x:00}
+
+@104
+{z}{f}{l:0007}The Tigre Mercenaries...{w} I have heard of them.{g}{x:00}
+
+@105
+{z}{f}{l:0001}{s:0001}I heard! You won!{g}{z}Congratulations, {a:0000}. I knew you could!{g}{z}{f}{l:0000}Thank you, {a:0001}.{g}{x:00}
+
+@107
+{z}{f}{l:0001}We must tell everyone right away. They'll be thrilled.{g}{x:00}
+
+@108
+{z}{f}{l:0007}Sorry to interrupt...{g}{z}If you don't mind, would you share a drink with me?{g}{x:00}
+
+@109
+{z}{f}{l:0000}With me? Yes, certainly.{g}{x:00}
+
+@110
+{z}{f}{l:0007}Then let us go.{g}{x:00}
+
+@113
+{z}{f}{l:0007}{s:0007}You're strong...{w} A knight, I take it?{g}{x:00}
+
+@114
+{z}{f}{l:0000}{s:0000}Yes, I am {a:0000}, once captain of the Tigre Mercenaries.{g}{x:00}
+

@@ -1,0 +1,540 @@
+@0
+{z}{s:0320}We're heading for the fort first? Wouldn't it be simpler to wipe them out?{g}{x:00}
+
+@1
+{z}{s:0320}That would be ideal... But it won't be so easy.{g}{x:00}
+
+@2
+{z}{s:0320}Then we make for the fort first...{g}{x:00}
+
+@3
+{z}{s:0320}The food, the weapons... all of it is in the fort.{g}{x:00}
+
+@4
+{z}{s:0320}But there are two forts...{g}{x:00}
+
+@5
+{z}{s:0320}Judging by the enemy's deployment, the western fort must be their base.{g}{x:00}
+
+@6
+{z}{s:0320}Understood.{g}{x:00}
+
+@7
+{z}{s:0320}The enemy's here already.{g}{x:00}
+
+@8
+{z}{s:0320}Quite a lot of them... This won't end easily.{g}{x:00}
+
+@9
+{z}{s:0320}You lot! Get over here quickly!{g}{x:00}
+
+@10
+{z}{s:0320}Captain, they're calling us. Let's go.{g}{x:00}
+
+@11
+{z}{s:0320}There's no way four companies alone could hold that fort.{g}{x:00}
+
+@12
+{z}Let's join them quickly.{g}{x:00}
+
+@13
+{z}{s:0320}Hey! What's the hold-up?! Let's get on with it!{g}{x:00}
+
+@14
+{z}{s:0320}Is it all right for us to go ahead alone?{g}{x:00}
+
+@15
+{z}{s:0320}Who cares! Let's go!{g}{x:00}
+
+@16
+{z}{s:0320}...Right. Charge!{g}{x:00}
+
+@17
+{z}{s:0320}Commander! The mercenaries!{g}{x:00}
+
+@18
+{z}{s:0320}Never mind. We advance as well.{g}{x:00}
+
+@19
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@20
+{z}{s:0320}The enemy is moving. Let's go too.{g}{x:00}
+
+@21
+{z}{s:0320}The enemy's coming this way... Mercenaries, hurry...{g}{x:00}
+
+@22
+{z}{s:0320}Strengthen the fort's defences! Understood?{g}{x:00}
+
+@23
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@24
+{z}{s:0320}Our target is the western fort. Understood?{g}{x:00}
+
+@25
+{z}{s:0320}Then we ignore the eastern fort. Is that all right?{g}{x:00}
+
+@26
+{z}{s:0320}That's fine.{g}{x:00}
+
+@27
+{z}{s:0320}Right! Let's go!{g}{x:00}
+
+@28
+{z}{s:0320}Oh? You came at a good time...{g}{x:00}
+
+@29
+{z}{s:0320}Looks like we made it. We'll join you.{g}{x:00}
+
+@30
+{z}{s:0320}Hm? Who's that coming from over there?{g}{x:00}
+
+@31
+{z}{s:0320}Looks like we made it.{w}{w} Huh? Where is everyone?{g}{x:00}
+
+@32
+{z}{s:0320}So it's our mercenaries' detached force... Turning up from over there...{g}{x:00}
+
+@33
+{z}{s:0320}Hey! What happened to the others?!{g}{x:00}
+
+@34
+{z}{s:0320}...Wiped out.{g}{x:00}
+
+@35
+{z}{s:0320}No way... Are these men really that strong?{g}{x:00}
+
+@36
+{z}{s:0320}A detached force... And appearing from there...{g}{x:00}
+
+@37
+{z}Can we hold out?...{g}{x:00}
+
+@38
+{z}{s:0320}Coming out of there, damn them! {a:0000}! Hurry!{g}{x:00}
+
+@39
+{z}{s:0320}Appearing from there, of all places. Captain, we'd better join them fast.{g}{x:00}
+
+@40
+{z}{s:0320}From there?... {a:0000}! Let's hurry!{g}{x:00}
+
+@41
+{z}{s:0320}Why from there?... We'd better hurry, or there'll be trouble.{g}{x:00}
+
+@42
+{z}{s:0320}This is bad... {a:0000}, are you all right?{g}{x:00}
+
+@43
+{z}{s:0320}Right! We've taken the fort! This fort is ours!{g}{x:00}
+
+@44
+{z}{s:0320}Knights really are something.{g}{x:00}
+
+@45
+{z}{s:0320}Right! We've taken the enemy's fort! How's that!{g}{x:00}
+
+@46
+{z}{s:0320}You worked just as I'd hoped. Well done.{g}{x:00}
+
+@47
+{z}How well one uses mercenaries... I feel that's a key to winning this war.{g}{x:00}
+
+@48
+{z}{s:0320}They've taken the fort... Our fort...{g}{x:00}
+
+@49
+{z}It was a fort we had to hold at all costs...{g}{x:00}
+
+@50
+{z}{s:0320}Oh well... We've lost. Let's withdraw.{g}{x:00}
+
+@51
+{z}{s:0320}Nothing for it... We've lost. Withdraw.{g}{x:00}
+
+@52
+{z}{s:0320}Damn... We couldn't hold it... So we've lost...{g}{x:00}
+
+@53
+{z}{s:0320}It's shameful to admit, but we've lost. We have no choice but to withdraw.{g}{x:00}
+
+@54
+{z}{s:0320}Oh well... We've lost. Let's withdraw.{g}{x:00}
+
+@55
+{z}{s:0320}We've lost...{g}{x:00}
+
+@56
+{z}{s:0320}They took the fort... After we fought so desperately...{g}{x:00}
+
+@57
+{z}To end up like this... What can I say to the people of {p:01}?{g}{x:00}
+
+@58
+{z}{s:0320}They took the fort... We tried our hardest, but it wasn't enough.{g}{x:00}
+
+@59
+{z}I can't face the people of {p:01}... How pathetic.{g}{x:00}
+
+@60
+{z}{s:0320}Damn... They took the fort, and we were right here...{g}{x:00}
+
+@61
+{z}Failing at such an important job... I can't face the people of {p:01}...{g}{x:00}
+
+@62
+{z}{s:0320}They took the fort... We did all we could.{g}{x:00}
+
+@63
+{z}To fail in such an important mission... I can't answer to the people of {p:01}.{g}{x:00}
+
+@64
+{z}{s:0320}They took the fort...{g}{x:00}
+
+@65
+{z}It was a mission where failure wasn't allowed...{g}{x:00}
+
+@66
+{z}{s:0320}It's been taken... The fort we should have held... We gave it all we had...{g}{x:00}
+
+@67
+{z}I can't face the people of {p:01}...{g}{x:00}
+
+@68
+{z}{s:0320}We couldn't break through...{w}{w} is that it...{w}{w} Ugh...{g}{x:00}
+
+@69
+{z}{s:0320}Right! The enemy is wiped out! Well done, everyone!{g}{x:00}
+
+@70
+{z}{s:0320}That's our job done. I'm glad I was useful.{g}{x:00}
+
+@71
+{z}{a:0000}, let's go home. I'm tired and getting sleepy...{g}{x:00}
+
+@72
+{z}{s:0320}That's our job done.{g}{x:00}
+
+@73
+{z}Hey, {a:0000}. Let's go home. Staying here any longer is a waste of time.{g}{x:00}
+
+@74
+{z}{s:0320}That's our job done. I'm truly glad I could help.{g}{x:00}
+
+@75
+{z}Then let's go home. If we don't get back and rest soon, it'll tell on the next job.{g}{x:00}
+
+@76
+{z}{s:0320}Our job is done.{g}{x:00}
+
+@77
+{z}Then we shall withdraw. We must rest for the next job.{g}{x:00}
+
+@78
+{z}{s:0320}Our job is done.{g}{x:00}
+
+@79
+{z}We'll leave the rest to the knights and go home.{g}{x:00}
+
+@80
+{z}{s:0320}The Tigre Mercenaries... A reliable bunch.{g}{x:00}
+
+@81
+{z}{s:0320}That's our job done.{g}{x:00}
+
+@82
+{z}Then we'll withdraw.{g}{x:00}
+
+@83
+{z}{s:0320}The enemy is wiped out... We held the fort...{g}{x:00}
+
+@84
+{z}I'm glad we completed the mission... Failing would have been a heavy blow to the country.{g}{x:00}
+
+@85
+{z}{s:0320}Look! The enemy is wiped out! We held the fort!{g}{x:00}
+
+@86
+{z}If the enemy had taken this fort, {p:01} would have been in deep trouble.{g}{x:00}
+
+@87
+{z}Well, with me here, there was no danger of failure.{g}{x:00}
+
+@88
+{z}{s:0320}The enemy seems to be wiped out. Good work, everyone.{g}{x:00}
+
+@89
+{z}I'm truly glad we completed it. The outcome of an important mission like this affects the country's future.{g}{x:00}
+
+@90
+{z}{s:0320}The enemy is wiped out... We're safe now.{g}{x:00}
+
+@91
+{z}I'm truly glad we completed it. This mission could have made or broken the nation's future.{g}{x:00}
+
+@92
+{z}{s:0320}The enemy seems to be wiped out. Phew... It's finally over...{g}{x:00}
+
+@93
+{z}Anyway, I'm glad we completed the mission. But the way we did it was awful. Far too many soldiers wasted.{g}{x:00}
+
+@94
+{z}Soldiers aren't tools for killing the enemy. They have lives too. Never forget that.{g}{x:00}
+
+@95
+{z}{s:0320}Fighting on only wastes soldiers... We have lost.{g}{x:00}
+
+@96
+{z}There's nothing for it... We couldn't break through. All forces must retreat.{g}{x:00}
+
+@97
+{z}{s:0320}Against a defence this perfect... we have to give up.{g}{x:00}
+
+@98
+{z}We retreat too!{g}{x:00}
+
+@99
+{z}{s:0320}Damn... It's no use... Their defence is too solid...{g}{x:00}
+
+@100
+{z}If we keep fighting, we'll only wear ourselves out... Oh well. Let's give up.{g}{x:00}
+
+@101
+{z}The knights said not to pursue too far anyway. It's fine to give up.{g}{x:00}
+
+@102
+{z}Withdraw!{g}{x:00}
+
+@103
+{z}{s:0320}The enemy seems to have realised they can't break through and given up.{g}{x:00}
+
+@104
+{z}We should be safe now. Thank you, mercenaries. Today's victory is thanks to you.{g}{x:00}
+
+@105
+{z}{s:0320}Don't mention it! That's our job.{g}{x:00}
+
+@106
+{z}Well, we're going home. No use lingering in a place like this.{g}{x:00}
+
+@107
+{z}{s:0320}We did nothing special. It is simply our job.{g}{x:00}
+
+@108
+{z}We need to rest, so we'll take our leave now.{g}{x:00}
+
+@109
+{z}{s:0320}We only did what was expected of us... It's our job.{g}{x:00}
+
+@110
+{z}Well, we'll head home. No use lingering here.{g}{x:00}
+
+@111
+{z}{s:0320}We only did what was expected of us. It's our job, after all.{g}{x:00}
+
+@112
+{z}Then we're going home.{g}{x:00}
+
+@113
+{z}{s:0320}We only did what was expected of us. It's our job.{g}{x:00}
+
+@114
+{z}Well, we'll head home. No use lingering in a place like this.{g}{x:00}
+
+@115
+{z}{s:0320}Thanks to us, you say?... Not at all.{g}{x:00}
+
+@116
+{z}We could never have won on our own. We're practically destroyed, in fact... It's shameful.{g}{x:00}
+
+@117
+{z}Then we shall withdraw.{g}{x:00}
+
+@118
+{z}{s:0320}Oh? The enemy is pulling out... Have they given up?{g}{x:00}
+
+@119
+{z}Yes! We've won!{g}{x:00}
+
+@120
+{z}Defending isn't really my style... but never mind!{g}{x:00}
+
+@121
+{z}{s:0320}Huh? The enemy's pulling out... They seem to have given up.{g}{x:00}
+
+@122
+{z}Good work, everyone. The mission is accomplished.{g}{x:00}
+
+@123
+{z}The enemy withdrew because they couldn't break through, but we weren't much better off.{g}{x:00}
+
+@124
+{z}We weren't even playing a pure defence, yet we were on the back foot throughout...{g}{x:00}
+
+@125
+{z}{s:0320}The enemy has given up... So we've won.{g}{x:00}
+
+@126
+{z}Well, there's a lot to learn from this, but you've surely noticed it yourself, so I'll say no more.{g}{x:00}
+
+@127
+{z}{s:0320}Huh? The enemy is pulling out... They gave up.{g}{x:00}
+
+@128
+{z}So that means we've won... Thank goodness...{g}{x:00}
+
+@129
+{z}{s:0320}Oh? The enemy is pulling out. Did they give up?{g}{x:00}
+
+@130
+{z}Phew... It's over... We somehow completed the mission. Though how we did it was dreadful.{g}{x:00}
+
+@131
+{z}Captain, try to fight without wasting soldiers.{w}{w} They're not objects. They're people.{g}{x:00}
+
+@132
+{z}{s:0320}Sorry I wasn't more use... I'm withdrawing...{g}{x:00}
+
+@133
+{z}{s:0320}Damn... Some commander I am...{g}{x:00}
+
+@134
+{z}{s:0320}I'm sorry... I can't go on... I have to withdraw...{g}{x:00}
+
+@135
+{z}{s:0320}Damn... my company... How pathetic.{g}{x:00}
+
+@136
+{z}{s:0320}I'll head back ahead of you... Forgive me.{g}{x:00}
+
+@137
+{z}{s:0320}Please... at least hold the fort... You... can do it...{g}{x:00}
+
+@138
+{z}{s:0320}I'm sorry... I can't fight any more. How shameful...{g}{x:00}
+
+@139
+{z}{s:0320}This fort... I can't... hand it over...{g}{x:00}
+
+@140
+{z}{s:0320}Our {p:01}... wiped out... I can't believe it...{g}{x:00}
+
+@141
+{z}{s:0320}The knights wiped out?... It can't be...{g}{x:00}
+
+@142
+{z}Will we be all right on our own?...{g}{x:00}
+
+@143
+{z}{s:0320}As a Knight Commander, this result... is shameful...{g}{x:00}
+
+@144
+{z}{s:0320}M-my company... I am sorry...{g}{x:00}
+
+@145
+{z}{s:0320}Sorry... we're wiped out... You'll have to carry on without us...{g}{x:00}
+
+@146
+{z}{s:0320}Only we are left... But we have no choice.{g}{x:00}
+
+@147
+{z}{s:0320}Tch... these men... are really strong...{g}{x:00}
+
+@148
+{z}{s:0320}You beat me... Not... bad...{g}{x:00}
+
+@149
+{z}{s:0320}Damn... how could we lose to the likes of them? Tch... Retreat.{g}{x:00}
+
+@150
+{z}{s:0320}Will you keep fighting until the enemy gives up?{g}{x:00}
+
+@151
+{z}{s:0320}No. In an assault like this, knowing when to pull back is vital.{g}{x:00}
+
+@152
+{z}If I judge that fighting on is futile, I'll withdraw without hesitation. Bear that in mind.{g}{x:00}
+
+@153
+{z}You lot, don't pursue too far either. If it looks impossible, withdraw.{g}{x:00}
+
+@154
+{z}{s:0320}Of course. We're mercenaries. We won't do anything reckless.{g}{x:00}
+
+@155
+{z}{s:0320}Feel my company's attack!{w}{w} Prepare yourself!{g}{x:00}
+
+@156
+{z}{s:0320}We'll be taking that fort... Charge!{g}{x:00}
+
+@157
+{z}{s:0320}Don't get in our way! Hand over the fort at once!{g}{x:00}
+
+@158
+{z}{s:0320}We're heading for the fort! We've no business with you! Out of the way!{g}{x:00}
+
+@159
+{z}{s:0320}We are {p:01}! Don't you dare turn tail and run!{g}{x:00}
+
+@160
+{z}{s:0320}I can't fight shamefully in front of my men! I'll show no mercy!{g}{x:00}
+
+@161
+{z}{s:0320}I'll not give up this fort even if I die! I can't hand it over!{g}{x:00}
+
+@162
+{z}{s:0320}Don't think you'll win so easily! Come on!{g}{x:00}
+
+@163
+{z}{s:0320}You mean to defeat my company? Interesting... Try it.{g}{x:00}
+
+@164
+{z}{s:0320}Come on, then! I won't lose to the likes of you!{g}{x:00}
+
+@165
+{z}{s:0320}Here I come! My company is invincible!{g}{x:00}
+
+@166
+{z}{s:0320}You'll not get near the fort! Never!{g}{x:00}
+
+@167
+{z}{s:0320}Oh, there's something I forgot to say...{w}{w} But I suppose there's no need to tell everyone...{g}{x:00}
+
+@168
+{z}...that we've got a secret weapon on our side.{g}{x:00}
+
+@169
+{z}...Shameful. All forces, retreat...{g}{x:00}
+
+@170
+{z}Fighting on after losing the fort is tantamount to suicide.{g}{x:00}
+
+@171
+{z}Our target is the western fort.{g}{x:00}
+
+@172
+{z}{s:0320}You can abandon that fort! Strengthen the defences of this one!{g}{x:00}
+
+@173
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@174
+{z}{s:0320}I can see the fort.{g}{x:00}
+
+@175
+{z}{s:0320}Make for the western fort! Take it and we win!{g}{x:00}
+
+@176
+{z}{s:0320}Understood.{g}{x:00}
+
+@177
+{z}{s:0320}There's no point taking this fort, is there?{g}{x:00}
+
+@178
+{z}{s:0320}Even though we abandoned it... it still rankles.{g}{x:00}
+
+@179
+{z}Too good to be a mere mercenary...{g}{x:00}
+

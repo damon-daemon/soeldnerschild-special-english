@@ -1,0 +1,19 @@
+# item kinds (0x80017614): KEY|English, at most 6 letters (see tools/tables.py; Japanese: tables.py show item_kinds)
+00|1H Swd
+01|1H Axe
+02|2H Swd
+03|2H Axe
+04|Spear
+05|Attire
+06|Light
+07|Heavy
+08|Shield
+09|Ring
+0a|Charm
+0b|Neckl.
+0c|Gem
+0d|Art
+0e|Book
+0f|Curio
+10|Docs
+11|???

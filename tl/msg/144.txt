@@ -1,0 +1,453 @@
+@0
+{z}{s:0320}So you are {a:0000}... You have come this far at last...{g}{x:00}
+
+@1
+{z}You would destroy the most venerable nation on the whole continent...{w}{g}{x:00}
+
+@2
+{z}Fools, with no respect for the order of the world!{g}{x:00}
+
+@3
+{z}{s:0320}Lord {a:0094}!{g}{x:00}
+
+@4
+{z}The Kingdom of Grandcour has nothing left but this capital, Orthodox...{g}{x:00}
+
+@5
+{z}Please, stop resisting! Do not make the people suffer any longer!{g}{x:00}
+
+@6
+{z}{s:0320}Don't make me laugh!{g}{x:00}
+
+@7
+{z}If we are annexed by {p:01}, who will protect the people of Grandcour?!{g}{x:00}
+
+@8
+{z}{s:0320}Indeed...{g}{x:00}
+
+@9
+{z}History teaches that every conquered people is humiliated by its conquerors...{g}{x:00}
+
+@10
+{z}{s:0320}We won't allow that to happen!{g}{x:00}
+
+@11
+{z}So please... stop fighting!{g}{x:00}
+
+@12
+{z}{s:0320}I am sorry, but I cannot trust the word of foreigners...{g}{x:00}
+
+@13
+{z}Only we, the knights of Grandcour, can protect Grandcour's people!{g}{x:00}
+
+@14
+{z}{s:0320}Hear me!{w} Our nation will never surrender!{g}{x:00}
+
+@15
+{z}Go, {a:006e}! Destroy the men of {p:01} who dare take up arms against us!{g}{x:00}
+
+@16
+{z}{s:0320}Right! Now's our chance! Crush {p:01}'s soldiers!{g}{x:00}
+
+@17
+{z}{s:0320}So it's you, {a:0070}!{g}{x:00}
+
+@18
+{z}{s:0320}You're late! What were you doing?!{g}{x:00}
+
+@19
+{z}{s:0320}Late? What would you know about timing a march?{g}{x:00}
+
+@20
+{z}I won't follow your orders! I'll fight as I please!{g}{x:00}
+
+@21
+{z}Tch... Do as you like!{g}{x:00}
+
+@22
+{z}{s:0320}Reinforcements?!{w} The Moonlight Knights...{g}{x:00}
+
+@23
+{z}{s:0320}Reinforcements, eh?! What a pain!{g}{x:00}
+
+@24
+{z}{s:0320}So all the main orders are gathered here...{g}{x:00}
+
+@25
+{z}{s:0320}Reinforcements?! Can we really win on our own?{g}{x:00}
+
+@26
+{z}{s:0320}Those are the Moonlight Knights... That {a:0070} fellow, is it?{g}{x:00}
+
+@27
+{z}{s:0320}You came to destroy Grandcour, did you not?{g}{x:00}
+
+@28
+{z}{s:0320}That is true...{g}{x:00}
+
+@29
+{z}But if you choose to surrender, we will not lay a finger on Grandcour's people.{g}{x:00}
+
+@30
+{z}{s:0320}I told you, surrender is not an option for us!{g}{x:00}
+
+@31
+{z}As a knight of Grandcour, I will cut you down!{g}{x:00}
+
+@32
+{z}{a:0000}! Fight me!{g}{x:00}
+
+@33
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@34
+{z}{s:0320}{a:0000}, {a:006e} is strong... Don't lose...{g}{x:00}
+
+@35
+{z}{s:0320}You can't lose! {a:0000}!{g}{x:00}
+
+@36
+{z}{s:0320}I'll leave {a:006e} to you!{g}{x:00}
+
+@37
+{z}I'll take {a:0094} down!{g}{x:00}
+
+@38
+{z}{s:0320}This duel decides Grandcour's future...{g}{x:00}
+
+@39
+{z}You must win, {a:0000}!{g}{x:00}
+
+@40
+{z}{s:0320}{a:0000}! Lost your nerve?!{g}{x:00}
+
+@41
+{z}If you won't, I'll beat {a:006e} myself!{g}{x:00}
+
+@42
+{z}{s:0320}Well, given the opponent... I can understand it...{g}{x:00}
+
+@43
+{z}{s:0320}Why refuse...? You represent the knights of {p:01}!{g}{x:00}
+
+@44
+{z}{s:0320}Why did you refuse?! You represent the knights of {p:01}!{g}{x:00}
+
+@45
+{z}{s:0320}...{g}{x:00}
+
+@46
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@47
+{z}{s:0320}Why does a young lady like you come to the battlefield?{g}{x:00}
+
+@48
+{z}{s:0320}Why...? To end the wars...{g}{x:00}
+
+@49
+{z}With a little more effort, the continent will be united and an age without war will come!{g}{x:00}
+
+@50
+{z}{s:0320}For unification, you would destroy other nations?{g}{x:00}
+
+@51
+{z}Have you ever thought how it feels for those whose country is destroyed?{g}{x:00}
+
+@52
+{z}{s:0320}You must be {a:006e}, said to be Grandcour's strongest...{g}{x:00}
+
+@53
+{z}{s:0320}Whether I am the strongest, I cannot say, but I am indeed {a:006e}...{g}{x:00}
+
+@54
+{z}{s:0320}The name's {a:0002}... I came to beat you...{g}{x:00}
+
+@55
+{z}{s:0320}Very well... Try it, if you think you can.{g}{x:00}
+
+@56
+{z}{s:0320}Lord {a:006e}...{g}{x:00}
+
+@57
+{z}You still refuse to surrender, then...{g}{x:00}
+
+@58
+{z}{s:0320}It is not for me to decide...{g}{x:00}
+
+@59
+{z}I can only keep fighting as ordered...{g}{x:00}
+
+@60
+{z}{s:0320}{a:0000} of {p:01}! Fight me!{g}{x:00}
+
+@61
+{z}I won't let you crush this country!{g}{x:00}
+
+@62
+{z}{s:0320}I'll beat you and end this war...{g}{x:00}
+
+@63
+{z}{s:0320}What does a little girl like you know?! Out of my way!{g}{x:00}
+
+@64
+{z}{s:0320}I don't care what becomes of you lot!{g}{x:00}
+
+@65
+{z}But since I'm fighting you, my pride won't let me lose!{g}{x:00}
+
+@66
+{z}{s:0320}Heh...{w} Interesting...{g}{x:00}
+
+@67
+{z}Let me see what this pride of yours is worth!{g}{x:00}
+
+@68
+{z}{s:0320}{a:0070}, don't you think it's about time to call it quits...{g}{x:00}
+
+@69
+{z}If this fighting goes on, the country will be in tatters...{g}{x:00}
+
+@70
+{z}We fight to protect our country!{g}{x:00}
+
+@71
+{z}{s:0320}It all comes to the same thing...{g}{x:00}
+
+@72
+{z}It's always the poor farmers who cry when war comes!{g}{x:00}
+
+@73
+{z}{s:0320}What are you saying!{g}{x:00}
+
+@74
+{z}{s:0320}You seem to be a user of magic...{g}{x:00}
+
+@75
+{z}{s:0320}My name is {a:0005}...{g}{x:00}
+
+@76
+{z}{s:0320}So you are the one... Then you are a worthy opponent!{g}{x:00}
+
+@77
+{z}Here I come!{g}{x:00}
+
+@78
+{z}{s:0320}We cannot let our nation, heir to Ragail's rightful line, be destroyed!{g}{x:00}
+
+@79
+{z}I shall{w} strike you down!{g}{x:00}
+
+@80
+{z}{s:0320}Finally made it to the castle! {a:0094}! Fight me!{g}{x:00}
+
+@81
+{z}{s:0320}Heh... The whelp gets above himself...{g}{x:00}
+
+@82
+{z}Did you take {a:0094} for a weakling who knows only politics?!{g}{x:00}
+
+@83
+{z}{s:0320}So you can fight...{w}{w} Interesting...{g}{x:00}
+
+@84
+{z}Face me, {a:0094}!{g}{x:00}
+
+@85
+{z}{s:0320}Grandcour may indeed be Ragail's rightful successor...{g}{x:00}
+
+@86
+{z}But what does that matter now...{g}{x:00}
+
+@87
+{z}{s:0320}What do you know!{g}{x:00}
+
+@88
+{z}No one can know the torment I have borne, protecting this country all this time!{g}{x:00}
+
+@89
+{z}{s:0320}Have I lost my edge...{w}? To suffer such losses...{g}{x:00}
+
+@90
+{z}{s:0320}Heh... So this is it...{g}{x:00}
+
+@91
+{z}It's been a pretty good life...{w}{w} Just once more... I wish I could have...{w} seen my brothers...{g}{x:00}
+
+@92
+{z}{s:0320}{a:006e}{w}!{g}{x:00}
+
+@93
+{z}Damn...{w} I won't forgive you...{w}{w} {a:0000}!{g}{x:00}
+
+@94
+{z}{s:0320}{a:006e} has fallen? Our strongest knight...{g}{x:00}
+
+@95
+{z}Curses... How can this be!{g}{x:00}
+
+@96
+{z}{s:0320}Damn...{w}{w} You {p:01}...{w} bastards...{w}{g}{x:00}
+
+@97
+{z}{s:0320}Ugh... Impressive... To cut down my troops like this...{g}{x:00}
+
+@98
+{z}{s:0320}Guh...{g}{x:00}
+
+@99
+{z}I've lost...{w}{w} What will become of Grandcour...{g}{x:00}
+
+@100
+{z}{s:0320}{a:0071}!{g}{x:00}
+
+@101
+{z}{s:0320}Ah...{w}{w} At last, I can sleep as much as I like...{w}{w} can't I...{g}{x:00}
+
+@102
+{z}{s:0320}{a:0071}...{w}{w} Rest in peace...{g}{x:00}
+
+@103
+{z}{s:0320}Ah...{w}{w} At last, I can sleep as much as I like...{w}{w} can't I...{g}{x:00}
+
+@104
+{z}Ugh... I{w} may be finished...{g}{x:00}
+
+@105
+{z}...{w} But scum like you will never build a nation{w} with Grandcour's history{w} and tradition...{w}{w} Never!{g}{x:00}
+
+@106
+{z}{s:0320}Lord Regent!{g}{x:00}
+
+@107
+{z}{s:0320}You too...{w} cared for Grandcour...{g}{x:00}
+
+@108
+{z}{s:0320}We're so close to uniting the continent! We can't lose here!{g}{x:00}
+
+@109
+{z}{s:0320}The enemy's desperate too, I guess, but I can't lose either...{g}{x:00}
+
+@110
+{z}{s:0320}Must we really be the ones to destroy this country...{g}{x:00}
+
+@111
+{z}{s:0320}If you'd surrender, the people would be spared the flames of war...{g}{x:00}
+
+@112
+{z}{s:0320}So the time has come for Ragail's rightful line to end...{g}{x:00}
+
+@113
+{z}{s:0320}As a knight of Grandcour, I cannot forgive those who invade my homeland!{g}{x:00}
+
+@114
+{z}{s:0320}This is our country! Outsiders, get out!{g}{x:00}
+
+@115
+{z}{s:0320}I don't mean to help {a:0094}, but to protect the country, I have no choice!{g}{x:00}
+
+@116
+{z}{s:0320}No dozing off today of all days...{w}{w} Attack!{g}{x:00}
+
+@117
+{z}{s:0320}Curses! I cannot afford to lose!{g}{x:00}
+
+@118
+{z}{s:0320}Eek! It's hopeless...{w} I'm retreating!{g}{x:00}
+
+@119
+{z}{s:0320}I thought I'd grown stronger...{g}{x:00}
+
+@120
+{z}{s:0320}An enemy with nothing to lose is tough. We have to withdraw...{g}{x:00}
+
+@121
+{z}{s:0320}They got me... Be careful, {a:0000}.{g}{x:00}
+
+@122
+{z}{s:0320}For the sake of Grandcour's people, end this war quickly...{g}{x:00}
+
+@123
+{z}{s:0320}Our knights... and even the Lord Regent...{g}{x:00}
+
+@124
+{z}All fallen in battle... Grandcour is finished.{g}{x:00}
+
+@125
+{z}{s:0320}So Grandcour will be annexed by {p:01} too...{g}{x:00}
+
+@126
+{z}We must protect the people of Grandcour so they don't suffer.{g}{x:00}
+
+@127
+{z}{s:0320}Phew...{w}{w} We won, but{w} I feel rather mixed about it.{g}{x:00}
+
+@128
+{z}They were desperate to protect their own country too.{g}{x:00}
+
+@129
+{z}{s:0320}...{g}{x:00}
+
+@130
+{z}{s:0320}So the rightful line of the Ragail Kingdom is broken...{w}{g}{x:00}
+
+@131
+{z}Still, it is always sad to see a nation fall.{g}{x:00}
+
+@132
+{z}{s:0320}...{g}{x:00}
+
+@133
+{z}{s:0320}{a:0000}... That was a painful battle.{g}{x:00}
+
+@134
+{z}If they'd surrendered before the fighting, no one would have had to die.{g}{x:00}
+
+@135
+{z}{s:0320}...{g}{x:00}
+
+@136
+{z}{s:0320}Now, let's get back to {p:01} and report...{g}{x:00}
+
+@137
+{z}{s:0320}Impressive...{w} That's what makes a fight worthwhile!{g}{x:00}
+
+@138
+{z}{s:0320}Lord {a:006e}! Here I come!{g}{x:00}
+
+@139
+{z}{s:0320}To protect my homeland, I must cut you down!{g}{x:00}
+
+@140
+{z}{s:0320}Phantom Spear!{g}{x:00}
+
+@141
+{z}{s:0320}Thunder Spin!{g}{x:00}
+
+@142
+{z}{s:0320}Northern{w}{w} Cross!!{g}{x:00}
+
+@143
+{z}{s:0320}What's the matter! Finished already?!{g}{x:00}
+
+@144
+{z}{s:0320}Not yet... I can't lose...{w} I can't...{g}{x:00}
+
+@145
+{z}{s:0320}Not bad... I've my back to the wall now...{g}{x:00}
+
+@146
+{z}{s:0320}You are finished too... Lord {a:006e}...{w} Prepare yourself!{g}{x:00}
+
+@147
+{z}{s:0320}You were a little short of strength to take Grandcour, it seems...{g}{x:00}
+
+@148
+{z}{s:0320}Lord {a:006e}...{g}{x:00}
+
+@149
+{z}{s:0320}Ugh...{w} Guhh...{g}{x:00}
+
+@150
+{z}{s:0320}{p:01}!{g}{x:00}
+

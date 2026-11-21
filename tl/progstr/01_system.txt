@@ -1,0 +1,329 @@
+80010058	{C6}§ %s §{C7}{n}
+# ADDR<TAB>English (see tools/progstr.py); Japanese: progstr.py show 01_system.txt
+8001006c	-
+80010328	Give up %s?
+80010340	Discard %s?
+80010354	Gave up %s.{g}
+80010368	Discarded %s.{g}
+80010378	Your pack is full.{n}Choose an item to discard.{g}
+800104ec	Set the message speed.
+8001050c	Choose the hero's unit type.{n}Cavalry gives an easier start{n}to the game.
+80010560	Unit Type
+80010570	Messages
+8001057c	Are these settings OK?
+80010598	{C6}Town{C7}  %s
+800105ac	{C6}Ruler{C7}  %s
+800105c0	{C6}Lord{C7}  %s
+800105d4	{C6}Culture{C7} %2s  {C6}Visits{C7} %2d
+800105fc	{C6}Training{C7} %s
+8001061c	Enter this town?
+80010684	Smiley
+80010690	Knight Era
+8001069c	Captain Era
+800106a8	Ending
+800106b8	Mission Lost
+800106c4	To Battle
+800106d0	Mission Won
+800106dc	Duel 2
+800106e8	Duel 1
+800106f4	Melee 4
+80010700	Melee 3
+8001070c	Melee 2
+80010718	Melee 1
+80010724	Foe March 2
+80010730	Foe March 1
+8001073c	Our March
+80010748	Repose
+80010754	Ally Enters
+80010760	Inn/Square/Home
+80010770	Shop
+8001077c	Setup
+80010788	Woman Cry 2
+80010794	Woman Cry 1
+800107a0	Man Cry 2
+800107ac	Man Cry 1
+800107b8	Special 12
+800107c4	Special 11
+800107d0	Special 10
+800107dc	Magic 28
+800107e8	Woman Hit
+800107f4	Man Hit
+80010800	Magic 27
+8001080c	Magic 26
+80010818	Magic 25
+80010824	Magic 24
+80010830	Magic 23
+8001083c	Magic 22
+80010848	Magic 21
+80010854	Magic 20
+80010860	Magic 19
+8001086c	Magic 18
+80010878	Magic 17
+80010884	Magic 16
+80010890	Magic 15
+8001089c	Magic 14
+800108a8	Magic 10
+800108b4	Cav. Charge
+800108c0	Inf. Charge
+800108cc	Summon Zombie
+800108dc	Summon Earth
+800108ec	Magic 13
+800108f8	Magic 12
+80010904	Magic 11
+80010910	Title Screen
+80010920	Level Up
+80010930	Cursor Move
+80010940	Cancel
+8001094c	OPTION
+8001095c	Select Item
+80010968	Select Song
+80010974	Play
+80010980	Stop
+8001098c	Orhan's Magic
+8001099c	Isabel's Magic
+800109ac	Cortes's Magic
+800109bc	Smiley's Magic
+800109d0	Guilford's Magic
+800109e4	Antonio's Magic
+800109f8	Luisa's Magic
+80010a08	Ryuk's Magic
+80010a18	Anastasia's Magic
+80010a2c	Guilford Enters
+80010a40	Antonio Enters
+80010a50	Death of Smiley
+80010a64	Death of Cortes
+80010a74	Death of Steindorf
+80010a8c	Ruined House (3)
+80010aa4	Ruined House (2)
+80010abc	Ruined House (1)
+80010ad4	Robert's House
+80010ae4	{z}You have no reserves of this type.{g}
+80010b0c	{z}Not enough men.{n}Some platoons stay short.{g}
+80010b3c	{z}All sortie platoons replenished!{g}
+80010b68	{z}Leader removed.{g}
+80010b80	{z}No leaders on standby.{g}
+80010b9c	Commander
+80010ba8	Company 1
+80010bb4	Spells
+80010bc0	No leaders on standby.
+80010bdc	Standby Leader
+80010bec	Formation
+80010bf8	Can't change captain.
+80010c10	Company %y
+80010c1c	Men Owned
+80010c28	Mercenary
+80010c34	Replenish
+80010c40	Companies
+80010c4c	Battlefield
+80010c58	{z}The Memory Card in slot 1{n}has been swapped.{g}
+80010c88	{z}The Memory Card in slot 1 has no{n}Soeldnerschild S save data.{g}
+80010cd0	{z}Not enough free space on the Memory Card.{n}Insert a Memory Card with at least 1 free{n}block in slot 1.{g}
+80010d40	{z}Formatted the Memory Card in slot 1.{g}
+80010d70	{z}Could not format the Memory Card in slot 1.{g}
+80010da8	{z}The Memory Card in slot 1 is unformatted.{g}
+80010dd4	{z}The Memory Card is damaged.{n}Insert another Memory Card in slot 1.{g}
+80010e24	{z}No Memory Card in slot 1.{g}
+80010e54	Normal
+80010e60	Checking the Memory Card{n}in slot 1...
+80010e8c	Y%4d M%2d
+80010ea4	NEW DATA
+80010eb8	Accepted
+80010ec4	Completed
+80010ed0	Not accepted
+80010ee4	Hero's Name　　　   Place  Date　　　 Play Time
+80010f14	-
+80010f44	Could not save correctly.{g}
+80010f60	Save cancelled.{g}
+80010f74	Created a new save.{g}
+80010f90	Save updated.{g}
+80010fa8	{z}Create a new save?{n}(Needs 1 block)
+80010fdc	{z}Overwrite this save?
+80011004	{z}Saving to the Memory Card in slot 1.{n}Do not remove the Memory Card.
+80011050	The Memory Card in slot 1 is unformatted.{n}Format it now?
+80011098	{z}Formatting the Memory Card in slot 1.{n}Do not remove the Memory Card.
+800110e8	Loading Soeldnerschild S
+80011104	save data...
+80011118	Do not remove the Memory Card.
+8001113c	Cannot load this save.{g}
+80011154	This save cannot be used.{g}
+80011170	Load cancelled.{g}
+80011188	Loaded the save.{g}
+800111a0	{z}Use this save?
+8001131c	--------   ---
+80011338	You know no special moves.{g}
+80011358	Specials
+80011364	%3d men%3d%3d%3d%3d%3d
+8001137c	You have no mercenaries.{g}
+80011398	Mercenaries
+800113a4	Spells
+800113b0	Commander
+800113bc	{C6}%d/%d{C7}
+800113cc	Towns
+800113d8	People
+800113e4	Abilities
+800113f0	Hero
+800113fc	-
+80011424	Choose an item to equip.
+80011444	You have nothing to equip.{g}
+80011464	{C6}Equipment{C7}
+80011474	Which hand?{n}The left hand gives two-sword style.
+800114ac	{z}You are in two-sword style,{n}so the left sword comes off.{g}{z}
+800114ec	{z}A two-handed weapon.{n}The left hand is freed.{g}{z}
+80011520	{z}Nothing left to equip.{g}{z}
+80011544	Stay at the inn when done
+80011560	Visit a house
+8001156c	Go to the Guild
+8001157c	Find a job
+80011588	Town
+80011594	Plans
+800115a0	Accepted Jobs
+800115b4	Y%3d M%2d
+800115c0	Go to %s
+800115cc	Go to %s Castle
+800115dc	Back to my castle room
+800115f8	Audience chamber
+8001160c	{z}Choose gear to remove.
+8001162c	Nothing equipped.{g}
+80011644	{z}A sword can't be held in the left{n}hand alone; it comes off too.{g}{z}
+80011688	{z}Nothing left to remove.{g}{z}
+800116ac	Equip
+80011704	That's a two-hander.{n}Buying it?
+80011728	A two-handed weapon.{n}Will you buy it?
+80011750	Will you equip it?
+80011764	Will you buy?
+80011774	Selling it?
+80011780	Will you sell?
+80011790	Which hand, then?{n}Left hand makes it two swords.
+800117c8	Which hand, sir?{n}The left hand gives two-sword style.
+80011804	Equip it, then?
+80011814	Will you equip it?
+80011824	Buying it?
+80011830	Will you buy?
+80011840	{z}You are in two-sword style,{n}so I'll remove the left sword.{g}
+80011880	{z}Two swords, eh?{n}The left one comes off, then.{g}
+800118bc	{z}Two-handed weapon.{n}I'll unequip your left hand.{g}
+800118f0	{z}That's a two-hander.{n}Left hand comes off.{g}
+8001191c	Company Name
+8001192c	Captain
+80011938	Has high hopes
+8001194c	Has fair hopes
+80011960	Has slight hopes
+80011974	No interest
+80011984	Distrusts him
+8001199c	Hostile to him
+800119b0	Wants him dead
+800119c4	Opinion of you
+800119d8	Rankings
+800119e4	Opinions
+800119f0	Power Map
+800119fc	{C6}Job{C7}
+80011a0c	{C6}Employer
+80011a18	Target
+80011a24	Happy with this job?
+80011a3c	%4dG  %5u  %s
+80011a50	{C6}Name　　　　　　    Fee      Men Type{C7}
+80011a80	{C6}Hiring{C7}
+80011a98	{C6}Cost{C7}
+80011ab0	{C6}Funds{C7} %7luG
+80011ac4	{C6}Men Owned{C7} %5u
+80011adc	{C6}Funds{C7}
+80011aec	{C6}Total Fee{C7} %5dG
+80011b04	{C6}Unit Type          Men   Fee{C7}
+80011b2c	%3d  %5dG
+80011b38	By Type
+80011b44	Hire All
+80011b50	Get Info
+80011b5c	Hire Men
+80011b68	View Jobs
+80011b74	Go to Job
+80011b80	Duel
+80011b8c	Melee
+80011b98	Commander Class
+80011ba8	Commander Level
+80011bb8	Base Stats
+80011bc4	Position
+80011bd0	Terrain
+80011bdc	Match-ups
+80011be8	Action Time
+80011bf4	Special
+80011c00	Support
+80011c0c	Healing
+80011c18	Attack
+80011c24	Rest
+80011c30	Resume
+80011c3c	Save
+80011c48	Spark Drink
+80011c5c	White Wine
+80011c68	Red Wine
+80011c74	Hot Milk
+80011c84	Orange Juice
+80011c98	What'll it be?
+80011cb0	{C6}Menu{C7}
+80011cc0	{C6}Funds{C7}
+80011cd0	Drink
+80011cdc	 Chat 
+80011ce8	Gift
+80011cf4	Dreams
+80011d00	Get Info
+80011d0c	{C6}Name{C7}
+80011d18	{C6}Class{C7}
+80011d28	To My Room
+80011d34	Audience
+80011d40	Resume
+80011d4c	Save
+80011d58	--------
+80011d6c	Tribe Thug
+80011d78	Tribe Boss
+80011d84	Bandit Thug
+80011d90	Bandit Boss
+80011d9c	Brig. Thug
+80011da8	Brig. Boss
+80011db4	Pirate Thug
+80011dc0	Pirate Boss
+80011dcc	{C6}§ %s §{C7}{n}%s!{g}
+80011de4	Victory
+80011df0	Defeat
+80011dfc	Turn %2d
+80011e0c	Commander
+80011e18	Mercenary
+80011e24	Enemy unknown.{g}
+80011e38	Spells
+80011e44	Bonus Pay
+80011e50	Commanders
+80011e8c	End all units' actions?
+80011ea8	Mission
+80011eb4	Overview
+80011ec0	End Turn
+80011f74	Commander
+80011f80	Not enough MP.{g}
+80011f94	Our Rear
+80011fa0	Our Mid
+80011fac	Our Front
+8001203c	Commander
+80012048	Mercenary
+80012054	{C3}VS{C7}
+800121a4	{C6}Cmdr.
+800121b0	No usable spells.{g}
+800121c8	Commander
+800121d4	No target.{g}
+800121e8	Not enough MP.{g}
+800121fc	Our Front
+80012208	Our Mid
+80012214	Our Rear
+80012220	Enemy Rear
+8001222c	Enemy Mid
+80012238	Enemy Front
+80012244	Out of range.{g}
+80012258	{C6}§ %s §{C7}{n}
+8001226c	Bow Shot!{g}
+80012278	Cannot use magic.{g}
+8001228c	{C3}Swap{C7}
+80012298	Swapping.{n}Cannot use commands.{g}
+800122c0	Can't do that.{g}
+80012378	%s barely managed{n}to retreat.{g}
+8001239c	%s fell, unable to flee.{g}
+800123c4	%s gained a level
+800123dc	{n}Class changed to {C5}%s{C7}!{g}
+80012468	Explain melee battles?
+800125d4	Specials
+80012610	Obtained %s!{g}

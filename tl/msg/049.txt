@@ -1,0 +1,429 @@
+@0
+{z}{s:0320}They're taking their time... Are you sure the enemy supply train comes this way?{g}{x:00}
+
+@1
+{z}{s:0320}The only way to the front is through this forest. They'll pass here for certain.{g}{x:00}
+
+@2
+{z}{s:0320}Maybe they've already gone by.{g}{x:00}
+
+@3
+{z}{s:0320}We've been watching here for ages. That's impossible.{g}{x:00}
+
+@4
+{z}{s:0320}I can't stand it! It's too boring!{g}{x:00}
+
+@5
+{z}{s:0320}Wait! They're coming!{g}{x:00}
+
+@6
+{z}{s:0320}The enemy is lying in ambush!{g}{x:00}
+
+@7
+{z}{s:0320}We just break through. We've come this far, we can't turn back.{g}{x:00}
+
+@8
+{z}{s:0320}That seems the only way.{g}{x:00}
+
+@9
+{z}{s:0320}But...{w}{w} a-{w}{w}are you sure about this?{g}{x:00}
+
+@10
+{z}{s:0320}Trust us. We'll get you to the front, I promise.{g}{x:00}
+
+@11
+{z}{s:0320}They're coming straight at us. Do they mean to break through head-on?{g}{x:00}
+
+@12
+{z}{s:0320}Meet them! Focus on the supply train!{g}{x:00}
+
+@13
+{z}{s:0320}Could you give me a company as escort? I'd feel uneasy with only my own.{g}{x:00}
+
+@14
+{z}I mean to head west with that company...{g}{x:00}
+
+@15
+{z}{s:0320}I'll take that duty. Please follow me.{g}{x:00}
+
+@16
+{z}{s:0320}I'd like to do it too... that duty...{g}{x:00}
+
+@17
+{z}{s:0320}{a:0001} can't do it. Give it up.{g}{x:00}
+
+@18
+{z}{s:0320}Why? I think I can do it too.{g}{x:00}
+
+@19
+{z}{s:0320}Hey, hey... Stop quarrelling. This is a battlefield.{g}{x:00}
+
+@20
+{z}{s:0320}{a:0000}, hurry up and decide.{g}{x:00}
+
+@21
+{z}{s:0320}Eh? Why {a:0001}?{g}{x:00}
+
+@22
+{z}{s:0320}Thank you, {a:0000}. I'll live up to your expectations!{g}{x:00}
+
+@23
+{z}{s:0320}...Oh, well. It's {a:0000}'s decision.{g}{x:00}
+
+@24
+{z}{s:0320}{a:0001}, do your duty properly. Understood?{g}{x:00}
+
+@25
+{z}{s:0320}I know!{g}{x:00}
+
+@26
+{z}{s:0320}But... why...{g}{x:00}
+
+@27
+{z}{s:0320}{a:0001}... Don't feel bad.{g}{x:00}
+
+@28
+{z}{s:0320}{a:0003}, do your duty properly. For {a:0001}'s sake too.{g}{x:00}
+
+@29
+{z}{s:0320}Yes, of course.{g}{x:00}
+
+@30
+{z}{s:0320}If you retreat midway, I won't forgive you.{g}{x:00}
+
+@31
+{z}{s:0320}I just follow her company, correct?{g}{x:00}
+
+@32
+{z}{s:0320}Everyone, let's go!{g}{x:00}
+
+@33
+{z}{s:0320}You still mean to go for a drink of water? That can wait.{g}{x:00}
+
+@34
+{z}{s:0320}Eh? I really can't?{g}{x:00}
+
+@35
+{z}{s:0320}That's enough! The battle has already begun!{g}{x:00}
+
+@36
+{z}{s:0320}Sorry...{g}{x:00}
+
+@37
+{z}{s:0320}As long as you understand. Now, down to work.{g}{x:00}
+
+@38
+{z}{s:0320}...I am the captain of this company, aren't I?{g}{x:00}
+
+@39
+{z}{s:0320}Hey! Don't just stand there! Let's go!{g}{x:00}
+
+@40
+{z}{s:0320}R-{w}{w}right.{g}{x:00}
+
+@41
+{z}{s:0320}An ambush!{g}{x:00}
+
+@42
+{z}{s:0320}I told you not to come out until I signalled! Couldn't you hold on a bit longer?{g}{x:00}
+
+@43
+{z}{s:0320}I thought so too, but I got tired of waiting.{g}{x:00}
+
+@44
+{z}{s:0320}Well, you're out now, nothing for it. Get into the fight, quick.{g}{x:00}
+
+@45
+{z}{s:0320}Right.{g}{x:00}
+
+@46
+{z}{s:0320}Looks like there are more of them now... Will you be all right?{g}{x:00}
+
+@47
+{z}{s:0320}I'm fine. Don't worry.{g}{x:00}
+
+@48
+{z}{s:0320}I'm fine. Please don't worry.{g}{x:00}
+
+@49
+{z}{s:0320}...I'm sorry. Go west alone from here...{g}{x:00}
+
+@50
+{z}{s:0320}No... You said you'd be fine...{g}{x:00}
+
+@51
+{z}{s:0320}I'm sorry... Go west alone from here...{g}{x:00}
+
+@52
+{z}{s:0320}No... You said you'd be fine...{g}{x:00}
+
+@53
+{z}{s:0320}I'm fine. Don't worry.{g}{x:00}
+
+@54
+{z}{s:0320}I'm fine, I tell you! {w}{w}Right, {a:0000}?{g}{x:00}
+
+@55
+{z}{s:0320}Don't worry. Leave it to us.{g}{x:00}
+
+@56
+{z}{s:0320}I'm all right. Please leave it to us.{g}{x:00}
+
+@57
+{z}{s:0320}I'm all right. Trust us.{g}{x:00}
+
+@58
+{z}{s:0320}From here on, go west alone. I'll guard your back.{g}{x:00}
+
+@59
+{z}{s:0320}Understood.{g}{x:00}
+
+@60
+{z}{s:0320}From here on, please go west alone. I'll guard your back.{g}{x:00}
+
+@61
+{z}{s:0320}Understood.{g}{x:00}
+
+@62
+{z}{s:0320}Ugh... My comrades at the front... {w}{w}are waiting...{g}{x:00}
+
+@63
+{z}Die... in a place like this...? {w}{w}Never...{g}{x:00}
+
+@64
+{z}{s:0320}Good! The supply company is wiped out! Our job is done!{g}{x:00}
+
+@65
+{z}Heh heh heh! {a:0000}! Next time we meet on a battlefield, let us cash in on you again!{g}{x:00}
+
+@66
+{z}See you!{g}{x:00}
+
+@67
+{z}{s:0320}No... I was there to protect them... It's all... {w}{w}all my fault...{g}{x:00}
+
+@68
+{z}{a:0000} chose me, and yet... I'm sorry, {a:0000}...{g}{x:00}
+
+@69
+{z}{s:0320}No... I was there to protect them... It's all... {w}{w}all my fault...{g}{x:00}
+
+@70
+{z}{a:0000} chose me, and yet... I'm sorry, {a:0000}...{g}{x:00}
+
+@71
+{z}{s:0320}I couldn't protect them... No...{g}{x:00}
+
+@72
+{z}I was determined to protect them, for {a:0003}'s sake too...{g}{x:00}
+
+@73
+{z}{s:0320}Failing to protect them... No...{g}{x:00}
+
+@74
+{z}I was determined to protect them, for {a:0001}'s sake too...{g}{x:00}
+
+@75
+{z}{s:0320}To think it would end like this... How shameful...{g}{x:00}
+
+@76
+{z}{s:0320}To think it'd end like this... Damn it, how shameful...{g}{x:00}
+
+@77
+{z}{s:0320}To think it would end like this... Haah, how shameful...{g}{x:00}
+
+@78
+{z}{s:0320}We're finally through the forest... The front is close.{g}{x:00}
+
+@79
+{z}{s:0320}Go straight on to the front! Don't mind us!{g}{x:00}
+
+@80
+{z}{s:0320}Please go straight on to the front! Don't mind us!{g}{x:00}
+
+@81
+{z}{s:0320}Go on to the front. No need to wait for us.{g}{x:00}
+
+@82
+{z}{s:0320}No need to wait for us! Make straight for the front!{g}{x:00}
+
+@83
+{z}{s:0320}No need to wait for us. Hurry on.{g}{x:00}
+
+@84
+{z}{s:0320}Please go straight on to the front! Don't mind us!{g}{x:00}
+
+@85
+{z}{s:0320}Go straight on to the front! Don't mind us!{g}{x:00}
+
+@86
+{z}{s:0320}Please hurry on without minding us! Quickly now!{g}{x:00}
+
+@87
+{z}{s:0320}I see, thank you... Then we'll be off!{g}{x:00}
+
+@88
+{z}{s:0320}Ah! The supply train... It got away...{g}{x:00}
+
+@89
+{z}We've lost! Pull out!{g}{x:00}
+
+@90
+{z}{s:0320}We got them to the front safely... Thank goodness...{g}{x:00}
+
+@91
+{z}Good thing you left it to me, eh? You can count on me. I'll always live up to your expectations.{g}{x:00}
+
+@92
+{z}{s:0320}They should make it to the front now... I'm glad we completed the mission.{g}{x:00}
+
+@93
+{z}{a:0000}, you can leave a task like this to me. I'll live up to your expectations.{g}{x:00}
+
+@94
+{z}We got them to the front safely... Thank goodness...{g}{x:00}
+
+@95
+{z}But... {a:0003}...{g}{x:00}
+
+@96
+{z}{s:0320}They should make it to the front safely now... I'm glad we completed the mission.{g}{x:00}
+
+@97
+{z}Come, let's hurry back and comfort {a:0001}. She must be feeling low.{g}{x:00}
+
+@98
+{z}{s:0320}They'll reach the front now.{g}{x:00}
+
+@99
+{z}Right, our job is done. Let's go home.{g}{x:00}
+
+@100
+{z}{s:0320}Now they'll reach the front, I'd say.{g}{x:00}
+
+@101
+{z}Let's get back to town quickly. I don't want to stay in this forest any longer.{g}{x:00}
+
+@102
+{z}{s:0320}Now they'll reach the front, I suppose.{g}{x:00}
+
+@103
+{z}Then let us pull out. We've no more business here.{g}{x:00}
+
+@104
+{z}{s:0320}I'm... withdrawing... But don't give up... till the end...{g}{x:00}
+
+@105
+{z}{s:0320}D-damn... My company...{g}{x:00}
+
+@106
+{z}{s:0320}Be sure... to finish the mission... We can't lose to these fellows...{g}{x:00}
+
+@107
+{z}{s:0320}We're wiped out... {w}{w}Im-impossible...{g}{x:00}
+
+@108
+{z}{s:0320}The enemy seems wiped out. Nobody left to interfere.{g}{x:00}
+
+@109
+{z}Let's press on! Many comrades at the front are waiting impatiently for us!{g}{x:00}
+
+@110
+{z}{s:0320}Thank goodness I didn't retreat midway... Truly...{g}{x:00}
+
+@111
+{z}{s:0320}I'm glad I didn't have to retreat midway...{g}{x:00}
+
+@112
+{z}{s:0320}{a:0003}... She retreated before the end...{g}{x:00}
+
+@113
+{z}{s:0320}{a:0001}... She retreated before the end, didn't she...{g}{x:00}
+
+@114
+{z}{s:0320}Good thing... {w}{w}you didn't leave it to me...{g}{x:00}
+
+@115
+{z}{s:0320}Ugh... My company... Damn it...{g}{x:00}
+
+@116
+{z}{s:0320}Me, retreating...{g}{x:00}
+
+@117
+{z}{s:0320}How could I...{g}{x:00}
+
+@118
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@119
+{z}{s:0320}I'll live up to expectations. I'll never retreat midway.{g}{x:00}
+
+@120
+{z}{s:0320}I'll get this supply train to the front. I'll never retreat.{g}{x:00}
+
+@121
+{z}{s:0320}{a:0001} has retreated... And she was so eager...{g}{x:00}
+
+@122
+{z}If she goes home without completing the mission, she'll be crushed. For all her bravado, she has a soft side.{g}{x:00}
+
+@123
+{z}{s:0320}Luisa has retreated... And she was so confident...{g}{x:00}
+
+@124
+{z}If we fail the mission, I think she'll be crushed. She has such a strong sense of duty...{g}{x:00}
+
+@125
+{z}{s:0320}I'd better show some authority as captain here...{g}{x:00}
+
+@126
+{z}{s:0320}Don't underestimate my company! Come on!{g}{x:00}
+
+@127
+{z}{s:0320}Time to cut loose! Let's go!{g}{x:00}
+
+@128
+{z}{s:0320}My company against yours... {w}{w}a grown man against a child...{g}{x:00}
+
+@129
+{z}{s:0320}We won't let you get in our way!{g}{x:00}
+
+@130
+{z}{s:0320}Here I come! Brace yourself!{g}{x:00}
+
+@131
+{z}{s:0320}You won't get near the supply train!{g}{x:00}
+
+@132
+{z}{s:0320}You mean to destroy my company? Interesting... Try it.{g}{x:00}
+
+@133
+{z}{s:0320}S-{w}{w}stop it!{g}{x:00}
+
+@134
+{z}I'm going to that lake over there to drink some water.{g}{x:00}
+
+@135
+{z}If even {a:0003} retreated, the role would have been too much for me too.{g}{x:00}
+
+@136
+{z}I think she's feeling low. Let's cheer her up when we get back.{g}{x:00}
+
+@137
+{z}She must be feeling low. Let's cheer her up when we get back.{g}{x:00}
+
+@138
+{z}{s:0320}We're being completely overwhelmed...{g}{x:00}
+
+@139
+{z}Then I'll have to call in the others. Hey! Come out!{g}{x:00}
+
+@140
+{z}{s:0320}You took that much of a beating? Sloppy.{g}{x:00}
+
+@141
+{z}{s:0320}Sorry... Help us, quick.{g}{x:00}
+
+@142
+{z}{s:0320}Right, on our way.{g}{x:00}
+

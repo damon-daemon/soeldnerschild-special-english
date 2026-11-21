@@ -1,0 +1,327 @@
+@0
+{z}{f}{l:00e7}{s:0001}Oh...{w} That's... the Funeral Mercenaries!!{g}{x:00}
+
+@1
+{z}{s:0320}To meet them in a place like this... Can we beat them?{g}{x:00}
+
+@2
+{z}{s:0320}Perfect! We'll avenge {a:0023}!{g}{x:00}
+
+@3
+{z}{s:0320}!{w}{w} Isn't that the Tigre Mercenaries?{g}{x:00}
+
+@4
+{z}{a:0023} is dead, and they're still around?{g}{x:00}
+
+@5
+{z}{s:0320}{a:0024}'s there too! I'll take him down myself!{g}{x:00}
+
+@6
+{z}{f}{l:00e7}{s:0001}We lost... And it was such a chance for revenge...{g}{x:00}
+
+@7
+{z}{s:0320}Damn! Curse you, {a:0024}... I wanted to avenge him with my own hands...{g}{x:00}
+
+@8
+{z}{s:0320}I'm sorry, but I'm retreating... Make sure you defeat {a:0024}!{g}{x:00}
+
+@9
+{z}{s:0320}Tch... Damn. I'm pulling out.{g}{x:00}
+
+@10
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@11
+{z}{s:0320}Eh!{w} How do you know my name...?{g}{x:00}
+
+@12
+{z}{s:0320}{v:0106}My name is {a:0005}...{u}{x:00}
+
+@13
+{z}{v:0107}I'll go back to town ahead of you. I'll visit your inn later, and tell you everything there...{u}{x:00}
+
+@14
+{z}{s:0320}Tell me everything...?{g}{x:00}
+
+@15
+{z}{s:0320}{v:0108}Make sure you beat {a:0031}'s men and come back safe...{u}{x:00}
+
+@16
+{z}{f}{l:00e7}{s:0001}This is our revenge for {a:0023}... Do your best, everyone!{g}{x:00}
+
+@17
+{z}{s:0320}{a:0024}! You're the one I'll never forgive!{g}{x:00}
+
+@18
+{z}{s:0320}I can't lose here!{g}{x:00}
+
+@19
+{z}{s:0320}{v:00e6}Wretches, drunk on power...{u}{x:00}
+
+@20
+{z}{s:0320}I am {a:0032} of the Funeral Mercenaries! Anyone who wants to die, step before me!{g}{x:00}
+
+@21
+{z}{s:0320}Heh... heh heh heh heh.{g}{x:00}
+
+@22
+{z}{s:0320}Come on, you half-dead wretches! I'll finish you off!{g}{x:00}
+
+@23
+{z}{s:0320}We should've killed you all back then. Still, killing you here comes to the same thing!{g}{x:00}
+
+@24
+{z}{f}{l:00e7}{s:0001}If you hadn't betrayed him, {a:0023} would...{g}{x:00}
+
+@25
+{z}{s:0320}Are you saying he died because of me?{g}{x:00}
+
+@26
+{z}{a:0023} died because of his own softness!{g}{x:00}
+
+@27
+{z}{s:0320}{a:0002}, is it...? Still with Tigre?{g}{x:00}
+
+@28
+{z}I thought you had a bit more foresight.{g}{x:00}
+
+@29
+{z}{f}{l:00e9}{s:0002}Look who's talking, wagging your tail for the strong!{g}{x:00}
+
+@30
+{z}And betraying your comrades, too! You're the lowest of the low! I'll settle this here!{g}{x:00}
+
+@31
+{z}{s:0320}Betraying comrades and feeling nothing...{g}{x:00}
+
+@32
+{z}It's people like you who stop the fighting from ever ending!{g}{x:00}
+
+@33
+{z}{s:0320}I'm a mercenary! If the fighting ends, I'm out of work!{g}{x:00}
+
+@34
+{z}{s:0320}{a:0024}!{g}{x:00}
+
+@35
+{z}So it's true you betrayed {a:0023}!{g}{x:00}
+
+@36
+{z}{s:0320}Well, if it isn't {a:0004}.{g}{x:00}
+
+@37
+{z}{s:0320}{v:00fd}Old man! Who the hell are you?{u}{x:00}
+
+@38
+{z}{s:0320}{v:00fe}You are the same as {a:0031}, then... In that case I must strike you down...{u}{x:00}
+
+@39
+{z}{s:0320}So I got beaten... by a brat like this...{g}{x:00}
+
+@40
+{z}{s:0320}Go apologise to {a:0023} in the next world!{g}{x:00}
+
+@41
+{z}{s:0320}So I got beaten... by a brat like this...{g}{x:00}
+
+@42
+{z}{f}{l:00e7}{s:0001}{a:0023}... We've struck down one of your enemies...{g}{x:00}
+
+@43
+{z}{s:0320}So I got beaten... by a brat like this...{g}{x:00}
+
+@44
+{z}{s:0320}Relying on the strong will never make you truly strong!{g}{x:00}
+
+@45
+{z}{s:0320}So I got beaten... To die at the hands of my old comrades...{g}{x:00}
+
+@46
+{z}{s:0320}How dare a man like you call us comrades!{g}{x:00}
+
+@47
+{z}{s:0320}So I got beaten... To die at the hands of my old comrades...{g}{x:00}
+
+@48
+{z}{s:0320}What are you saying... You were the one who betrayed us.{g}{x:00}
+
+@49
+{z}{s:0320}{v:00ff}So I got beaten... Is that the gap between us...? Damn it!{u}{x:00}
+
+@50
+{z}{s:0320}{v:0100}Those who pursue only power are fated to be destroyed by it...{u}{x:00}
+
+@51
+{z}{s:0320}{v:0101}Ugh...{w}{w} Was turning traitor a mistake...? To end like this, in a place like this...{u}{x:00}
+
+@52
+{z}{s:0320}{v:0101}Ugh...{w}{w} Was turning traitor a mistake...? To end like this, in a place like this...{u}{x:00}
+
+@53
+{z}{s:0320}Fool! You misjudged when to pull back.{g}{x:00}
+
+@54
+{z}We're withdrawing! Those still standing, follow me!{g}{x:00}
+
+@55
+{z}{s:0320}{a:0024}...{w}{w} If you hadn't betrayed us, it wouldn't have come to this...{g}{x:00}
+
+@56
+{z}{s:0320}{v:0102}Young man...{u}{x:00}
+
+@57
+{z}{s:0320}...!{g}{x:00}
+
+@58
+{z}Thank you for saving us in our hour of need. But... who are you?{g}{x:00}
+
+@59
+{z}{s:0320}{v:0103}My name is {a:0005}. I have something to tell you...{u}{x:00}
+
+@60
+{z}{s:0320}You know who I am?{g}{x:00}
+
+@61
+{z}{s:0320}{v:0104}Yes... I know you well. Your deeds so far have been admirable...{u}{x:00}
+
+@62
+{z}{s:0320}{v:0105}Well, this is no place to talk. Let us leave the details until we're back in town.{u}{x:00}
+
+@63
+{z}{s:0320}{a:0005}, he said... So that old man really is...{g}{x:00}
+
+@64
+{z}{s:0320}{a:0024}... You were our comrade once, it's true...{g}{x:00}
+
+@65
+{z}It leaves me torn...{g}{x:00}
+
+@66
+{z}{s:0320}{a:0031} got away from us...{w} We might not have beaten him even if we'd fought.{g}{x:00}
+
+@67
+{z}{s:0320}Who on earth is that old man?{g}{x:00}
+
+@68
+{z}If we don't hurry back to the inn, we'll keep him waiting.{g}{x:00}
+
+@69
+{z}All forces! Back to town!{g}{x:00}
+
+@70
+{z}All forces! Back to town!{g}{x:00}
+
+@71
+{z}{f}{l:00e7}{s:0001}That old man... He's no ordinary wizard, I'm sure of it.{g}{x:00}
+
+@72
+{z}{s:0320}...{w}{w} I've defeated the traitor {a:0024}...{g}{x:00}
+
+@73
+{z}{s:0320}{v:00f8}Hm...{u}{x:00}
+
+@74
+{z}{v:00f9}That man... He's no ordinary person.{u}{x:00}
+
+@75
+{z}{f}{l:00e7}{v:00fa}{s:0001}Magic like that... I've never seen or heard of anything like it!{u}{x:00}
+
+@76
+{z}{s:0320}{v:00fb}It really is amazing! Who is that old man?{u}{x:00}
+
+@77
+{z}{c:06}§ Old Man §{c:07}{n}{v:00e7}{a:0031}...{w}{w} Today...{w}{w} today I will defeat you.{u}{x:00}
+
+@78
+{z}{s:0320}{v:00e8}Who's that old geezer?{u}{x:00}
+
+@79
+{z}{s:0320}{v:00e9}{a:0005}... You...{w} You're alive...{u}{x:00}
+
+@80
+{z}{v:00ea}{a:0024}...{w}{w} I leave this to you.{u}{x:00}
+
+@81
+{z}{s:0320}{v:00eb}What?{u}{x:00}
+
+@82
+{z}{s:0320}{v:00ec}Right now,{w} I do not wish to fight that old wreck...{u}{x:00}
+
+@83
+{z}{s:0320}{v:00ee}I-If those are your orders...{w}{w} leave it to me.{u}{x:00}
+
+@84
+{z}{s:0320}{v:00ef}Hm...{u}{x:00}
+
+@85
+{z}{s:0320}{v:00f0}Ugh...{w}{w} {a:0031}...{w}{w} He fled...{u}{x:00}
+
+@86
+{z}{s:0320}{v:00f1}As {a:0031} said, change of plan!{u}{x:00}
+
+@87
+{z}{s:0320}{v:00f3}Heh! No need to tell me... I'll do it!{u}{x:00}
+
+@88
+{z}{s:0320}{v:00f4}Hm...?{u}{x:00}
+
+@89
+{z}{v:00f5}That old man...{w}{w} I feel I've seen him somewhere...{u}{x:00}
+
+@90
+{z}{s:0320}{v:00f6}Don't just stand there! Hurry and help him!{u}{x:00}
+
+@91
+{z}{s:0320}{v:00f7}{a:0031} got away, but {a:0024} is one of those we owe a reckoning too!{u}{x:00}
+
+@92
+{z}{s:0320}So you're the captain now!{g}{x:00}
+
+@93
+{z}{s:0320}That's right! Now you pay for {a:0023}!{g}{x:00}
+
+@94
+{z}{s:0320}Hmph! Showing off! You're as irritating as ever!{g}{x:00}
+
+@95
+{z}{s:0320}{v:00fc}That magic power...{w} Could it be...{u}{x:00}
+
+@96
+{z}{v:00f2}Kill the Tigre lot, along with that old man!{u}{x:00}
+
+@97
+{z}The victory condition has changed.{g}{x:00}
+
+@98
+{z}{s:0320}Well then... That must be the supply depot.{g}{x:00}
+
+@99
+{z}{s:0320}So we just have to defend it.{g}{x:00}
+
+@100
+{z}{s:0320}Or else wipe out the enemy...{g}{x:00}
+
+@101
+{z}{s:0320}That's quicker.{w} Let's charge them and finish it at once!{g}{x:00}
+
+@102
+{z}{s:0320}We don't know how strong they are. Charging in rashly is dangerous.{g}{x:00}
+
+@103
+{z}{s:0320}True...{w} But as for their strength,{w} we know it well enough, don't we?{g}{x:00}
+
+@104
+{z}{s:0320}Eh?{g}{x:00}
+
+@105
+{z}{s:0320}Don't be hasty... Our opponent is {a:0031}, after all...{g}{x:00}
+
+@106
+{z}Heh...{w}{w} Not so.{g}{x:00}
+
+@107
+{z}So you went back to Tigre, now it's on its last legs!{g}{x:00}
+
+@108
+{z}{v:00ed}Never mind taking the supply depot...{w} Just make sure you dispose of them.{w} Understood?{u}{x:00}
+

@@ -1,0 +1,267 @@
+@0
+{z}{s:0320}That must be the regular army heading for the front.{g}{x:00}
+
+@1
+{z}{s:0320}Good... we made it in time...{g}{x:00}
+
+@2
+{z}{s:0320}Right, let's get to work.{g}{x:00}
+
+@3
+{z}{s:0320}Hey! Mercenaries are coming from over there! Are they hired by our country?{g}{x:00}
+
+@4
+{z}{s:0320}If they were ours, they wouldn't be coming from that direction.{g}{x:00}
+
+@5
+{z}{s:0320}I see...{g}{x:00}
+
+@6
+{z}Which means they're mercenaries hired by {p:01}. They move fast, that lot.{g}{x:00}
+
+@7
+{z}{s:0320}This is no time to be impressed. What shall we do?{g}{x:00}
+
+@8
+{z}{s:0320}We've no time for mercenaries. Our mission is to reinforce the front.{g}{x:00}
+
+@9
+{z}{s:0320}Understood. Then let's ignore them and make for the front.{g}{x:00}
+
+@10
+{z}{s:0320}The enemy doesn't want to fight us...{g}{x:00}
+
+@11
+{z}{s:0320}What? They're running? Not if I can help it!{g}{x:00}
+
+@12
+{z}{s:0320}Keep heading north-west and wait in the town ahead.{g}{x:00}
+
+@13
+{z}{s:0320}What? In a town?{g}{x:00}
+
+@14
+{z}{s:0320}We'll regroup in that town before reaching the front.{g}{x:00}
+
+@15
+{z}{s:0320}Yes, sir.{g}{x:00}
+
+@16
+{z}{s:0320}They've finally come...{g}{x:00}
+
+@17
+{z}{s:0320}Hm? Is someone in the way?{g}{x:00}
+
+@18
+{z}{s:0320}Those are... {w}{w}the Tigre...{g}{x:00}
+
+@19
+{z}{s:0320}We must help them quickly, or they'll be wiped out.{g}{x:00}
+
+@20
+{z}{s:0320}True, let's hurry a little.{g}{x:00}
+
+@21
+{z}{s:0320}Hey! Don't get wiped out before we arrive!{g}{x:00}
+
+@22
+{z}{s:0320}Wiped out?! As if that could happen!{g}{x:00}
+
+@23
+{z}But... {w}{w}hurry as much as you can.{g}{x:00}
+
+@24
+{z}{s:0320}Reinforcements... and so many of them...{g}{x:00}
+
+@25
+{z}{s:0320}Reinforcements... and so many of them, too.{g}{x:00}
+
+@26
+{z}{s:0320}To think they have so many reinforcements...{g}{x:00}
+
+@27
+{z}{s:0320}So they did hire mercenaries after all...{g}{x:00}
+
+@28
+{z}{s:0320}And here we are in this state...{g}{x:00}
+
+@29
+{z}Our mission is, above all, to support the front. Unless four companies are reduced to one, we make for the front.{g}{x:00}
+
+@30
+{z}{s:0320}As planned, we wait in the town ahead! Onward!{g}{x:00}
+
+@31
+{z}{s:0320}Letting one company through can't be helped... But no more, whatever happens.{g}{x:00}
+
+@32
+{z}{s:0320}They got away... But we won't let any more escape.{g}{x:00}
+
+@33
+{z}{s:0320}They got away... We won't let anyone else through.{g}{x:00}
+
+@34
+{z}{s:0320}Letting that one company through can't be helped. But no more, whatever happens.{g}{x:00}
+
+@35
+{z}{s:0320}Letting that one company through can't be helped... But no more, whatever happens.{g}{x:00}
+
+@36
+{z}{s:0320}A single company hardly counts as reinforcements.{g}{x:00}
+
+@37
+{z}{s:0320}We'll join the companies waiting in the town, then make for the front!{g}{x:00}
+
+@38
+{z}Onward!{g}{x:00}
+
+@39
+{z}{s:0320}That ends our part in this.{g}{x:00}
+
+@40
+{z}{s:0320}We got troops to the front... We've fulfilled our minimum mission...{g}{x:00}
+
+@41
+{z}{s:0320}They'll join the front... I came here to prevent that...{g}{x:00}
+
+@42
+{z}Let's go home...{g}{x:00}
+
+@43
+{z}{s:0320}They'll join the front... Stopping that was our mission...{g}{x:00}
+
+@44
+{z}Damn... we failed. How pathetic.{g}{x:00}
+
+@45
+{z}{s:0320}We couldn't stop them joining the front...{g}{x:00}
+
+@46
+{z}It's galling, but we failed. Let's go home...{g}{x:00}
+
+@47
+{z}{s:0320}We let the reinforcements reach the front... Stopping them was our mission...{g}{x:00}
+
+@48
+{z}No help for it... we lost. Let's pull out...{g}{x:00}
+
+@49
+{z}{s:0320}The reinforcements will join the front... We came to stop that...{g}{x:00}
+
+@50
+{z}It galls me, but we lost. Let's pull out.{g}{x:00}
+
+@51
+{z}{s:0320}We let the reinforcements through to the front... We came to stop that...{g}{x:00}
+
+@52
+{z}Failing the mission... How pathetic...{g}{x:00}
+
+@53
+{z}{s:0320}Make sure you reach the front... {w}{w}I'm counting on you...{g}{x:00}
+
+@54
+{z}{s:0320}We must join them... Our comrades are waiting...{g}{x:00}
+
+@55
+{z}{s:0320}Only my company is left... That's no reinforcement...{g}{x:00}
+
+@56
+{z}Having to turn back without joining the front...{g}{x:00}
+
+@57
+{z}{s:0320}The regular army... gave up.{g}{x:00}
+
+@58
+{z}Damn... so we lost...{g}{x:00}
+
+@59
+{z}{s:0320}Yes! We stopped them joining the front! Mission accomplished!{g}{x:00}
+
+@60
+{z}{s:0320}Good, we've stopped them joining the front. The mission is accomplished.{g}{x:00}
+
+@61
+{z}{s:0320}Yes! We stopped them joining up! We completed the mission!{g}{x:00}
+
+@62
+{z}{s:0320}Now they can't join the front... Mission accomplished.{g}{x:00}
+
+@63
+{z}{s:0320}We stopped them reaching the front! We completed the mission!{g}{x:00}
+
+@64
+{z}{s:0320}Maybe I'm a poor commander...{g}{x:00}
+
+@65
+{z}{s:0320}Damn... what a mess...{g}{x:00}
+
+@66
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@67
+{z}{s:0320}I can't go on any more...{g}{x:00}
+
+@68
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@69
+{z}{s:0320}Beaten by the Tigre... Why... {w}{w}We should have come... {w}{w}in greater numbers...{g}{x:00}
+
+@70
+{z}{s:0320}Fight on to the end and never give up... I beg you.{g}{x:00}
+
+@71
+{z}{s:0320}Da-{w}{w}damn...{g}{x:00}
+
+@72
+{z}{s:0320}My... my company... Oh no...{g}{x:00}
+
+@73
+{z}{s:0320}To withdraw without joining the front...{g}{x:00}
+
+@74
+{z}{s:0320}I'll kill you!{g}{x:00}
+
+@75
+{z}{s:0320}Our livelihood is at stake too. Sorry, but I'm going all out.{g}{x:00}
+
+@76
+{z}{s:0320}Ready yourselves! Here we come!{g}{x:00}
+
+@77
+{z}{s:0320}I am a Knight Commander, you know. Don't underestimate me.{g}{x:00}
+
+@78
+{z}{s:0320}Mere mercenaries! Get out of our way!{g}{x:00}
+
+@79
+{z}{s:0320}Hah, you want to take me on? {w}{w}You've got nerve!{g}{x:00}
+
+@80
+{z}{s:0320}Right, let's get to work.{g}{x:00}
+
+@81
+{z}{s:0320}I may not look it, but I'm quite strong.{g}{x:00}
+
+@82
+{z}{s:0320}We won't lose!{g}{x:00}
+
+@83
+{z}{s:0320}Come on, then! I'll send you packing!{g}{x:00}
+
+@84
+{z}{s:0320}Just a little further to the fort...{g}{x:00}
+
+@85
+{z}{s:0320}Our mercenaries have been wiped out... This is bad...{g}{x:00}
+
+@86
+{z}{s:0320}They've been beaten too... That makes three companies...{g}{x:00}
+
+@87
+{z}Ah... we were told to protect at least two companies...{g}{x:00}
+
+@88
+{z}Heh, you might actually give me some fun.{g}{x:00}
+

@@ -1,0 +1,498 @@
+@0
+{z}{s:0320}We're completely surrounded... It's over...{g}{x:00}
+
+@1
+{z}{s:0320}I don't want to give up till the very end, but in this situation...{g}{x:00}
+
+@2
+{z}{s:0320}The enemy has lost heart! Now is the time to finish them!{g}{x:00}
+
+@3
+{z}Right, charge!{g}{x:00}
+
+@4
+{z}{s:0320}Ah! Look out!{g}{x:00}
+
+@5
+{z}{s:0320}Everyone, come quickly!{g}{x:00}
+
+@6
+{z}{s:0320}This is bad, really bad... Everyone, hurry!{g}{x:00}
+
+@7
+{z}{s:0320}Who are you?{g}{x:00}
+
+@8
+{z}{s:0320}We're mercenaries hired by {p:01}. We were asked to rescue you.{g}{x:00}
+
+@9
+{z}{s:0320}Rescue us? How, in this situation?{g}{x:00}
+
+@10
+{z}{s:0320}No need to worry. Leave it to us!{g}{x:00}
+
+@11
+{z}{s:0320}Those men... They're the Tigre...{g}{x:00}
+
+@12
+{z}{s:0320}What now? Do we wait for the captain to arrive?{g}{x:00}
+
+@13
+{z}{s:0320}The enemy in front of us won't wait.{g}{x:00}
+
+@14
+{z}Besides, we only need to beat the regular army. We can manage on our own.{g}{x:00}
+
+@15
+{z}{s:0320}Right, then it's decided. Fight on! Let's go!{g}{x:00}
+
+@16
+{z}{s:0320}The enemy is attacking! Watch out!{g}{x:00}
+
+@17
+{z}{s:0320}While we keep the enemy busy, get out of here.{g}{x:00}
+
+@18
+{z}{s:0320}What? What do you mean, run? What about this castle we've defended?{g}{x:00}
+
+@19
+{z}{s:0320}...I'm sorry, but you'll have to give it up.{g}{x:00}
+
+@20
+{z}{s:0320}But...{w}{w} we were ready to die defending it...{g}{x:00}
+
+@21
+{z}{s:0320}{p:01} chose your lives over this castle.{g}{x:00}
+
+@22
+{z}As long as you live, you may yet win the castle back.{g}{x:00}
+
+@23
+{z}{s:0320}...You're right.{g}{x:00}
+
+@24
+{z}{s:0320}You lot, flee to the southern fort.{g}{x:00}
+
+@25
+{z}{s:0320}The southern fort... {w}{w}Yes, we'd be safe if we got there.{g}{x:00}
+
+@26
+{z}{s:0320}Once we've drawn the enemy's attention, we'll signal you to run.{g}{x:00}
+
+@27
+{z}Until then, stay where you are.{g}{x:00}
+
+@28
+{z}{s:0320}Understood.{g}{x:00}
+
+@29
+{z}{s:0320}Target only the regular army! Let's go!{g}{x:00}
+
+@30
+{z}{s:0320}Hm? What's that...{g}{x:00}
+
+@31
+{z}{s:0320}Enemy reinforcements?{g}{x:00}
+
+@32
+{z}{s:0320}And here I thought we wouldn't be needed.{g}{x:00}
+
+@33
+{z}{s:0320}Let's back them up at once. The enemy seem quite good.{g}{x:00}
+
+@34
+{z}{s:0320}Hey! Don't let the regular army lot get away before we arrive!{g}{x:00}
+
+@35
+{z}{s:0320}So their captain shows up... Now it's the real thing.{g}{x:00}
+
+@36
+{z}{s:0320}More enemies? I'll just do my very best...{g}{x:00}
+
+@37
+{z}{s:0320}So their captain was holding back... This is getting interesting.{g}{x:00}
+
+@38
+{z}{s:0320}If those men get here... will we be all right?{g}{x:00}
+
+@39
+{z}{s:0320}This is the worst... More enemies, and now of all times...{g}{x:00}
+
+@40
+{z}{s:0320}It should be time to move now...{g}{x:00}
+
+@41
+{z}{s:0320}I think it's about time...{g}{x:00}
+
+@42
+{z}{s:0320}Might be about time...{g}{x:00}
+
+@43
+{z}{s:0320}I wonder if it's time...{g}{x:00}
+
+@44
+{z}{s:0320}It must be time now...{g}{x:00}
+
+@45
+{z}{s:0320}It should be safe now...{g}{x:00}
+
+@46
+{z}{s:0320}Then we'll start advancing toward the southern fort.{g}{x:00}
+
+@47
+{z}{s:0320}As I thought, the regular army has started to flee... They've given up the castle.{g}{x:00}
+
+@48
+{z}{s:0320}Still fighting, I see. Glad we made it in time.{g}{x:00}
+
+@49
+{z}{s:0320}You came to us yourselves? Heaven hasn't abandoned us after all.{g}{x:00}
+
+@50
+{z}{s:0320}Eh? What do you mean?{g}{x:00}
+
+@51
+{z}{s:0320}Regular army men are heading your way. They're our prey this time.{g}{x:00}
+
+@52
+{z}Hold the regular army up as long as you can. We'll follow at once.{g}{x:00}
+
+@53
+{z}{s:0320}Understood!{g}{x:00}
+
+@54
+{z}{s:0320}An enemy appearing right in front of us... Damn...{g}{x:00}
+
+@55
+{z}...But the fort is our only way out! It all depends on your escort!{g}{x:00}
+
+@56
+{z}{s:0320}Understood!{g}{x:00}
+
+@57
+{z}{s:0320}We know that much!{g}{x:00}
+
+@58
+{z}{s:0320}Leave it to us.{g}{x:00}
+
+@59
+{z}{s:0320}Yes, leave it to us.{g}{x:00}
+
+@60
+{z}{s:0320}Yes!{g}{x:00}
+
+@61
+{z}{s:0320}That's the lot of them! We did it!{g}{x:00}
+
+@62
+{z}{s:0320}Ugh...{w}{w} So...{w}{w} we couldn't... {w}{w}get away...{w}{w} after all...{g}{x:00}
+
+@63
+{z}{s:0320}Good! That completes our mission! Let's go home!{g}{x:00}
+
+@64
+{z}{s:0320}Wiped out... What did we come here for...{g}{x:00}
+
+@65
+{z}Haah... How pitiful...{g}{x:00}
+
+@66
+{z}{s:0320}Wiped out... What were we hired for...{g}{x:00}
+
+@67
+{z}Damn... How pitiful...{g}{x:00}
+
+@68
+{z}{s:0320}Wiped out... What did we come here to do...{g}{x:00}
+
+@69
+{z}How pitiful...{g}{x:00}
+
+@70
+{z}{s:0320}Wiped out, damn it... What were we hired for?{g}{x:00}
+
+@71
+{z}Damn it... How pathetic...{g}{x:00}
+
+@72
+{z}{s:0320}Wiped out... What did we come here to do...{g}{x:00}
+
+@73
+{z}How galling...{g}{x:00}
+
+@74
+{z}{s:0320}We did it! We're saved! We got away from that!{g}{x:00}
+
+@75
+{z}We'll head for {p:01} first! Be sure to follow! We'll be waiting!{g}{x:00}
+
+@76
+{z}{s:0320}I'll get away for sure... Just wait.{g}{x:00}
+
+@77
+{z}{s:0320}Tch... They got away. We get no pay unless we wipe them out...{g}{x:00}
+
+@78
+{z}You lot! One company remains, but fighting on is a waste of men! Pull out!{g}{x:00}
+
+@79
+{z}{s:0320}Huh? The enemy gave up? Which means... we're saved...{g}{x:00}
+
+@80
+{z}We did it! We're saved!{g}{x:00}
+
+@81
+{z}Truly... {w}{w}truly, thank you all!{g}{x:00}
+
+@82
+{z}{s:0320}Never mind the thanks. Let's hurry on.{g}{x:00}
+
+@83
+{z}If we rush after them now, we might catch up with them.{g}{x:00}
+
+@84
+{z}{s:0320}Never mind thanks. We'd better hurry on.{g}{x:00}
+
+@85
+{z}Our comrades are waiting, after all.{g}{x:00}
+
+@86
+{z}{s:0320}Thanks matter little. Let us hurry on instead.{g}{x:00}
+
+@87
+{z}Our comrades are waiting, after all.{g}{x:00}
+
+@88
+{z}{s:0320}We don't need thanks. More to the point, let's hurry on.{g}{x:00}
+
+@89
+{z}If we hurry after them now, we may catch up with them.{g}{x:00}
+
+@90
+{z}{s:0320}Never mind thanks. Let's hurry on.{g}{x:00}
+
+@91
+{z}We might still catch up with them!{g}{x:00}
+
+@92
+{z}{s:0320}No thanks are needed. More to the point, let's hurry on.{g}{x:00}
+
+@93
+{z}If we hurry after them now, we should catch up with them.{g}{x:00}
+
+@94
+{z}{s:0320}You're right. Come on, let's hurry!{g}{x:00}
+
+@95
+{z}{s:0320}We've reached the fort... We got away from that...{g}{x:00}
+
+@96
+{z}We're saved! I got away! We'll head straight for {p:01}! Farewell!{g}{x:00}
+
+@97
+{z}{s:0320}Tch... They got away. No pay unless we wipe them out...{g}{x:00}
+
+@98
+{z}Looks like we didn't finish the job. No use staying here. Retreat!{g}{x:00}
+
+@99
+{z}{s:0320}It's over... We completed the mission, but...{g}{x:00}
+
+@100
+{z}We couldn't save one of the companies, so I can't be very happy.{g}{x:00}
+
+@101
+{z}{s:0320}It's over... Well, the mission is done.{g}{x:00}
+
+@102
+{z}But still... one company was destroyed, so it doesn't feel right.{g}{x:00}
+
+@103
+{z}{s:0320}Anyway, that completes the mission...{g}{x:00}
+
+@104
+{z}But one company was destroyed. We still have much to learn.{g}{x:00}
+
+@105
+{z}{s:0320}Phew... It's over. The mission's done, at least.{g}{x:00}
+
+@106
+{z}But one company was destroyed. We still have much to learn.{g}{x:00}
+
+@107
+{z}{s:0320}Well, the mission is done.{g}{x:00}
+
+@108
+{z}Still, I can't be glad of a result like this. I'd like a cleaner win.{g}{x:00}
+
+@109
+{z}{s:0320}I'm withdrawing... But keep fighting, don't give up...{g}{x:00}
+
+@110
+{z}{s:0320}My company... {w}{w}beaten by this lot... {w}{w}I can't believe it...{g}{x:00}
+
+@111
+{z}{s:0320}Sorry... I'm pulling out first...{g}{x:00}
+
+@112
+{z}{s:0320}We can't even finish off two measly companies...{g}{x:00}
+
+@113
+{z}{s:0320}Just one more company... If we could just finish off one more...{g}{x:00}
+
+@114
+{z}{s:0320}The enemy is wiped out! We're safe now.{g}{x:00}
+
+@115
+{z}{p:01} territory is not far now! Press on!{g}{x:00}
+
+@116
+{z}{s:0320}The enemy is wiped out... We're safe now.{g}{x:00}
+
+@117
+{z}{p:01} territory is just ahead. Let's press on.{g}{x:00}
+
+@118
+{z}{s:0320}Damn it... So running away was impossible after all...{g}{x:00}
+
+@119
+{z}{s:0320}N-no...{g}{x:00}
+
+@120
+{z}{s:0320}And we were right there with them... I'm sorry...{g}{x:00}
+
+@121
+{z}{s:0320}And we were right there with them... Forgive me.{g}{x:00}
+
+@122
+{z}{s:0320}And we were right there with them...{g}{x:00}
+
+@123
+{z}{s:0320}Damn it... And we were right there...{g}{x:00}
+
+@124
+{z}{s:0320}Why... What did we come here to do...{g}{x:00}
+
+@125
+{z}{s:0320}The castle in enemy hands... The castle we defended with our lives, in enemy hands...{g}{x:00}
+
+@126
+{z}{s:0320}All that's left is to go straight south along this road...{g}{x:00}
+
+@127
+{z}{s:0320}One last push... Just one last push...{g}{x:00}
+
+@128
+{z}{s:0320}Everyone... I'm sorry...{g}{x:00}
+
+@129
+{z}{s:0320}How could I... Damn it...{g}{x:00}
+
+@130
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@131
+{z}{s:0320}Sorry... I'm retreating.{g}{x:00}
+
+@132
+{z}{s:0320}Forgive me...{g}{x:00}
+
+@133
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@134
+{z}{s:0320}Give me a bit of fun, at least. If you're too weak, it's no sport.{g}{x:00}
+
+@135
+{z}{s:0320}Raaah!{g}{x:00}
+
+@136
+{z}{s:0320}Out of my way!{g}{x:00}
+
+@137
+{z}{s:0320}Tch... They've caught up with us...{g}{x:00}
+
+@138
+{z}{s:0320}I won't be a burden to anyone!{g}{x:00}
+
+@139
+{z}{s:0320}Come near the regular army, I dare you! You'll pay for it!{g}{x:00}
+
+@140
+{z}{s:0320}Taking the castle isn't enough for you? I won't allow any more than that!{g}{x:00}
+
+@141
+{z}{s:0320}We won't let you lay a finger on the regular army.{g}{x:00}
+
+@142
+{z}{s:0320}...Yes.{g}{x:00}
+
+@143
+{z}{s:0320}Good! The castle has fallen! Now we just wipe out the rest!{g}{x:00}
+
+@144
+{z}Hey, start advancing to the southern fort.{g}{x:00}
+
+@145
+{z}Regular army, you may start moving now.{g}{x:00}
+
+@146
+{z}Hey, you can advance now.{g}{x:00}
+
+@147
+{z}Regular army, please begin to move.{g}{x:00}
+
+@148
+{z}Hey, it's about time you started to run.{g}{x:00}
+
+@149
+{z}Regular army, please advance now.{g}{x:00}
+
+@150
+{z}And cover us on the way.{g}{x:00}
+
+@151
+{z}{s:0320}Can't we move yet? We'll be cut down at this rate.{g}{x:00}
+
+@152
+{z}{s:0320}Oh, I forgot.{g}{x:00}
+
+@153
+{z}Then start advancing.{g}{x:00}
+
+@154
+{z}{s:0320}You're quite right...{g}{x:00}
+
+@155
+{z}Then please start advancing.{g}{x:00}
+
+@156
+{z}{s:0320}You're right...{g}{x:00}
+
+@157
+{z}Right, start advancing.{g}{x:00}
+
+@158
+{z}{s:0320}Indeed...{g}{x:00}
+
+@159
+{z}Then please start advancing.{g}{x:00}
+
+@160
+{z}{s:0320}You're right...{g}{x:00}
+
+@161
+{z}Right, start advancing.{g}{x:00}
+
+@162
+{z}{s:0320}Indeed...{g}{x:00}
+
+@163
+{z}Then please start advancing.{g}{x:00}
+
+@164
+{z}{s:0320}Then we begin advancing to the southern fort. Guard us on the way.{g}{x:00}
+
+@165
+{z}Damn! They came to get in our way!{g}{x:00}
+

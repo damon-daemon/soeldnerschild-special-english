@@ -1,0 +1,327 @@
+@0
+{z}{s:0320}Those over there seem to be the garrison.{g}{x:00}
+
+@1
+{z}{s:0320}We just wipe them out, right? Let's get it over with!{g}{x:00}
+
+@2
+{z}{s:0320}We can't tell how the enemy will move, but this looks like a contest of strength.{g}{x:00}
+
+@3
+{z}{a:0001}, if your healing comes at the wrong moment, it could spell disaster.{g}{x:00}
+
+@4
+{z}{s:0320}Understood.{g}{x:00}
+
+@5
+{z}{s:0320}{a:0002}, charging the enemy is fine, but never get isolated.{g}{x:00}
+
+@6
+{z}{s:0320}I know!{g}{x:00}
+
+@7
+{z}{s:0320}You too, {a:0004}.{g}{x:00}
+
+@8
+{z}Even if there's a pretty woman among the enemy, don't let her distract you. Be careful.{g}{x:00}
+
+@9
+{z}{s:0320}Yes, yes...{g}{x:00}
+
+@10
+{z}{s:0320}Commander! The enemy has appeared to the north-east!{g}{x:00}
+
+@11
+{z}{s:0320}What?{g}{x:00}
+
+@12
+{z}{s:0320}They are all mercenaries! They must have been hired by {p:01}!{g}{x:00}
+
+@13
+{z}{s:0320}So they have come to take this region back...{g}{x:00}
+
+@14
+{z}{s:0320}But to come with only mercenaries... They think little of us.{g}{x:00}
+
+@15
+{z}{s:0320}Don't write them off as mere mercenaries. Some are stronger than knights.{g}{x:00}
+
+@16
+{z}{s:0320}True...{g}{x:00}
+
+@17
+{z}{s:0320}Commander, shall we meet them?{g}{x:00}
+
+@18
+{z}{s:0320}Naturally.{g}{x:00}
+
+@19
+{z}{s:0320}A full charge?{g}{x:00}
+
+@20
+{z}{s:0320}No, first the front row advances and we see how things go. Then, if need be, we all charge.{g}{x:00}
+
+@21
+{z}Then, let's go!{g}{x:00}
+
+@22
+{z}{s:0320}Which side has the advantage, us or them?{g}{x:00}
+
+@23
+{z}{s:0320}Advantage or not, it makes no difference. We just cut down whoever comes at us.{g}{x:00}
+
+@24
+{z}{s:0320}Only don't forget what I said earlier.{g}{x:00}
+
+@25
+{z}{s:0320}I know!{g}{x:00}
+
+@26
+{z}{s:0320}I know that!{g}{x:00}
+
+@27
+{z}{s:0320}And {a:0004}, don't forget what I said either.{g}{x:00}
+
+@28
+{z}{s:0320}Yes, yes...{g}{x:00}
+
+@29
+{z}{s:0320}The six front-row companies advance! Meet the mercenaries!{g}{x:00}
+
+@30
+{z}The four rear-row companies stand by, ready to support at any time!{g}{x:00}
+
+@31
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@32
+{z}{s:0320}Commander, I think now is the time to attack...{g}{x:00}
+
+@33
+{z}{s:0320}...Yes. It's about time...{g}{x:00}
+
+@34
+{z}Front row, charge! Rear row, advance to support the front!{g}{x:00}
+
+@35
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@36
+{z}{s:0320}Commander! They've struck our rear!{g}{x:00}
+
+@37
+{z}{s:0320}What?!{g}{x:00}
+
+@38
+{z}Enemy morale fell.{g}{x:00}
+
+@39
+{z}{s:0320}No time now to reorganise the formation... All forces, charge!{g}{x:00}
+
+@40
+{z}No more tactics! Just cut down whichever enemy is nearest!{g}{x:00}
+
+@41
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@42
+{z}{s:0320}They mean to catch us in a pincer... Foolish.{g}{x:00}
+
+@43
+{z}We outnumber them, yet they split their meagre forces... They don't seem to know how to fight.{g}{x:00}
+
+@44
+{z}{s:0320}What shall we do?{g}{x:00}
+
+@45
+{z}{s:0320}No need to move. We simply destroy whoever comes at us.{g}{x:00}
+
+@46
+{z}{s:0320}Understood.{g}{x:00}
+
+@47
+{z}{s:0320}Heh, this battle is as good as won.{g}{x:00}
+
+@48
+{z}Enemy morale rose.{g}{x:00}
+
+@49
+{z}{s:0320}Don't move yet... Watch the enemy's movements carefully.{g}{x:00}
+
+@50
+{z}{s:0320}We're being pushed back... What are they doing?{g}{x:00}
+
+@51
+{z}No choice... All forces, charge! Cut down whatever you can reach!{g}{x:00}
+
+@52
+{z}{s:0320}So you are the captain of this company... So young...{g}{x:00}
+
+@53
+{z}I find I want to know how strong you are. How about it? Will you fight me in a duel?{g}{x:00}
+
+@54
+{z}{s:0320}You didn't run, then... That is what a mercenary captain should be.{g}{x:00}
+
+@55
+{z}Then, here I come!{g}{x:00}
+
+@56
+{z}{s:0320}Don't lose, {a:0000}!{g}{x:00}
+
+@57
+{z}{s:0320}Don't you lose! If you do, I'm captain!{g}{x:00}
+
+@58
+{z}{s:0320}Your opponent is a Knight Commander... Will you be all right?{g}{x:00}
+
+@59
+{z}{s:0320}He'll be fine. The captain can win.{g}{x:00}
+
+@60
+{z}{s:0320}You are the man I put my faith in... You're sure to win.{g}{x:00}
+
+@61
+{z}{s:0320}You should have accepted that, as captain...{g}{x:00}
+
+@62
+{z}{s:0320}Refused, did he...{g}{x:00}
+
+@63
+{z}{s:0320}You are the captain. Why so timid?{g}{x:00}
+
+@64
+{z}{s:0320}Why run away?! Are you scared?!{g}{x:00}
+
+@65
+{z}{s:0320}A timid {a:0000}... I didn't want to see that...{g}{x:00}
+
+@66
+{z}Our morale fell.{g}{x:00}
+
+@67
+{z}{s:0320}What's the matter? Not confident?{g}{x:00}
+
+@68
+{z}{s:0320}I wanted to learn your strength in a duel, but if you refuse, so be it...{g}{x:00}
+
+@69
+{z}Then show me your mercenary skills in melee.{g}{x:00}
+
+@70
+{z}{s:0320}I lost...{w}{w} A complete defeat...{g}{x:00}
+
+@71
+{z}{s:0320}So young, and so strong... Your future... will be something to see...{g}{x:00}
+
+@72
+{z}{s:0320}The commander lost the duel... No...{g}{x:00}
+
+@73
+{z}But we cannot stop fighting. If we flee now, the Knights' honour is ruined. Everyone! Fight to the last!{g}{x:00}
+
+@74
+{z}{s:0320}Wiped out...{w}{w} A complete defeat...{w}{w} it is...{g}{x:00}
+
+@75
+{z}{s:0320}Phew... the enemy is wiped out... We have done our job...{g}{x:00}
+
+@76
+{z}We beat a knightly order in a contest of strength... We've grown quite a bit ourselves.{g}{x:00}
+
+@77
+{z}{s:0320}Look! The enemy is wiped out! Victory is ours!{g}{x:00}
+
+@78
+{z}We have finally surpassed the Knights.{g}{x:00}
+
+@79
+{z}{s:0320}We won... and against the Knights... It feels unreal...{g}{x:00}
+
+@80
+{z}{s:0320}The enemy is wiped out... So we have won...{g}{x:00}
+
+@81
+{z}Today's victory is a big one. We beat the Knights in a straight fight. It will give everyone confidence.{g}{x:00}
+
+@82
+{z}{s:0320}The enemy is wiped out... Good work, everyone... mission accomplished.{g}{x:00}
+
+@83
+{z}Today's victory is a big one. We beat the Knights in a straight fight, after all.{g}{x:00}
+
+@84
+{z}{s:0320}Beating a Knight Commander in a duel is amazing!{g}{x:00}
+
+@85
+{z}{s:0320}Only to be expected. He's not one to lose in a place like this.{g}{x:00}
+
+@86
+{z}{s:0320}I'd have won more easily. You've a lot to learn.{g}{x:00}
+
+@87
+{z}{s:0320}Thank goodness... he won... Really, thank goodness...{g}{x:00}
+
+@88
+{z}{s:0320}Most impressive.{g}{x:00}
+
+@89
+{z}{s:0320}I'm sorry... I did my best, but...{g}{x:00}
+
+@90
+{z}{s:0320}Damn... how could I...{g}{x:00}
+
+@91
+{z}{s:0320}Can't we beat knights after all?... I thought we could fight well enough...{g}{x:00}
+
+@92
+{z}{s:0320}Ow, ow, ow... I'm pulling out.{g}{x:00}
+
+@93
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@94
+{z}{s:0320}Fight to the last... Show them the Knights' pride...{g}{x:00}
+
+@95
+{z}{s:0320}I am sorry... I am pulling out...{g}{x:00}
+
+@96
+{z}{s:0320}For the pride of {p:01}... I cannot lose this battle!{g}{x:00}
+
+@97
+{z}{s:0320}Attacking with mercenaries alone, with no support from the Knights...{g}{x:00}
+
+@98
+{z}I praise your nerve. But I shall not hold back!{g}{x:00}
+
+@99
+{z}{s:0320}You think you can beat my company? Enough of your arrogance!{g}{x:00}
+
+@100
+{z}{s:0320}As {p:01}'s staff officer, I cannot fight a shameful battle!{g}{x:00}
+
+@101
+{z}Now! Come at me!{g}{x:00}
+
+@102
+{z}{s:0320}Knights or whatever, I'm not running! Here I come, you lot!{g}{x:00}
+
+@103
+{z}{s:0320}A straight fight against a knightly order... A good chance to see how far I've come.{g}{x:00}
+
+@104
+{z}{s:0320}Come on, hurry up. I'm ready any time.{g}{x:00}
+
+@105
+{z}{s:0320}Once you know my magic power, you'll want to run.{g}{x:00}
+
+@106
+{z}{s:0320}As a Knight Commander, I cannot fight a shameful battle! I shall not hold back!{g}{x:00}
+
+@107
+{z}{s:0320}I won't lose... I can't afford to lose!{g}{x:00}
+
+@108
+{z}Be careful.{g}{x:00}
+

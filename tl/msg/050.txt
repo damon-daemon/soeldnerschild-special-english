@@ -1,0 +1,330 @@
+@0
+{z}{s:0320}The retreating regular army, over there!{g}{x:00}
+
+@1
+{z}{s:0320}Mercenaries?{g}{x:00}
+
+@2
+{z}{s:0320}Don't worry!{g}{x:00}
+
+@3
+{z}{s:0320}Really? Thank goodness... We're saved...{g}{x:00}
+
+@4
+{z}{s:0320}Hey! There are mercenaries over there too!{g}{x:00}
+
+@5
+{z}{s:0320}What?{g}{x:00}
+
+@6
+{z}{s:0320}So they were here after all... We were nearly too late.{g}{x:00}
+
+@7
+{z}{s:0320}They have a mercenary company with them too. What now?{g}{x:00}
+
+@8
+{z}{s:0320}How about splitting in two? Take the mercenaries and the regular army separately.{g}{x:00}
+
+@9
+{z}While we hold the mercenaries back, we finish off the regular army for certain.{g}{x:00}
+
+@10
+{z}{s:0320}Not a bad plan. Let's do it!{g}{x:00}
+
+@11
+{z}{s:0320}Right! Split in two and charge! Finish off the regular army!{g}{x:00}
+
+@12
+{z}{s:0320}Get away, and pay the enemy no mind. We'll take care of them.{g}{x:00}
+
+@13
+{z}{s:0320}You're heading northeast, aren't you?{g}{x:00}
+
+@14
+{z}{s:0320}Once you cross this desert, {p:01} is right there.{g}{x:00}
+
+@15
+{z}{s:0320}You've made it this far... We'll see you safely through.{g}{x:00}
+
+@16
+{z}{s:0320}...That's a comfort. We're counting on you.{g}{x:00}
+
+@17
+{z}{s:0320}My family is waiting. I'm relying on you.{g}{x:00}
+
+@18
+{z}{s:0320}The regular army is heading northeast! After them!{g}{x:00}
+
+@19
+{z}{s:0320}Keep the mercenaries away from the regular army! Charge!{g}{x:00}
+
+@20
+{z}{s:0320}Hey! The detached force is here!{g}{x:00}
+
+@21
+{z}{s:0320}Phew... Made it in time...{g}{x:00}
+
+@22
+{z}{s:0320}Took your time showing up!{g}{x:00}
+
+@23
+{z}Well, never mind. Get into the fight, quick.{g}{x:00}
+
+@24
+{z}{s:0320}Attack the mercenaries with us. Understood?{g}{x:00}
+
+@25
+{z}{s:0320}Understood.{g}{x:00}
+
+@26
+{z}{s:0320}So close... We were so close to getting home...{g}{x:00}
+
+@27
+{z}{s:0320}The regular army is wiped out! Pull out! Nothing more for us here!{g}{x:00}
+
+@28
+{z}{s:0320}To think they'd be wiped out...{g}{x:00}
+
+@29
+{z}They were so looking forward to going home... {w}{w}Forgive me...{g}{x:00}
+
+@30
+{z}{s:0320}They've been wiped out...{g}{x:00}
+
+@31
+{z}They were so looking forward to going home... {w}{w}Damn it...{g}{x:00}
+
+@32
+{z}{s:0320}To be wiped out like this...{g}{x:00}
+
+@33
+{z}They were so looking forward to going home... {w}{w}I'm sorry...{g}{x:00}
+
+@34
+{z}{s:0320}They've been wiped out...{g}{x:00}
+
+@35
+{z}They were so looking forward to going home... {w}{w}I'm truly sorry...{g}{x:00}
+
+@36
+{z}{s:0320}To see them wiped out...{g}{x:00}
+
+@37
+{z}They were so looking forward to going home... {w}{w}Forgive me...{g}{x:00}
+
+@38
+{z}{s:0320}We did it... We got this far...{g}{x:00}
+
+@39
+{z}I'll see my family! We did it!{g}{x:00}
+
+@40
+{z}{s:0320}They got away... Damn it, we lost.{g}{x:00}
+
+@41
+{z}Losing to the Tigre of all people... We must have gone soft.{g}{x:00}
+
+@42
+{z}{s:0320}We did it! The enemy has pulled out! We're saved!{g}{x:00}
+
+@43
+{z}Now, let's hurry on! I just want to see my family!{g}{x:00}
+
+@44
+{z}{s:0320}Yes! Let's hurry!{g}{x:00}
+
+@45
+{z}{s:0320}Right! Let's hurry!{g}{x:00}
+
+@46
+{z}{s:0320}Then let's hurry on.{g}{x:00}
+
+@47
+{z}{s:0320}Aye.{g}{x:00}
+
+@48
+{z}{s:0320}Yes, let's hurry.{g}{x:00}
+
+@49
+{z}{s:0320}We did it... We got this far...{g}{x:00}
+
+@50
+{z}I'll see my family! We did it!{g}{x:00}
+
+@51
+{z}{s:0320}Damn... They got away. And they were all that was left...{g}{x:00}
+
+@52
+{z}Losing to the Tigre of all people... We must have gone soft.{g}{x:00}
+
+@53
+{z}{s:0320}They seem to have got back to {p:01}... So the mission is done...{g}{x:00}
+
+@54
+{z}But one of their companies was destroyed. That's my only regret...{g}{x:00}
+
+@55
+{z}{s:0320}They seem to have got back to {p:01}. I'm so glad...{g}{x:00}
+
+@56
+{z}But one of their companies was destroyed. If only that hadn't happened...{g}{x:00}
+
+@57
+{z}{s:0320}They got back to {p:01}. Phew... The mission is done.{g}{x:00}
+
+@58
+{z}But one of their companies was destroyed. If only that hadn't happened...{g}{x:00}
+
+@59
+{z}{s:0320}They seem to have got back to {p:01}. So we win...{g}{x:00}
+
+@60
+{z}But one of their companies was destroyed. I can't accept that...{g}{x:00}
+
+@61
+{z}{s:0320}They've gone back to {p:01}... So we win, for now...{g}{x:00}
+
+@62
+{z}But one of their companies was destroyed. If only that hadn't happened...{g}{x:00}
+
+@63
+{z}{s:0320}I leave the rest... {w}{w}to you...{g}{x:00}
+
+@64
+{z}{s:0320}D-{w}{w}damn...{g}{x:00}
+
+@65
+{z}{s:0320}What's happening... {w}{w}My company, wiped out...{g}{x:00}
+
+@66
+{z}{s:0320}W-{w}{w}wiped out... {w}{w}A total defeat...{g}{x:00}
+
+@67
+{z}{s:0320}Just one more company to go...{g}{x:00}
+
+@68
+{z}{s:0320}Hm? Is the enemy wiped out?{g}{x:00}
+
+@69
+{z}{s:0320}Yes, the enemy is wiped out. You're safe now.{g}{x:00}
+
+@70
+{z}{s:0320}We wiped out the enemy. You can go home safely now.{g}{x:00}
+
+@71
+{z}{s:0320}Aye, the enemy is wiped out.{g}{x:00}
+
+@72
+{z}{s:0320}Yes, that's right. You're safe now.{g}{x:00}
+
+@73
+{z}{s:0320}That's right, the enemy is wiped out. Good, you're safe now.{g}{x:00}
+
+@74
+{z}{s:0320}Yes, the enemy is wiped out. You need worry no more.{g}{x:00}
+
+@75
+{z}{s:0320}We did it! We're saved! We're saved!{g}{x:00}
+
+@76
+{z}Now, let's hurry on! My family, my family is waiting!{g}{x:00}
+
+@77
+{z}{s:0320}The enemy is gone... Now we can go back to {p:01}...{g}{x:00}
+
+@78
+{z}We did it! We can go home! I'll see my family! Thank you all, truly!{g}{x:00}
+
+@79
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@80
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@81
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@82
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@83
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@84
+{z}{s:0320}I'm sorry... I was no help...{g}{x:00}
+
+@85
+{z}{s:0320}I haven't lost... I can't lose to the likes of these...{g}{x:00}
+
+@86
+{z}{s:0320}I can't go on any more...{g}{x:00}
+
+@87
+{z}{s:0320}My company, wiped out... Strange things do happen.{g}{x:00}
+
+@88
+{z}{s:0320}Seems we've no choice but to withdraw...{g}{x:00}
+
+@89
+{z}{s:0320}Once more... I wanted to see... {w}{w}my family...{g}{x:00}
+
+@90
+{z}{s:0320}So close... {w}{w}I'd nearly made it home...{g}{x:00}
+
+@91
+{z}{s:0320}Drop dead!{g}{x:00}
+
+@92
+{z}{s:0320}Don't take my company lightly!{g}{x:00}
+
+@93
+{z}{s:0320}Heh, the likes of you are no match for us.{g}{x:00}
+
+@94
+{z}{s:0320}You lot! Prepare yourselves!{g}{x:00}
+
+@95
+{z}{s:0320}Are you ready?{g}{x:00}
+
+@96
+{z}{s:0320}Feel the power of my magic!{g}{x:00}
+
+@97
+{z}{s:0320}Just try going near the regular army. I won't allow it!{g}{x:00}
+
+@98
+{z}{s:0320}You'll go no further!{g}{x:00}
+
+@99
+{z}{s:0320}My family is waiting! Don't get in my way!{g}{x:00}
+
+@100
+{z}{s:0320}We've made it this far. I'll get home if it kills me!{g}{x:00}
+
+@101
+{z}{s:0320}A detached force too...{g}{x:00}
+
+@102
+{z}{s:0320}All we can do is trust the Tigre. It's our only way.{g}{x:00}
+
+@103
+{z}{s:0320}But your comrades...{g}{x:00}
+
+@104
+{z}{s:0320}True, if only they had made it too... But you fought your hardest.{g}{x:00}
+
+@105
+{z}You're not at fault at all... It's over and done with now...{g}{x:00}
+
+@106
+{z}Now, let's hurry on. I want to see my family as soon as I can.{g}{x:00}
+
+@107
+{z}We were hired by {p:01}.{g}{x:00}
+
+@108
+{z}{s:0320}We'll stand in front of the enemy and make a wall.{g}{x:00}
+
+@109
+{z}Curse {p:01}, hiring mercenaries...{g}{x:00}
+

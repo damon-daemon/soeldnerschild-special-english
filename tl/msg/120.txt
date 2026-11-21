@@ -1,0 +1,228 @@
+@0
+{z}{s:0320}! {a:000a}...{g}{x:00}
+
+@1
+{z}{s:0320}You can fight too?{g}{x:00}
+
+@2
+{z}{s:0320}No...{w} but since my father fell in battle, I've been learning healing magic.{g}{x:00}
+
+@3
+{z}{s:0320}That's reassuring.{g}{x:00}
+
+@4
+{z}{s:0320}Yes...{w}{w} But don't overdo it.{g}{x:00}
+
+@5
+{z}{s:0320}I won't. I'll withdraw if it gets dangerous.{g}{x:00}
+
+@6
+{z}So don't worry about me. Just keep fighting.{g}{x:00}
+
+@7
+{z}{s:0320}I'm sorry. I've been beaten.{g}{x:00}
+
+@8
+{z}{s:0320}Argh... Me, beaten by that rabble...{g}{x:00}
+
+@9
+{z}{s:0320}How could I... I'm retreating.{g}{x:00}
+
+@10
+{z}{s:0320}I wanted to look good, and I've made a fine fool of myself.{g}{x:00}
+
+@11
+{z}{s:0320}This is as far as I go...{g}{x:00}
+
+@12
+{z}{s:0320}{a:000a}! Are you all right?{g}{x:00}
+
+@13
+{z}{s:0320}Yes... Somehow...{g}{x:00}
+
+@14
+{z}I'm retreating. I leave the rest to you.{g}{x:00}
+
+@15
+{z}{s:0320}Here we go!{g}{x:00}
+
+@16
+{z}{s:0320}Treating people like objects... I won't forgive it!{g}{x:00}
+
+@17
+{z}{s:0320}This is why... men who can't win a woman are such a pain.{g}{x:00}
+
+@18
+{z}{s:0320}I must protect {a:00ae}...{g}{x:00}
+
+@19
+{z}{s:0320}That woman is mine! I won't give her to anyone!{g}{x:00}
+
+@20
+{z}{s:0320}The sisters hired a mercenary company? Can't be...{w}{w} they've no money for that.{g}{x:00}
+
+@21
+{z}Well, we just sweep aside anyone in our way. Finish them off and bring {a:000a} back...{w}{w} Understood?{g}{x:00}
+
+@22
+{z}{s:0320}You're...{w}{w} from the Tigre Mercenaries...{g}{x:00}
+
+@23
+{z}Why get in our way? Surely the sisters didn't hire you!{g}{x:00}
+
+@24
+{z}{s:0320}We can't ignore people in trouble.{g}{x:00}
+
+@25
+{z}Be sensible and pull your men back!{g}{x:00}
+
+@26
+{z}{s:0320}Shut up! Mind your own business!{g}{x:00}
+
+@27
+{z}{s:0320}Listen, if you really love her, think about her feelings too!{g}{x:00}
+
+@28
+{z}{s:0320}Hmph!{w}{w} How would you know how I feel?{g}{x:00}
+
+@29
+{z}{s:0320}Right!{w}{w} I don't! But I do know how she feels.{g}{x:00}
+
+@30
+{z}She'll never love a man who does this!{g}{x:00}
+
+@31
+{z}{s:0320}What did you say!{g}{x:00}
+
+@32
+{z}{s:0320}Leave those women alone now.{g}{x:00}
+
+@33
+{z}{s:0320}Stay out of this, outsider!{g}{x:00}
+
+@34
+{z}Or I'll catch you as well and sell you off somewhere!{g}{x:00}
+
+@35
+{z}{s:0320}Taking a woman by force is no act for a real man.{g}{x:00}
+
+@36
+{z}{s:0320}I take what I want by force... That's my way.{g}{x:00}
+
+@37
+{z}{s:0320}Tsk{w} tsk{w} tsk...{w} You don't get it.{g}{x:00}
+
+@38
+{z}Carry on like that and you'll never win her heart!{g}{x:00}
+
+@39
+{z}{s:0320}Found you at last! Come along with me quietly!{g}{x:00}
+
+@40
+{z}{s:0320}Is it me you're after? Or my sister?{g}{x:00}
+
+@41
+{z}{s:0320}I've no use for your sister... I've fallen for you!{g}{x:00}
+
+@42
+{z}{s:0320}...But I{w} have no intention of going with you.{g}{x:00}
+
+@43
+{z}{s:0320}...As I thought...{w}{w} Then I'll tie you up and take you back!{g}{x:00}
+
+@44
+{z}{s:0320}They're tough. Why are these people getting in our way?{g}{x:00}
+
+@45
+{z}All of you ganging up to crush my love... Damn...{g}{x:00}
+
+@46
+{z}{s:0320}They're tough. Why are these people getting in our way?{g}{x:00}
+
+@47
+{z}All of you ganging up to crush my love... Damn...{g}{x:00}
+
+@48
+{z}{s:0320}Boss! Where are you going?{g}{x:00}
+
+@49
+{z}Tch... No choice. We retreat too!{g}{x:00}
+
+@50
+{z}{s:0320}{a:000a}, are you safe?{g}{x:00}
+
+@51
+{z}{s:0320}Yes... I'm fine.{g}{x:00}
+
+@52
+{z}I was sure he was after my sister, but it was me... Still, now I can live in peace.{g}{x:00}
+
+@53
+{z}{s:0320}Yes... Judging by his state, he won't show his face in town again.{g}{x:00}
+
+@54
+{z}{s:0320}Thank you.{w} But you're all amazing...{g}{x:00}
+
+@55
+{z}How about coming along with us?{g}{x:00}
+
+@56
+{z}{s:0320}Well... I'd like that...{g}{x:00}
+
+@57
+{z}But first I'll talk it over with my sister.{g}{x:00}
+
+@58
+{z}{s:0320}{a:00ae} must be worried.{g}{x:00}
+
+@59
+{z}Better hurry back and set her mind at rest.{g}{x:00}
+
+@60
+{z}{s:0320}{a:00ae} may be worried.{g}{x:00}
+
+@61
+{z}Hurry back and set her mind at rest.{g}{x:00}
+
+@62
+{z}{s:0320}Indeed... Her sister must be worried too...{g}{x:00}
+
+@63
+{z}{s:0320}That should make them give up.{g}{x:00}
+
+@64
+{z}{s:0320}Come on, back to town to report to {a:000a}!{g}{x:00}
+
+@65
+{z}{s:0320}Right... We must set her mind at rest.{g}{x:00}
+
+@66
+{z}{s:0320}Our job is done now.{w}{w} Let's get back to town!{g}{x:00}
+
+@67
+{z}{s:0320}Indeed... We must go and see {a:000a}.{g}{x:00}
+
+@68
+{z}{s:0320}Strange... Just now, {a:000a}...{g}{x:00}
+
+@69
+{z}Can it be!{w}{w} What the brigands are really after...{g}{x:00}
+
+@70
+{z}{a:000a}...{w} It seems you are the one they're after...{g}{x:00}
+
+@71
+{z}{s:0320}What!? No...{g}{x:00}
+
+@72
+{z}{s:0320}So don't go too far forward... Be careful!{g}{x:00}
+
+@73
+{z}{s:0320}Yes... Understood.{g}{x:00}
+
+@74
+{z}Watching you all fight for us, I wanted to be of use to someone too.{g}{x:00}
+
+@75
+{z}{s:0320}Glad to hear it. You look like you have a talent for magic.{g}{x:00}
+

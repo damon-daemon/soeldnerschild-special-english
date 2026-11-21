@@ -1,0 +1,318 @@
+@0
+{z}{s:0320}All forces, halt!{g}{x:00}
+
+@1
+{z}{s:0320}Lord {a:0031}? What is it?{g}{x:00}
+
+@2
+{z}{s:0320}Enemies...{g}{x:00}
+
+@3
+{z}{s:0320}Enemies...? Where, exactly...?{g}{x:00}
+
+@4
+{z}{s:0320}You will move as I direct. {a:0032}, guard the left. {a:0033}, the right.{g}{x:00}
+
+@5
+{z}{s:0320}Yes, my lord...{g}{x:00}
+
+@6
+{z}{s:0320}! I thought we had caught them completely off guard...{g}{x:00}
+
+@7
+{z}Their defences are solidly set! What's going on?{g}{x:00}
+
+@8
+{z}{s:0320}There they are! The Funeral Mercenaries!{g}{x:00}
+
+@9
+{z}{s:0320}Th-{w} this is...!{g}{x:00}
+
+@10
+{z}It's as if he knew we'd come from this direction.{g}{x:00}
+
+@11
+{z}{s:0320}That would be easy for that man... No ambush works on him...{g}{x:00}
+
+@12
+{z}{s:0320}Look! That old wretch again!{g}{x:00}
+
+@13
+{z}{s:0320}{a:0000} has arrived too... Looks like all the players are here now.{g}{x:00}
+
+@14
+{z}No choice but to fight head-on! {a:0031}! I'll have your head!{g}{x:00}
+
+@15
+{z}{s:0320}Heh...{w}{w} Interesting...{g}{x:00}
+
+@16
+{z}See if you can manage it!{g}{x:00}
+
+@17
+{z}{s:0320}All forces, charge!{g}{x:00}
+
+@18
+{z}{s:0320}Wait, {a:002b}! Don't be hasty!{g}{x:00}
+
+@19
+{z}{s:0320}Tch...{w} We have no chance unless we attack together with {a:002b}...{g}{x:00}
+
+@20
+{z}What will you do, {a:0000}?{g}{x:00}
+
+@21
+{z}{s:0320}Yes, it's now or never! Don't fall behind {a:002b}! Charge!{g}{x:00}
+
+@22
+{z}{f}{l:00e7}{s:0001}Today we'll avenge {a:0023}!{g}{x:00}
+
+@23
+{z}{f}{l:00e9}{s:0002}Who cares about the Funeral Mercenaries! Let's do this!{g}{x:00}
+
+@24
+{z}{s:0320}They say {a:0005} raised {a:0031}... Can that be true...{g}{x:00}
+
+@25
+{z}{s:0320}{a:0031}... I won't let you kill {a:0000}...{g}{x:00}
+
+@26
+{z}{s:0320}With this many of us attacking, we can bring down any monster!{g}{x:00}
+
+@27
+{z}{s:0320}We'll kill {a:0031} and make ourselves a tidy profit!{g}{x:00}
+
+@28
+{z}{s:0320}Hmph... Vermin...{g}{x:00}
+
+@29
+{z}{s:0320}Scum like you will not defeat us! Prepare yourselves!{g}{x:00}
+
+@30
+{z}{s:0320}Heh heh heh heh heh...{w}{w} Plenty of prey. You won't escape today...{g}{x:00}
+
+@31
+{z}{f}{l:00e7}{s:0001}We couldn't avenge {a:0023} again...{g}{x:00}
+
+@32
+{z}{f}{l:00e9}{s:0002}{a:0031}... Someday I'll beat you, I swear...{g}{x:00}
+
+@33
+{z}{s:0320}We still can't match the Funeral Mercenaries... But...{w} I'll never give up.{g}{x:00}
+
+@34
+{z}{s:0320}{a:0031}... he truly is a fearsome man...{g}{x:00}
+
+@35
+{z}{s:0320}As I thought, we still can't touch {a:0031}...{w}{w} How bitter...{g}{x:00}
+
+@36
+{z}{s:0320}They got me...{g}{x:00}
+
+@37
+{z}{s:0320}That's fine! If it gets dangerous, fall back at once!{g}{x:00}
+
+@38
+{z}{s:0320}Then I'll withdraw! Sorry, {a:002b}!{g}{x:00}
+
+@39
+{z}{s:0320}{a:002b}! I'm done for! Forgive me...{g}{x:00}
+
+@40
+{z}{s:0320}Gah...{w}{w} Me, pushed back by small fry like this...{g}{x:00}
+
+@41
+{z}{s:0320}Hmph! Remember this. Next time we meet, I'll kill you for certain.{g}{x:00}
+
+@42
+{z}{s:0320}{a:0000}... So you've come to me to be killed...{g}{x:00}
+
+@43
+{z}{s:0320}I won't be killed easily!{g}{x:00}
+
+@44
+{z}{s:0320}Indeed... {a:0000} has a mission that must be fulfilled.{g}{x:00}
+
+@45
+{z}{s:0320}...{g}{x:00}
+
+@46
+{z}Why do you side with a man like that?{g}{x:00}
+
+@47
+{z}{s:0320}You want to know... why I lend {a:0000} my strength...{g}{x:00}
+
+@48
+{z}Because it is the only atonement I can make to this world.{g}{x:00}
+
+@49
+{z}{f}{l:00e7}{s:0001}?{w}{w} What does that mean...{g}{x:00}
+
+@50
+{z}{s:0320}Raised...?{w}{w} Raised him...? Surely not!{g}{x:00}
+
+@51
+{z}{s:0320}Now that {a:0023} is gone, he is the hope that will break your ambition!{g}{x:00}
+
+@52
+{z}{s:0320}...{g}{x:00}
+
+@53
+{z}{s:0320}No one in this world can defeat me!{g}{x:00}
+
+@54
+{z}{s:0320}{a:0031}, the man who killed {a:0023}! Prepare to die!{g}{x:00}
+
+@55
+{z}{s:0320}I have long wondered when to crush you...{w} I'll bury you here and now!{g}{x:00}
+
+@56
+{z}{s:0320}Why does a mere slip of a girl defy me?{g}{x:00}
+
+@57
+{z}{f}{l:00e7}{s:0001}You killed {a:0023}... and you keep stirring up one war after another.{g}{x:00}
+
+@58
+{z}If I don't stop you, many people will grieve! That's why I fight you!{g}{x:00}
+
+@59
+{z}{f}{l:00e9}{s:0002}{a:0031}! Taste my sword!{g}{x:00}
+
+@60
+{z}{s:0320}Impudent!{g}{x:00}
+
+@61
+{z}{s:0320}{a:0031}...{w}{w} you killed {a:0023}...{g}{x:00}
+
+@62
+{z}You, above all... I must defeat you!{g}{x:00}
+
+@63
+{z}{s:0320}Woman... you think you can defeat me?{g}{x:00}
+
+@64
+{z}{s:0320}Well... who knows?{g}{x:00}
+
+@65
+{z}But even if I only leave one wound on you, my comrades will surely finish you...{g}{x:00}
+
+@66
+{z}That is what I believe!{g}{x:00}
+
+@67
+{z}{s:0320}Hah...{w} A creature like you cannot even touch me!{g}{x:00}
+
+@68
+{z}{s:0320}Fighting a monster like you... this is the fight of my life!{g}{x:00}
+
+@69
+{z}{s:0320}Heh...{w}{w} It will be over in a moment...{g}{x:00}
+
+@70
+{z}{s:0320}{a:0031}!{g}{x:00}
+
+@71
+{z}I will not allow you to pile up any more sins.{g}{x:00}
+
+@72
+{z}{s:0320}You half-dead old fool! I'll send you to hell this instant!{g}{x:00}
+
+@73
+{z}{s:0320}{a:0031}'s formation is tough indeed... Are you all right?{g}{x:00}
+
+@74
+{z}{s:0320}Worry about yourself, not others. Are you all right?{g}{x:00}
+
+@75
+{z}{s:0320}I was at the rear. As you see... I'm fine...{g}{x:00}
+
+@76
+{z}Never mind that, let's hurry and finish off that monster...{g}{x:00}
+
+@77
+{z}{s:0320}Yes... Right!{g}{x:00}
+
+@78
+{z}{s:0320}To be forced into such a struggle... curse you, {a:0023}...{g}{x:00}
+
+@79
+{z}You made this man your successor... Even in death you mean to hinder me?{g}{x:00}
+
+@80
+{z}All forces, withdraw...{g}{x:00}
+
+@81
+{z}{s:0320}Our army is losing ground...{g}{x:00}
+
+@82
+{z}To be forced into such a struggle... curse you, {a:0023}...{g}{x:00}
+
+@83
+{z}You made this man your successor... Even in death, you mean to hinder me?{g}{x:00}
+
+@84
+{z}All forces, withdraw...{g}{x:00}
+
+@85
+{z}{s:0320}That {a:0031}... Next time we meet...{g}{x:00}
+
+@86
+{z}{s:0320}Just like {a:0031}. Even his retreat is slick.{g}{x:00}
+
+@87
+{z}{s:0320}Damn... he's escaped again...{g}{x:00}
+
+@88
+{z}{s:0320}I thought it would work out. So much for a big profit. All that effort for nothing...{g}{x:00}
+
+@89
+{z}{s:0320}{a:002b}...{w}{w} Why did you join forces with us this time?{g}{x:00}
+
+@90
+{z}{s:0320}{a:002b}...{w}{w} But why did you decide to join forces with us?{g}{x:00}
+
+@91
+{z}{s:0320}That's...{w} ...{w} ...{g}{x:00}
+
+@92
+{z}{a:0000}... You remind me{w} of an old flame of mine...{g}{x:00}
+
+@93
+{z}I just found myself wanting to lend you a hand...{g}{x:00}
+
+@94
+{z}{s:0320}{a:002b}...{g}{x:00}
+
+@95
+{z}{s:0320}Heh...{w} I've said too much...{g}{x:00}
+
+@96
+{z}Well then, we'll be off... We'll probably meet again...{w}{w} somewhere...{w}{w} Until then, don't you die on me...{g}{x:00}
+
+@97
+{z}{s:0320}I knew it... She's got her eye on you, Captain, hasn't she?{g}{x:00}
+
+@98
+{z}{s:0320}So he happens to look like someone... That's all there is to it.{g}{x:00}
+
+@99
+{z}{s:0320}Ha ha...{w}{w} Do better next time, and don't let {a:0001} catch you.{g}{x:00}
+
+@100
+{z}{s:0320}...{g}{x:00}
+
+@101
+{z}Still... {a:0005} raised {a:0031}? What on earth does that mean...{g}{x:00}
+
+@102
+{z}When we're back at the inn, you'll have to tell us...{g}{x:00}
+
+@103
+{z}For me... the one who raised a man like you...{g}{x:00}
+
+@104
+{z}But...{w} it's futile. Sooner or later, {a:0000} will share your fate...{g}{x:00}
+
+@105
+{z}But...{w} it's futile. Sooner or later, {a:0000} will share your fate...{g}{x:00}
+

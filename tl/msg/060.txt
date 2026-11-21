@@ -1,0 +1,585 @@
+@0
+{z}{s:0320}Pushed back this far... How shameful.{g}{x:00}
+
+@1
+{z}{s:0320}If we let the enemy advance any further, I fear it will go very badly...{g}{x:00}
+
+@2
+{z}Our main force waiting behind us could be thrown into confusion...{g}{x:00}
+
+@3
+{z}{s:0320}That must be their aim.{g}{x:00}
+
+@4
+{z}Break through here, throw our main force into disorder, then hit it with another unit...{g}{x:00}
+
+@5
+{z}{s:0320}If this goes on, that's exactly what will happen...{g}{x:00}
+
+@6
+{z}{s:0320}It isn't lost yet! Don't give up!{g}{x:00}
+
+@7
+{z}{s:0320}Good, we've pushed them this far. One last effort.{g}{x:00}
+
+@8
+{z}{s:0320}It looks like they've come.{g}{x:00}
+
+@9
+{z}{s:0320}Hey! Everyone! Look over there!{g}{x:00}
+
+@10
+{z}{s:0320}...{w}{w}...{w}{w}!{g}{x:00}
+
+@11
+{z}{s:0320}Is that all the enemy has?{g}{x:00}
+
+@12
+{z}{s:0320}Only for now, but they may have hired mercenaries...{g}{x:00}
+
+@13
+{z}...{w}{w}...{w}{w}!{g}{x:00}
+
+@14
+{z}{s:0320}Before he even finished speaking...{g}{x:00}
+
+@15
+{z}{s:0320}Sorry to keep you waiting!{g}{x:00}
+
+@16
+{z}{s:0320}You're... mercenaries. Have you come to support us?{g}{x:00}
+
+@17
+{z}{s:0320}That's right.{g}{x:00}
+
+@18
+{z}{s:0320}Tch! So they did hire mercenaries after all...{g}{x:00}
+
+@19
+{z}{s:0320}Even with mercenaries joining the enemy, nothing has changed.{g}{x:00}
+
+@20
+{z}We still have the upper hand.{g}{x:00}
+
+@21
+{z}{s:0320}Mercenaries on their side too? And I thought this would be easy!{g}{x:00}
+
+@22
+{z}{s:0320}Oh, who cares? That lot make no difference either way...{g}{x:00}
+
+@23
+{z}We're the ones who'll win anyway.{g}{x:00}
+
+@24
+{z}{s:0320}There's a ship over there. Do they mean to cross the sea on it?{g}{x:00}
+
+@25
+{z}{s:0320}Probably...{g}{x:00}
+
+@26
+{z}{s:0320}I want you to meet the enemy crossing the sea by ship.{g}{x:00}
+
+@27
+{z}We'll hold off the enemy trying to cross the bridge here.{g}{x:00}
+
+@28
+{z}{s:0320}Understood.{g}{x:00}
+
+@29
+{z}{s:0320}We can't let the enemy get past here, right?{g}{x:00}
+
+@30
+{z}{s:0320}If the enemy breaks through east along this road, we lose.{g}{x:00}
+
+@31
+{z}{s:0320}So we absolutely have to hold them here?{g}{x:00}
+
+@32
+{z}{s:0320}Exactly.{g}{x:00}
+
+@33
+{z}{s:0320}Don't let the enemy advance any further! Stand firm even if it kills you!{g}{x:00}
+
+@34
+{z}Is that clear?{g}{x:00}
+
+@35
+{z}{s:0320}Hey! You lot! How long are you going to stay on the ship?{g}{x:00}
+
+@36
+{z}Get off at once!{g}{x:00}
+
+@37
+{z}{s:0320}Eh? Shouldn't we just ship them across to the far shore?{g}{x:00}
+
+@38
+{z}{s:0320}Suppose they cross over and break through that defence line...{g}{x:00}
+
+@39
+{z}The glory would be theirs. That would be a disgrace to our order.{g}{x:00}
+
+@40
+{z}It must be us, the knights, who break through.{g}{x:00}
+
+@41
+{z}{s:0320}But...{g}{x:00}
+
+@42
+{z}{s:0320}Are you talking back to me?{g}{x:00}
+
+@43
+{z}{s:0320}N-no...{g}{x:00}
+
+@44
+{z}{s:0320}What are you doing! Get off the ship, now! Off!{g}{x:00}
+
+@45
+{z}{s:0320}Get off the ship, he says. What's he thinking...{g}{x:00}
+
+@46
+{z}{s:0320}Seems it's pointless unless the knights are the ones to break through here.{g}{x:00}
+
+@47
+{z}I suppose we're to stick to supporting them.{g}{x:00}
+
+@48
+{z}{s:0320}Let's give up the ship as he says, or he'll start barking again.{g}{x:00}
+
+@49
+{z}{s:0320}Hey! The ship's free!{g}{x:00}
+
+@50
+{z}{s:0320}We'll use the ship! You come over here!{g}{x:00}
+
+@51
+{z}And cut down as many of the enemy as you can!{g}{x:00}
+
+@52
+{z}{s:0320}So the dirty work goes to the mercenaries... They take us for fools!{g}{x:00}
+
+@53
+{z}{s:0320}No use complaining... If we don't do it, we don't get paid.{g}{x:00}
+
+@54
+{z}{s:0320}...Let's follow orders.{g}{x:00}
+
+@55
+{z}{s:0320}...Oh, all right.{g}{x:00}
+
+@56
+{z}{s:0320}We've broken the defence line! We broke through the enemy's line!{g}{x:00}
+
+@57
+{z}When the enemy's main force ahead hears the line is broken, they'll panic...{g}{x:00}
+
+@58
+{z}Heh heh... I can't wait to see their faces. Right, let's go and look!{g}{x:00}
+
+@59
+{z}{s:0320}They broke through... How shameful.{g}{x:00}
+
+@60
+{z}This is no time to be downcast! We must join the main force!{g}{x:00}
+
+@61
+{z}{s:0320}We broke the defence line, but that isn't our only mission.{g}{x:00}
+
+@62
+{z}Joining our main force and crushing the enemy's... The most important task still lies ahead.{g}{x:00}
+
+@63
+{z}Since we beat them here, the next battle should be much easier...{g}{x:00}
+
+@64
+{z}{s:0320}What's with those guys? Not a word of thanks...{g}{x:00}
+
+@65
+{z}With manners that rude, how can they call themselves knights? They're no different from mercenaries.{g}{x:00}
+
+@66
+{z}They're still going to fight, it seems, but our part ends here. What happens next is none of our business.{g}{x:00}
+
+@67
+{z}Back to town!{g}{x:00}
+
+@68
+{z}{s:0320}What did we even come here to do...{g}{x:00}
+
+@69
+{z}It's truly pathetic...{g}{x:00}
+
+@70
+{z}{s:0320}What did we come here for? Sigh... pathetic...{g}{x:00}
+
+@71
+{z}Captain, we should have been able to beat today's enemy.{g}{x:00}
+
+@72
+{z}{s:0320}They broke through... Sigh... what a pathetic result.{g}{x:00}
+
+@73
+{z}We've done nothing to earn our pay... I'm truly sorry...{g}{x:00}
+
+@74
+{z}{s:0320}They broke through...{g}{x:00}
+
+@75
+{z}To fail in such an important job...{g}{x:00}
+
+@76
+{z}{s:0320}They broke through... Damn, and we were right here...{g}{x:00}
+
+@77
+{z}What are we playing at... We should have been able to beat them.{g}{x:00}
+
+@78
+{z}The defeat condition has changed.{g}{x:00}
+
+@79
+{z}{s:0320}D-{w}{w}damn... {w}{w}We're wiped out...{g}{x:00}
+
+@80
+{z}You lot... make sure you... break through here...{g}{x:00}
+
+@81
+{z}{s:0320}Break through, he says? Is he talking to us?{g}{x:00}
+
+@82
+{z}Don't be ridiculous! You were the ones who said it's pointless unless the knights break through!{g}{x:00}
+
+@83
+{z}I've had enough! We're pulling out!{g}{x:00}
+
+@84
+{z}{s:0320}D-{w}{w}damn... {w}{w}We're wiped out...{g}{x:00}
+
+@85
+{z}N-{w}{w}no... it can't be...{g}{x:00}
+
+@86
+{z}{s:0320}We held... I thought we were finished... It's all thanks to you...{g}{x:00}
+
+@87
+{z}We'll join the main force for now to regroup. You're free to go home.{g}{x:00}
+
+@88
+{z}Now, if you'll excuse us!{g}{x:00}
+
+@89
+{z}{s:0320}It looks like we've won. Well done, everyone.{g}{x:00}
+
+@90
+{z}Today's battle was fierce, so I'm more tired than usual...{g}{x:00}
+
+@91
+{z}{s:0320}Phew... It's over. The mission is done, for now.{g}{x:00}
+
+@92
+{z}Yeah... I'm really worn out today...{g}{x:00}
+
+@93
+{z}{s:0320}So that's the end... We managed to win.{g}{x:00}
+
+@94
+{z}It was a fierce fight today, so I'm very tired...{g}{x:00}
+
+@95
+{z}{s:0320}They've all gone... It's over.{g}{x:00}
+
+@96
+{z}Good... we completed the mission. If only all our comrades were safe too, it would have been perfect.{g}{x:00}
+
+@97
+{z}{s:0320}Yes! Mission accomplished! I feel great!{g}{x:00}
+
+@98
+{z}But everyone else retreated... If we were all together, I'd feel even better.{g}{x:00}
+
+@99
+{z}{s:0320}Damn... we can't break through... Stubborn bunch.{g}{x:00}
+
+@100
+{z}...{w}{w}! We're out of food...{g}{x:00}
+
+@101
+{z}A miscalculation... I never expected them to hold out so long.{g}{x:00}
+
+@102
+{z}All forces retreat! Our food is running out! Pull out quickly, or we'll starve!{g}{x:00}
+
+@103
+{z}{s:0320}Huh? The food's running out? Pull out?{g}{x:00}
+
+@104
+{z}Why didn't they bring more...{w}{w} No use regretting it now...{g}{x:00}
+
+@105
+{z}We're going home.{g}{x:00}
+
+@106
+{z}{s:0320}The enemy seems to have run out of food...{w}{w} Phew... we held.{g}{x:00}
+
+@107
+{z}It was close, but the tide turned once you arrived. Today's victory is all thanks to you.{g}{x:00}
+
+@108
+{z}We'll join the main force for now to regroup. You're free to go home.{g}{x:00}
+
+@109
+{z}Farewell, then!{g}{x:00}
+
+@110
+{z}{s:0320}Phew... It's over...{g}{x:00}
+
+@111
+{z}The enemy was stubborn. Not wiped out even after all that fighting...{g}{x:00}
+
+@112
+{z}I'm worn out because of it. I want a good rest. Let's go back to town.{g}{x:00}
+
+@113
+{z}{s:0320}Yes! We won!{g}{x:00}
+
+@114
+{z}I wanted to wipe them out, but never mind! What matters is winning.{g}{x:00}
+
+@115
+{z}{s:0320}It's finally over...{g}{x:00}
+
+@116
+{z}It was a long battle, so I'm tired. I'd like a good rest in town.{g}{x:00}
+
+@117
+{z}{s:0320}It's over...{g}{x:00}
+
+@118
+{z}The enemy pulled out, but even if the fight had gone on, we'd have won.{g}{x:00}
+
+@119
+{z}You think so too, {a:0000}?{g}{x:00}
+
+@120
+{z}{s:0320}So that's the end...{g}{x:00}
+
+@121
+{z}It was a very hard fight. I'm worn out.{g}{x:00}
+
+@122
+{z}{s:0320}I'm sorry... I'm pulling out...{g}{x:00}
+
+@123
+{z}{s:0320}Me, retreat? It can't be...{g}{x:00}
+
+@124
+{z}{s:0320}I'm sorry... for being no use...{g}{x:00}
+
+@125
+{z}{s:0320}Ow ow ow ow...{g}{x:00}
+
+@126
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@127
+{z}{s:0320}Ugh... my knights wiped out... How shameful.{g}{x:00}
+
+@128
+{z}{s:0320}I'm sorry... I, the Knight Commander, retreating...{g}{x:00}
+
+@129
+{z}{s:0320}Pathetic... utterly pathetic...{g}{x:00}
+
+@130
+{z}{s:0320}You lot... make sure you break through... You hear me...{g}{x:00}
+
+@131
+{z}{s:0320}Damn... I should have stayed behind instead of boarding the ship...{g}{x:00}
+
+@132
+{z}{s:0320}My company, wiped out... Damn.{g}{x:00}
+
+@133
+{z}{s:0320}Damn... I've no choice but to retreat...{g}{x:00}
+
+@134
+{z}{s:0320}It's all that fool of a Commander's fault... I'm worth more than this...{g}{x:00}
+
+@135
+{z}{s:0320}The rest is up to you... It looks like we've been wiped out...{g}{x:00}
+
+@136
+{z}{s:0320}Tch! Useless wretches! You've stolen your pay! Give the money back!{g}{x:00}
+
+@137
+{z}{s:0320}So you're the Commander of {p:01}... Heh, nothing special, it seems.{g}{x:00}
+
+@138
+{z}{s:0320}You're very sure of yourself. But you're a poor judge of men.{g}{x:00}
+
+@139
+{z}I am strong... at least stronger than you.{g}{x:00}
+
+@140
+{z}{s:0320}Watch your mouth! Do you want a beating?{g}{x:00}
+
+@141
+{z}{s:0320}Don't get so worked up. You'll soon see which of us is stronger.{g}{x:00}
+
+@142
+{z}{s:0320}Here I come, damn you!{g}{x:00}
+
+@143
+{z}{s:0320}Come on!{g}{x:00}
+
+@144
+{z}{s:0320}Out of the way! Clear the road!{g}{x:00}
+
+@145
+{z}{s:0320}Are you talking to me?{g}{x:00}
+
+@146
+{z}{s:0320}Who else would I mean?!{g}{x:00}
+
+@147
+{z}{s:0320}You've got nerve, talking to me like that...{g}{x:00}
+
+@148
+{z}You'll regret it. Come on.{g}{x:00}
+
+@149
+{z}{s:0320}What's with that confidence? I don't like you!{g}{x:00}
+
+@150
+{z}Here I come!{g}{x:00}
+
+@151
+{z}{s:0320}I'm {a:0002} of the Tigre Mercenaries! You're not getting past me!{g}{x:00}
+
+@152
+{z}{s:0320}Wait a moment! Hear me out!{g}{x:00}
+
+@153
+{z}If you let me go, I'll give you all the gold and women you want. How about it? Good offer, no?{g}{x:00}
+
+@154
+{z}{s:0320}You think you can bribe me? Not a chance! Stop yapping and come at me!{g}{x:00}
+
+@155
+{z}{s:0320}Didn't think so...{g}{x:00}
+
+@156
+{z}{s:0320}We've pushed this far! There's no way we can lose!{g}{x:00}
+
+@157
+{z}{s:0320}We have to fight? Sigh... what a bother.{g}{x:00}
+
+@158
+{z}{s:0320}I'll break through here if it takes everything I've got! Let's go!{g}{x:00}
+
+@159
+{z}{s:0320}To prove ourselves to those knights, we can't afford to lose!{g}{x:00}
+
+@160
+{z}{s:0320}I'm in a foul mood right now. I'll take it out on you!{g}{x:00}
+
+@161
+{z}{s:0320}You'll go no further! Not while I draw breath!{g}{x:00}
+
+@162
+{z}{s:0320}I'll cut you down! Come on!{g}{x:00}
+
+@163
+{z}{s:0320}I won't lose! I've grown stronger too!{g}{x:00}
+
+@164
+{z}{s:0320}So you're set on getting through... That's too much to ask.{g}{x:00}
+
+@165
+{z}{s:0320}Good! We're over the bridge! But now comes the crucial part...{g}{x:00}
+
+@166
+{z}{s:0320}Damn those knights... Always thinking of taking it easy...{g}{x:00}
+
+@167
+{z}Leaving the dirty work to others and taking it easy themselves... I can't forgive that.{g}{x:00}
+
+@168
+{z}How did a man like that become a knight? He's worse than us mercenaries.{g}{x:00}
+
+@169
+{z}{s:0320}A mercenary breaking through doesn't count, eh... There's no need to fuss over that...{g}{x:00}
+
+@170
+{z}What a fool this man is... Still, I get to ride the ship and take it easy, so fine.{g}{x:00}
+
+@171
+{z}Do your best, everyone... within reason. I'll cheer you on from the ship.{g}{x:00}
+
+@172
+{z}{s:0320}Ah, it's lovely out at sea. How's everyone doing?{g}{x:00}
+
+@173
+{z}...{w}{w} Ah! If we keep going, we'll land right at the enemy's rear...{g}{x:00}
+
+@174
+{z}Then the enemy will concentrate their attack on us... No...{g}{x:00}
+
+@175
+{z}{s:0320}Good! First to the far shore! Let's go!{g}{x:00}
+
+@176
+{z}{s:0320}On this, I can escape the fighting... Thank goodness I'm a staff officer...{g}{x:00}
+
+@177
+{z}{s:0320}Forward! To the far shore!{g}{x:00}
+
+@178
+{z}{s:0320}Having come this far, we've as good as broken through. Victory is near.{g}{x:00}
+
+@179
+{z}{s:0320}Ah... I don't want to fight... What should I do...{g}{x:00}
+
+@180
+{z}{s:0320}Landing!{g}{x:00}
+
+@181
+{z}...{w}{w} Hm? {w}{w}What's that?{g}{x:00}
+
+@182
+{z}So, what should we do?{g}{x:00}
+
+@183
+{z}Right! We join the main force!{g}{x:00}
+
+@184
+{z}That's right... I thought it would be over quickly, so I didn't bring much...{g}{x:00}
+
+@185
+{z}Thank you, truly.{g}{x:00}
+
+@186
+{z}{s:0320}The enemy's regular army is wiped out...{g}{x:00}
+
+@187
+{z}We've earned what we were paid. Well, time to go home.{g}{x:00}
+
+@188
+{z}{s:0320}Hey! You lot! I won't allow you to leave!{g}{x:00}
+
+@189
+{z}{s:0320}Shut up!{g}{x:00}
+
+@190
+{z}I'm not working a moment longer under someone who leaves all the dirty work to mercenaries.{g}{x:00}
+
+@191
+{z}{s:0320}We've done our job! Goodbye!{g}{x:00}
+
+@192
+{z}{s:0320}Tch...{g}{x:00}
+
+@193
+{z}{s:0320}Those mercenaries... I'll remember this...{g}{x:00}
+
+@194
+{z}{s:0320}Let the mercenaries face the regular army. We move when the time is right.{g}{x:00}
+

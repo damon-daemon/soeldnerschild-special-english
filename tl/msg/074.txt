@@ -1,0 +1,354 @@
+@0
+{z}{s:0320}Are our arms in order?{g}{x:00}
+
+@1
+{z}{s:0320}All is ready. We need only wait for reinforcements.{g}{x:00}
+
+@2
+{z}{s:0320}And the mercenaries?{g}{x:00}
+
+@3
+{z}{s:0320}Arranged. They should arrive shortly.{g}{x:00}
+
+@4
+{z}{s:0320}Good.{g}{x:00}
+
+@5
+{z}{s:0320}Our equipment is already restored to its level before the battle.{g}{x:00}
+
+@6
+{z}{s:0320}Hard to imagine, given the state we were in right after that fierce battle.{g}{x:00}
+
+@7
+{z}{s:0320}We can face an attack at any time now.{g}{x:00}
+
+@8
+{z}{s:0320}Heh, the {p:01} lot can't have noticed yet...{g}{x:00}
+
+@9
+{z}{s:0320}That's the fort over there, right?{g}{x:00}
+
+@10
+{z}{s:0320}Yes.{g}{x:00}
+
+@11
+{z}{s:0320}The regular army's in there...{g}{x:00}
+
+@12
+{z}{s:0320}{p:01}'s forces took heavy losses, didn't they?{g}{x:00}
+
+@13
+{z}{s:0320}Rumour says they're useless for a while... but they look quite impressive.{g}{x:00}
+
+@14
+{z}{s:0320}They couldn't risk a counter-attack while they were weak, so they patched it up in a hurry.{g}{x:00}
+
+@15
+{z}Not knowing that, we strolled right in, like moths to a flame.{g}{x:00}
+
+@16
+{z}{s:0320}No way...{g}{x:00}
+
+@17
+{z}{s:0320}Sure, they may have guessed we'd come to take it back.{g}{x:00}
+
+@18
+{z}But they never counted on how strong we are.{g}{x:00}
+
+@19
+{z}{s:0320}Enemy! The enemy has appeared!{g}{x:00}
+
+@20
+{z}{s:0320}So they got cocky and attacked, as I thought... All according to plan.{g}{x:00}
+
+@21
+{z}{s:0320}It's mercenaries attacking, not the regular army...{g}{x:00}
+
+@22
+{z}{s:0320}Their regular army was destroyed too, after all.{g}{x:00}
+
+@23
+{z}{s:0320}The mercenaries' strength is unknown. We mustn't let our guard down.{g}{x:00}
+
+@24
+{z}{s:0320}I am well aware.{g}{x:00}
+
+@25
+{z}{s:0320}Our duty is to defend the fort... No need to sally out.{g}{x:00}
+
+@26
+{z}{s:0320}Understood.{g}{x:00}
+
+@27
+{z}{s:0320}You've come at a good time...{g}{x:00}
+
+@28
+{z}{s:0320}What? Already under attack? Straight to work for us, then.{g}{x:00}
+
+@29
+{z}{s:0320}You take on the enemy. We'll concentrate on defending the fort.{g}{x:00}
+
+@30
+{z}{s:0320}Not one of them will get past us. Go and take a nap.{g}{x:00}
+
+@31
+{z}{s:0320}They've rebuilt their arms and even hired mercenaries...{g}{x:00}
+
+@32
+{z}{s:0320}They're well prepared.{g}{x:00}
+
+@33
+{z}{s:0320}Meaning they're welcoming us.{g}{x:00}
+
+@34
+{z}{s:0320}They've finally come...{g}{x:00}
+
+@35
+{z}{s:0320}Sorry to keep you waiting... {w}{w}Huh? Where's the Commander?{g}{x:00}
+
+@36
+{z}{s:0320}...He has retreated.{g}{x:00}
+
+@37
+{z}{s:0320}The Commander retreated... {w}{w}I can't believe it...{g}{x:00}
+
+@38
+{z}{s:0320}No time to be downcast! Hurry over here!{g}{x:00}
+
+@39
+{z}At this rate the fort will be retaken! All the Commander's work rebuilding our arms will be wasted!{g}{x:00}
+
+@40
+{z}{s:0320}Understood! On my way now!{g}{x:00}
+
+@41
+{z}{s:0320}The reinforcements seem to have arrived too...{g}{x:00}
+
+@42
+{z}{s:0320}Sorry! We're late!{g}{x:00}
+
+@43
+{z}{s:0320}Good work. Thank you for coming.{g}{x:00}
+
+@44
+{z}Join the battle at once. As expected, {p:01} has attacked.{g}{x:00}
+
+@45
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@46
+{z}{s:0320}You lot, go and face the enemy. Don't let them near us, whatever happens.{g}{x:00}
+
+@47
+{z}{s:0320}Leave it to us!{g}{x:00}
+
+@48
+{z}{s:0320}They called in reinforcements too...{g}{x:00}
+
+@49
+{z}{s:0320}Sorry to keep you waiting... {w}{w}Huh? Where's everyone?{g}{x:00}
+
+@50
+{z}{s:0320}...Wiped out.{g}{x:00}
+
+@51
+{z}{s:0320}Impossible...{g}{x:00}
+
+@52
+{z}{s:0320}Come on, this is no time to mope. Get over here, quickly.{g}{x:00}
+
+@53
+{z}Do you want the fort we worked so hard to win taken back?{g}{x:00}
+
+@54
+{z}{s:0320}Understood. On my way now.{g}{x:00}
+
+@55
+{z}{s:0320}They're desperate too.{g}{x:00}
+
+@56
+{z}{s:0320}They mean to hold it at all costs. Try it if you can!{g}{x:00}
+
+@57
+{z}{s:0320}They won't give up the fort at any price. Not on our watch!{g}{x:00}
+
+@58
+{z}{s:0320}So they won't hand this fort over at any price... {w}{w}We won't allow that!{g}{x:00}
+
+@59
+{z}{s:0320}I never thought they'd be so well prepared...{g}{x:00}
+
+@60
+{z}{s:0320}We did it! The fort has fallen!{g}{x:00}
+
+@61
+{z}{s:0320}The fort is ours now!{g}{x:00}
+
+@62
+{z}{s:0320}Everyone! The fort has fallen!{g}{x:00}
+
+@63
+{z}{s:0320}And so the fort has fallen.{g}{x:00}
+
+@64
+{z}{s:0320}So the fort has fallen at last.{g}{x:00}
+
+@65
+{z}{s:0320}Good! We've taken the enemy fort!{g}{x:00}
+
+@66
+{z}{s:0320}And after we prepared our arms so thoroughly... Why...{g}{x:00}
+
+@67
+{z}{s:0320}What now? Do we give up?{g}{x:00}
+
+@68
+{z}{s:0320}Our morale has fallen badly. Fighting on will only wear down our strength.{g}{x:00}
+
+@69
+{z}{s:0320}So this is as far as we go?{g}{x:00}
+
+@70
+{z}{s:0320}...Yes.{g}{x:00}
+
+@71
+{z}{s:0320}If that's settled, we're going home.{g}{x:00}
+
+@72
+{z}{s:0320}We'll pull out too. We must report to the homeland...{g}{x:00}
+
+@73
+{z}{s:0320}And after we prepared our arms so thoroughly... How bitter...{g}{x:00}
+
+@74
+{z}There's nothing for it... Retreat. We must report the defeat to the homeland.{g}{x:00}
+
+@75
+{z}{s:0320}The fort is lost... This wasn't supposed to happen...{g}{x:00}
+
+@76
+{z}Pull out, quickly. Facing men with such momentum will cost us our lives.{g}{x:00}
+
+@77
+{z}{s:0320}We won... We completed the mission.{g}{x:00}
+
+@78
+{z}{s:0320}The enemy is pulling out... We really are strong.{g}{x:00}
+
+@79
+{z}{s:0320}So the mission is accomplished. Good work, everyone.{g}{x:00}
+
+@80
+{z}{s:0320}Phew... is it over? At least we completed the mission.{g}{x:00}
+
+@81
+{z}{s:0320}Hmm... good that we completed the mission.{g}{x:00}
+
+@82
+{z}{s:0320}And so the mission is complete.{g}{x:00}
+
+@83
+{z}{s:0320}Our arms should have been perfect... Yet... why...{g}{x:00}
+
+@84
+{z}This mercenary company... too strong...{g}{x:00}
+
+@85
+{z}{s:0320}Only we are left...?{g}{x:00}
+
+@86
+{z}{s:0320}Mercenaries, reinforcements... we did all we could... But...{g}{x:00}
+
+@87
+{z}A complete defeat...{g}{x:00}
+
+@88
+{z}{s:0320}I couldn't stop them... Sorry...{g}{x:00}
+
+@89
+{z}{s:0320}Our mercenaries are wiped out... No... we're being completely overwhelmed...{g}{x:00}
+
+@90
+{z}{s:0320}They're too strong... No way we can win this...{g}{x:00}
+
+@91
+{z}{s:0320}Now there's nothing left to worry about.{g}{x:00}
+
+@92
+{z}{s:0320}The enemy is wiped out!{g}{x:00}
+
+@93
+{z}{s:0320}The enemy seems to be wiped out.{g}{x:00}
+
+@94
+{z}{s:0320}Phew... they gave us a hard time.{g}{x:00}
+
+@95
+{z}{s:0320}At last they're wiped out... Stubborn lot.{g}{x:00}
+
+@96
+{z}{s:0320}I'm pulling out... Sorry...{g}{x:00}
+
+@97
+{z}{s:0320}My company is wiped out...{g}{x:00}
+
+@98
+{z}{s:0320}I'm sorry... How could this happen to me...{g}{x:00}
+
+@99
+{z}{s:0320}Captain... I'm sorry...{g}{x:00}
+
+@100
+{z}{s:0320}I can do no more... Forgive me.{g}{x:00}
+
+@101
+{z}{s:0320}Our arms were perfectly prepared... Why...{g}{x:00}
+
+@102
+{z}{s:0320}I am sorry... I am withdrawing...{g}{x:00}
+
+@103
+{z}{s:0320}Were those Tigre fellows this strong... {w}{w}before?{g}{x:00}
+
+@104
+{z}{s:0320}We shouldn't be losing to the likes of them...{g}{x:00}
+
+@105
+{z}{s:0320}What's going on? My company, wiped out...{g}{x:00}
+
+@106
+{z}{s:0320}I'll give you credit for getting this far. But you go no further!{g}{x:00}
+
+@107
+{z}{s:0320}This is our fort... We won't hand it to the likes of you!{g}{x:00}
+
+@108
+{z}{s:0320}We won this fort at desperate cost... We won't lose it so easily!{g}{x:00}
+
+@109
+{z}{s:0320}Don't retreat, whatever happens! There's no way we lose to this lot!{g}{x:00}
+
+@110
+{z}{s:0320}Sorry, but I'll be fighting in earnest...{g}{x:00}
+
+@111
+{z}{s:0320}So you're my opponent? Heh! Easy!{g}{x:00}
+
+@112
+{z}{s:0320}We're here! We won't let you go any further!{g}{x:00}
+
+@113
+{z}{s:0320}I won't lose!{g}{x:00}
+
+@114
+{z}{s:0320}I'll show you that a woman can fight well enough!{g}{x:00}
+
+@115
+{z}{s:0320}You've got nerve... Daring to attack my company.{g}{x:00}
+
+@116
+{z}{s:0320}Well then, come on.{g}{x:00}
+
+@117
+{z}Well done, everyone.{g}{x:00}
+

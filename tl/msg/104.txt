@@ -1,0 +1,261 @@
+@0
+{z}{s:0320}Time the enemy gave us a welcome, surely...{g}{x:00}
+
+@1
+{z}{s:0320}True...{w}{w} Though best of all would be to get through without meeting them...{g}{x:00}
+
+@2
+{z}{s:0320}We're deep in enemy territory. That's too much to ask.{g}{x:00}
+
+@3
+{z}{s:0320}The enemy is here!{g}{x:00}
+
+@4
+{z}{s:0320}What!{g}{x:00}
+
+@5
+{z}{s:0320}Heh...{w} Just as I said.{g}{x:00}
+
+@6
+{z}{s:0320}Found the enemy!{g}{x:00}
+
+@7
+{z}{s:0320}There are mercenaries too... Is that the White Rose Mercenaries?{g}{x:00}
+
+@8
+{z}{s:0320}The enemy is the Tigre Mercenaries...{w}{w} and the Moonlight Knights.{g}{x:00}
+
+@9
+{z}I expected the Sun Knights. Sending the feeble Second Knights... Are they even trying?{g}{x:00}
+
+@10
+{z}{s:0320}! Feeble, did you say...{g}{x:00}
+
+@11
+{z}How dare you insult us! I will take your head myself!{g}{x:00}
+
+@12
+{z}{s:0320}It's no good...{w}{w} We have to withdraw.{g}{x:00}
+
+@13
+{z}{s:0320}Argh... It wasn't meant to be like this...{g}{x:00}
+
+@14
+{z}{s:0320}Argh... Galling, but...{w}{w} I'm withdrawing.{g}{x:00}
+
+@15
+{z}{s:0320}This is rough... No choice...{w}{w} I'll pull back...{g}{x:00}
+
+@16
+{z}{s:0320}Hmm. We have no choice but to withdraw here...{g}{x:00}
+
+@17
+{z}{s:0320}{a:002e}, was it? I'll not forget your name!{g}{x:00}
+
+@18
+{z}Next time we meet, consider your life forfeit!{g}{x:00}
+
+@19
+{z}{s:0320}Z...{w}{w} Z...{w}{w} Z...{w}{w} Z...{w}{w} Z...{w}{w}!{g}{x:00}
+
+@20
+{z}Huh? When did I... get beaten...?{g}{x:00}
+
+@21
+{z}{s:0320}Sorry... but that's all for today...{g}{x:00}
+
+@22
+{z}{s:0320}Captain! I'm sorry... I'm withdrawing!{g}{x:00}
+
+@23
+{z}{s:0320}I have to do my best too! Here I go!{g}{x:00}
+
+@24
+{z}{s:0320}Let's go!{g}{x:00}
+
+@25
+{z}{s:0320}We have to hold this place somehow...{g}{x:00}
+
+@26
+{z}{s:0320}Stand aside, small fry! You're in my way!{g}{x:00}
+
+@27
+{z}{s:0320}Yaaawn... I want this over so I can sleep.{g}{x:00}
+
+@28
+{z}{s:0320}Break through here and invade Grandcour!{g}{x:00}
+
+@29
+{z}{s:0320}Uh-oh... That knight is really furious...{g}{x:00}
+
+@30
+{z}N-no... Surely he doesn't really mean to kill me...{g}{x:00}
+
+@31
+{z}{s:0320}{a:002e}! Just a little more... and your head is mine!{g}{x:00}
+
+@32
+{z}{s:0320}Such force... Please, don't be so hot-headed...{g}{x:00}
+
+@33
+{z}{s:0320}Z...{w}{w} Z...{w}{w} Z...{w}{w} Z...{w}{w} Z...{g}{x:00}
+
+@34
+{z}{s:0320}{a:0071}! Don't sleep!{g}{x:00}
+
+@35
+{z}{s:0320}Huh...? Y-yes!{g}{x:00}
+
+@36
+{z}{s:0320}You're the enemy mercenary captain! I won't let you pass!{g}{x:00}
+
+@37
+{z}{s:0320}What! Don't put on airs!{g}{x:00}
+
+@38
+{z}{s:0320}You alone I'll never forgive! Taste my sword!{g}{x:00}
+
+@39
+{z}{s:0320}It just slipped out. Don't be so angry...{g}{x:00}
+
+@40
+{z}Here I come!{g}{x:00}
+
+@41
+{z}{s:0320}Yes! The mercenary leader is down!{g}{x:00}
+
+@42
+{z}{s:0320}I did it! I beat the mercenary captain!{g}{x:00}
+
+@43
+{z}{s:0320}Hmph! For all that talk, you're nothing much!{g}{x:00}
+
+@44
+{z}{s:0320}I did it! I wiped out the mercenary captain's unit!{g}{x:00}
+
+@45
+{z}{s:0320}Well, youngster, is all that spirit just talk?{g}{x:00}
+
+@46
+{z}{s:0320}Hm... No match at all...{g}{x:00}
+
+@47
+{z}{s:0320}Lord {a:0070}! We've captured the enemy mercenary captain.{g}{x:00}
+
+@48
+{z}{s:0320}Ow! That hurts! You're so cruel!{g}{x:00}
+
+@49
+{z}But... better than being killed by that knight. I've escaped with my life again.{g}{x:00}
+
+@50
+{z}Pull out!{g}{x:00}
+
+@51
+{z}{s:0320}The White Rose Mercenaries are beaten... This operation ends here...{g}{x:00}
+
+@52
+{z}We withdraw as well!{g}{x:00}
+
+@53
+{z}{s:0320}Phew... So the mission is done...{g}{x:00}
+
+@54
+{z}{s:0320}{a:0000}... Why did you steal my prey?{g}{x:00}
+
+@55
+{z}{s:0320}What?{g}{x:00}
+
+@56
+{z}{s:0320}That man insulted me. As a knight, I must wipe out that shame.{g}{x:00}
+
+@57
+{z}And you took that from me...{g}{x:00}
+
+@58
+{z}{s:0320}...{g}{x:00}
+
+@59
+{z}{s:0320}Hmph! A mercenary is a mercenary. You know nothing of a knight's honour.{g}{x:00}
+
+@60
+{z}Remember well what it means to insult a knight!{g}{x:00}
+
+@61
+{z}{s:0320}That's no way to talk! So what if he's a knight!{g}{x:00}
+
+@62
+{z}{s:0320}The enemy mercenary captain... {a:002e}, was it?{g}{x:00}
+
+@63
+{z}A strange fellow. No wonder the knight got angry, being mocked by someone like that.{g}{x:00}
+
+@64
+{z}{s:0320}A knight's honour...{g}{x:00}
+
+@65
+{z}I certainly can't understand it. Being ruled by a thing like that? Not for me.{g}{x:00}
+
+@66
+{z}{s:0320}So a knight prizes honour... Will I become like that too?{g}{x:00}
+
+@67
+{z}{s:0320}The White Rose Mercenaries are beaten... This operation ends here...{g}{x:00}
+
+@68
+{z}All forces, withdraw!{g}{x:00}
+
+@69
+{z}{s:0320}Heh... Even your comrades have abandoned you!{g}{x:00}
+
+@70
+{z}Now, {a:002e}! You insulted a knight. I trust you're ready for what comes!{g}{x:00}
+
+@71
+{z}{s:0320}W-wait! I...{w}{w} I was wrong!{g}{x:00}
+
+@72
+{z}I'll pay any sum...{w} so spare my life...{w} please!{g}{x:00}
+
+@73
+{z}{s:0320}Money, you say...{g}{x:00}
+
+@74
+{z}Heh... ha ha ha ha ha!{g}{x:00}
+
+@75
+{z}So that's all you are...{w}{w} Nothing like {a:0000}.{g}{x:00}
+
+@76
+{z}Very well...{w}{w} I was a fool to take such a man seriously.{g}{x:00}
+
+@77
+{z}Begone at once! Never show yourself before me again!{g}{x:00}
+
+@78
+{z}{s:0320}Eek...{w} Saved...{g}{x:00}
+
+@79
+{z}{s:0320}Well, we shall go back too... {a:0000}, until we meet again!{g}{x:00}
+
+@80
+{z}{s:0320}With a captain like that, his men are to be pitied.{g}{x:00}
+
+@81
+{z}No enemies left. Let's head back to town!{g}{x:00}
+
+@82
+{z}{a:0000}, let's go back to town.{g}{x:00}
+
+@83
+{z}{s:0320}So a knight prizes honour... Will I become like that too?{g}{x:00}
+
+@84
+{z}{s:0320}A knight's honour...{g}{x:00}
+
+@85
+{z}I certainly can't understand it. Being ruled by a thing like that? Not for me.{g}{x:00}
+
+@86
+{z}{s:0320}Without that knight, there's nothing to fear.{g}{x:00}
+

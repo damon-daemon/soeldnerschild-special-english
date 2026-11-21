@@ -1,0 +1,656 @@
+@0
+{z}{s:0320}Found them at last.{g}{x:00}
+
+@1
+{z}{s:0320}Hurry! It's dangerous to leave them any longer.{g}{x:00}
+
+@2
+{z}{s:0320}Who are you?{g}{x:00}
+
+@3
+{z}{s:0320}Mercenaries. We were asked to rescue you.{g}{x:00}
+
+@4
+{z}{s:0320}Rescue us...? But we can't move...{g}{x:00}
+
+@5
+{z}{s:0320}We'll send someone over to you to restore your strength.{g}{x:00}
+
+@6
+{z}Then you should be able to get back.{g}{x:00}
+
+@7
+{z}{s:0320}Will we really be saved...?{g}{x:00}
+
+@8
+{z}{s:0320}We're coming over now. Wait for us.{g}{x:00}
+
+@9
+{z}{s:0320}Hold it right there!{g}{x:00}
+
+@10
+{z}{s:0320}They look like mercenaries.{g}{x:00}
+
+@11
+{z}{s:0320}{p:01} must have hired them.{g}{x:00}
+
+@12
+{z}{s:0320}Those men are our prey. Don't get in our way!{g}{x:00}
+
+@13
+{z}{s:0320}You're the ones getting in our way!{g}{x:00}
+
+@14
+{z}{s:0320}What? You want to take us on?{g}{x:00}
+
+@15
+{z}{s:0320}If you insist.{g}{x:00}
+
+@16
+{z}{s:0320}Fools... You should have backed off quietly...{g}{x:00}
+
+@17
+{z}{s:0320}Wait! What will become of us?{g}{x:00}
+
+@18
+{z}{s:0320}We'll save you, never fear.{g}{x:00}
+
+@19
+{z}Trust us.{g}{x:00}
+
+@20
+{z}{s:0320}Go for the wounded men over there! Understood?{g}{x:00}
+
+@21
+{z}{s:0320}Shouldn't we split in two? One group to fight, one to heal.{g}{x:00}
+
+@22
+{z}{s:0320}You needn't tell me that! I know!{g}{x:00}
+
+@23
+{z}{s:0320}The time has come for my healing magic to be of use...{g}{x:00}
+
+@24
+{z}{s:0320}At this rate, they'll get away...{g}{x:00}
+
+@25
+{z}{s:0320}Don't worry. We just have to pursue them.{g}{x:00}
+
+@26
+{z}{s:0320}You'd heal us...? We're in your debt... thank you.{g}{x:00}
+
+@27
+{z}{s:0320}No need to thank me! Please, run!{g}{x:00}
+
+@28
+{z}My abilities were of use after all... I'm glad.{g}{x:00}
+
+@29
+{z}{s:0320}Please, run! Quickly, now!{g}{x:00}
+
+@30
+{z}{s:0320}We don't need thanks! Now! Run, quickly!{g}{x:00}
+
+@31
+{z}{s:0320}Understood. We leave the enemy to you.{g}{x:00}
+
+@32
+{z}{s:0320}Oh! My strength is back! I can move!{g}{x:00}
+
+@33
+{z}{s:0320}It's too soon to rejoice! Please run!{g}{x:00}
+
+@34
+{z}{s:0320}There's no time to rejoice! Please run!{g}{x:00}
+
+@35
+{z}{s:0320}There's no time for rejoicing! Please run!{g}{x:00}
+
+@36
+{z}{s:0320}R-right. We leave the enemy to you.{g}{x:00}
+
+@37
+{z}{s:0320}We're saved... I'd given up completely...{g}{x:00}
+
+@38
+{z}{s:0320}It's too soon to relax! You haven't got away yet!{g}{x:00}
+
+@39
+{z}{s:0320}It's too soon to relax! You haven't got away yet!{g}{x:00}
+
+@40
+{z}{s:0320}It's too soon to relax! You haven't got away yet!{g}{x:00}
+
+@41
+{z}{s:0320}Sorry... I was just so happy...{g}{x:00}
+
+@42
+{z}{s:0320}They're in danger on their own. Let's give them an escort.{g}{x:00}
+
+@43
+{z}{s:0320}Aren't they a worry on their own? Let's give them an escort.{g}{x:00}
+
+@44
+{z}{s:0320}They're in danger on their own. Let's give them an escort.{g}{x:00}
+
+@45
+{z}{s:0320}They're in danger on their own. Shouldn't we give them an escort?{g}{x:00}
+
+@46
+{z}{s:0320}It's dangerous to send them off alone. I think we should give them an escort.{g}{x:00}
+
+@47
+{z}{s:0320}So they got healed after all...{g}{x:00}
+
+@48
+{z}{s:0320}Healed again... At least the rest of them...{g}{x:00}
+
+@49
+{z}{s:0320}In the end, they were all healed...{g}{x:00}
+
+@50
+{z}{s:0320}What's that?{g}{x:00}
+
+@51
+{z}{s:0320}Sorry to keep you waiting.{g}{x:00}
+
+@52
+{z}{s:0320}Ah, we've been waiting for you! Get to work at once.{g}{x:00}
+
+@53
+{z}{s:0320}What are we to do?{g}{x:00}
+
+@54
+{z}{s:0320}The regular army will be heading north. Get ahead of them to the north.{g}{x:00}
+
+@55
+{z}{s:0320}Understood.{g}{x:00}
+
+@56
+{z}{s:0320}Even had a detached force ready... Am I... {w}{w}a genius?{g}{x:00}
+
+@57
+{z}{s:0320}Huh? Isn't the Captain here?{g}{x:00}
+
+@58
+{z}{s:0320}...He retreated.{g}{x:00}
+
+@59
+{z}{s:0320}On the Captain's orders.{g}{x:00}
+
+@60
+{z}{s:0320}I see, so that's what "I've made arrangements" meant.{g}{x:00}
+
+@61
+{z}{s:0320}So what do we do?{g}{x:00}
+
+@62
+{z}{s:0320}The regular army is heading north. Get ahead of them to the north.{g}{x:00}
+
+@63
+{z}{s:0320}Their numbers have grown, but we'll ignore that and head north.{g}{x:00}
+
+@64
+{z}We're counting on you to escort us.{g}{x:00}
+
+@65
+{z}{s:0320}Their numbers have grown, but we'll ignore that and head north.{g}{x:00}
+
+@66
+{z}{s:0320}Their numbers have grown, but we'll ignore that and head north.{g}{x:00}
+
+@67
+{z}We're counting on you to escort us.{g}{x:00}
+
+@68
+{z}We're counting on you to escort us.{g}{x:00}
+
+@69
+{z}{s:0320}Why... did you leave us to die...?{g}{x:00}
+
+@70
+{z}{s:0320}In the end... wiped out... {w}{w}Damn...{g}{x:00}
+
+@71
+{z}{s:0320}Just when we could move again... {w}{w}Ugh...{g}{x:00}
+
+@72
+{z}{s:0320}What did you come here for...? You...{g}{x:00}
+
+@73
+{z}{s:0320}To die in a place like this...{g}{x:00}
+
+@74
+{z}{s:0320}If I weren't in this state, I could have fought properly...{g}{x:00}
+
+@75
+{z}{s:0320}I thought I'd get home alive... {w}{w}Damn...{g}{x:00}
+
+@76
+{z}{s:0320}If only they'd healed us... {w}{w}this wouldn't have happened...{g}{x:00}
+
+@77
+{z}{s:0320}Wiped out without healing even one company...{g}{x:00}
+
+@78
+{z}Why didn't you try to heal them? Your orders today... I don't understand them.{g}{x:00}
+
+@79
+{z}{s:0320}Wiped out without healing even one company...{g}{x:00}
+
+@80
+{z}Why didn't you heal them? Your orders today... I don't understand them.{g}{x:00}
+
+@81
+{z}{s:0320}Not even one company healed...{g}{x:00}
+
+@82
+{z}Why didn't you heal them? Your orders today... I can't understand them at all.{g}{x:00}
+
+@83
+{z}{s:0320}Couldn't even heal one company...{g}{x:00}
+
+@84
+{z}Why didn't you heal them? Your orders today... I can't understand them at all...{g}{x:00}
+
+@85
+{z}{s:0320}We couldn't heal even one company...{g}{x:00}
+
+@86
+{z}Why didn't you heal them? Your orders today, {a:0000}... I don't understand them...{g}{x:00}
+
+@87
+{z}{s:0320}What, over already? It's been ages since I had a job this easy.{g}{x:00}
+
+@88
+{z}{s:0320}Finally over. Phew... they gave us trouble.{g}{x:00}
+
+@89
+{z}{s:0320}We couldn't get them away... What did we come all this way for...{g}{x:00}
+
+@90
+{z}{s:0320}We couldn't get them away... What did we even come for...{g}{x:00}
+
+@91
+{z}{s:0320}Couldn't get them away, eh... What did we even come for...{g}{x:00}
+
+@92
+{z}...It's utterly shameful.{g}{x:00}
+
+@93
+{z}{s:0320}They were wiped out... and we were right here...{g}{x:00}
+
+@94
+{z}What in the world did we come here for...{g}{x:00}
+
+@95
+{z}{s:0320}The regular army, wiped out... and we were right here...{g}{x:00}
+
+@96
+{z}What did we come all this way for...{g}{x:00}
+
+@97
+{z}{s:0320}Ah... {w}{w}no...{g}{x:00}
+
+@98
+{z}{s:0320}I'm sorry...{g}{x:00}
+
+@99
+{z}{s:0320}Sorry...{g}{x:00}
+
+@100
+{z}{s:0320}Damn... and I was right here...{g}{x:00}
+
+@101
+{z}{s:0320}Forgive me...{g}{x:00}
+
+@102
+{z}{s:0320}I'm sorry...{g}{x:00}
+
+@103
+{z}{s:0320}I'm sorry... and we were right here...{g}{x:00}
+
+@104
+{z}{s:0320}Captain, this is bad.{g}{x:00}
+
+@105
+{z}{s:0320}Forgive me...{g}{x:00}
+
+@106
+{z}{s:0320}Again? Damn it...{g}{x:00}
+
+@107
+{z}{s:0320}We did it! We got away!{g}{x:00}
+
+@108
+{z}I'm sorry, but I must press on! All of you, make sure you follow! Don't fail me!{g}{x:00}
+
+@109
+{z}{s:0320}They got away, but it's only one company. It's too early to give up.{g}{x:00}
+
+@110
+{z}Right, let's carry on.{g}{x:00}
+
+@111
+{z}At this rate we'll starve to death! All units, retreat!{g}{x:00}
+
+@112
+{z}{s:0320}The enemy seems to have withdrawn... We're saved!{g}{x:00}
+
+@113
+{z}Come, let's hurry on. {p:01} is right ahead.{g}{x:00}
+
+@114
+{z}Come, let's hurry on. {p:01} is right ahead.{g}{x:00}
+
+@115
+{z}All right, let's hurry on. Just one more push to {p:01}.{g}{x:00}
+
+@116
+{z}Right, let's hurry on. {p:01} is right ahead.{g}{x:00}
+
+@117
+{z}Then let us hurry on. {p:01} is close at hand.{g}{x:00}
+
+@118
+{z}{s:0320}We did it! We got away!{g}{x:00}
+
+@119
+{z}I'm sorry, but I must press on! All of you, make sure you follow! Don't fail me!{g}{x:00}
+
+@120
+{z}{s:0320}They got away, but it's only one company. It's too early to give up.{g}{x:00}
+
+@121
+{z}Right, let's carry on.{g}{x:00}
+
+@122
+{z}...{w}{w} Hm? {w}{w}The food's gone... {w}{w}Impossible!{g}{x:00}
+
+@123
+{z}{s:0320}The enemy seems to have withdrawn...{g}{x:00}
+
+@124
+{z}I'm saved...{n}
+I had half given up...{n}
+But when I think of those men...{g}{x:00}
+
+@125
+{z}{s:0320}I'm sorry... We fought with all we had...{g}{x:00}
+
+@126
+{z}{s:0320}I'm so sorry... We did the best we could...{g}{x:00}
+
+@127
+{z}{s:0320}Sorry... We fought with all we had...{g}{x:00}
+
+@128
+{z}{s:0320}We let your comrades down...{g}{x:00}
+
+@129
+{z}{s:0320}I'm truly sorry for your comrades...{g}{x:00}
+
+@130
+{z}{s:0320}I'm truly sorry we couldn't save your comrades...{g}{x:00}
+
+@131
+{z}{s:0320}No... I didn't mean it that way.{g}{x:00}
+
+@132
+{z}Come, let's hurry on. {p:01} is just a little further.{g}{x:00}
+
+@133
+{z}{s:0320}We finally made it this far... We're safe now.{g}{x:00}
+
+@134
+{z}Everyone in the Tigre! Thanks to you, we got away! Thank you!{g}{x:00}
+
+@135
+{z}...{w}{w} In the end, only my company was saved...{g}{x:00}
+
+@136
+{z}{s:0320}Damn... they got away... We were so close...{g}{x:00}
+
+@137
+{z}Damn... we didn't finish the job. Oh well, let's pull out.{g}{x:00}
+
+@138
+{z}{s:0320}Phew... they got away. We only just pulled the mission off.{g}{x:00}
+
+@139
+{z}{s:0320}They got away... That was close.{g}{x:00}
+
+@140
+{z}{s:0320}They managed to get away... The mission is done, at least.{g}{x:00}
+
+@141
+{z}But with a result like this, there's nothing to be glad about.{g}{x:00}
+
+@142
+{z}{s:0320}They got away... So the mission is done...{g}{x:00}
+
+@143
+{z}But with a result like this, I can't be glad...{g}{x:00}
+
+@144
+{z}{s:0320}Thank goodness they got away... So the mission is done.{g}{x:00}
+
+@145
+{z}But I can't be glad about this...{g}{x:00}
+
+@146
+{z}{s:0320}I leave the rest to you...{g}{x:00}
+
+@147
+{z}{s:0320}Sorry... I'm retreating...{g}{x:00}
+
+@148
+{z}{s:0320}Wiped out... {w}{w}a total defeat...{g}{x:00}
+
+@149
+{z}{s:0320}Damn...{g}{x:00}
+
+@150
+{z}{s:0320}We're wiped out... {w}{w}No... {w}{w}Impossible...{g}{x:00}
+
+@151
+{z}{s:0320}We almost wiped them out... {w}{w}Damn...{g}{x:00}
+
+@152
+{z}{s:0320}The enemy's wiped out. We can go to {p:01} in peace.{g}{x:00}
+
+@153
+{z}{s:0320}Thank goodness... it ended safely...{g}{x:00}
+
+@154
+{z}{s:0320}The mission is done. Good work, everyone.{g}{x:00}
+
+@155
+{z}{s:0320}Yes! Mission accomplished!{g}{x:00}
+
+@156
+{z}{s:0320}Well, let's go.{g}{x:00}
+
+@157
+{z}{s:0320}Anyway, it's good we completed the mission.{g}{x:00}
+
+@158
+{z}...Not that we can honestly be glad, in the state we're in.{g}{x:00}
+
+@159
+{z}{s:0320}The enemy's wiped out... Now we can go home...{g}{x:00}
+
+@160
+{z}But... we lost a company too...{g}{x:00}
+
+@161
+{z}{s:0320}I'm sorry... I did my very best...{g}{x:00}
+
+@162
+{z}{s:0320}I'm sorry... I did my very best...{g}{x:00}
+
+@163
+{z}{s:0320}Forgive us... We were right there, and still...{g}{x:00}
+
+@164
+{z}{s:0320}I'm sorry... We weren't strong enough...{g}{x:00}
+
+@165
+{z}{s:0320}Sorry... We just weren't strong enough...{g}{x:00}
+
+@166
+{z}{s:0320}We are deeply sorry... Our strength was lacking...{g}{x:00}
+
+@167
+{z}{s:0320}No, it's all right... Think nothing of it. I shouldn't have said such a thing.{g}{x:00}
+
+@168
+{z}Come, let's press on. {p:01} is not far now.{g}{x:00}
+
+@169
+{z}{s:0320}The enemy is wiped out... We can go home now...{g}{x:00}
+
+@170
+{z}And yet only my company survived in the end...{g}{x:00}
+
+@171
+{z}{s:0320}I'm truly, truly sorry... I did my very best, though...{g}{x:00}
+
+@172
+{z}{s:0320}I'm truly sorry... I did my very best, though...{g}{x:00}
+
+@173
+{z}{s:0320}I'm truly sorry... We were right there, and still...{g}{x:00}
+
+@174
+{z}{s:0320}I'm truly sorry... We weren't strong enough...{g}{x:00}
+
+@175
+{z}{s:0320}I'm truly sorry... We just weren't strong enough...{g}{x:00}
+
+@176
+{z}{s:0320}We are truly, truly sorry... Our strength was lacking...{g}{x:00}
+
+@177
+{z}{s:0320}No, it's all right... Think nothing of it. I shouldn't have said such a thing.{g}{x:00}
+
+@178
+{z}Come, let's press on. {p:01} is not far now.{g}{x:00}
+
+@179
+{z}{s:0320}I'm sorry... for being useless...{g}{x:00}
+
+@180
+{z}{s:0320}Damn it...{g}{x:00}
+
+@181
+{z}{s:0320}{a:0000}... I leave the rest to you!{g}{x:00}
+
+@182
+{z}{s:0320}I can't fight any more. I'm pulling out...{g}{x:00}
+
+@183
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@184
+{z}{s:0320}We are knights, however lowly... We'll not lose to mere mercenaries!{g}{x:00}
+
+@185
+{z}{s:0320}In this state, I can do nothing...{g}{x:00}
+
+@186
+{z}{s:0320}We are members of the order too. Surely you haven't forgotten that?{g}{x:00}
+
+@187
+{z}{s:0320}Damn... If only I were in top condition...{g}{x:00}
+
+@188
+{z}{s:0320}Once I'm healed, the day is ours. I'll show you what a knight is worth!{g}{x:00}
+
+@189
+{z}{s:0320}Tch... Healing came too late...{g}{x:00}
+
+@190
+{z}{s:0320}Here I come! Prepare yourselves!{g}{x:00}
+
+@191
+{z}{s:0320}I'll run wild to my heart's content again today!{g}{x:00}
+
+@192
+{z}{s:0320}Come on! Bring it on!{g}{x:00}
+
+@193
+{z}{s:0320}Here I come! Brace yourself!{g}{x:00}
+
+@194
+{z}{s:0320}Hitting the wounded when they're down... I won't forgive that!{g}{x:00}
+
+@195
+{z}{s:0320}I can't heal anyone. So I'll make up for it in the fighting.{g}{x:00}
+
+@196
+{z}{s:0320}Whenever you're ready. Just hurry up and come at me.{g}{x:00}
+
+@197
+{z}{s:0320}No thanks needed! Hurry!{g}{x:00}
+
+@198
+{z}{s:0320}Never mind thanks, just run for it. Otherwise the healing was for nothing.{g}{x:00}
+
+@199
+{z}{s:0320}No thanks needed. More to the point, run for it, quickly.{g}{x:00}
+
+@200
+{z}{s:0320}This is no time to be glad! Run, quick!{g}{x:00}
+
+@201
+{z}{s:0320}There's no time for celebrating. Run, quick.{g}{x:00}
+
+@202
+{z}{s:0320}How long do you plan to rejoice? Get running!{g}{x:00}
+
+@203
+{z}{s:0320}Don't relax yet! We haven't got clear away!{g}{x:00}
+
+@204
+{z}{s:0320}Isn't it a bit early to relax? We haven't got clear away.{g}{x:00}
+
+@205
+{z}{s:0320}Save your relief until we've got clean away.{g}{x:00}
+
+@206
+{z}{s:0320}But can we catch up from here?{g}{x:00}
+
+@207
+{z}{s:0320}I thought this might happen, so I've made arrangements.{g}{x:00}
+
+@208
+{z}Even if they recover, we only have to wipe them out. Don't worry about it.{g}{x:00}
+
+@209
+{z}Our duty is done! Let's go home!{g}{x:00}
+
+@210
+{z}Our duty is done! Let's go home!{g}{x:00}
+
+@211
+{z}...{w}{w} Huh? {w}{w}The food is gone... {w}{w}That can't be!{g}{x:00}
+
+@212
+{z}We'll starve like this! All troops, retreat!{g}{x:00}
+
+@213
+{z}Don't worry about it.{g}{x:00}
+
+@214
+{z}We've completed the mission, but whether we should be glad of it...{g}{x:00}
+
+@215
+{z}Why are you lot here?{g}{x:00}
+
+@216
+{z}When I think of them, I can't honestly rejoice...{g}{x:00}
+
+@217
+{z}{s:0320}I only said it just in case...{g}{x:00}
+

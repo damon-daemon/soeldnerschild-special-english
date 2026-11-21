@@ -1,0 +1,465 @@
+@0
+{z}{s:0320}Well, we've got this far safely.{g}{x:00}
+
+@1
+{z}{s:0320}I bet someone's lurking on that mountain road ahead...{g}{x:00}
+
+@2
+{z}{s:0320}Not just lurking. Here they come.{g}{x:00}
+
+@3
+{z}{s:0320}Huh?{g}{x:00}
+
+@4
+{z}{s:0320}I knew they'd come this way.{g}{x:00}
+
+@5
+{z}{s:0320}The ones guarding the envoy...{w}{w} Well, if it isn't Tigre!{g}{x:00}
+
+@6
+{z}{s:0320}Tigre? Didn't they disband?{g}{x:00}
+
+@7
+{z}{s:0320}At last, it's our turn. Sorry, but we can't afford to lose.{g}{x:00}
+
+@8
+{z}{s:0320}That's right. It's the new Tigre's first job!{g}{x:00}
+
+@9
+{z}{s:0320}Now then, all of you. My destination lies west along this road...{g}{x:00}
+
+@10
+{z}{s:0320}So what about it?{g}{x:00}
+
+@11
+{z}{s:0320}Understood. I'll just make for the west, then.{g}{x:00}
+
+@12
+{z}{s:0320}Understood. So I just follow her.{g}{x:00}
+
+@13
+{z}{s:0320}I'll do my best to protect you. Please stay close.{g}{x:00}
+
+@14
+{z}{s:0320}Understood. So I just follow him.{g}{x:00}
+
+@15
+{z}{s:0320}Don't get lost. Just follow me and keep quiet.{g}{x:00}
+
+@16
+{z}{s:0320}Understood. So I just follow her.{g}{x:00}
+
+@17
+{z}{s:0320}With me here, you need not worry. Stay close.{g}{x:00}
+
+@18
+{z}{s:0320}Sorry we're late! This one said he was hungry...{g}{x:00}
+
+@19
+{z}{s:0320}This is no time for excuses! Get in and help, now!{g}{x:00}
+
+@20
+{z}{s:0320}Yes, sir.{g}{x:00}
+
+@21
+{z}{s:0320}Eek! Reinforcements! {a:0000}, do something!{g}{x:00}
+
+@22
+{z}{s:0320}Reinforcements? We've no time for them!{g}{x:00}
+
+@23
+{z}{s:0320}Reinforcements! We've no time for them!{g}{x:00}
+
+@24
+{z}{s:0320}Please go on ahead from here. I'll guard you from behind.{g}{x:00}
+
+@25
+{z}{s:0320}From here on we'll guard your back. You head west ahead of us.{g}{x:00}
+
+@26
+{z}{s:0320}Please walk in front from here. I'll guard you from behind.{g}{x:00}
+
+@27
+{z}{s:0320}Very well. I shall do so.{g}{x:00}
+
+@28
+{z}{s:0320}Very well. I shall do so.{g}{x:00}
+
+@29
+{z}{s:0320}Very well. I shall do so.{g}{x:00}
+
+@30
+{z}{s:0320}I'm sorry... I can't go with you any further.{g}{x:00}
+
+@31
+{z}{s:0320}Understood...{g}{x:00}
+
+@32
+{z}{s:0320}Sorry, this is as far as I go. Hurry west...{g}{x:00}
+
+@33
+{z}{s:0320}Understood...{g}{x:00}
+
+@34
+{z}{s:0320}Go west on your own from here... Quickly, now...{g}{x:00}
+
+@35
+{z}{s:0320}Understood...{g}{x:00}
+
+@36
+{z}{s:0320}At this rate... I'm not fit to be a company captain...{g}{x:00}
+
+@37
+{z}{s:0320}Damn... And this was our fresh start...{g}{x:00}
+
+@38
+{z}{s:0320}Failing like this... I'm hopeless...{g}{x:00}
+
+@39
+{z}{s:0320}Rotten luck, I have to retreat... Don't give up, any of you, not till the end...{g}{x:00}
+
+@40
+{z}We can't lose to the likes of them...{g}{x:00}
+
+@41
+{z}{s:0320}Beaten by a Tigre without {a:0023}... How...{g}{x:00}
+
+@42
+{z}{s:0320}They're strong...{g}{x:00}
+
+@43
+{z}{s:0320}They're strong even without {a:0023}...{g}{x:00}
+
+@44
+{z}{s:0320}Now it's safe. Well done, everyone.{g}{x:00}
+
+@45
+{z}{s:0320}Thank goodness... I couldn't afford to fail today.{g}{x:00}
+
+@46
+{z}{s:0320}As a start for the new Tigre Mercenaries, it couldn't have gone better.{g}{x:00}
+
+@47
+{z}{s:0320}Congratulations, Captain {a:0000}.{g}{x:00}
+
+@48
+{z}{s:0320}It's over... That means the mission is done.{g}{x:00}
+
+@49
+{z}{s:0320}Yes! With them out of the way, this job is as good as done.{g}{x:00}
+
+@50
+{z}Let's keep this up from now on. The Tigre Mercenaries never lose!{g}{x:00}
+
+@51
+{z}{s:0320}Phew... It seems we've won.{g}{x:00}
+
+@52
+{z}But those two... Retreating so easily...{g}{x:00}
+
+@53
+{z}{s:0320}What are you doing! ...Give it back...{g}{x:00}
+
+@54
+{z}{s:0320}So this is the document...{g}{x:00}
+
+@55
+{z}{s:0320}We've been beaten...{g}{x:00}
+
+@56
+{z}{s:0320}Damn...{g}{x:00}
+
+@57
+{z}{s:0320}Why? We tried so hard...{g}{x:00}
+
+@58
+{z}{s:0320}We're simply not strong enough yet. If it stings, we must improve.{g}{x:00}
+
+@59
+{z}{s:0320}Yes... we will. I never want to feel this again.{g}{x:00}
+
+@60
+{z}{s:0320}The mission has failed. No use dwelling on it...{g}{x:00}
+
+@61
+{z}{s:0320}And I came to protect him...{g}{x:00}
+
+@62
+{z}I couldn't bear to fail today of all days... Isn't that right, {a:0000}...{g}{x:00}
+
+@63
+{z}{s:0320}Why does it end like this! Damn...{g}{x:00}
+
+@64
+{z}{s:0320}You can stop escorting me here, all of you. I'll be fine on my own from here.{g}{x:00}
+
+@65
+{z}{s:0320}Damn! I've lost sight of him!{g}{x:00}
+
+@66
+{z}We're beaten...{w}{w} Let's pull back...{g}{x:00}
+
+@67
+{z}{s:0320}The enemy is pulling back...{g}{x:00}
+
+@68
+{z}{s:0320}Well done, everyone. Mission accomplished.{g}{x:00}
+
+@69
+{z}{s:0320}We did it! We won!{g}{x:00}
+
+@70
+{z}{s:0320}The new Tigre's first, memorable victory!{g}{x:00}
+
+@71
+{z}{s:0320}Wonderful! Isn't it, {a:0000}?{g}{x:00}
+
+@72
+{z}{s:0320}But it won't always go this well.{g}{x:00}
+
+@73
+{z}There are plenty of stronger foes out there.{g}{x:00}
+
+@74
+{z}{s:0320}Yes! Mission accomplished!{g}{x:00}
+
+@75
+{z}Let's keep this up from now on. The Tigre Mercenaries never lose!{g}{x:00}
+
+@76
+{z}{s:0320}The enemy is retreating!{g}{x:00}
+
+@77
+{z}Thank goodness... I was a little afraid, really...{g}{x:00}
+
+@78
+{z}{s:0320}Thank goodness... Mission accomplished.{g}{x:00}
+
+@79
+{z}Those two retreating was the main reason we struggled so.{g}{x:00}
+
+@80
+{z}Unless they get stronger, I dread to think what lies ahead...{g}{x:00}
+
+@81
+{z}{s:0320}This is our very first job. We will see it through!{g}{x:00}
+
+@82
+{z}{s:0320}I won't retreat, whatever happens. I made up my mind!{g}{x:00}
+
+@83
+{z}{s:0320}Do you think a whelp like you can serve as a mercenary captain?{g}{x:00}
+
+@84
+{z}Don't take the mercenary world lightly! I'll teach you how harsh it is! Here I come!{g}{x:00}
+
+@85
+{z}{s:0320}Can you really fill {a:0023}'s shoes?{g}{x:00}
+
+@86
+{z}{s:0320}Here we come, rookie captain!{g}{x:00}
+
+@87
+{z}{s:0320}Here we go! Prepare yourselves!{g}{x:00}
+
+@88
+{z}{s:0320}Come on! Come on! Your sword hand is trembling!{g}{x:00}
+
+@89
+{z}{s:0320}Charge!{g}{x:00}
+
+@90
+{z}{s:0320}What... what did I do? S-stop, please!{g}{x:00}
+
+@91
+{z}{s:0320}{a:0000}, from today you are in command.{g}{x:00}
+
+@92
+{z}Where we move, and whether we attack or use magic, you decide everything.{g}{x:00}
+
+@93
+{z}{s:0320}In melee, too, we move on {a:0000}'s orders?{g}{x:00}
+
+@94
+{z}{s:0320}Can I really do it...?{g}{x:00}
+
+@95
+{z}{s:0320}It's all right! {a:0000} can certainly do it!{g}{x:00}
+
+@96
+{z}{s:0320}What about you, {a:0001}? Are you all right?{g}{x:00}
+
+@97
+{z}{s:0320}Yes, you're the one who has to summon the holy soldiers.{g}{x:00}
+
+@98
+{z}{s:0320}Y-yes. I'll do my best...{g}{x:00}
+
+@99
+{z}{s:0320}Can she really do it...?{g}{x:00}
+
+@100
+{z}{s:0320}I believe what {a:0023} said.{g}{x:00}
+
+@101
+{z}{s:0320}...Thank you. But when should I summon them?{g}{x:00}
+
+@102
+{z}{s:0320}Summon them before you clash with the enemy. Right now, in fact.{g}{x:00}
+
+@103
+{z}{a:0000}, you're the one who gives the order to summon, too.{g}{x:00}
+
+@104
+{z}If {a:0001} doesn't summon before the battle starts, she'll have to fight without her mercenaries...{g}{x:00}
+
+@105
+{z}{s:0320}The road is jammed. We can't get ahead...{g}{x:00}
+
+@106
+{z}{s:0320}Hey! Clear the way! We can't get through!{g}{x:00}
+
+@107
+{z}{s:0320}Damn... the enemy is blocking our way. Please, do something about them.{g}{x:00}
+
+@108
+{z}{s:0320}You mean there may be enemies?{g}{x:00}
+
+@109
+{z}{s:0320}{a:0023} is dead, isn't he?{g}{x:00}
+
+@110
+{z}{s:0320}Yes, but some young whelp seems to have taken over.{g}{x:00}
+
+@111
+{z}Nobody knows what sort of man he is.{g}{x:00}
+
+@112
+{z}{s:0320}So that's him...{g}{x:00}
+
+@113
+{z}{s:0320}Right, let's go!{g}{x:00}
+
+@114
+{z}{s:0320}The enemy...{g}{x:00}
+
+@115
+{z}{s:0320}Don't worry. I will protect you without fail.{g}{x:00}
+
+@116
+{z}If he were attacked, even once, it would be the end.{g}{x:00}
+
+@117
+{z}{s:0320}He can't fight on his own, after all.{g}{x:00}
+
+@118
+{z}{s:0320}A heavy responsibility. {a:0000}, what will you do?{g}{x:00}
+
+@119
+{z}{s:0320}Sorry... Everyone... I'm sorry...{g}{x:00}
+
+@120
+{z}{s:0320}Damn... Sorry, everyone...{g}{x:00}
+
+@121
+{z}{s:0320}{a:0000}, I leave the rest to you.{g}{x:00}
+
+@122
+{z}{s:0320}Should I slip away west while you are fighting?{g}{x:00}
+
+@123
+{z}Or... should I follow someone instead?{g}{x:00}
+
+@124
+{z}{s:0320}{a:0000}, what shall we do?{g}{x:00}
+
+@125
+{z}{s:0320}Hey! Hand over what you're holding so tightly!{g}{x:00}
+
+@126
+{z}Once we have this, we've no more use for you. Right! Retreat!{g}{x:00}
+
+@127
+{z}Then I shall hurry on. You have done well.{g}{x:00}
+
+@128
+{z}{s:0320}Tch... however hard we work, the captain gets all the credit.{g}{x:00}
+
+@129
+{z}{s:0320}I didn't mean it like that...{g}{x:00}
+
+@130
+{z}{s:0320}Just joking. I'm counting on you, Captain.{g}{x:00}
+
+@131
+{z}{s:0320}Hey, you lot! How long are you going to chatter?{g}{x:00}
+
+@132
+{z}{s:0320}Sorry... Let's hurry on.{g}{x:00}
+
+@133
+{z}Today of all days...{w}{w} today I really didn't want to fail...{g}{x:00}
+
+@134
+{z}{s:0320}The pests are gone... Now we can go on in peace.{g}{x:00}
+
+@135
+{z}Then let us hurry on.{g}{x:00}
+
+@136
+{z}{s:0320}The pests are gone... Now we can go on in peace.{g}{x:00}
+
+@137
+{z}Then let us hurry on.{g}{x:00}
+
+@138
+{z}You two must get better... You're two of our few company captains.{g}{x:00}
+
+@139
+{z}{s:0320}The pests are gone... Now we can go on in peace.{g}{x:00}
+
+@140
+{z}Then let us hurry on.{g}{x:00}
+
+@141
+{z}And this was the new Tigre's first job... {w}{w} Damn...{g}{x:00}
+
+@142
+{z}So that we never feel this bitter again, we'll just have to get better.{g}{x:00}
+
+@143
+{z}{s:0320}I'll get stronger too!{g}{x:00}
+
+@144
+{z}{s:0320}{a:0000}, you did well today.{g}{x:00}
+
+@145
+{z}There will be hard and trying times ahead, but please get through them.{g}{x:00}
+
+@146
+{z}The Tigre Mercenaries depend on your skill.{g}{x:00}
+
+@147
+{z}H-hey, you two. You're sure you'll be all right?{g}{x:00}
+
+@148
+{z}{a:0001}, you can do it.{g}{x:00}
+
+@149
+{z}Understood?{g}{x:00}
+
+@150
+{z}Which way should I go?{g}{x:00}
+
+@151
+{z}I'll hurry west.{g}{x:00}
+
+@152
+{z}{a:0000}, this lot's yours!{g}{x:00}
+
+@153
+{z}Whatever happens, we head west!{g}{x:00}
+
+@154
+{z}To be honest... I was a little worried. But at this rate, we'll be fine.{g}{x:00}
+

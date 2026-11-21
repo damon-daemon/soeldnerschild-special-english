@@ -1,0 +1,682 @@
+@0
+{z}{f}{l:00af}{c:06}§ Old Man §{n}
+{c:07}Who is it? I am sleepy just now. Come back later.{g}{x:00}
+
+@1
+{z}{f}{l:0000}{s:0000}{a:0005}, is that you? What are you doing here?{g}{x:00}
+
+@2
+{z}{f}{l:0005}{s:0005}Ah, {a:0000}. We were just talking about you.{g}{z}This is an old friend of mine, {a:00af}.{g}{z}{f}{l:00af}{s:00af}So you are {j:0003}{x:00}
+
+@3
+{a:0000}, then.{g}{z}You look a little like {a:0023} in his youth.{g}{x:00}
+
+@4
+{z}{f}{l:0000}You know {a:0023}?{g}{z}{f}{l:00af}Of course. I am the very man who taught {a:0023} the sword.{g}{j:0005}{x:00}
+
+@5
+{z}{f}{l:0000}What? You taught {a:0023}...?{g}{x:00}
+
+@6
+{z}{f}{l:00af}I had high hopes for him, but to lose an arm...{g}{x:00}
+
+@7
+{z}{f}{l:0005}Part of the blame is mine. I have kept it hidden until now...{g}{z}Once, I challenged {a:0031} together with {a:0023}.{g}{j:0008}{x:00}
+
+@8
+{z}We had him almost beaten, but my body gave out.{g}{z}While {a:0023} was distracted by me, the villain struck at him from behind...{g}{j:012c}{x:00}
+
+@9
+{z}{f}{l:00af}Had he kept his left arm, he would not have lost his life...{g}{z}{f}{l:0000}Even so, {a:0023}'s swordsmanship was superb,{j:000a}{x:00}
+
+@10
+ beyond anything you'd expect of a one-armed man...{g}{x:00}
+
+@11
+{z}{f}{l:00af}That was nothing to the man he once was. Don't tell me you never knew {a:0023} had mastered the two-sword style?{g}{x:00}
+
+@12
+{z}{f}{l:0005}Only three people have ever mastered the two-sword style. Its founder, {a:00af}, here,{g}{z}{a:0076} of Estania, self-taught, and {a:0023}.{g}{x:00}
+
+@13
+{z}{f}{l:00af}But {a:0023} is dead, {a:0076} cannot leave his domain, and as for me, you see how I am...{g}{j:000e}{x:00}
+
+@14
+{z}I want to pass this art on somehow.{g}{x:00}
+
+@15
+{z}{f}{l:0005}...{a:0000}! You must inherit the ultimate two-sword technique!{g}{x:00}
+
+@16
+{z}{f}{l:00af}Indeed, it is the only way.{g}{z}{a:0023} would surely be pleased.{g}{z}{f}{l:0000}But can I really do it...?{g}{x:00}
+
+@18
+{z}{f}{l:00af}There is a secret art of the two-sword style that I perfected and taught to {a:0023} alone. I shall teach it to you too...{g}{z}Here we go!{g}{x:00}
+
+@19
+{z}{f}{l:00af}Haaah!{g}{x:00}
+
+@20
+{z}{f}{l:0000}...Thank you.{g}{z}I will hone my skill until I surpass {a:0023}.{g}{x:00}
+
+@21
+{z}{f}{l:00af}And...{w} avenge {a:0023}.{g}{x:00}
+
+@22
+{z}{f}{l:0005}Well, shall we take our leave?{g}{x:00}
+
+@23
+{z}{f}{l:00af}Yes. Keep well, both of you.{g}{x:00}
+
+@24
+{z}{f}{l:00af}{s:00af}Make good use of the technique.{g}{x:00}
+
+@25
+{z}Learned a two-sword special move!{g}{x:00}
+
+@27
+{z}{f}{l:00ac}{s:00ac}Is the Dragon Mail proving useful?{g}{x:00}
+
+@29
+{z}{f}{l:00ac}If you are the man the rumours say, I might let you have my armour, but rumours are not to be trusted.{g}{x:00}
+
+@30
+{z}{f}{l:00ac}{c:06}§ Stubborn Old Man §{n}
+{c:07}I've no weapons to give you. Come back later.{g}{x:00}
+
+@31
+{z}{f}{l:00ac}{s:00ac}Could you be {a:0000}...? I've heard of you.{g}{z}They say you bravely fought {a:0028} to protect the villagers.{j:0020}{x:00}
+
+@32
+ Did you come for my armour?{g}{z}Lately there are even fellows who'd kill me to take it,{j:0021}{x:00}
+
+@33
+ so I can hardly sleep at night.{g}{x:00}
+
+@34
+{z}{f}{l:0028}{s:0028}There you are, old man! I've been looking for you!{g}{x:00}
+
+@35
+{z}{f}{l:0028}Is it true you make the best armour on the continent? I'll test it myself!{g}{j:0024}{x:00}
+
+@36
+{z}Oh, and...{w} cross me and you're dead. Heh heh heh...{g}{x:00}
+
+@37
+{z}{f}{l:0000}{s:0000}Stop!{g}{x:00}
+
+@38
+{z}{f}{l:0028}Well, look who it is... you again. I'm getting sick of that face.{g}{x:00}
+
+@40
+{z}{f}{l:0000}I won't let you escape today. Your crimes end here!{g}{x:00}
+
+@41
+{z}{f}{l:0028}Fine, I'll kill you! Step outside!{g}{x:00}
+
+@42
+{z}{f}{l:0028}Y-you bastard, you're good...{g}{x:00}
+
+@43
+{z}{f}{l:00ac}{s:00ac}You are quite something.{g}{z}Very well, have this. Make use of it.{g}{x:00}
+
+@46
+{z}{f}{l:0000}Thank you.{g}{x:00}
+
+@48
+{z}{f}{l:00ac}With this I too can play a part in rooting out villains.{g}{x:00}
+
+@50
+{z}{f}{l:0000}{s:0000}Nobody home, it seems...{g}{x:00}
+
+@51
+{z}{f}{l:009e}{s:009e}Hey, are you a traveller? Do you like it around here?{g}{j:0034}{x:00}
+
+@52
+{z}Unlike other nations, Estania has no king swaggering about.{g}{z}The nobles are sure to give us good government.{g}{x:00}
+
+@54
+{z}{f}{l:009e}In ten years I'll have found a pretty wife, and I'll be living happily, surrounded by children...{g}{x:00}
+
+@55
+{z}{f}{l:009e}Heh, a plain dream, I know. But the wise nobles will surely make it come true!{g}{x:00}
+
+@56
+{z}{f}{l:009e}{s:009e}I can't wait to live well.{g}{x:00}
+
+@60
+{z}{f}{l:00ad}{c:06}§ Strange Man §{n}
+{c:07}Ah, so busy. An inventor's life is hard.{g}{x:00}
+
+@61
+{z}{f}{l:0004}{s:0004}Oh, Captain! You've come at just the right time.{g}{x:00}
+
+@62
+{z}{f}{l:0004}Let me introduce him. This is {a:00ad}, my old partner in crime from before I turned mercenary.{g}{z}An inventor, sort of.{g}{x:00}
+
+@63
+{z}{f}{l:00ad}{s:00ad}Pleased to meet you!{g}{z}By the way, are you the man he's so taken with?{g}{x:00}
+
+@64
+{z}{f}{l:0004}No, no, that was the old captain.{g}{z}{f}{l:00ad}I see, so the man you were taken with is gone...{w}{j:0041}{x:00}
+
+@65
+ Then I'll say it to the new captain.{g}{x:00}
+
+@66
+{z}{f}{l:00ad}He's hopeless with women, but loyal.{g}{z}He stays with you to repay a debt, even to someone who's gone,{j:0043}{x:00}
+
+@67
+ so work him as hard as you like.{g}{x:00}
+
+@68
+{z}{f}{l:0004}He works me so hard I've no time to chase women.{g}{x:00}
+
+@69
+{z}{f}{l:0004}Well, I'll come by again!{g}{x:00}
+
+@70
+{z}{f}{l:00ad}Yeah, I'll be waiting!{g}{x:00}
+
+@71
+{z}{f}{l:00ad}Oh, I know! Captain, I'll give you a marvellous potion I invented.{g}{x:00}
+
+@72
+{z}{f}{l:00ad}Down it in one go. It's remarkably effective!{g}{z}{f}{l:0000}What does it do?{g}{x:00}
+
+@74
+{z}{f}{l:00ad}You'll find out when you drink it... Will you try it?{y:00004b004e}{x:00}
+
+@75
+{z}{f}{l:00ad}Spoken like a brave man! Go on, drink up!{g}{x:00}
+
+@76
+{z}Strength surged through your body.{g}{x:00}
+
+@77
+{z}{f}{l:00ad}It's a special tonic I made at {a:0004}'s request.{g}{x:00}
+
+@78
+{z}{f}{l:00ad}Aw, you're no fun... You don't trust me.{g}{x:00}
+
+@79
+{z}{f}{l:00ad}Well then, Captain, take care of {a:0004}. He's still my best friend.{g}{x:00}
+
+@82
+{z}{f}{l:00ad}{s:00ad}Doing well? Take good care of {a:0004}!{g}{x:00}
+
+@89
+{z}{f}{l:0009}My name is {a:0009}, and I am in training with the sword.{g}{x:00}
+
+@90
+{z}{f}{l:0009}{c:06}§ Woman §{n}
+{c:07}Who are you? Don't just walk in uninvited!{g}{x:00}
+
+@91
+{z}{f}{l:0009}{s:0009}Oh, you must be {a:0000}.{g}{z}I was just thinking of visiting you at your inn.{g}{z}{f}{l:0000}{s:0000}And you are...?{g}{x:00}
+
+@92
+{z}{f}{l:0009}Truth is...{w} bandits have taken my lover's keepsake, the thing most precious to me.{g}{j:005d}{x:00}
+
+@93
+{z}I want it back, but alone I can't...{g}{z}Then I remembered the rumours about you.{g}{j:005e}{x:00}
+
+@94
+{z}I only have 3800 G. I know it's a lot to ask.{g}{x:00}
+
+@95
+{z}{f}{l:0009}Really? Thank you! It's little, but use this for your preparations.{g}{x:00}
+
+@96
+{z}Please come back here when you have prepared for battle.{g}{x:00}
+
+@97
+{z}{f}{l:0009}I see. I understand...{g}{x:00}
+
+@98
+{z}{f}{l:0009}{s:0009}Are you ready now?{y:0000630064}{x:00}
+
+@99
+{z}{f}{l:0009}Then let us go to the bandits' hideout!{g}{x:00}
+
+@100
+{z}{f}{l:0009}I'll wait here until you are ready.{g}{x:00}
+
+@101
+{z}You received 3800 G.{g}{x:00}
+
+@102
+{z}{f}{l:0009}{c:06}§ Woman §{n}
+{c:07}Oh, are you a mercenary?{g}{z}You look tired. Why not rest at the inn?{g}{x:00}
+
+@103
+{z}{f}{l:0009}Please lend me your strength. Get my keepsake sword back!{y:00005f0061}{x:00}
+
+@104
+{z}{f}{l:0009}Rumours really can't be trusted.{g}{x:00}
+
+@110
+{z}{f}{l:0009}I'll manage by myself. If you have no business here, please leave.{g}{x:00}
+
+@111
+{z}{f}{l:0009}Then I'll go ahead to the inn.{g}{x:00}
+
+@113
+{z}{f}{l:0009}{a:0000}! What about my sword...?{g}{x:00}
+
+@114
+{z}{f}{l:0000}{a:0009}...{w} We couldn't get your sword back.{g}{z}They sold it right after stealing it, it seems...{w}{j:0073}{x:00}
+
+@115
+ There's no telling who has it now...{g}{x:00}
+
+@116
+{z}{f}{l:0009}I see...{g}{z}...{a:0000}, I have one more favour to ask.{g}{x:00}
+
+@117
+{z}{f}{l:0009}Please let me join your company. I beg you!{g}{j:0076}{x:00}
+
+@118
+{z}Seeing you all fight, I decided to stop dwelling on the past.{g}{x:00}
+
+@119
+{z}{f}{l:0000}So you'll give up on that sword?{g}{z}{f}{l:0009}Fighting as a mercenary, I may meet someone carrying it.{g}{x:00}
+
+@120
+{z}Rather than cling to memories, I want to value the life ahead of me.{g}{x:00}
+
+@121
+{z}{f}{l:0009}Besides, even without his keepsake, he lives on in my heart...{g}{j:0078}{x:00}
+
+@122
+{z}{f}{l:0000}Understood. From now on, work as a platoon leader in the Tigre Mercenaries.{g}{x:00}
+
+@123
+{z}{f}{l:0009}Thank you! I'll do my best!{g}{x:00}
+
+@124
+{z}{a:0009} has joined you!{g}{x:00}
+
+@125
+{z}{f}{l:0009}{s:0009}How nostalgic... A familiar home is the best, isn't it?{g}{x:00}
+
+@129
+{z}{f}{l:000a}Rumours really can't be trusted. Very well, I'll protect my sister myself.{g}{x:00}
+
+@130
+{z}{f}{l:000a}{c:06}§ Woman §{n}
+{c:07}What shall I do...{g}{x:00}
+
+@131
+{z}{f}{l:00ae}{c:06}§ Girl §{n}
+{c:07}Sis seems worried about something...{g}{x:00}
+
+@132
+{z}{f}{l:000a}{s:000a}Eek! Come no closer! I won't hand over my sister!{g}{x:00}
+
+@133
+{z}{f}{l:00ae}{s:00ae}Sis, who is this?{g}{x:00}
+
+@134
+{z}{f}{l:0000}{s:0000}Wait! I won't do anything!{g}{z}{f}{l:000a}What?{j:0087}{x:00}
+
+@135
+ Didn't you send that letter?{g}{x:00}
+
+@136
+{z}{f}{l:0000}No... I'm from the Tigre Mercenaries.{g}{x:00}
+
+@137
+{z}{f}{l:000a}Oh... I'm sorry.{g}{z}What!{w} Just now...{w} Did you say Tigre?{g}{z}{f}{l:0000}Yes. My name is {a:0000}.{g}{x:00}
+
+@138
+{z}{f}{l:000a}{a:00ae}, go and play outside for a while.{g}{x:00}
+
+@139
+{z}{f}{l:00ae}Okaaay.{g}{x:00}
+
+@140
+{z}{f}{l:000a}{a:0000}, please protect my sister!{g}{z}The truth is, brigands sent us a warning. They'll come to carry her off tomorrow, they say...{j:008d}{x:00}
+
+@141
+ They want to make my little sister their bride...{g}{z}I'll pay all I can. 4000 G...{w} no, I have 4200 G.{g}{x:00}
+
+@142
+{z}{f}{l:000a}Please, drive off the brigands when they come tomorrow!{y:00008f0092}{x:00}
+
+@143
+{z}{f}{l:000a}Thank you so much!{g}{x:00}
+
+@144
+{z}{f}{l:000a}Please come back here when you have prepared for battle.{g}{z}It surely isn't enough, but please take this.{g}{x:00}
+
+@145
+{z}You received 4200 G.{g}{x:00}
+
+@146
+{z}{f}{l:000a}...{g}{x:00}
+
+@147
+{z}{f}{l:00ae}{c:06}§ Girl §{n}
+{c:07}Sis always scolds me: "Go to bed early!"{g}{x:00}
+
+@148
+{z}{f}{l:000a}{c:06}§ Woman §{n}
+{c:07}You seem tired already. Otherwise...{g}{x:00}
+
+@150
+{z}{f}{l:000a}{s:000a}Are you ready?{y:0000970098}{x:00}
+
+@151
+{z}{f}{l:000a}Then I'm counting on you tomorrow.{g}{x:00}
+
+@152
+{z}{f}{l:000a}Please prepare quickly. Two women alone... we feel so helpless.{g}{x:00}
+
+@153
+{z}{f}{l:00ae}{s:00ae}Sis! The brigands are nearby!{g}{x:00}
+
+@154
+{z}{f}{l:000a}What? But it was supposed to be tomorrow...{g}{x:00}
+
+@155
+{z}{f}{l:0000}I'll drive them off. Stay inside and keep quiet.{g}{x:00}
+
+@160
+{z}{f}{l:000a}Please don't worry about us.{g}{x:00}
+
+@161
+{z}{f}{l:000a}{s:000a}{a:0000}, thank you so very much.{g}{x:00}
+
+@162
+{z}{f}{l:00ae}{s:00ae}You're amazing, Sis! You beat the brigands!{g}{x:00}
+
+@163
+{z}{f}{l:000a}{a:00ae}...{w} I'll have to be away from home for a while.{g}{x:00}
+
+@164
+{z}{f}{l:00ae}Why? Are you going somewhere?{g}{x:00}
+
+@165
+{z}{f}{l:000a}Yes. I'm going to become a mercenary and help as many wounded people as I can.{g}{j:00a6}{x:00}
+
+@166
+{z}The brigands won't come again... Won't you be lonely without me, {a:00ae}?{g}{z}{f}{l:00ae}A little lonely...{g}{x:00}
+
+@167
+{z}{f}{l:00ae}But I'm fine! If Sis wants to, I'll... put up with it.{g}{x:00}
+
+@168
+{z}{f}{l:000a}Thank you, {a:00ae}!{g}{x:00}
+
+@169
+{z}{f}{l:000a}{a:0000}, I mean it. Please let me join you!{g}{z}{f}{l:0000}It's no easy work. You'll face danger...{g}{x:00}
+
+@171
+{z}{f}{l:000a}I'm prepared. I won't hold you back!{g}{x:00}
+
+@172
+{z}{f}{l:0000}Very well. Work as a platoon leader in the Tigre Mercenaries.{g}{z}{f}{l:000a}I'll do my best!{g}{x:00}
+
+@174
+{z}{a:000a} has joined you!{g}{x:00}
+
+@175
+{z}{f}{l:00ae}Good luck, Sis!{g}{x:00}
+
+@176
+{z}{f}{l:000a}I'll go and say goodbye to everyone.{g}{x:00}
+
+@177
+{z}{f}{l:000a}{s:000a}I'm relieved to see {a:00ae} so well.{g}{x:00}
+
+@178
+{z}{f}{l:00ae}{s:00ae}Please take care of Sis!{g}{x:00}
+
+@180
+{z}{f}{l:000a}{s:000a}{a:0000}, you drove off the brigands!{g}{z}Thank you! Now my sister can...{g}{x:00}
+
+@181
+{z}{f}{l:00ae}{s:00ae}Mercenaries are strong! So cool!{g}{x:00}
+
+@182
+{z}{f}{l:0000}{s:0000}Two sisters lived in this house, but nobody's here...{g}{z}Don't tell me the brigands...{g}{x:00}
+
+@190
+{z}{f}{l:0000}{s:0000}Does nobody live in this house...?{g}{x:00}
+
+@191
+{z}{f}{l:0000}{s:0000}This was {a:009f}'s house... I wronged her.{g}{x:00}
+
+@192
+{z}{f}{l:009f}{c:06}§ Girl §{n}
+{c:07}May peace come to the continent as soon as possible...{g}{x:00}
+
+@193
+{z}{f}{l:009f}{s:009f}You are the one from before...{g}{z}Thank you for what you did then.{g}{x:00}
+
+@194
+{z}{f}{l:009f}{s:009f}I'll be fine without you. You needn't worry about me.{g}{x:00}
+
+@199
+{z}{f}{l:009f}{s:009f}You are {a:0000} of the Tigre Mercenaries?{g}{z}I have heard your name. I am {a:009f}.{g}{j:00c8}{x:00}
+
+@200
+{z}Can you believe this...?{w} I can hear the voice of God.{n}
+It says, "Defend your homeland."{g}{x:00}
+
+@201
+{z}{f}{l:009f}Grandcour is being pressed by other nations, isn't it? Worried, I prayed to God every day, and then...{g}{j:00ca}{x:00}
+
+@202
+{z}I formed a volunteer army with people who believe in me. But there are so few of us...{g}{x:00}
+
+@203
+{z}{f}{l:0002}{s:0002}So you're here, {a:0000}!{g}{z}Oops, sorry to break up a nice moment.{g}{x:00}
+
+@204
+{z}{f}{l:0002}But this is no time for that! Some mercenary company has turned up outside. Looks like they've come to take the town.{g}{j:00cd}{x:00}
+
+@205
+{z}The knights who'd fight them off haven't arrived yet. Do as you like, but I've told you.{g}{x:00}
+
+@206
+{z}{f}{l:009f}I must call up the volunteers at once! But how many will gather...?{w} I know!{g}{x:00}
+
+@207
+{z}{a:0000}, would you lend us your strength to defend our homeland?{g}{j:00d4}{x:00}
+
+@208
+{z}{f}{l:009f}Thank you! May God protect you...{g}{x:00}
+
+@209
+{z}{f}{l:009f}Please prepare right away. I'll wait here.{g}{j:00d5}{x:00}
+
+@210
+{z}You received 10000 G.{g}{x:00}
+
+@211
+{z}{f}{l:009f}...{g}{x:00}
+
+@212
+{z}As for pay... I have only 10000 G on hand, but if that will do...{y:0000d000d3}{x:00}
+
+@213
+{z}It's hardly a fitting reward, but please use it for the battle.{g}{x:00}
+
+@214
+{z}{f}{l:009f}Forgive me, I was so presumptuous...{w} I'll go and fight, then.{g}{x:00}
+
+@220
+{z}{f}{l:009f}{s:009f}Are you ready?{y:0000dd00de}{x:00}
+
+@221
+{z}{f}{l:009f}Then let us set out!{g}{x:00}
+
+@222
+{z}{f}{l:009f}Hurry! We have no time left!{g}{x:00}
+
+@223
+{z}{f}{l:009f}{s:009f}You have saved us.{g}{x:00}
+
+@224
+{z}{f}{l:0000}{s:0000}Forgive me, {a:009f}...{w} Rest in peace.{g}{x:00}
+
+@229
+{z}{f}{l:009d}{c:06}§ Stern Man §{n}
+{c:07}Hey, you! Won't you hear me out?{g}{x:00}
+
+@230
+{z}{f}{l:0000}{s:0000}The revolutionary's house... It was hard to cut down those citizens...{g}{x:00}
+
+@231
+{z}{f}{l:0000}{s:0000}The revolutionary's house... The knights cut the citizens down...{g}{x:00}
+
+@232
+{z}{f}{l:009d}{c:06}§ Stern Man §{n}
+{c:07}Rana is stagnating too...{w} The Emperor's tyranny is the worst of it!{g}{x:00}
+
+@233
+{z}{f}{l:009d}{s:009d}Hm? You look like a mercenary.{g}{x:00}
+
+@234
+{z}{f}{l:009d}A word of warning: do not work for this country. It is a rotten one.{g}{j:00eb}{x:00}
+
+@235
+{z}Imperial rule is what is rotten. When the Emperor orders men to fight, no one can refuse.{g}{x:00}
+
+@236
+{z}{f}{l:009d}It's the citizens I pity, giving their precious lives to pointless wars...{w} I cannot leave them be.{g}{z}I must lead them...{w}{j:00ed}{x:00}
+
+@237
+ I'm going to the square now to talk to them. Come along if you feel like it.{g}{x:00}
+
+@238
+{z}{f}{l:009d}{s:009d}The Emperor's tyranny grows...{w} The present aside, the future looks dark...{g}{x:00}
+
+@240
+{z}{f}{l:0060}{s:0060}Hold! Did you just come out of that house?{g}{z}I have business with its resident. Is he inside?{g}{x:00}
+
+@241
+{z}{f}{l:0060}{s:0060}You are the mercenary who fought with us! Why did you come out of that house?{g}{j:00f2}{x:00}
+
+@242
+{z}Is the resident inside?{g}{x:00}
+
+@243
+{z}{f}{l:0000}{s:0000}He said he was going to the square to talk to the citizens...{g}{x:00}
+
+@244
+{z}{f}{l:0060}What!{w} So the report that he is misleading the people into revolt was true!{g}{j:00f5}{x:00}
+
+@245
+{z}I must put it down at once...{w} You there...{w} Will you help me?{g}{x:00}
+
+@246
+{z}{f}{l:0060}Don't worry, they're only common townsfolk...{w} Ah, you're concerned about the pay. Fine, 15000 G.{g}{j:00f7}{x:00}
+
+@247
+{z}That's a good job for the likes of you. You'll take it, of course?{y:0000f800fb}{x:00}
+
+@248
+{z}{f}{l:0060}Good, here is the promised pay.{g}{x:00}
+
+@249
+{z}You received 15000 G.{g}{x:00}
+
+@250
+{z}{f}{l:0060}Prepare yourself and head to the square. I'll go ahead!{g}{x:00}
+
+@251
+{z}{f}{l:0060}Will you stand by in silence while enemies of Rana run free...?{g}{x:00}
+
+@252
+{z}{f}{l:0060}I'll deal with the fools myself. Go wherever you please!{g}{x:00}
+
+@260
+{z}{f}{l:0002}{s:0002}Oh, {a:0000}, you're just in time.{g}{x:00}
+
+@261
+{z}{f}{l:0002}This old man spoke to me in town.{j:0106}{x:00}
+
+@262
+ "If you want to get strong, come to my house," he said...{g}{j:0118}{x:00}
+
+@263
+{z}{f}{l:00ab}{s:00ab}I am the genius strategist {a:00ab}. And your name, sir?{g}{z}{f}{l:0000}{s:0000}I am the captain of the Tigre Mercenaries,{j:0108}{x:00}
+
+@264
+ {a:0000}.{g}{x:00}
+
+@265
+{z}{f}{l:00ab}I see. So the young fellow is your subordinate.{g}{z}Tell him to listen to people more seriously.{g}{x:00}
+
+@266
+{z}{f}{l:0002}Shut up! I can't take your talk seriously!{g}{x:00}
+
+@267
+{z}{f}{l:0002}See you. I'll leave the rest to you.{g}{x:00}
+
+@268
+{z}{f}{l:00ab}Call yourself a strategist and people think you a dangerous warmonger. No one comes near.{g}{z}But it is wrong to assume that those who deal in war{j:010d}{x:00}
+
+@269
+ must love it.{g}{z}{f}{l:0000}Yes, that's true.{g}{x:00}
+
+@270
+{z}Do you think the quality most required in a commander is skill in duels?{y:00010f0110}{x:00}
+
+@271
+{z}{f}{l:00ab}...It seems we do not see eye to eye. Kindly leave.{g}{x:00}
+
+@272
+{z}{f}{l:00ab}Indeed. A general must not fight duels lightly.{g}{z}What decides victory on the battlefield is the ability to command troops.{j:0111}{x:00}
+
+@273
+ A company whose captain grasps that is strong.{g}{z}Tigre Mercenaries...{w} I feared for you after {a:0023} fell,{j:0112}{x:00}
+
+@274
+ but you have made a splendid recovery.{g}{x:00}
+
+@275
+{z}{f}{l:00ab}I shall entrust you with my "Book of Tactics", ten years in the writing. Don't hold back, take it!{g}{x:00}
+
+@276
+{z}Leadership went up.{g}{x:00}
+
+@277
+{z}{f}{l:00ab}For a long time I waited to meet someone worthy of this book.{g}{j:0116}{x:00}
+
+@278
+{z}I couldn't bear my research being used for slaughter and plunder.{g}{x:00}
+
+@279
+{z}{f}{l:00ab}{s:00ab}Is my book of use? Read it carefully.{g}{x:00}
+
+@280
+{z}I followed him thinking he'd teach me some amazing technique, and he started a lecture I couldn't make head or tail of...{g}{x:00}
+
+@281
+{z}{f}{l:0002}Please, deal with him for me...{g}{x:00}
+
+@283
+{z}{f}{l:00ab}You seem a man I can talk with. I wish to ask you one question...{g}{j:010e}{x:00}
+
+@284
+{z}{f}{l:00ab}Read it, and destroy those who harm the people. I count on you!{g}{x:00}
+
+@285
+{z}{f}{l:00ab}{s:00ab}We do not see eye to eye. I'm sorry, but kindly leave.{g}{x:00}
+
+@290
+{z}{f}{l:0028}{s:0028}You keep getting in my way. Do you want to die?{g}{x:00}
+
+@291
+{z}{f}{l:0028}It won't go like this when we meet on the battlefield. You'll pay for this!{g}{x:00}
+
+@300
+{z}He tried to dodge but was too late, and his left arm was cut off.{g}{j:012d}{x:00}
+
+@301
+{z}We barely got away, but {a:0023}...{g}{x:00}
+

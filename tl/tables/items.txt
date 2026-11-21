@@ -1,0 +1,103 @@
+# item names (0x8001a7b0): KEY|English, at most 16 letters (see tools/tables.py; Japanese: tables.py show items)
+00|Short Sword
+01|Spatha
+02|Rapier
+03|Falchion
+04|Firangi
+05|Silver Sword
+06|Murasame
+07|Demon Killer
+08|Balmung
+09|Excalibur
+0a|Short Spear
+0b|Lance
+0c|Boar Spear
+0d|Winged Spear
+0e|Glaive
+0f|Scorpion
+10|Corseque
+11|Royal Lance
+12|Partisan
+13|Gungnir
+14|Francisca
+15|Poleaxe
+16|Tabarzin
+17|Platinum Axe
+18|Splasher
+19|Long Sword
+1a|Broadsword
+1b|Claymore
+1c|Great Sword
+1d|Zweihander
+1e|Bastard Sword
+1f|Day Blade
+20|Tetsuzanken
+21|Hrunting
+22|Durandal
+23|Logger's Axe
+24|Tomahawk
+25|Battle Axe
+26|Rune Axe
+27|Death Crusher
+28|Noble's Clothes
+29|Party Dress
+2a|Silky Dress
+2b|Leather Armour
+2c|Breastplate
+2d|Scale Armour
+2e|Chain Mail
+2f|Plate Mail
+30|Silver Armour
+31|Heaven's Plate
+32|Mirage Armour
+33|Holy Armour
+34|Dragon Mail
+35|Round Shield
+36|Buckler
+37|Kite Shield
+38|Tower Shield
+39|Scutum
+3a|Platinum Shield
+3b|Spiked Shield
+3c|Magic Shield
+3d|Earth Shield
+3e|Soul Shield
+3f|Speed Ring
+40|Power Ring
+41|Pegasus Ring
+42|Mega Ring
+43|Mach Ring
+44|God Ring
+45|Angel Charm
+46|Earth Charm
+47|Spirit Charm
+48|Sun Charm
+49|Fairy Charm
+4a|Sky Charm
+4b|Pearl Necklace
+4c|Silver Necklace
+4d|Black Pearls
+4e|Gold Necklace
+4f|Magicstone Chain
+50|Madonna Necklace
+51|Amethyst
+52|Ruby
+53|Sapphire
+54|Emerald
+55|Diamond
+56|Madonna Painting
+57|Goddess Statue
+58|Hanging Scroll
+59|Ivory Earrings
+5a|Coral Ornament
+5b|World Atlas
+5c|Book of Tongues
+5d|Book of Tactics
+5e|World Cookbook
+5f|Book of Myths
+60|Spices
+61|Music Box
+62|Dragon Horn
+63|Royal Crown
+64|Angel's Fan
+65|Brave Sword

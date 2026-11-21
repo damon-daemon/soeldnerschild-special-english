@@ -1,0 +1,294 @@
+@0
+{z}{s:0320}Hey, is the Captain really coming?{g}{x:00}
+
+@1
+{z}{s:0320}...Who knows. I can't say either.{g}{x:00}
+
+@2
+{z}{s:0320}And if the noble shows up before then?{g}{x:00}
+
+@3
+{z}{s:0320}We deal with him, of course. That's why we're lying in ambush.{g}{x:00}
+
+@4
+{z}{s:0320}Speak of the devil... Looks like the noble's here.{g}{x:00}
+
+@5
+{z}{s:0320}Oh! The enemy's lying in ambush!{g}{x:00}
+
+@6
+{z}{s:0320}A-are {w}{w}you all right?{g}{x:00}
+
+@7
+{z}{s:0320}Don't worry.{g}{x:00}
+
+@8
+{z}{s:0320}Just catch that noble and the job's done.{g}{x:00}
+
+@9
+{z}{s:0320}Yeah, that's a piece of cake.{g}{x:00}
+
+@10
+{z}{s:0320}Go! All units, charge! Go for the noble!{g}{x:00}
+
+@11
+{z}{s:0320}Just run. We'll be your shield.{g}{x:00}
+
+@12
+{z}{s:0320}Understood. I leave the enemy to you.{g}{x:00}
+
+@13
+{z}{s:0320}Oh! {w}{w}Come to think of it...{g}{x:00}
+
+@14
+{z}{s:0320}What is it?{g}{x:00}
+
+@15
+{z}{s:0320}There are two roads to our destination.{g}{x:00}
+
+@16
+{z}One goes southwest... The other crosses the northernmost of the three bridges...{g}{x:00}
+
+@17
+{z}The enemy is in the southwest now. Shall we try the northern road?{g}{x:00}
+
+@18
+{z}{s:0320}Then let's head northwest. I leave the enemy to you.{g}{x:00}
+
+@19
+{z}{s:0320}I see...{g}{x:00}
+
+@20
+{z}Then we'll head southwest. I leave the enemy to you.{g}{x:00}
+
+@21
+{z}{s:0320}Strange... they're not coming this way. Maybe they took another road?{g}{x:00}
+
+@22
+{z}{s:0320}I didn't know there was a road like that...{g}{x:00}
+
+@23
+{z}{s:0320}We went to all the trouble of an ambush, and it was a waste of time.{g}{x:00}
+
+@24
+{z}{s:0320}We may still make it. Let's go after them.{g}{x:00}
+
+@25
+{z}{s:0320}Ignore the Tigre men and go only for the noble!{g}{x:00}
+
+@26
+{z}{s:0320}Hm?{g}{x:00}
+
+@27
+{z}{s:0320}They came from there...{g}{x:00}
+
+@28
+{z}{s:0320}Sorry I'm late.{g}{x:00}
+
+@29
+{z}{s:0320}Never mind. Thanks to that, we've got the enemy in a pincer.{g}{x:00}
+
+@30
+{z}{s:0320}Hm?{g}{x:00}
+
+@31
+{z}{s:0320}Sorry to be la--{g}{x:00}
+
+@32
+{z}Oh? Isn't that a noble of {p:01}?{g}{x:00}
+
+@33
+{z}I'm coming now! Don't let him get away!{g}{x:00}
+
+@34
+{z}{s:0320}Enemies from this side too... Was it the same whichever way we went?{g}{x:00}
+
+@35
+{z}{s:0320}If we dawdle, they'll join up! Everyone, hurry!{g}{x:00}
+
+@36
+{z}{s:0320}Shall we keep advancing this way?{g}{x:00}
+
+@37
+{z}Or should we change course to the southwest?{g}{x:00}
+
+@38
+{z}{s:0320}Understood. We'll keep advancing.{g}{x:00}
+
+@39
+{z}{s:0320}Understood. We'll head southwest.{g}{x:00}
+
+@40
+{z}{s:0320}They're heading this way! Hurry over here!{g}{x:00}
+
+@41
+{z}{s:0320}We can't get there right away! Hold the enemy back as long as you can!{g}{x:00}
+
+@42
+{z}{s:0320}So they're going that way...{g}{x:00}
+
+@43
+{z}{s:0320}Oh? That's the regular army of {p:01}... You came for us!{g}{x:00}
+
+@44
+{z}I'm hurrying to the regular army! Thank you, you saved me!{g}{x:00}
+
+@45
+{z}{s:0320}What? The regular army is coming to meet him? Impossible...{g}{x:00}
+
+@46
+{z}We can't take on the regular army. Pull out!{g}{x:00}
+
+@47
+{z}{s:0320}He got away... Phew... that's the end of it.{g}{x:00}
+
+@48
+{z}{s:0320}Thank goodness he got away...{g}{x:00}
+
+@49
+{z}{s:0320}All right! We got him away! We win!{g}{x:00}
+
+@50
+{z}{s:0320}We did it! He's gone home! Mission accomplished!{g}{x:00}
+
+@51
+{z}{s:0320}Looks like he got home safely.{g}{x:00}
+
+@52
+{z}{s:0320}What good... {w}{w}will capturing me do you...?{g}{x:00}
+
+@53
+{z}{s:0320}All right! We've got the noble!{g}{x:00}
+
+@54
+{z}{s:0320}Come on! You're coming with us!{g}{x:00}
+
+@55
+{z}All units, pull out! Take him back to {p:01}!{g}{x:00}
+
+@56
+{z}{s:0320}He's been taken... and we were right here...{g}{x:00}
+
+@57
+{z}Unable to protect even one person...{g}{x:00}
+
+@58
+{z}{s:0320}He's been taken... and we were right here...{g}{x:00}
+
+@59
+{z}Unable to protect even one person...{g}{x:00}
+
+@60
+{z}{s:0320}He's been taken... What did we even come here for...{g}{x:00}
+
+@61
+{z}Unable to protect even one person...{g}{x:00}
+
+@62
+{z}{s:0320}He's been taken... and we were right here...{g}{x:00}
+
+@63
+{z}Unable to protect even one person...{g}{x:00}
+
+@64
+{z}{s:0320}He's been taken... and we were right here...{g}{x:00}
+
+@65
+{z}Unable to protect even one person...{g}{x:00}
+
+@66
+{z}{s:0320}I only just got here... Why... so soon...{g}{x:00}
+
+@67
+{z}{s:0320}Ugh... Retreat... Sorry...{g}{x:00}
+
+@68
+{z}{s:0320}...I can't go on. Sorry...{g}{x:00}
+
+@69
+{z}{s:0320}Damn... all we had to do was kill one person...{g}{x:00}
+
+@70
+{z}{s:0320}Did you... wipe them all out? {w}{w}Impressive!{g}{x:00}
+
+@71
+{z}{s:0320}This is no time to be impressed. You're in a hurry, aren't you?{g}{x:00}
+
+@72
+{z}{s:0320}This is no time to be impressed. Aren't you in a hurry?{g}{x:00}
+
+@73
+{z}{s:0320}Stop being impressed and hurry on!{g}{x:00}
+
+@74
+{z}{s:0320}Never mind being impressed. Aren't you in a hurry?{g}{x:00}
+
+@75
+{z}{s:0320}There's no time for admiring, you know.{g}{x:00}
+
+@76
+{z}{s:0320}This is no time to be impressed. Please hurry on.{g}{x:00}
+
+@77
+{z}{s:0320}Yes! Exactly!{g}{x:00}
+
+@78
+{z}...Not that it's far from here.{g}{x:00}
+
+@79
+{z}{s:0320}I'm sorry...{g}{x:00}
+
+@80
+{z}{s:0320}Damn...{g}{x:00}
+
+@81
+{z}{s:0320}...Looks like I can't go on.{g}{x:00}
+
+@82
+{z}{s:0320}Captain, I leave the rest to you...{g}{x:00}
+
+@83
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@84
+{z}{s:0320}W-why me...? {w}{w}Stop it, please!{g}{x:00}
+
+@85
+{z}{s:0320}What has this man ever done to you!?{g}{x:00}
+
+@86
+{z}{s:0320}I'll take on as many of you as you like! Come on, then!{g}{x:00}
+
+@87
+{z}{s:0320}Come on! Bring it!{g}{x:00}
+
+@88
+{z}{s:0320}We've no business with you! Don't get in our way!{g}{x:00}
+
+@89
+{z}{s:0320}Come at me from wherever you like!{g}{x:00}
+
+@90
+{z}{s:0320}Attack! Charge!{g}{x:00}
+
+@91
+{z}{s:0320}We'll show you what we can do! Here we come!{g}{x:00}
+
+@92
+{z}{s:0320}Right! Time to run wild!{g}{x:00}
+
+@93
+{z}{s:0320}I'm {a:0002} of the Tigre! Once I've got you in my sights, you're finished.{g}{x:00}
+
+@94
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@95
+{z}The victory condition has changed.{g}{x:00}
+
+@96
+{z}The victory condition has changed.{g}{x:00}
+
+@97
+{z}Circle round them! Follow me!{g}{x:00}
+

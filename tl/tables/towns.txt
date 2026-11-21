@@ -1,0 +1,21 @@
+# towns, half-width (0x80018904; SCENARIO): KEY|English, at most 8 letters (see tools/tables.py; Japanese: tables.py show towns)
+00|Tornio
+01|Resnoi
+02|Giessen
+03|Weiden
+04|Plauen
+05|Freiheit
+06|Orbia
+07|Homtov
+08|Trier
+09|Ansbach
+0a|Verden
+0b|Chatroux
+0c|Orthodox
+0d|Rosfried
+0e|Langres
+0f|Bastia
+10|Marsala
+11|Loire
+12|Oristano
+13|Hoick

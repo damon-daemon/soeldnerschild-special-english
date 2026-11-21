@@ -1,0 +1,837 @@
+@3
+{f}{l:00c9}{s:02c1}Welcome!{g}{x:00}
+
+@4
+{f}{l:00c9}{s:02c1}Oh, you're back again.{g}{x:00}
+
+@5
+{z}Is this your first time in town? It's a nice place, isn't it?{g}{x:00}
+
+@6
+{z}Oh, {a:0000}. You look tired. Do take a good rest.{g}{x:00}
+
+@7
+{z}{f}{l:00c9}What will it be?{x:00}
+
+@8
+{z}Right this way to your room. Rest well!{g}{x:00}
+
+@9
+{z}Oh, I'm sorry. There's no space left, so I can't save your record.{g}{x:00}
+
+@10
+{z}Stay with us whenever you like.{g}{x:00}
+
+@11
+{z}Oh, didn't you have business at the Guild? You'd best finish that first.{g}{x:00}
+
+@12
+{z}You're a mercenary captain, aren't you? Should you be sleeping instead of working?{g}{x:00}
+
+@13
+{z}Oh, Sir {a:0000}. What brings you? Do you need the inn?{g}{x:00}
+
+@14
+{z}{f}{l:00c9}Oh, didn't you have business with the mercenary captain? This is no time for sleeping.{g}{x:00}
+
+@15
+{z}{f}{l:00c9}Sir {a:0000}, please rest at the castle.{g}{x:00}
+
+@16
+{f}{l:00c9}{s:02c1}Oh, Sir {a:0000}. You've come again.{g}{x:00}
+
+@17
+{z}Oh, is it Sir {a:0000}? What brings you? Do you need the inn?{g}{x:00}
+
+@50
+{z}{f}{l:0001}{s:0001}{a:0000}! I've been waiting for you!{g}{x:00}
+
+@51
+{z}{f}{l:0001}Hey, hey, I found a lovely square. Shall we go?{g}{x:00}
+
+@52
+{z}{f}{l:0000}A square, eh...{g}{x:00}
+
+@60
+{z}{f}{l:0000}{s:0000}Oh, {a:0002}. What are you doing over there?{g}{x:00}
+
+@61
+{z}{f}{l:0002}{s:0002}{a:0000}...{w} You've got it easy, being a company captain...{g}{x:00}
+
+@62
+{z}{f}{l:00e9}{a:0024} really got my goat today. How long must I stay under a fellow like that?!{g}{x:00}
+
+@63
+{z}{f}{l:0002}You and I joined this company on the same day... Yet you're a company captain.{g}{j:0040}{x:00}
+
+@64
+{z}Why am I only a platoon leader? I don't think I'm any worse than you!{g}{x:00}
+
+@70
+{z}{f}{l:0000}{a:0002}... The captain decided it.{g}{x:00}
+
+@71
+{z}{f}{l:0000}You may hate fighting under {a:0024}, but we have no choice but to obey...{g}{j:0048}{x:00}
+
+@72
+{z}We swore we'd follow the captain whatever happens!{w} Didn't we?{g}{z}{f}{l:0002}...{g}{x:00}
+
+@80
+{z}{f}{l:0000}{a:0002}...{w} You share the captain's thinking too, don't you?{g}{x:00}
+
+@83
+{z}{f}{l:00e9}Shut up! Don't talk like you know it all!{g}{z}{f}{l:0002}If I were in your position, I'd do better than you.{g}{x:00}
+
+@85
+{z}{f}{l:00e9}I was a fool to tell you any of this!{g}{x:00}
+
+@98
+{z}{f}{l:0023}{s:0023}Are you ready to fight?{y:0000630066}{x:00}
+
+@99
+{z}{f}{l:0023}Then let's go.{g}{x:00}
+
+@100
+{z}{f}{l:0023}{s:0023}Are you prepared?{y:0000630066}{x:00}
+
+@101
+{z}{f}{l:0023}Good. Follow me.{g}{x:00}
+
+@102
+{z}{f}{l:0023}Go and get properly prepared!{g}{x:00}
+
+@103
+{z}{f}{l:0023}You really are prepared?{y:0000650066}{x:00}
+
+@104
+{z}{f}{l:0023}{s:0023}You did go to the training ground and the church, I trust?{y:000069006a}{x:00}
+
+@105
+{z}{f}{l:0023}Good. Show me the results on the battlefield.{g}{x:00}
+
+@106
+{z}{f}{l:0023}Fighting in that state is dangerous...{g}{x:00}
+
+@110
+{z}{f}{l:0000}{s:0000}{a:0001}...{w} I made you suffer.{g}{x:00}
+
+@111
+{z}{f}{l:00e7}{s:0001}No, I'm all right now... I believe in {a:0000}.{g}{j:0070}{x:00}
+
+@112
+{z}So I'll follow whatever {a:0000} decides. But I never want to feel this way again...{g}{x:00}
+
+@119
+{z}{f}{l:000b}{s:000b}{a:0000}!{g}{x:00}
+
+@120
+{z}{f}{l:0000}{s:0000}{a:000b}...{g}{x:00}
+
+@121
+{z}{f}{l:000b}I agonised over this. After all, you killed my brother...{g}{z}The truth is, fighting you, I found{j:007a}{x:00}
+
+@122
+ myself envying you...{w} Do you know why?{g}{x:00}
+
+@123
+{z}{f}{l:000b}It's because you have comrades whose hearts are with you! My men only obeyed because they feared me.{g}{j:007c}{x:00}
+
+@124
+{z}It's lonely having no true comrades...{g}{z}I've done wicked things all my life and want to atone, but{j:007d}{x:00}
+
+@125
+ all I've got is brute strength...{g}{z}So I'll become a mercenary and beat men like the one I was. Let me join you!{g}{x:00}
+
+@126
+{z}{f}{l:0000}I see... You understand, then. From next month, fight as a platoon leader.{g}{x:00}
+
+@127
+{z}{a:000b} has joined you!{g}{x:00}
+
+@128
+{z}{f}{l:000b}Count on me!{g}{x:00}
+
+@130
+{z}{f}{l:008e}{s:008e}Is that all right?{y:0000830084}{x:00}
+
+@131
+{z}{f}{l:008e}Then I shall expect much of you!{g}{x:00}
+
+@132
+{z}{f}{l:008e}Be thoroughly prepared.{g}{x:00}
+
+@140
+{z}{f}{l:008e}{s:008e}Well done. And how did it go?{g}{x:00}
+
+@141
+{z}{f}{l:0000}{s:0000}The mission is complete.{g}{z}The Medusa Mercenaries appeared and we fought the foreign tribes together.{g}{z}{f}{l:008e}Oh? {j:008e}{x:00}
+
+@142
+The Medusa Mercenaries...{w} Naturally, you won the glory yourself?{g}{z}{f}{l:0000}Yes.{g}{x:00}
+
+@143
+{z}{f}{l:008e}Very good. Then, as promised, I shall grant you a reward!{g}{x:00}
+
+@144
+{z}You received 2000 G.{g}{x:00}
+
+@145
+{z}{f}{l:008e}The reward is not gold alone.{g}{z}I grant you the right to an audience with His Holiness the Pope!{j:0092}{x:00}
+
+@146
+ It is a great honour. Rejoice!{g}{z}Hereafter, when you visit the cathedral at Orbia, His Holiness himself will receive you.{g}{j:0093}{x:00}
+
+@147
+{z}He may even ask you for work in person, but I daresay you need not worry.{g}{x:00}
+
+@148
+{z}{f}{l:0000}{s:0000}The mission is complete.{g}{z}The Medusa Mercenaries appeared and we fought the foreign tribes together.{g}{z}{f}{l:008e}Oh? {j:0095}{x:00}
+
+@149
+The Medusa Mercenaries...{w} Naturally, you won the glory yourself?{g}{z}{f}{l:0000}No... The Medusa Mercenaries defeated the enemy leader.{g}{x:00}
+
+@150
+{z}{f}{l:008e}I see... In that case, I cannot grant you a reward.{g}{j:0097}{x:00}
+
+@151
+{z}Well, if the foreign tribes are beaten, that will do. We shall meet again when the chance arises.{g}{x:00}
+
+@152
+{z}{f}{l:008e}Ah, and one more thing... {a:002b} and her lot turning up was mere chance. Do not dwell on it.{g}{x:00}
+
+@160
+{z}{f}{l:0000}{s:0000}Sorry I'm late. Where are {a:0001} and {a:0002}?{g}{x:00}
+
+@161
+{z}{f}{l:0003}{s:0003}Upstairs... They've been waiting impatiently for you to come back.{g}{x:00}
+
+@162
+{z}{f}{l:0003}You're ready now, aren't you?{y:0000a300a4}{x:00}
+
+@163
+{z}{f}{l:0003}Let's hurry. The villagers' lives are in danger.{g}{x:00}
+
+@164
+{z}{f}{l:0003}Hurry! The villagers' lives are at stake.{g}{x:00}
+
+@170
+{z}{f}{l:002c}{s:002c}Are you ready?{y:0000ab00ac}{x:00}
+
+@171
+{z}{f}{l:002c}{a:002b} is already on her way to the battlefield. We'd best hurry too!{g}{x:00}
+
+@172
+{z}{f}{l:002c}{a:002b} is already waiting on the battlefield. Get a move on!{g}{x:00}
+
+@180
+{z}{f}{l:005e}{s:005e}Wait, Sir {a:0000}!{g}{x:00}
+
+@181
+{z}{f}{l:0000}{s:0000}Ah, Lord {a:005e}.{g}{z}{f}{l:005e}I thank you from my heart for your aid to our country.{g}{x:00}
+
+@184
+{z}{f}{l:005e}Today I bring word of His Majesty the Emperor's will... Sir {a:0000}, you are invited to join our nation as a new knight!{g}{j:00b9}{x:00}
+
+@185
+{z}His Majesty holds your valour in high regard, and says it is a waste to leave you a mercenary...{g}{x:00}
+
+@186
+{z}{f}{l:005e}If you are willing, come to the castle of the capital, Plauen, next month.{g}{j:00bb}{x:00}
+
+@187
+{z}However, once a knight, you can no longer roam the continent as you have done...{w} I await a favourable answer.{g}{x:00}
+
+@190
+{z}{f}{l:0068}{s:0068}Sir {a:0000}!{g}{x:00}
+
+@191
+{z}{f}{l:0000}{s:0000}Ah, {a:0068}.{g}{x:00}
+
+@194
+{z}{f}{l:0068}I have wonderful news for you today...{w} Sir {a:0000}, you are invited to join our nation as a knight!{g}{j:00c3}{x:00}
+
+@195
+{z}The King was deeply moved by your loyalty to our country and said it is a waste to leave you a mercenary... It is a great honour.{g}{x:00}
+
+@196
+{z}{f}{l:0068}If you are willing, I ask you to come to the castle of the capital, Freiheit, next month.{g}{j:00c5}{x:00}
+
+@197
+{z}However, once a knight, you can no longer roam the continent as you have done...{w} Then I shall await you at the castle.{g}{x:00}
+
+@200
+{z}{f}{l:006e}{s:006e}{a:0000}! I bring you good news.{g}{x:00}
+
+@201
+{z}{f}{l:0000}{s:0000}Ah, Lord {a:006e}.{g}{x:00}
+
+@204
+{z}{f}{l:006e}{a:0000}, we invite you to become a new knight of Grandcour!{g}{j:00cd}{x:00}
+
+@205
+{z}The King was pleased with your exploits and wishes to keep you at his side...{w} Is that not an honour?{g}{x:00}
+
+@206
+{z}{f}{l:006e}If you accept, come to the castle of the capital, Orthodox, next month.{g}{j:00cf}{x:00}
+
+@207
+{z}However, once a knight, you can no longer roam the continent as you have done...{g}{z}Then I look forward to a good answer.{g}{x:00}
+
+@210
+{z}{f}{l:0076}{s:0076}Sir {a:0000}! I have come with news for you!{g}{x:00}
+
+@211
+{z}{f}{l:0000}{s:0000}Ah, Lord {a:0076}...{g}{x:00}
+
+@214
+{z}{f}{l:0076}Good news...{w} Rejoice, the Noble Council has voted to receive you as a knight of Estania!{g}{j:00d7}{x:00}
+
+@215
+{z}The Council also rates your achievements highly, and wishes you to join the nation's regular forces...{g}{x:00}
+
+@216
+{z}{f}{l:0076}If you are willing, I ask you to come to the castle of the capital, Marsala, next month.{g}{j:00d9}{x:00}
+
+@217
+{z}However, once a knight, you can no longer roam the continent as you have done...{w} Then I shall await you at the castle!{g}{x:00}
+
+@220
+{z}{f}{l:0080}{s:0080}Please wait! Captain {a:0000}!{g}{x:00}
+
+@221
+{z}{f}{l:0000}{s:0000}Lady {a:0080}...{g}{x:00}
+
+@224
+{z}{f}{l:0080}Rejoice! The King wishes to receive you as a knight of Mylard!{g}{j:00e1}{x:00}
+
+@225
+{z}The King holds your character and your conduct in battle in high regard... And he wishes you to become the Prince's right hand...{g}{x:00}
+
+@226
+{z}{f}{l:0080}If you accept, I ask you to come to the castle of the capital, Hoick, next month.{g}{j:00e3}{x:00}
+
+@227
+{z}However, once a knight, you can no longer roam the continent as you have done...{w} Now, if you will excuse me.{g}{x:00}
+
+@230
+{z}{f}{l:0086}{s:0086}{a:0000}! I have important news!{g}{x:00}
+
+@231
+{z}{f}{l:0000}{s:0000}Lady {a:0086}, what is this important news...?{g}{x:00}
+
+@234
+{z}{f}{l:0086}Fenrir's unification of the continent is near...{w} and that owes much to your achievements.{g}{j:00eb}{x:00}
+
+@235
+{z}The Queen says she will receive you as a knight of Fenrir.{g}{x:00}
+
+@236
+{z}{f}{l:0086}All acknowledge your character and conduct in battle.{g}{z}So she wishes you to become a cornerstone of the nation...{g}{j:00ed}{x:00}
+
+@237
+{z}If you accept, come to the castle of the capital, Tornio, next month.{g}{j:00ee}{x:00}
+
+@238
+{z}However, once a knight, you can no longer roam the continent as you have done...{g}{z}That is all. If you will excuse me.{g}{x:00}
+
+@240
+{z}{f}{l:0004}{s:0004}Hey, Captain, I need a word. Could you come upstairs?{g}{x:00}
+
+@250
+{z}{f}{l:0002}{s:0002}Let's hurry...{w} We'll take down {a:0028} ourselves!{g}{x:00}
+
+@251
+{z}{f}{l:0002}Are you fully prepared?{y:0000fc00fd}{x:00}
+
+@252
+{z}{f}{l:0002}Let's go!!{g}{x:00}
+
+@253
+{z}{f}{l:0002}Hurry up! I'm itching to fight!{g}{x:00}
+
+@260
+{z}{f}{l:0005}{s:0005}Sooner or later {a:0031} means to kill us too...{w} We'll strike first!{g}{x:00}
+
+@261
+{z}{f}{l:0005}Are you resolved?{y:0001060107}{x:00}
+
+@262
+{z}{f}{l:0005}This battle will settle it once and for all!{g}{x:00}
+
+@263
+{z}{f}{l:0005}Well, no matter. Fretting now will do no good.{g}{x:00}
+
+@270
+{z}{f}{l:0001}{s:0001}{a:0000}, shall we go outside?{g}{z}{f}{l:0000}{s:0000}What's got into you all of a sudden?{g}{x:00}
+
+@272
+{z}{f}{l:0001}Come on, please? Let's go out and play together!{g}{x:00}
+
+@280
+{z}{f}{l:0068}{s:0068}{a:0000}! I've tracked down where the Prince is!{g}{x:00}
+
+@281
+{z}{f}{l:0068}{s:0068}Are you ready?{y:00011a011b}{x:00}
+
+@282
+{z}{f}{l:0068}We must rescue the Prince as soon as we can!{g}{x:00}
+
+@283
+{z}{f}{l:0068}The Prince's life is at stake! Hurry!{g}{x:00}
+
+@290
+{z}{f}{l:0070}{s:0070}There's no turning back now...{w} We go in ready to die.{g}{x:00}
+
+@291
+{z}{f}{l:0070}{s:0070}Nothing overlooked?{y:0001240125}{x:00}
+
+@292
+{z}{f}{l:0070}For the future of Grandcour, we strike down {a:0094}!{g}{x:00}
+
+@293
+{z}{f}{l:0070}Do not dawdle, or the enemy will catch on.{g}{x:00}
+
+@300
+{z}{f}{l:009e}{s:009e}I won't lose...{g}{x:00}
+
+@301
+{z}{f}{l:009e}{s:009e}We're all set on our side.{g}{z}Are you ready on yours?{y:00012e012f}{x:00}
+
+@302
+{z}{f}{l:009e}Let's fight hard for {a:0076}'s sake too!{g}{x:00}
+
+@303
+{z}{f}{l:009e}Hurry up, this waiting is maddening!{g}{x:00}
+
+@310
+{z}{f}{l:007e}{s:007e}Hang on, {a:00a8}! You too, Dad!{g}{x:00}
+
+@311
+{z}{f}{l:007e}You're ready now, aren't you?{y:0001380139}{x:00}
+
+@312
+{z}{f}{l:007e}Right, we'll get them out, no matter what!{g}{x:00}
+
+@313
+{z}{f}{l:007e}Hurry, there's no time!{g}{x:00}
+
+@320
+{z}{f}{l:005e}{s:005e}You have returned, Sir {a:0000}.{g}{x:00}
+
+@321
+{z}{f}{l:005e}I don't believe we have met. I am {a:005e} of the Holy Rana Empire, commander of the Holy Emperor's Lightning Knights.{g}{j:0144}{x:00}
+
+@322
+{z}{f}{l:0000}{s:0000}You are Lord {a:005e} of Rana...{g}{j:0143}{x:00}
+
+@323
+{z}{f}{l:005e}You remember me...{g}{j:0144}{x:00}
+
+@324
+{z}{f}{l:005e}Lately you have been lending your strength to our Rana.{g}{x:00}
+
+@325
+{z}{f}{l:005e}I am glad of it. Continue to serve us well.{g}{x:00}
+
+@330
+{z}{f}{l:0068}{s:0068}There you are, {a:0000}. I have found you at last.{g}{x:00}
+
+@331
+{z}{f}{l:0000}{s:0000}You are Lady {a:0068} of Saxen...{g}{z}{f}{l:0068}Yes, that's right.{g}{x:00}
+
+@332
+{z}{f}{l:0068}I am {a:0068} of the Duchy of Saxen, commander of the Rising Dragon Knights.{g}{x:00}
+
+@333
+{z}{f}{l:0068}I hear you have lately served our Saxen well.{g}{z}Keep it up.{g}{x:00}
+
+@340
+{z}{f}{l:006e}{s:006e}So you are {a:0000}?{g}{x:00}
+
+@341
+{z}{f}{l:0000}{s:0000}You are... Lord {a:006e} of Grandcour...{g}{z}{f}{l:006e}You remembered me...{g}{x:00}
+
+@342
+{z}{f}{l:006e}I am {a:006e}, Governor of the Kingdom of Grandcour, and also Knight Commander of the Sun Knights.{g}{x:00}
+
+@343
+{z}{f}{l:006e}Your work has been remarkable. The Regent praised it too.{g}{j:0158}{x:00}
+
+@344
+{z}Keep devoting your strength to Grandcour.{g}{x:00}
+
+@350
+{z}{f}{l:0076}{s:0076}Is Sir {a:0000} here?{g}{x:00}
+
+@351
+{z}{f}{l:0000}{s:0000}You are... Lord {a:0076} of Estania...{g}{z}{f}{l:0076}You remember me...{g}{x:00}
+
+@352
+{z}{f}{l:0076}I am {a:0076}, in the service of the Republic of Estania. I command the Purple Cloud Knights.{g}{x:00}
+
+@353
+{z}{f}{l:0076}I hear you have served our Estania well. The Chairman is highly pleased too.{g}{j:0162}{x:00}
+
+@354
+{z}I too find you most dependable, and I look forward to your future service.{g}{x:00}
+
+@360
+{z}{f}{l:0080}{s:0080}Are you the one called Captain {a:0000}?{g}{x:00}
+
+@361
+{z}{f}{l:0000}{s:0000}Yes... Forgive me, but who are you?{g}{x:00}
+
+@362
+{z}{f}{l:0080}I am {a:0080}, commander of the Wave Fang Knights of the Kingdom of Mylard.{g}{x:00}
+
+@363
+{z}{f}{l:0080}I hear you have often helped Mylard. The King is very pleased too.{g}{j:016c}{x:00}
+
+@364
+{z}We hope for your continued aid to our country.{g}{x:00}
+
+@370
+{z}{f}{l:0086}{s:0086}Sir {a:0000}, I have something to say!{g}{x:00}
+
+@371
+{z}{f}{l:0000}{s:0000}You are... Lady {a:0086} of Fenrir...{g}{x:00}
+
+@372
+{z}{f}{l:0000}{s:0000}...Who are you?{g}{z}{f}{l:0086}I am {a:0086}, commander of the Rime Knights of the Kingdom of Fenrir.{g}{x:00}
+
+@373
+{z}{f}{l:0086}The Queen is very pleased that you have lately been fighting for Fenrir.{g}{j:0176}{x:00}
+
+@374
+{z}If you wish to win her favour, keep it up.{g}{x:00}
+
+@380
+{z}{f}{l:005e}{s:005e}Sir {a:0000}! I come as His Majesty the Emperor's envoy!{g}{x:00}
+
+@381
+{z}{f}{l:0000}{s:0000}Lord {a:005e}! What is this about?{g}{x:00}
+
+@382
+{z}{f}{l:005e}His Majesty is greatly pleased with your exploits. "A dependable man," he said...{g}{j:017f}{x:00}
+
+@383
+{z}So he sent me specially to give you a reward. Come, take it.{g}{x:00}
+
+@384
+{z}{f}{l:0000}This sword... for me...{w} Thank you.{g}{x:00}
+
+@385
+{z}{f}{l:005e}Treasure it.{g}{z}And strive to live up to His Majesty's expectations hereafter.{g}{x:00}
+
+@390
+{z}{f}{l:0066}{s:0066}{a:0000}! I come as the King's messenger!{g}{x:00}
+
+@391
+{z}{f}{l:0000}{s:0000}Lord {a:0066}!{g}{x:00}
+
+@392
+{z}{f}{l:0066}I bring the King's words.{g}{z}Thanks to your help, Saxen has become a mighty nation.{g}{j:0189}{x:00}
+
+@393
+{z}In praise of your merit, he grants you this... Come, take it.{g}{x:00}
+
+@394
+{z}{f}{l:0000}This axe... for me...{w} Thank you.{g}{x:00}
+
+@395
+{z}{f}{l:0066}A gift for the likes of you, no less...{w} A waste of treasure, if you ask me.{g}{z}That's all I came for. I'm leaving.{g}{x:00}
+
+@396
+{z}{f}{l:0066}Using me for such a petty errand...{g}{x:00}
+
+@400
+{z}{f}{l:006e}{s:006e}It's been a while, {a:0000}.{g}{x:00}
+
+@401
+{z}{f}{l:0000}{s:0000}Lord {a:006e}!{g}{z}{f}{l:006e}Thanks to you, Grandcour has expanded its territory with ease.{g}{x:00}
+
+@403
+{z}{f}{l:006e}The Regent has taken a great liking to you...{w} He asked me to give you this.{g}{x:00}
+
+@404
+{z}{f}{l:0000}This sword...{w} Thank you.{g}{x:00}
+
+@405
+{z}{f}{l:006e}Not only the Regent. His Majesty and I expect much of you too.{g}{z}Win more glory with that sword.{g}{x:00}
+
+@410
+{z}{f}{l:0076}{s:0076}May I have a little of your time, Sir {a:0000}?{g}{x:00}
+
+@411
+{z}{f}{l:0000}{s:0000}Why, Lord {a:0076}!{g}{x:00}
+
+@412
+{z}{f}{l:0076}Our Estania has grown greatly, and that too is thanks to you. I am grateful.{g}{j:019d}{x:00}
+
+@413
+{z}The Chairman insists he cannot bear to let you go.{g}{x:00}
+
+@414
+{z}{f}{l:0076}He entrusted me with a reward for you. Please accept it.{g}{x:00}
+
+@415
+{z}{f}{l:0000}This shield, for me...{w} Thank you.{g}{x:00}
+
+@416
+{z}{f}{l:0076}Good. Keep fighting for our country. Now, if you will excuse me.{g}{x:00}
+
+@420
+{z}{f}{l:0080}{s:0080}Captain {a:0000}, it has been a while.{g}{x:00}
+
+@421
+{z}{f}{l:0000}{s:0000}Lady {a:0080}...{w} What brings you?{g}{x:00}
+
+@422
+{z}{f}{l:0080}Everyone is grateful that Mylard has grown so much thanks to you.{g}{j:01a7}{x:00}
+
+@423
+{z}The King and the Prince are both delighted with your exploits...{g}{x:00}
+
+@424
+{z}{f}{l:0080}The Prince ordered me to bring you this. Please accept it.{g}{x:00}
+
+@425
+{z}{f}{l:0000}This armour, for me...{w} Thank you.{g}{x:00}
+
+@426
+{z}{f}{l:0080}I expect much of you too. Please go on fighting for Mylard.{g}{x:00}
+
+@430
+{z}{f}{l:0086}{s:0086}Sir {a:0000}! I come as the Queen's envoy!{g}{x:00}
+
+@431
+{z}{f}{l:0000}{s:0000}Lady {a:0086}...{g}{x:00}
+
+@432
+{z}{f}{l:0086}Our Fenrir has grown by leaps and bounds thanks to your exploits...{w} so the Queen said.{g}{x:00}
+
+@433
+{z}{f}{l:0086}And she grants you this... Take it.{g}{x:00}
+
+@434
+{z}{f}{l:0000}This spear, for me...{w} Thank you.{g}{x:00}
+
+@435
+{z}{f}{l:0086}Even in Fenrir, such a spear is rare. Treasure it.{g}{x:00}
+
+@440
+{z}{f}{l:0000}{s:0000}Ah, {a:0002}. Where have you been?{g}{x:00}
+
+@441
+{z}{f}{l:0002}{s:0002}Oh, just to the training ground.{g}{z}Anyway, listen: on the way back I met a strange old man.{g}{x:00}
+
+@442
+{z}{f}{l:0002}He came up to me saying "You're a mercenary, aren't you?" and asked all sorts of questions.{g}{z}He gave me the creeps, so{j:01bb}{x:00}
+
+@443
+ I fobbed him off somehow and came home.{g}{z}{f}{l:0000}Who could he be...{g}{x:00}
+
+@445
+{z}{f}{l:0002}Who knows...{g}{z}Oh, right, he asked whether your company has a sorcerer called {a:0005}.{g}{x:00}
+
+@446
+{z}{f}{l:0002}Might be an acquaintance of {a:0005}'s.{g}{z}If you're curious, go and look in the tavern.{j:01bf}{x:00}
+
+@447
+ I reckon he's still around there.{g}{x:00}
+
+@448
+{z}{f}{l:0000}The tavern...{g}{x:00}
+
+@449
+{z}{f}{l:0005}{s:0005}{a:0002} told me about it...{g}{x:00}
+
+@450
+{z}{f}{l:0000}Do you know who the old man is?{g}{x:00}
+
+@451
+{z}{f}{l:0005}Yes...{w} I shall go to the tavern.{g}{x:00}
+
+@452
+{z}{f}{l:0000}I want to meet him too...{w} May I come with you?{g}{x:00}
+
+@453
+{z}{f}{l:0002}{s:0002}The old man hasn't come here.{g}{x:00}
+
+@460
+{z}{f}{l:00cf}{s:02c7}Welcome to Tornio, the northernmost town.{g}{j:01cd}{x:00}
+
+@461
+{z}This town has an arena. You look strong... Why not enter?{g}{j:01ce}{x:00}
+
+@462
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+
+@463
+{z}{f}{l:00cf}{s:02c7}Welcome to Resnoi, the town of snow.{g}{j:01d0}{x:00}
+
+@464
+{z}This town has a noble's mansion. Do take a look around.{g}{j:01d1}{x:00}
+
+@465
+{z}If you want to unwind, I recommend the square.{g}{x:00}
+
+@466
+{z}{f}{l:00cf}{s:02c7}Welcome to Giessen, the town of the snowy mountain.{g}{j:01d3}{x:00}
+
+@467
+{z}A lovely square was built recently. I recommend it for a stroll.{g}{j:01d4}{x:00}
+
+@468
+{z}Foreign tribes often appear around the town. Be careful when you go out.{g}{x:00}
+
+@469
+{z}{f}{l:00cf}{s:02c7}Welcome to Weiden, the town of the forest.{g}{j:01d6}{x:00}
+
+@470
+{z}This town has a noble's mansion. Why not ask for a look around?{g}{j:01d7}{x:00}
+
+@471
+{z}If you want to unwind, there's a square that's just the thing.{g}{x:00}
+
+@472
+{z}{f}{l:00cf}{s:02c7}Welcome to Plauen, the town of canals.{g}{j:01d9}{x:00}
+
+@473
+{z}This town has an arena. Why not enter too?{g}{j:01da}{x:00}
+
+@474
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+
+@475
+{z}{f}{l:00cf}{s:02c7}Welcome to Freiheit, the town of the forest.{g}{j:01dc}{x:00}
+
+@476
+{z}This town has an arena. If you have time, why not enter?{g}{j:01dd}{x:00}
+
+@477
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+
+@478
+{z}{f}{l:00cf}{s:02c7}Welcome to Olivia, the town of faith.{g}{z}War is less likely here than in other towns.{g}{j:01df}{x:00}
+
+@479
+{z}It is held directly by the Wigg Church, so other nations can't lay a hand on it.{g}{j:01e0}{x:00}
+
+@480
+{z}The remote villages are raided by brigands and bandits. You're safe if you stay in town.{g}{x:00}
+
+@481
+{z}{f}{l:00cf}{s:02c7}Welcome to Homtov, the town of the forest.{g}{j:01e2}{x:00}
+
+@482
+{z}This town has a noble's mansion. Rare, isn't it?{g}{x:00}
+
+@484
+{z}{f}{l:00cf}{s:02c7}Welcome to Trier, the town on the hill.{g}{j:01e5}{x:00}
+
+@485
+{z}This town is run-down, but prices are low. Just right for shopping.{g}{j:01e6}{x:00}
+
+@486
+{z}There's also a fine noble's mansion. Do take a look.{g}{x:00}
+
+@487
+{z}{f}{l:00cf}{s:02c7}Welcome to Ansbach, the town of the plains.{g}{j:01e8}{x:00}
+
+@488
+{z}It isn't prosperous, sadly, but prices are low, so it's good for shopping.{g}{j:01e9}{x:00}
+
+@489
+{z}There's a fine noble's mansion too, and a square for unwinding.{g}{x:00}
+
+@490
+{z}{f}{l:00cf}{s:02c7}Welcome to Verden, the town of the highlands.{g}{j:01eb}{x:00}
+
+@491
+{z}This town has a noble's mansion. Do take a look around.{g}{j:01ec}{x:00}
+
+@492
+{z}There's the house of an oddball, some so-called genius strategist. You'd best keep away from it.{g}{x:00}
+
+@493
+{z}{f}{l:00cf}{s:02c7}Welcome to Chatroux, the mountain town.{g}{j:01ee}{x:00}
+
+@494
+{z}There's a noble's mansion here. Why not take a look around?{g}{j:01ef}{x:00}
+
+@495
+{z}There's a stubborn smith's house too. He only makes things for people he likes, but they say he's very skilled.{g}{x:00}
+
+@496
+{z}{f}{l:00cf}{s:02c7}Welcome to Orthodox, the desert town.{g}{j:01f1}{x:00}
+
+@497
+{z}There's an arena here. You look strong. Why not enter?{g}{j:01f2}{x:00}
+
+@498
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+
+@499
+{z}{f}{l:00cf}{s:02c7}Welcome to Rosfried, the sea town.{g}{j:01f4}{x:00}
+
+@500
+{z}There's a noble's mansion here. Why not take a look around?{g}{j:01f5}{x:00}
+
+@501
+{z}Relaxing in the square is a nice way to unwind.{g}{x:00}
+
+@502
+{z}{f}{l:00cf}{s:02c7}Welcome to Langres, the port town.{g}{j:01f7}{x:00}
+
+@503
+{z}Prices are low here: better value than in other towns.{g}{j:01f8}{x:00}
+
+@504
+{z}There's also a lovely noble's mansion, so do have a look.{g}{x:00}
+
+@505
+{z}{f}{l:00cf}{s:02c7}Welcome to Bastia, the sea town.{g}{j:01fa}{x:00}
+
+@506
+{z}Prices are low here, so it's just right for shopping.{g}{j:01fb}{x:00}
+
+@507
+{z}There's also a lovely noble's mansion, so drop by.{g}{x:00}
+
+@508
+{z}{f}{l:00cf}{s:02c7}Welcome to Marsala, the sea town.{g}{j:01fd}{x:00}
+
+@509
+{z}There's an arena here. If you trust your skill, why not enter?{g}{j:01fe}{x:00}
+
+@510
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+
+@511
+{z}{f}{l:00cf}{s:02c7}Welcome to Loire, the frontier town.{g}{j:0200}{x:00}
+
+@512
+{z}This town isn't prosperous, but prices are low. Perfect for shopping.{g}{j:0201}{x:00}
+
+@513
+{z}There's a lovely noble's mansion too, so you should look around.{g}{z}If you want to unwind, I recommend the square.{g}{x:00}
+
+@514
+{z}{f}{l:00cf}{s:02c7}Welcome to Oristano, the southern paradise.{g}{j:0203}{x:00}
+
+@515
+{z}An inventor lives here. He's desperate to make people drink his potions. Be careful not to become his guinea pig.{g}{x:00}
+
+@516
+{z}There's also a lovely noble's mansion, so you should look around.{g}{x:00}
+
+@517
+{z}{f}{l:00cf}{s:02c7}Welcome to Hoick, the southernmost town.{g}{j:0206}{x:00}
+
+@518
+{z}There's an arena here. You... why not enter?{g}{j:0207}{x:00}
+
+@519
+{z}It's a tournament. The number of rounds you win will show you how strong you really are.{g}{x:00}
+

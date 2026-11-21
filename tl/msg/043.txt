@@ -1,0 +1,439 @@
+@0
+{z}{s:0320}"Wipe out the villagers"...{w}{w} is it?{g}{x:00}
+
+@1
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}What did the villagers ever do?{g}{x:00}
+
+@2
+{z}{s:0320}Once we've taken a job, we have to see it through.{g}{x:00}
+
+@3
+{z}{s:0320}Sometimes there are jobs like this.{g}{x:00}
+
+@4
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}But... still...{g}{x:00}
+
+@5
+{z}{s:0320}The Captain has his own reasons. Let's trust {a:0000}.{g}{x:00}
+
+@6
+{z}{s:0320}They stole the state's provisions, didn't they?{g}{x:00}
+
+@7
+{z}{s:0320}The state can't let that pass.{g}{x:00}
+
+@8
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...{g}{x:00}
+
+@9
+{z}{s:0320}...{g}{x:00}
+
+@10
+{z}{s:0320}Damn! The mercenaries got ahead of us!{g}{x:00}
+
+@11
+{z}{s:0320}We've come this far. Let's press on.{g}{x:00}
+
+@12
+{z}{s:0320}Yes, I don't want to go back to that life.{g}{x:00}
+
+@13
+{z}{s:0320}Exactly.{g}{x:00}
+
+@14
+{z}{s:0320}Then it's settled. Let's go!{g}{x:00}
+
+@15
+{z}{s:0320}...Let's go.{g}{x:00}
+
+@16
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...{g}{x:00}
+
+@17
+{z}{s:0320}...{g}{x:00}
+
+@18
+{z}{s:0320}That's...{g}{x:00}
+
+@19
+{z}{s:0320}Halt! Come no closer to the villagers!{g}{x:00}
+
+@20
+{z}{s:0320}Those are...{w}{w} knights from {p:01}...{w}{w} Have they come to help us?{g}{x:00}
+
+@21
+{z}{s:0320}I'd heard mercenaries will do anything for money, but...{g}{x:00}
+
+@22
+{z}To think you'd stoop to this...{g}{x:00}
+
+@23
+{z}{s:0320}They stole provisions... We can't let that pass.{g}{x:00}
+
+@24
+{z}{s:0320}We never meant to trouble {p:01}! We needed the food, we had no choice...{g}{x:00}
+
+@25
+{z}{s:0320}You hear what the villagers say. Will you still not forgive them?{g}{x:00}
+
+@26
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Please, {a:0000}, think it over once more...{g}{x:00}
+
+@27
+{z}{f}{l:00e7}Completing a job as a mercenary matters, I know. But to go this far...{g}{x:00}
+
+@28
+{z}{s:0320}{a:0001} has a point, I think.{g}{x:00}
+
+@29
+{z}You haven't forgotten what we fight for, have you?{g}{x:00}
+
+@30
+{z}{s:0320}{p:01} may hate the villagers...{g}{x:00}
+
+@31
+{z}{s:0320}Even so, you say completing the mission matters most?{g}{x:00}
+
+@32
+{z}{s:0320}Our dreams or finishing the mission, Captain, which matters more?{g}{x:00}
+
+@33
+{z}{s:0320}Really?{w}{w} Thank goodness...{g}{x:00}
+
+@34
+{z}{s:0320}Hey, Knight Commander. You've had a lucky escape.{g}{x:00}
+
+@35
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Why... is the mission so important?{g}{x:00}
+
+@36
+{z}{s:0320}...{w}{w} Understood.{g}{x:00}
+
+@37
+{z}If the Captain insists that strongly, so be it.{g}{x:00}
+
+@38
+{z}{s:0320}So we have to do it, then.{g}{x:00}
+
+@39
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...{g}{x:00}
+
+@40
+{z}{s:0320}I'll follow {a:0000}'s decision.{g}{x:00}
+
+@41
+{z}{s:0320}So be it...{g}{x:00}
+
+@42
+{z}{s:0320}You understand, then... You'll spare the villagers.{g}{x:00}
+
+@43
+{z}{s:0320}The mission will fail, but there's nothing for it, is there?{g}{x:00}
+
+@44
+{z}{s:0320}We're saved?! Hooray!{g}{x:00}
+
+@45
+{z}{s:0320}We thank you for changing your mind.{g}{x:00}
+
+@46
+{z}Come, villagers! You'll go with us to {p:01}!{g}{x:00}
+
+@47
+{z}{s:0320}{a:0000}, don't ever take a job like this again.{g}{x:00}
+
+@48
+{z}{s:0320}I never want to feel as torn as I did today, either.{g}{x:00}
+
+@49
+{z}{s:0320}What? I can't believe {a:0004} actually felt torn.{g}{x:00}
+
+@50
+{z}{s:0320}What do you mean?{g}{x:00}
+
+@51
+{z}{s:0320}...Hm.{g}{x:00}
+
+@52
+{z}{s:0320}N-{w}{w}no...{w}{w} Even {a:0005}...{g}{x:00}
+
+@53
+{z}{s:0320}Why...{g}{x:00}
+
+@54
+{z}{s:0320}We carry out the mission. That is all.{g}{x:00}
+
+@55
+{z}{s:0320}I won't let you carry out a mission like that!{g}{x:00}
+
+@56
+{z}{s:0320}Do you understand what you're about to do?!{g}{x:00}
+
+@57
+{z}{s:0320}Ah... it's over...{g}{x:00}
+
+@58
+{z}{s:0320}Don't worry. We'll keep you safe, I promise.{g}{x:00}
+
+@59
+{z}{s:0320}The villagers...{w}{w} Whatever happens, protect the villagers.{w}{w} I'm counting on you...{g}{x:00}
+
+@60
+{z}{s:0320}Make sure...{w}{w} they get away...{g}{x:00}
+
+@61
+{z}{s:0320}We've finally come this far. {p:01} is just ahead.{g}{x:00}
+
+@62
+{z}Let's push straight through the forest!{g}{x:00}
+
+@63
+{z}{s:0320}They got away...{g}{x:00}
+
+@64
+{z}{s:0320}They got away...{g}{x:00}
+
+@65
+{z}We put the mission first, and still... What a disgrace.{g}{x:00}
+
+@66
+{z}{s:0320}We can't catch them now...{g}{x:00}
+
+@67
+{z}We put the mission first, and still we failed...{g}{x:00}
+
+@68
+{z}{s:0320}We can't catch them now...{g}{x:00}
+
+@69
+{z}After all that talk, we couldn't even finish the job...{g}{x:00}
+
+@70
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...Let's go home...{g}{x:00}
+
+@71
+{z}{s:0320}To fail the mission...{g}{x:00}
+
+@72
+{z}And after we held to it so firmly... A sorry business.{g}{x:00}
+
+@73
+{z}{s:0320}We put the mission first...{w}{w} What a disgrace...{g}{x:00}
+
+@74
+{z}{s:0320}...{g}{x:00}
+
+@75
+{z}{s:0320}Yes! They're out of our way!{g}{x:00}
+
+@76
+{z}{s:0320}Come with us to {p:01}!{g}{x:00}
+
+@77
+{z}{s:0320}Yes!{g}{x:00}
+
+@78
+{z}{s:0320}We've finally made it this far. {p:01} is just ahead.{g}{x:00}
+
+@79
+{z}Let's push straight through the forest!{g}{x:00}
+
+@80
+{z}{s:0320}They managed to get away...{g}{x:00}
+
+@81
+{z}{s:0320}They got away...{g}{x:00}
+
+@82
+{z}{s:0320}We can't catch them now...{g}{x:00}
+
+@83
+{z}{s:0320}We can't catch them now...{g}{x:00}
+
+@84
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...Let's go home...{g}{x:00}
+
+@85
+{z}{s:0320}To fail the mission...{g}{x:00}
+
+@86
+{z}{s:0320}Not a single one escaped...{g}{x:00}
+
+@87
+{z}{s:0320}It's over.{g}{x:00}
+
+@88
+{z}{s:0320}It's over.{g}{x:00}
+
+@89
+{z}{s:0320}It's over...{g}{x:00}
+
+@90
+{z}{s:0320}It's over...{g}{x:00}
+
+@91
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...{g}{x:00}
+
+@92
+{z}{s:0320}Not a single one escaped...{w}{w} If only it weren't these times...{g}{x:00}
+
+@93
+{z}{s:0320}If only it weren't an age of strife...{g}{x:00}
+
+@94
+{z}{s:0320}What sin have we committed?{g}{x:00}
+
+@95
+{z}{s:0320}Why must we suffer this...{w}{w} Why...{w}{w} must we...{g}{x:00}
+
+@96
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}...{g}{x:00}
+
+@97
+{z}{s:0320}The villagers are wiped out...{g}{x:00}
+
+@98
+{z}{s:0320}The villagers are wiped out...{g}{x:00}
+
+@99
+{z}{s:0320}The villagers are wiped out...{g}{x:00}
+
+@100
+{z}{s:0320}We wiped them out...{g}{x:00}
+
+@101
+{z}{s:0320}What have we done...{g}{x:00}
+
+@102
+{z}You scoundrels! I won't forgive this! Charge their captain's company!{g}{x:00}
+
+@103
+{z}Enemy morale rose.{g}{x:00}
+
+@104
+{z}The victory condition has changed.{g}{x:00}
+
+@105
+{z}{s:0320}Captain, looks like we have to take them on.{g}{x:00}
+
+@106
+{z}{s:0320}Looks like fighting is the only option.{g}{x:00}
+
+@107
+{z}{s:0320}So we have to fight them...{g}{x:00}
+
+@108
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}No wonder they're angry...{g}{x:00}
+
+@109
+{z}{s:0320}Looks like we've no choice but to fight.{g}{x:00}
+
+@110
+{z}{s:0320}Don't...{w}{w} Don't forgive these bastards...{g}{x:00}
+
+@111
+{z}{s:0320}I'm pulling out...{w}{w} Damn...{g}{x:00}
+
+@112
+{z}{s:0320}Is it over...?{g}{x:00}
+
+@113
+{z}{s:0320}So it's over...{g}{x:00}
+
+@114
+{z}{s:0320}This is... the end...{g}{x:00}
+
+@115
+{z}{s:0320}Is it over...?{g}{x:00}
+
+@116
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}It's over...{g}{x:00}
+
+@117
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}I'm pulling out...{g}{x:00}
+
+@118
+{z}{s:0320}Tch... why me...?{g}{x:00}
+
+@119
+{z}{s:0320}I can't fight any more...{g}{x:00}
+
+@120
+{z}{s:0320}Ow, ow, ow...{g}{x:00}
+
+@121
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@122
+{z}{s:0320}S-stop it! We've done nothing!{g}{x:00}
+
+@123
+{z}{s:0320}Mercenaries or not, to do this so calmly... Are you even human?{g}{x:00}
+
+@124
+{z}{s:0320}You're in the wrong!{g}{x:00}
+
+@125
+{z}{s:0320}Scum like you must not be forgiven!{g}{x:00}
+
+@126
+{z}{s:0320}I'll never forgive your kind! Prepare yourselves!{g}{x:00}
+
+@127
+{z}{s:0320}I didn't become a mercenary to do this...{g}{x:00}
+
+@128
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Why... why must we do this...?{g}{x:00}
+
+@129
+{z}Whatever happens, run!{g}{x:00}
+
+@130
+{z}{s:0320}To be wiped out like this...{w}{w} I'm so sorry...{g}{x:00}
+
+@131
+{z}{s:0320}The Knights, wiped out...{w}{w} It's hopeless...{g}{x:00}
+
+@132
+{z}{s:0320}With such strength, why attack mere villagers...?{g}{x:00}
+
+@133
+{z}We put the mission first, and still... What a disgrace.{g}{x:00}
+
+@134
+{z}We put the mission first, and still we failed...{g}{x:00}
+
+@135
+{z}After all that talk, we couldn't even finish the job...{g}{x:00}
+
+@136
+{z}And after we held to it so firmly... A sorry business.{g}{x:00}
+
+@137
+{z}But these people are victims of the war!{g}{x:00}
+
+@138
+{z}{s:0320}Yes, that's right.{g}{x:00}
+
+@139
+{z}Do I look that insensitive to you?{g}{x:00}
+
+@140
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Why must we do such a thing?{g}{x:00}
+

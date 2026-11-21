@@ -1,0 +1,66 @@
+# spell names, half-width (0x8001a684): KEY|English, at most 11 letters (see tools/tables.py; Japanese: tables.py show spells)
+00|Solar Ray
+01|Flame Arrow
+02|Drgn Breath
+03|Ifrit
+04|Impulse
+05|Heat Burn
+06|DeathShower
+07|En. Buster
+08|Ice Fall
+09|Thunderbolt
+0a|BlastCutter
+0b|D. Griffon
+0c|En. Storm
+0d|Nova
+0e|White Hole
+0f|Final Bomb
+10|Earthquake
+11|Hurricane
+12|Meteor
+13|Inferno
+14|Healing
+15|MegaHealing
+16|GigaHealing
+17|Holy Light
+18|Blessing
+19|Loose
+1a|Mega Loose
+1b|Giga Loose
+1c|Force
+1d|Mega Force
+1e|Giga Force
+1f|Weaken
+20|Mega Weaken
+21|Giga Weaken
+22|Armour
+23|Mega Armour
+24|Giga Armour
+25|Delay
+26|Mega Delay
+27|Giga Delay
+28|Quick
+29|Mega Quick
+2a|Giga Quick
+2b|Drain
+2c|Mega Drain
+2d|Giga Drain
+2e|Protect
+2f|MegaProtect
+30|GigaProtect
+31|Terror
+32|Nightmare
+33|Bravery
+34|War Cry
+35|Sum. Earth
+36|Sum. Stone
+37|Sum. Zombie
+38|Sum.Skeletn
+39|Turn Golem
+3a|Turn Undead
+3b|Unsummon
+3c|Confuse
+3d|MegaConfuse
+3e|Silence
+3f|MegaSilence
+40|Zero

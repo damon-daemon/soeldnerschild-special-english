@@ -1,0 +1,93 @@
+@0
+{z}{s:0320}That building looks like the brigands' hideout.{g}{x:00}
+
+@1
+{z}{s:0320}We just have to take them all out, right? Easy enough.{g}{x:00}
+
+@2
+{z}{s:0320}Trouble! Mercenaries are coming!{g}{x:00}
+
+@3
+{z}{s:0320}No choice...{w}{w} We'll meet them head on.{g}{x:00}
+
+@4
+{z}{s:0320}Can we win, do you think?{g}{x:00}
+
+@5
+{z}{s:0320}Who knows...{g}{x:00}
+
+@6
+{z}{s:0320}How cruel... even my money...{g}{x:00}
+
+@7
+{z}{a:0001} now has 0 G!{g}{x:00}
+
+@8
+{z}{s:0320}Damn it... taking my money too...{g}{x:00}
+
+@9
+{z}{a:0002} now has 0 G!{g}{x:00}
+
+@10
+{z}{s:0320}What are you doing?! Let go of me!{g}{x:00}
+
+@11
+{z}{a:0003} now has 0 G!{g}{x:00}
+
+@12
+{z}{s:0320}Hey, hey... that's not fair...{g}{x:00}
+
+@13
+{z}{a:0004} now has 0 G!{g}{x:00}
+
+@14
+{z}{s:0320}...They took it...{g}{x:00}
+
+@15
+{z}{a:0005} now has 0 G!{g}{x:00}
+
+@16
+{z}{s:0320}I knew it... this lot are strong...{g}{x:00}
+
+@17
+{z}{s:0320}Now! Prepare yourselves!{g}{x:00}
+
+@18
+{z}{s:0320}Repent all the evil deeds you've done.{g}{x:00}
+
+@19
+{z}{s:0320}The enemy is closing in! Charge!{g}{x:00}
+
+@20
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@21
+{z}{s:0320}Damn... they took the hideout...{g}{x:00}
+
+@22
+{z}{s:0320}...Yeah... I thought it would come to this...{g}{x:00}
+
+@23
+{z}{s:0320}That completes the mission. Come on, let's go home.{g}{x:00}
+
+@24
+{z}{s:0320}Ah, so it's over.{g}{x:00}
+
+@25
+{z}{s:0320}Brigands are no match for us! Right, {a:0000}?{g}{x:00}
+
+@26
+{z}{s:0320}Phew... it all went well. Now, let's head home.{g}{x:00}
+
+@27
+{z}{s:0320}To struggle so against mere brigands... we still have a long way to go.{g}{x:00}
+
+@28
+{z}{s:0320}Blast. They're swarming all over...{g}{x:00}
+
+@29
+{z}{s:0320}Right! Let's go!{g}{x:00}
+
+@30
+{z}Fine, then. They can have it!{g}{x:00}
+

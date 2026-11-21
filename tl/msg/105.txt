@@ -1,0 +1,297 @@
+@0
+{z}{s:0320}The enemy camp is past that forest. Straight through and strike!{g}{x:00}
+
+@1
+{z}{s:0320}Hold on there, little lady.{g}{x:00}
+
+@2
+{z}We don't even know what the enemy has. Charging in blind is dangerous!{g}{x:00}
+
+@3
+{z}{s:0320}What did you say...?{g}{x:00}
+
+@4
+{z}Old man! Are you saying you won't follow my plan?{g}{x:00}
+
+@5
+{z}{s:0320}He's right. Advancing blindly is dangerous.{g}{x:00}
+
+@6
+{z}We say this because we are worried about you, Lady {a:0078}!{g}{x:00}
+
+@7
+{z}{s:0320}Ugh...{w}{w} Now an old woman too? How tiresome.{g}{x:00}
+
+@8
+{z}Listen! I am a knight!{w}{w} You lot just follow my plan!{g}{x:00}
+
+@9
+{z}{s:0320}Knight or not, I don't care! I won't follow a reckless plan. That's all.{g}{x:00}
+
+@10
+{z}{s:0320}Fine, enough!{g}{x:00}
+
+@11
+{z}We'll advance by ourselves! You lot can follow behind!{g}{x:00}
+
+@12
+{z}Let's go! {a:0079}!{g}{x:00}
+
+@13
+{z}{s:0320}Yes...{g}{x:00}
+
+@14
+{z}{s:0320}...Sir {a:0000}, I am sorry.{g}{x:00}
+
+@15
+{z}Lady {a:0078}'s wilfulness is a trial to me too.{g}{x:00}
+
+@16
+{z}She is young and does not know the world... She means no harm. Please forgive her...{g}{x:00}
+
+@17
+{z}{s:0320}I can't forgive a woman like that!{g}{x:00}
+
+@18
+{z}{s:0320}She's cute, though. I'll teach her what war is.{g}{x:00}
+
+@19
+{z}{s:0320}Come, let's go too! Don't fall behind the Heat Haze Knights!{g}{x:00}
+
+@20
+{z}{s:0320}I've been beaten... I'll withdraw...{w}{w} all right?{g}{x:00}
+
+@21
+{z}{s:0320}Cleaning up after a wilful girl, and this is what I get! I've had enough!{g}{x:00}
+
+@22
+{z}{s:0320}I wanted to fight to the end... but I'm pulling out for now.{g}{x:00}
+
+@23
+{z}{s:0320}If we'd scouted first, we wouldn't have been ambushed.{g}{x:00}
+
+@24
+{z}{s:0320}I'm finished... Forgive me, but I must withdraw ahead of you.{g}{x:00}
+
+@25
+{z}{s:0320}Ugh! Look, we've been beaten!{g}{x:00}
+
+@26
+{z}{a:0000}! Why didn't you protect me?{g}{x:00}
+
+@27
+{z}{s:0320}What nonsense is she spouting? It's her own fault in the first place!{g}{x:00}
+
+@28
+{z}{s:0320}Lady {a:0078}... Do not blame them too much...{g}{x:00}
+
+@29
+{z}They are the ones who were in the right.{g}{x:00}
+
+@30
+{z}We can fight no more. Let us fall back...{g}{x:00}
+
+@31
+{z}{s:0320}{a:0079}...{g}{x:00}
+
+@32
+{z}{s:0320}...{g}{x:00}
+
+@33
+{z}{s:0320}Oh, all right...{w}{w} All units, withdraw!{g}{x:00}
+
+@34
+{z}{s:0320}Lady {a:0078}, we shall fall back first...{g}{x:00}
+
+@35
+{z}{s:0320}Hmph! Do as you like!{g}{x:00}
+
+@36
+{z}{s:0320}We'll show you what we can do... Here we go!{g}{x:00}
+
+@37
+{z}{s:0320}I can't fight shamefully... not if I mean to be a knight one day!{g}{x:00}
+
+@38
+{z}{s:0320}What can a mere mercenary do, you ask? Let me show you.{g}{x:00}
+
+@39
+{z}{s:0320}We're in a different class from you!{g}{x:00}
+
+@40
+{z}{s:0320}I must protect Lady {a:0078} somehow...{g}{x:00}
+
+@41
+{z}{s:0320}The enemy are all brats who know nothing of war. I'll teach them what real war is!{g}{x:00}
+
+@42
+{z}{s:0320}Here we go!{g}{x:00}
+
+@43
+{z}{s:0320}Heh heh heh... They're coming at us without a clue...{g}{x:00}
+
+@44
+{z}It seems the enemy commander knows nothing of war.{g}{x:00}
+
+@45
+{z}{s:0320}Good! Now! Signal the mercenaries!{g}{x:00}
+
+@46
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@47
+{z}{s:0320}Lady {a:0078}! We are surrounded!{g}{x:00}
+
+@48
+{z}{s:0320}Ha ha ha ha... What fool knights!{g}{x:00}
+
+@49
+{z}{s:0320}What did you say?!{g}{x:00}
+
+@50
+{z}{s:0320}This terrain is perfect for an ambush, and you charged right in.{g}{x:00}
+
+@51
+{z}Folk who don't even know how to fight can't call themselves knights!{g}{x:00}
+
+@52
+{z}{s:0320}Damn...{g}{x:00}
+
+@53
+{z}{s:0320}Halt the advance! Let each unit engage the enemy on its own!{g}{x:00}
+
+@54
+{z}Sir {a:0000} will surely arrive soon!{g}{x:00}
+
+@55
+{z}{s:0320}{a:0000}! Hurry and protect us!{g}{x:00}
+
+@56
+{z}{s:0320}Tsk... Told you so.{g}{x:00}
+
+@57
+{z}{s:0320}But we can't leave them. {a:0000}! Let's hurry!{g}{x:00}
+
+@58
+{z}{s:0320}Lady {a:0078}! Are you all right?{g}{x:00}
+
+@59
+{z}{s:0320}You finally came... Thank you...{g}{x:00}
+
+@60
+{z}Protect me from the enemy, will you...{g}{x:00}
+
+@61
+{z}{s:0320}This is what happens when you won't listen to us!{g}{x:00}
+
+@62
+{z}{s:0320}Lady {a:0078}, are you all right?{g}{x:00}
+
+@63
+{z}{s:0320}............{w}{w} Yes...{g}{x:00}
+
+@64
+{z}{s:0320}The plan worked, so how did we get beaten?!{g}{x:00}
+
+@65
+{z}We're pulling out! The rest is up to you!{g}{x:00}
+
+@66
+{z}{s:0320}Mercenaries can run when things get dangerous. Must be nice...{g}{x:00}
+
+@67
+{z}But we cannot withdraw so easily!{g}{x:00}
+
+@68
+{z}{s:0320}To lose this place to the enemy... No choice. Withdraw!{g}{x:00}
+
+@69
+{z}{s:0320}Is it right for a knight to run?! Oh well... we're pulling out too!{g}{x:00}
+
+@70
+{z}{s:0320}To lose this place to the enemy... No choice. Withdraw!{g}{x:00}
+
+@71
+{z}{s:0320}Yes! Victory is ours!{g}{x:00}
+
+@72
+{z}The enemy won't attack from this direction for a while...{g}{x:00}
+
+@73
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@74
+{z}I see now...{w} I put on airs just because I became a knight, and kept talking big...{g}{x:00}
+
+@75
+{z}And yet I can't even come up with a proper plan myself...{g}{x:00}
+
+@76
+{z}{s:0320}Lady {a:0078}...{g}{x:00}
+
+@77
+{z}{s:0320}Just {a:0078} will do.{g}{x:00}
+
+@78
+{z}You made me realise that, and for that you are a hero to me...{g}{x:00}
+
+@79
+{z}{s:0320}You have Sir {a:0079}, a splendid model of knighthood.{g}{x:00}
+
+@80
+{z}If you learn from him, you will surely become a fine knight.{g}{x:00}
+
+@81
+{z}{s:0320}Ha ha... That is giving me rather too much credit...{g}{x:00}
+
+@82
+{z}{s:0320}Right. I'll...{w} do my best!{g}{x:00}
+
+@83
+{z}I'll try hard and become a full knight, not one in name only.{g}{x:00}
+
+@84
+{z}For my homeland, Estania, as well...{g}{x:00}
+
+@85
+{z}Well then, {a:0000}! We'll fight together again someday, won't we?{g}{x:00}
+
+@86
+{z}{s:0320}Now Lady {a:0078} may become a fine knight...{g}{x:00}
+
+@87
+{z}{s:0320}Why is {a:0000} the only hero? Oh well...{g}{x:00}
+
+@88
+{z}{s:0320}Heh heh heh... This is how people grow...{g}{x:00}
+
+@89
+{z}{s:0320}Could it be that girl...{w}{g}{x:00}
+
+@90
+{z}{s:0320}Yes! Now victory is ours!{g}{x:00}
+
+@91
+{z}The enemy won't attack from this direction for some time...{g}{x:00}
+
+@92
+{z}{s:0320}Easy win, no knights needed!{g}{x:00}
+
+@93
+{z}{s:0320}Maybe that wilful little lady has learned her lesson?{g}{x:00}
+
+@94
+{z}{s:0320}People grow by repeating their failures...{g}{x:00}
+
+@95
+{z}That girl will become a full knight in time...{g}{x:00}
+
+@96
+{z}{s:0320}Becoming a knight is no easy thing.{g}{x:00}
+
+@97
+{z}I hope Lady {a:0078} realises that too.{g}{x:00}
+
+@98
+{z}She hasn't fallen for {a:0000}, has she...{g}{x:00}
+

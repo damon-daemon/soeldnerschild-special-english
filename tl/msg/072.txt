@@ -1,0 +1,477 @@
+@0
+{z}{s:0320}Hey, that's all the enemy there is. No way we lose.{g}{x:00}
+
+@1
+{z}Let's crush them quick.{g}{x:00}
+
+@2
+{z}{s:0320}Hey, our task is to hold this place, not wipe out the enemy.{g}{x:00}
+
+@3
+{z}We only go on the attack once the main force arrives.{g}{x:00}
+
+@4
+{z}{s:0320}But once they get here, our job's done, right?{g}{x:00}
+
+@5
+{z}Just waiting and defending doesn't suit me.{g}{x:00}
+
+@6
+{z}{s:0320}Don't say that. We only have to hold off that small force.{g}{x:00}
+
+@7
+{z}The pay's not bad either. So what's the harm?{g}{x:00}
+
+@8
+{z}{s:0320}I suppose so.{g}{x:00}
+
+@9
+{z}{s:0320}They're defending in force... We can't lay a finger on them like this.{g}{x:00}
+
+@10
+{z}{s:0320}But if we dawdle, the enemy's main force will arrive...{g}{x:00}
+
+@11
+{z}{s:0320}The enemy's main force? Isn't this all of them?{g}{x:00}
+
+@12
+{z}{s:0320}These are only the vanguard.{g}{x:00}
+
+@13
+{z}We've had a report that a fully equipped main force is heading this way.{g}{x:00}
+
+@14
+{z}{s:0320}Damn... what are we to do...{g}{x:00}
+
+@15
+{z}{s:0320}...{w}{w}! That's...{g}{x:00}
+
+@16
+{z}{s:0320}Good, it seems we made it in time.{g}{x:00}
+
+@17
+{z}{s:0320}Oh! You came at just the right time!{g}{x:00}
+
+@18
+{z}{s:0320}We know the situation... Come, let's hurry.{g}{x:00}
+
+@19
+{z}{s:0320}The enemy has joined up with mercenaries...{g}{x:00}
+
+@20
+{z}{s:0320}They'll charge in with brute force.{g}{x:00}
+
+@21
+{z}{s:0320}Right, wait for them on this side of the bridge! Don't let them cross!{g}{x:00}
+
+@22
+{z}{s:0320}About time we got our turn.{g}{x:00}
+
+@23
+{z}{s:0320}Hey, is it so bad to cross the bridge? We won't go far.{g}{x:00}
+
+@24
+{z}{s:0320}Who knows...{g}{x:00}
+
+@25
+{z}{s:0320}We'll advance over the central bridge. You attack from the flank.{g}{x:00}
+
+@26
+{z}Those are your only orders.{g}{x:00}
+
+@27
+{z}{s:0320}Understood.{g}{x:00}
+
+@28
+{z}{s:0320}Whatever happens, drive the enemy out of here. Got it?{g}{x:00}
+
+@29
+{z}{s:0320}We cannot lose this battle, no matter what.{g}{x:00}
+
+@30
+{z}{s:0320}Hey! We're moving up a bit!{g}{x:00}
+
+@31
+{z}{s:0320}What! Don't act on your own!{g}{x:00}
+
+@32
+{z}{s:0320}Just a little! Leave it to us!{g}{x:00}
+
+@33
+{z}If you're going to nag, we can always pull out.{g}{x:00}
+
+@34
+{z}{s:0320}...{w}{w} Very well. Permission granted.{g}{x:00}
+
+@35
+{z}{s:0320}That's more like it!{g}{x:00}
+
+@36
+{z}{s:0320}...{w}{w}! The main force is coming this way... {w}{w}At last... they've finally come...{g}{x:00}
+
+@37
+{z}{s:0320}...!{w}{w} That's {p:01}'s regular army... You're late...{g}{x:00}
+
+@38
+{z}{s:0320}What? Their main force is here? Damn... we were too late...{g}{x:00}
+
+@39
+{z}Meeting them in this state would be suicide. No choice, fall back!{g}{x:00}
+
+@40
+{z}{s:0320}We're pulling out. We've lost.{g}{x:00}
+
+@41
+{z}{s:0320}Let's pull out. We've lost.{g}{x:00}
+
+@42
+{z}{s:0320}We can't stand against this... We've no choice but to pull out.{g}{x:00}
+
+@43
+{z}{s:0320}Damn... so we lost after all.{g}{x:00}
+
+@44
+{z}{s:0320}We've lost... Pull out.{g}{x:00}
+
+@45
+{z}{s:0320}{p:01}'s regular army has come at last... Time's up.{g}{x:00}
+
+@46
+{z}We'll report to {p:01}'s main force. The job came from the regular army... Nothing else for it.{g}{x:00}
+
+@47
+{z}{s:0320}{p:01}'s regular army... It's hopeless.{g}{x:00}
+
+@48
+{z}I must go to {p:01}'s main force... I was asked to report.{g}{x:00}
+
+@49
+{z}{s:0320}{p:01}'s regular army is coming... We didn't make it.{g}{x:00}
+
+@50
+{z}Then let us head for {p:01}'s main force. No help for it, we must report.{g}{x:00}
+
+@51
+{z}{s:0320}What? {p:01}'s regular army? They're here at last...{g}{x:00}
+
+@52
+{z}Off to {p:01}'s main force, then... We can't skip the report. No way round it.{g}{x:00}
+
+@53
+{z}{s:0320}What? {p:01}'s regular army is coming? ...Time's up.{g}{x:00}
+
+@54
+{z}I have to report to {p:01}'s main force... The regular army asked me to.{g}{x:00}
+
+@55
+{z}{s:0320}They've come at last... Time's up.{g}{x:00}
+
+@56
+{z}Nothing for it... Let's pull out.{g}{x:00}
+
+@57
+{z}{s:0320}The enemy keeps advancing... We can't stop them any longer...{g}{x:00}
+
+@58
+{z}Let's give up. Waiting here for the main force would only put our army in danger.{g}{x:00}
+
+@59
+{z}{s:0320}What? Pulling out? Then we retreat too.{g}{x:00}
+
+@60
+{z}{s:0320}Do as you like.{g}{x:00}
+
+@61
+{z}{s:0320}See you.{g}{x:00}
+
+@62
+{z}{s:0320}We should have attacked while their force was thin...{g}{x:00}
+
+@63
+{z}{s:0320}The enemy's riding their momentum and advancing... It's hopeless...{g}{x:00}
+
+@64
+{z}Waiting to join up would only destroy our army. Nothing for it... Retreat.{g}{x:00}
+
+@65
+{z}{s:0320}Damn... they have the momentum. We can't stop them.{g}{x:00}
+
+@66
+{z}We can't last until {p:01}'s main force arrives. At this rate we'll be wiped out...{g}{x:00}
+
+@67
+{z}{s:0320}Oh! The enemy... the enemy is pulling out...{g}{x:00}
+
+@68
+{z}We broke the enemy's defence line ourselves... We can expect a handsome reward.{g}{x:00}
+
+@69
+{z}Right! Back we go! You did well too. Lend us a hand again some time.{g}{x:00}
+
+@70
+{z}{s:0320}Mission safely complete. Let's go home too.{g}{x:00}
+
+@71
+{z}{s:0320}So our job's done. Let's hurry back to town.{g}{x:00}
+
+@72
+{z}{s:0320}Our job's done, right? Let's get home.{g}{x:00}
+
+@73
+{z}{s:0320}Phew... that's settled. Then let's go home.{g}{x:00}
+
+@74
+{z}{s:0320}It's over. Then let's go home.{g}{x:00}
+
+@75
+{z}{s:0320}Phew... they've finally gone. So that's the mission done.{g}{x:00}
+
+@76
+{z}Everyone, we're going home.{g}{x:00}
+
+@77
+{z}{s:0320}The enemy has pulled out... We win.{g}{x:00}
+
+@78
+{z}Then let's go home.{g}{x:00}
+
+@79
+{z}{s:0320}The enemy's leaving... That took a while.{g}{x:00}
+
+@80
+{z}Come, we're going home.{g}{x:00}
+
+@81
+{z}{s:0320}They're retreating! Hah! All talk.{g}{x:00}
+
+@82
+{z}{s:0320}Ah... we won. We did our job...{g}{x:00}
+
+@83
+{z}{s:0320}I leave the rest to you... Be sure to... the enemy...{g}{x:00}
+
+@84
+{z}Please...{g}{x:00}
+
+@85
+{z}{s:0320}Hey now... the knights are wiped out? Things are looking dicey.{g}{x:00}
+
+@86
+{z}But if we go home now, we lose the bonus pay... No choice but to fight.{g}{x:00}
+
+@87
+{z}{s:0320}Wiped out... A total defeat...{g}{x:00}
+
+@88
+{z}{s:0320}Over to you... There's bonus pay riding on it.{g}{x:00}
+
+@89
+{z}Damn...{g}{x:00}
+
+@90
+{z}{s:0320}Bonus pay? We're not fighting for the likes of you!{g}{x:00}
+
+@91
+{z}{s:0320}The knights and all of us, beaten... A total defeat...{g}{x:00}
+
+@92
+{z}{s:0320}Oh? Was that the last one? Which means... the enemy is wiped out...{g}{x:00}
+
+@93
+{z}Well done, everyone! The enemy's defence line has completely collapsed!{g}{x:00}
+
+@94
+{z}{s:0320}That's our job done, then. Let's head home.{g}{x:00}
+
+@95
+{z}Hey! We're going home! See you!{g}{x:00}
+
+@96
+{z}{s:0320}Our job is done. Let's go back to town.{g}{x:00}
+
+@97
+{z}Take care, everyone!{g}{x:00}
+
+@98
+{z}{s:0320}That's the end of our job.{g}{x:00}
+
+@99
+{z}Then we shall pull out.{g}{x:00}
+
+@100
+{z}{s:0320}Phew... that's the end of our job.{g}{x:00}
+
+@101
+{z}Hey, we're going home. See you.{g}{x:00}
+
+@102
+{z}{s:0320}Job's done... Time to go home.{g}{x:00}
+
+@103
+{z}Then we'll be going home. Take care.{g}{x:00}
+
+@104
+{z}{s:0320}Right, mission accomplished. Let's pull out.{g}{x:00}
+
+@105
+{z}We'll be leaving first, if you'll excuse us!{g}{x:00}
+
+@106
+{z}{s:0320}The Tigre Mercenaries have gone home...{g}{x:00}
+
+@107
+{z}They're something else. It's no exaggeration to say today's victory is thanks to them.{g}{x:00}
+
+@108
+{z}{s:0320}That's the end of this defence line.{g}{x:00}
+
+@109
+{z}Thank goodness... we didn't fail.{g}{x:00}
+
+@110
+{z}{s:0320}The enemy's wiped out! We broke the defence line! We win!{g}{x:00}
+
+@111
+{z}{s:0320}The enemy's gone. And with that, this defence line has completely collapsed...{g}{x:00}
+
+@112
+{z}I'm glad we completed the mission safely.{g}{x:00}
+
+@113
+{z}{s:0320}Phew... they gave us a lot of trouble. But this defence line has completely collapsed.{g}{x:00}
+
+@114
+{z}With that, our mission is accomplished.{g}{x:00}
+
+@115
+{z}{s:0320}The enemy is wiped out...{g}{x:00}
+
+@116
+{z}And so this defence line collapses completely.{g}{x:00}
+
+@117
+{z}{s:0320}This way! Hey! There's nobody over there!{g}{x:00}
+
+@118
+{z}{s:0320}Understood! Coming at once!{g}{x:00}
+
+@119
+{z}{s:0320}Not that way! The enemy's over here!{g}{x:00}
+
+@120
+{z}{s:0320}Got it! Leave it to me!{g}{x:00}
+
+@121
+{z}{s:0320}I told you we'd attack across this bridge. Attack from another one.{g}{x:00}
+
+@122
+{z}{s:0320}Let's lie in wait around here.{g}{x:00}
+
+@123
+{z}{s:0320}Hurry up and come... I'll beat you to a pulp...{g}{x:00}
+
+@124
+{z}{s:0320}I really did act on my own, didn't I...{g}{x:00}
+
+@125
+{z}{s:0320}...{w}{w}! Damn! The enemy's on this bank!{g}{x:00}
+
+@126
+{z}After the company that crossed the bridge! Go after them!{g}{x:00}
+
+@127
+{z}{s:0320}...{w}{w}! This is bad! The enemy's come onto this bank...{g}{x:00}
+
+@128
+{z}After those who crossed the bridge! Go after them!{g}{x:00}
+
+@129
+{z}{s:0320}It's galling, but... it's hopeless...{g}{x:00}
+
+@130
+{z}{s:0320}Damn... how could I let this happen...{g}{x:00}
+
+@131
+{z}{s:0320}I'm sorry... I can't go on...{g}{x:00}
+
+@132
+{z}{s:0320}Ow, ow... Sorry, I leave the rest to you...{g}{x:00}
+
+@133
+{z}{s:0320}My company is wiped out... Forgive me.{g}{x:00}
+
+@134
+{z}{s:0320}Sorry... we're wiped out...{g}{x:00}
+
+@135
+{z}If the enemy's main army comes here... report to our main force... and whatever you do, don't take them on...{g}{x:00}
+
+@136
+{z}{s:0320}Why would I lose to the likes of these... Damn...{g}{x:00}
+
+@137
+{z}{s:0320}M-{w}{w}my company... Impossible...{g}{x:00}
+
+@138
+{z}{s:0320}Why... why me... {w}{w}I can't believe it...{g}{x:00}
+
+@139
+{z}{s:0320}Damn... why...{g}{x:00}
+
+@140
+{z}{s:0320}It can't be... me, losing? There must be some mistake...{g}{x:00}
+
+@141
+{z}{s:0320}For today... I'll let you have this one...{g}{x:00}
+
+@142
+{z}{s:0320}D-{w}{w}damn... Retreat...{g}{x:00}
+
+@143
+{z}{s:0320}We will hold this defence line! I won't let you break it!{g}{x:00}
+
+@144
+{z}{s:0320}You shall not pass beyond this point!{g}{x:00}
+
+@145
+{z}{s:0320}I won't let you through, even if I die! Come on!{g}{x:00}
+
+@146
+{z}{s:0320}Prepare yourselves! Here we come!{g}{x:00}
+
+@147
+{z}{s:0320}You're a fool too... coming all this way just to be cut down...{g}{x:00}
+
+@148
+{z}{s:0320}You'll never cross this bridge, not in a lifetime! Not while we're here!{g}{x:00}
+
+@149
+{z}{s:0320}Come on, then! I'll beat you to a pulp!{g}{x:00}
+
+@150
+{z}{s:0320}Clear the way! We've no business with you!{g}{x:00}
+
+@151
+{z}{s:0320}We of {p:01} will break this defence line!{g}{x:00}
+
+@152
+{z}{s:0320}I'll cut you down!{g}{x:00}
+
+@153
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@154
+{z}{s:0320}A feeble defence line like this... we'll crush it in no time.{g}{x:00}
+
+@155
+{z}{s:0320}So you want to take us on? Right, come on!{g}{x:00}
+
+@156
+{z}{s:0320}Underestimate us and you'll regret it!{g}{x:00}
+
+@157
+{z}Hey, retreat!{g}{x:00}
+
+@158
+{z}Right! Let's do this!{g}{x:00}
+

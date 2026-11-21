@@ -1,0 +1,381 @@
+@0
+{z}{s:0320}Did you think a single squad could stop our attack?{g}{x:00}
+
+@1
+{z}{s:0320}Defending the country...{w} and the people, is my duty as one of the Knights.{g}{x:00}
+
+@2
+{z}However outnumbered, I will not abandon the people and flee! Come on!{g}{x:00}
+
+@3
+{z}{s:0320}Prepare yourself!{g}{x:00}
+
+@4
+{z}{s:0320}Whoa!{g}{x:00}
+
+@5
+{z}{s:0320}Th... that guy...{w} he's strong, damn it...{g}{x:00}
+
+@6
+{z}{w} Huh!{w}{w} But he's wounded too...{g}{x:00}
+
+@7
+{z}{s:0320}Lord {a:0077}!{g}{x:00}
+
+@8
+{z}{s:0320}Ugh... I can no{w}{w} longer move...{w} How pathetic of me...{g}{x:00}
+
+@9
+{z}I cannot even protect the villagers... Why did I ever join the Knights...{g}{x:00}
+
+@10
+{z}{s:0320}All right! He's finished! Now get the villagers while we can!{g}{x:00}
+
+@11
+{z}{s:0320}Lord {a:0077}!{g}{x:00}
+
+@12
+{z}{s:0320}Ngh...{w} Damn...{g}{x:00}
+
+@13
+{z}{s:0320}Hold it!{g}{x:00}
+
+@14
+{z}{s:0320}You...{w} {a:0000}!{g}{x:00}
+
+@15
+{z}{s:0320}Sir {a:0000}... Have you come to take me back?{g}{x:00}
+
+@16
+{z}{s:0320}Lord {a:0077}, are you all right?{g}{x:00}
+
+@17
+{z}We will protect the villagers. Please rest easy...{g}{x:00}
+
+@18
+{z}{s:0320}I can no longer move. I beg you...{w} see the villagers through safely...{g}{x:00}
+
+@19
+{z}{s:0320}Tch! Someone's butting in.{g}{x:00}
+
+@20
+{z}Then let's focus on the villagers alone and finish the job quickly!{g}{x:00}
+
+@21
+{z}{s:0320}This was supposed to be an easy job...{g}{x:00}
+
+@22
+{z}In that case, take them all out together!{g}{x:00}
+
+@23
+{z}{s:0320}Yeah!{g}{x:00}
+
+@24
+{z}{s:0320}What? Still not finished?{g}{x:00}
+
+@25
+{z}How long does it take to do such an easy job...{g}{x:00}
+
+@26
+{z}{s:0320}What do you expect? A knight is guarding them!{g}{x:00}
+
+@27
+{z}You lot, hit them from behind!{g}{x:00}
+
+@28
+{z}{s:0320}Useless, the lot of you... Leave it to me!{g}{x:00}
+
+@29
+{z}{s:0320}!{w}{w}{w} Enemies from this side too!{g}{x:00}
+
+@30
+{z}{s:0320}{a:0000}! More enemies have appeared from the west!{g}{x:00}
+
+@31
+{z}The villagers can't withstand their attack... Protect them somehow!{g}{x:00}
+
+@32
+{z}{s:0320}Damn, they're coming from the west too!{g}{x:00}
+
+@33
+{z}{s:0320}Reinforcements, eh... They hit where it hurts.{g}{x:00}
+
+@34
+{z}{s:0320}Not bad... But we can hold our own.{g}{x:00}
+
+@35
+{z}{s:0320}Enemy reinforcements?{g}{x:00}
+
+@36
+{z}If we make ourselves a wall, can we protect the villagers...?{g}{x:00}
+
+@37
+{z}{s:0320}Reinforcements... That's troublesome.{g}{x:00}
+
+@38
+{z}{s:0320}I won't let any more orphans like me be made!{g}{x:00}
+
+@39
+{z}{s:0320}Do you know how a child feels when war kills their parents...?{w} Do you, damn you?{g}{x:00}
+
+@40
+{z}{s:0320}I've had enough of a world where the strong devour the weak!{g}{x:00}
+
+@41
+{z}{s:0320}H... help me!{g}{x:00}
+
+@42
+{z}{s:0320}Heh heh heh... Die!{g}{x:00}
+
+@43
+{z}{s:0320}Heh...{w} Even a kid could rob villagers!{g}{x:00}
+
+@44
+{z}{s:0320}Sorry... I'm retreating. Be sure to protect the villagers...{g}{x:00}
+
+@45
+{z}{s:0320}Damn! How pathetic...{g}{x:00}
+
+@46
+{z}{s:0320}{z}{a:0000}... Save the villagers...{g}{x:00}
+
+@47
+{z}{s:0320}Ngh...{w}{w} Damn it...{g}{x:00}
+
+@48
+{z}{s:0320}Forgive me... My company ends here.{g}{x:00}
+
+@49
+{z}{s:0320}Wiped out? I thought this job would be a breeze...{g}{x:00}
+
+@50
+{z}{s:0320}Damn... I'm finished...{g}{x:00}
+
+@51
+{z}You lot manage somehow without me! Understood?{g}{x:00}
+
+@52
+{z}{s:0320}Got it!{g}{x:00}
+
+@53
+{z}I won't throw away such a sweet job!{g}{x:00}
+
+@54
+{z}{s:0320}Damn! If only that lot hadn't stuck their noses in!{g}{x:00}
+
+@55
+{z}{s:0320}Lord {a:0077}... Please help us...{g}{x:00}
+
+@56
+{z}{s:0320}Forgive me...{w}{w} I am simply too weak...{g}{x:00}
+
+@57
+{z}{s:0320}Sir {a:0077}! Are you all right?{g}{x:00}
+
+@58
+{z}{s:0320}Yes... Somehow.{g}{x:00}
+
+@59
+{z}But for now, I ask you to look after the villagers. Please save them...{g}{x:00}
+
+@60
+{z}{s:0320}You came to take that knight back, didn't you?{g}{x:00}
+
+@61
+{z}Finish your business and get lost!{g}{x:00}
+
+@62
+{z}Don't get in our way!{g}{x:00}
+
+@63
+{z}{s:0320}Killing innocent people for money...{g}{x:00}
+
+@64
+{z}Mercenary or not, there are jobs you may do and jobs you must never do!{g}{x:00}
+
+@65
+{z}{s:0320}Ha ha! Talk of such fine ideals shows you're still green!{g}{x:00}
+
+@66
+{z}Our lives are at stake too! We'll do anything to live!{g}{x:00}
+
+@67
+{z}{s:0320}That's not right! Why can't you understand?{g}{x:00}
+
+@68
+{z}{s:0320}My parents were just ordinary farmers too...{g}{x:00}
+
+@69
+{z}And though they'd done nothing wrong, they were killed in a war...{g}{x:00}
+
+@70
+{z}It's enough that {a:0001} and I had to feel that pain...{g}{x:00}
+
+@71
+{z}{s:0320}These are times of war... You're not the only ones who lost your parents.{g}{x:00}
+
+@72
+{z}The weak have no choice but to die!{g}{x:00}
+
+@73
+{z}{s:0320}A vile job like this... Who hired you for it?{g}{x:00}
+
+@74
+{z}{s:0320}Shut up! Who sent you lot?{g}{x:00}
+
+@75
+{z}{s:0320}No one... It's our own will.{g}{x:00}
+
+@76
+{z}{s:0320}Then back off! This is none of your business!{g}{x:00}
+
+@77
+{z}{s:0320}Never! My conscience won't allow it!{g}{x:00}
+
+@78
+{z}Whatever happens, I'll protect the villagers!{g}{x:00}
+
+@79
+{z}{s:0320}We're saved...{w}{w} we're saved!{g}{x:00}
+
+@80
+{z}Lord {a:0077}... and the Radiant Knights too... Thank you so much.{g}{x:00}
+
+@81
+{z}{s:0320}Not at all...{g}{x:00}
+
+@82
+{z}{s:0320}You need not fear another attack. Go home and rest well.{g}{x:00}
+
+@83
+{z}{s:0320}Yes! We will...{g}{x:00}
+
+@84
+{z}Please visit our village too. You will be most welcome...{g}{x:00}
+
+@85
+{z}Truly... thank you so very much...{g}{x:00}
+
+@86
+{z}{s:0320}Well now...{w} {a:0000}... You have something to tell me, don't you?{g}{x:00}
+
+@87
+{z}{s:0320}Eh? Yes...{g}{x:00}
+
+@88
+{z}{s:0320}Did {a:0096} order you to bring me back?{g}{x:00}
+
+@89
+{z}{s:0320}No... It was Sir {a:0095}'s order.{g}{x:00}
+
+@90
+{z}{s:0320}Sir {a:0095}...?{w}{w} I see...{g}{x:00}
+
+@91
+{z}{s:0320}Sir {a:0077}... I beg you as well.{g}{x:00}
+
+@92
+{z}Just a little longer until the continent is united and at peace... I need your strength...{g}{x:00}
+
+@93
+{z}The longer unification takes, the more the people suffer, as they did today...{g}{x:00}
+
+@94
+{z}To unite the continent as soon as possible, we need you...{g}{x:00}
+
+@95
+{z}{s:0320}...{g}{x:00}
+
+@96
+{z}{s:0320}Sir {a:0077}!{g}{x:00}
+
+@97
+{z}{s:0320}...{g}{x:00}
+
+@98
+{z}Today's battle showed me that alone I cannot even protect one village...{g}{x:00}
+
+@99
+{z}I hated the killing and left the Knights, but that was shallow of me...{g}{x:00}
+
+@100
+{z}Someone must put an end to this war...{g}{x:00}
+
+@101
+{z}{s:0320}Then...{g}{x:00}
+
+@102
+{z}{s:0320}Yes...{g}{x:00}
+
+@103
+{z}Let's go back together. We will beg forgiveness and return to Lord {a:0076}...{g}{x:00}
+
+@104
+{z}{s:0320}Yes!{g}{x:00}
+
+@105
+{z}{s:0320}{a:0000}... I have troubled you too...{g}{x:00}
+
+@106
+{z}{s:0320}Why...{w}{w} why do we have to die?{g}{x:00}
+
+@107
+{z}{s:0320}Right... The job is done!{g}{x:00}
+
+@108
+{z}Too bad, knights...{w} Ha ha ha ha ha!{g}{x:00}
+
+@109
+{z}{s:0320}Argh... What a bitter defeat...{g}{x:00}
+
+@110
+{z}To be unable to protect even a single village...{g}{x:00}
+
+@111
+{z}I've had enough...{w} of watching people kill each other...{g}{x:00}
+
+@112
+{z}{s:0320}Sir {a:0077}...{g}{x:00}
+
+@113
+{z}{s:0320}Count!{g}{x:00}
+
+@114
+{z}{s:0320}{a:0096}, is it...{g}{x:00}
+
+@115
+{z}{s:0320}!{w}{w} You found him already...{g}{x:00}
+
+@116
+{z}{a:0000}! What is it? When you find him, drag him back with a rope round his neck if you must!{g}{x:00}
+
+@117
+{z}Otherwise you too will be punished for disobeying orders! Understood?{g}{x:00}
+
+@118
+{z}{s:0320}...{g}{x:00}
+
+@119
+{z}{s:0320}I'm going back! Make sure you return today!{g}{x:00}
+
+@120
+{z}{s:0320}{z}...{g}{x:00}
+
+@121
+{z}Let us go, then...{g}{x:00}
+
+@122
+{z}{s:0320}Eh?{g}{x:00}
+
+@123
+{z}{s:0320}You are blameless...{g}{x:00}
+
+@124
+{z}If this goes on, harm may come to you because of me...{g}{x:00}
+
+@125
+{z}{s:0320}Sir {a:0077}...{g}{x:00}
+
+@126
+{z}{s:0320}Still... that {a:0096}, curse him...{g}{x:00}
+

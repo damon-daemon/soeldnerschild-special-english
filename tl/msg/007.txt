@@ -1,0 +1,828 @@
+@0
+{z}{f}{l:00cc}{s:02c4}Lord {a:0000}! Please, go right in.{g}{x:00}
+
+@1
+{z}{f}{l:00cc}{s:02c4}You are a knight of {p:00}, are you not?{g}{z}Knights of other nations may not enter. Envoys may pass, however...{g}{x:00}
+
+@2
+{z}{f}{l:00cc}{s:02c4}The Emperor has taken an interest in you. Please, come inside.{g}{x:00}
+
+@3
+{z}{f}{l:00cc}{s:02c4}The Council has taken an interest in you. Please, come inside.{g}{x:00}
+
+@4
+{z}{f}{l:00cc}{s:02c4}The King has taken an interest in you. Please, come inside.{g}{x:00}
+
+@5
+{z}{f}{l:00cc}{s:02c4}Those of low rank may not enter.{g}{x:00}
+
+@6
+{z}{f}{l:00cc}{s:02c4}Who are you?! Commoners are forbidden to enter!{g}{x:00}
+
+@7
+{z}{f}{l:00cc}{s:02c4}Oh, do you need something more? Please, go in.{g}{x:00}
+
+@8
+{z}{f}{l:00cc}{s:02c4}No matter how often you come, the answer is no.{g}{x:00}
+
+@9
+{z}{f}{l:00cc}{s:02c4}How many times must I tell you?! Get out of here!{g}{x:00}
+
+@10
+{z}{f}{l:00cc}{s:02c4}Stop loitering about! Or I'll throw you out!!{g}{x:00}
+
+@12
+{z}{f}{l:00cc}{s:02c4}What will you do?{x:00}
+
+@15
+{z}{f}{l:00cd}{s:02c5}Pleased to meet you, Lord {a:0000}.{g}{z}I am the steward who will attend to you here.{g}{j:0010}{x:00}
+
+@16
+{z}When you wish to rest or save your record, please tell me.{g}{x:00}
+
+@17
+{z}{f}{l:00cd}Good morning, Lord {a:0000}. It is year {b:00}, month {b:01}.{g}{x:00}
+
+@18
+{z}{f}{l:00cd}{s:02c5}Welcome back, Lord {a:0000}.{g}{x:00}
+
+@19
+{z}{f}{l:00cd}{s:02c5}What will you do?{x:00}
+
+@20
+{z}A military council is to be held at the castle. Please attend.{g}{x:00}
+
+@21
+{z}Do you not have business at the castle? Perhaps you should finish that first...{g}{x:00}
+
+@22
+{z}Good night.{g}{x:00}
+
+@23
+{z}I beg your pardon, but there seems to be no free space. I cannot save your record.{g}{x:00}
+
+@24
+{z}Whatever you need, pray tell this humble steward.{g}{x:00}
+
+@100
+{z}{f}{l:005e}{s:005e}I have been waiting for you!{g}{x:00}
+
+@101
+{z}{f}{l:005e}Without delay, I would hear your answer...{w} Will you serve our nation and fight beside us?{y:0000660067}{x:00}
+
+@102
+{z}{f}{l:005e}Excellent! Come at once, we shall have an audience with His Majesty the Emperor for the investiture.{g}{x:00}
+
+@103
+{z}{f}{l:005e}I see, that is a pity...{w} But I will not force you. Follow the path you believe in.{g}{x:00}
+
+@104
+{z}{f}{l:005e}His Majesty entrusted me with this, to be given to you should you decline. Please take it.{g}{x:00}
+
+@105
+{z}You received 30000 G.{g}{x:00}
+
+@106
+{z}{f}{l:005e}You will go on fighting for Rana, will you not? We expect still greater deeds from you.{g}{x:00}
+
+@110
+{z}{f}{l:0001}{s:0001}You've finally become a knight! Congratulations, {a:0000}!{g}{z}Everyone is waiting at the inn. Hurry!{g}{x:00}
+
+@120
+{z}{f}{l:0000}{s:0000}{a:0001}, {a:0002}, so you were waiting here.{g}{x:00}
+
+@121
+{z}{f}{l:0002}{s:0002}We...{w} we've finally done it!{g}{z}At last, my family's avenged...{w} It took long enough!{g}{x:00}
+
+@122
+{z}{f}{l:0001}{s:0001}{a:0000}, we finally avenged Father...{g}{z}Beating {a:0028} won't bring Father back, but{g}{j:007b}{x:00}
+
+@123
+{z}at least fewer people will have to suffer the sorrow I did.{g}{x:00}
+
+@125
+{z}{f}{l:0000}{a:0002}, you...{w} you fought for revenge, didn't you?{g}{z}What will you do now...?{g}{x:00}
+
+@126
+{z}{f}{l:0002}You! Are you serious?!{g}{z}Did you really think I was still fighting only for revenge?{g}{x:00}
+
+@127
+{z}{f}{l:0002}That's a rotten thing to say! If you want, I'll just clear off right here!{g}{x:00}
+
+@128
+{z}{f}{l:0000}Sorry about that, {a:0002}.{g}{z}You'll keep fighting with us, won't you?{g}{z}{f}{l:0002}Of course I will!{g}{x:00}
+
+@130
+{z}{f}{l:0001}Well then, we should be getting back.{g}{x:00}
+
+@131
+{z}{f}{l:0002}It's not all over yet. One last push, {a:0000}!{g}{x:00}
+
+@140
+{z}{f}{l:0004}{s:0004}I've heard something interesting, Captain.{g}{x:00}
+
+@141
+{z}{f}{l:0004}I dropped by the Guild for the first time in ages, and while I was talking with the old man, he said something odd.{g}{j:008e}{x:00}
+
+@142
+{z}"There's no job to defend the fort this month"...{w} Strange, isn't it?{g}{z}Why did {a:002b} take our side? That money-grubbing woman...{g}{x:00}
+
+@143
+{z}{f}{l:0000}It is strange...{g}{x:00}
+
+@144
+{z}{f}{l:0004}Don't play dumb, you lady-killer. She obviously came because she was worried about you. I'm never wrong about these things.{g}{x:00}
+
+@145
+{z}{f}{l:0004}When the fighting's over, why not take her on a date? She's not my type. You can have her.{g}{x:00}
+
+@150
+{z}{f}{l:0091}{s:0091}{a:0000}...{w} You fought well, I must say.{g}{x:00}
+
+@151
+{z}{f}{l:0000}{s:0000}Chancellor, His Majesty suspected you.{g}{x:00}
+
+@152
+{z}{f}{l:0091}I fled before the enemy, so no wonder...{w} But however I look at it...{g}{z}His Majesty is mistaken. Do you not think so?{g}{x:00}
+
+@153
+{z}{f}{l:0091}To attack an archbishop is sacrilege! At this rate, every Wigg believer on the continent will turn against us!{g}{x:00}
+
+@154
+{z}{f}{l:0000}But...{g}{x:00}
+
+@155
+{z}{f}{l:0091}We must do something before it is too late...{g}{x:00}
+
+@160
+{z}{f}{l:0092}{s:0092}{a:0000}, wait!{g}{x:00}
+
+@161
+{z}{f}{l:0092}I do not know what to do...{g}{x:00}
+
+@162
+{z}{f}{l:0000}{s:0000}Lady {a:0092}...{w} You look unwell.{g}{z}What is the matter?{g}{x:00}
+
+@163
+{z}{f}{l:0092}I can no longer bear to obey my father, and his idea of ruling the continent by force...{g}{j:00a4}{x:00}
+
+@164
+{z}Since I was small, I was raised to be this country's heir.{g}{z}I tried to meet my father's{j:00a5}{x:00}
+
+@165
+ expectations...{w} But deep down, I could not tell whether it was truly right...{g}{x:00}
+
+@166
+{z}{f}{l:0092}I scolded {a:0001} in front of Father, but in truth it pained me too to fight those with no will to fight...{g}{j:00a7}{x:00}
+
+@167
+{z}And in real battle, I learned the pain of war with my own body.{g}{x:00}
+
+@168
+{z}{f}{l:0092}Even so, I have not the courage to defy my father.{g}{z}I can do nothing but what Father tells me.{g}{j:00a9}{x:00}
+
+@169
+{z}Still, I want to hear what you truly think!{g}{z}Do you truly agree with Father's way of thinking?{y:0000aa00ad}{x:00}
+
+@170
+{z}{f}{l:0000}I believe the strife will end once one nation rules the continent. The battles until then are necessary.{g}{x:00}
+
+@171
+{z}{f}{l:0092}...{g}{z}I see...{w} Then I will resolve myself. I promise not to weep again until the continent is united.{g}{x:00}
+
+@172
+{z}{f}{l:0092}In return, I will not permit you to lose from now on, so that the fighting ends as soon as possible.{g}{x:00}
+
+@173
+{z}{f}{l:0000}I do not think destroying our enemies is the only way to end the strife.{g}{x:00}
+
+@174
+{z}{f}{l:0092}I see...{w} Hearing that, I feel a little relieved.{g}{j:00af}{x:00}
+
+@175
+{z}I will never go to the battlefield again, but I pray that you can finish this while hurting as few as possible.{g}{x:00}
+
+@176
+{z}{f}{l:0092}Forgive the intrusion. Please keep what I said from Father.{g}{x:00}
+
+@180
+{z}{f}{l:0005}{s:0005}{a:0000}...{w} I came to thank you.{g}{z}Thanks to you, I could fulfil my mission.{g}{x:00}
+
+@181
+{z}{f}{l:0000}{s:0000}If you truly mean that, good...{w} Even so, I...{g}{z}I killed {a:0005}'s own son with these hands...{g}{x:00}
+
+@182
+{z}{f}{l:0005}Why speak of that now...{g}{z}The blame lies with {a:0031} and me.{g}{z}{f}{l:0000}If you put it that way...{w} then it lies with this troubled continent too.{g}{x:00}
+
+@184
+{z}{f}{l:0005}Hm... So, in short...{g}{z}my work is not yet finished.{g}{z}{f}{l:0000}We are close to uniting the continent. Lend me your strength.{g}{x:00}
+
+@185
+{z}{f}{l:0005}...{a:0000}.{g}{z}Lately I cannot help feeling you are like my own son.{g}{z}To you, an old father like me must be{j:00ba}{x:00}
+
+@186
+ the last thing you would want... Ha ha ha...{g}{x:00}
+
+@187
+{z}{f}{l:0005}...Let us rest up for the next battle.{g}{x:00}
+
+@188
+{z}{f}{l:0000}{a:0005}...{g}{x:00}
+
+@190
+{z}{f}{l:005e}{s:005e}Sir {a:0000}, the Emperor summons us.{g}{z}I assumed it concerned the festival, but...{w}{j:00bf}{x:00}
+
+@191
+ it seems to be something more important.{g}{z}In any case, let us go to His Majesty.{g}{x:00}
+
+@194
+{z}{f}{l:0000}This time, true peace seems to have come.{g}{x:00}
+
+@195
+{z}{f}{l:0000}{s:0000}{a:0001}, so you were waiting here.{g}{x:00}
+
+@196
+{z}{f}{l:0001}{s:0001}Yes. You can tell from everyone's faces.{g}{z}They all look so happy.{g}{x:00}
+
+@197
+{z}{f}{l:0001}Hey, let's go to the square. The festival preparations are under way.{g}{x:00}
+
+@198
+{z}{f}{l:0000}Yes, let's go and see.{g}{x:00}
+
+@200
+{z}{f}{l:0091}{s:0091}{a:0000}, the Emperor has summoned us.{g}{z}I assumed it was about arranging the festival, but...{w}{j:00c9}{x:00}
+
+@201
+ it seems it is no leisurely matter.{g}{z}In any case, let us go to His Majesty.{g}{x:00}
+
+@205
+{z}{f}{l:005e}{s:005e}{a:0091}, how long do you mean to stay here? You were told to remain confined at home.{g}{z}Leave the castle at once.{g}{x:00}
+
+@206
+{z}{f}{l:005e}I will go and prepare for battle. We shall meet later.{g}{x:00}
+
+@207
+{z}{f}{l:0091}{s:0091}{a:0000}...{w} I have a favour to ask, and you are the one I trust with it.{g}{z}It cannot be said here...{w} Come with me to the tavern.{g}{x:00}
+
+@208
+{z}{f}{l:0000}{s:0000}What is it about...?{g}{x:00}
+
+@210
+{z}{f}{l:0068}{s:0068}Sir {a:0000}, I have been waiting!{g}{z}Now, let me hear your answer.{g}{j:00d3}{x:00}
+
+@211
+{z}Will you fight with us as a knight of the Duchy of Saxen?{y:0000d400d5}{x:00}
+
+@212
+{z}{f}{l:0068}A good decision... Then we hold the investiture at once. You will pay your respects to the King. Follow me.{g}{x:00}
+
+@213
+{z}{f}{l:0068}I see. Then there is nothing for it; I will not press you...{w} Live your life as you see fit.{g}{x:00}
+
+@214
+{z}{f}{l:0068}But in fact, the King gave me something to hand over should you refuse. Here, take it.{g}{x:00}
+
+@215
+{z}You received 30000 G.{g}{x:00}
+
+@216
+{z}{f}{l:0068}Well, farewell. Go on fighting for Saxen.{g}{x:00}
+
+@219
+{z}{f}{l:0068}{s:0068}{a:0000}... Sorry to trouble you before you rest, but I have a few questions.{g}{x:00}
+
+@220
+{z}{f}{l:0068}I hear bandits appeared on the battlefield at the Prince's first battle today...{w} Did anything seem amiss?{g}{x:00}
+
+@221
+{z}{f}{l:0000}{s:0000}Now that you mention it...{g}{z}the bandits said things like, "Just as the tip-off said."{g}{x:00}
+
+@222
+{z}{f}{l:0068}As I thought...{w} My brother or sister must have done it.{g}{x:00}
+
+@223
+{z}{f}{l:0000}Impossible! That Lord {a:0066} or Lady {a:00a2} would do such a thing...{g}{x:00}
+
+@224
+{z}{f}{l:0068}The truth is... Prince {a:0093} is not my sister's own son; he is the child of the King's first wife.{g}{j:00e1}{x:00}
+
+@225
+{z}And my brother... odd as it is for me to say... is ambitious, and as His Majesty once did, he is watching for his chance to become king.{g}{j:00e2}{x:00}
+
+@226
+{z}So perhaps he is plotting with my sister to have the Prince disinherited...{g}{z}This is only my own conjecture, mind...{g}{x:00}
+
+@227
+{z}{f}{l:0068}My brother says the quality a king needs is not "kindness" but{j:00e4}{x:00}
+
+@228
+ "strength"...{g}{z}Do you think so too?{y:0000e500e6}{x:00}
+
+@229
+{z}{f}{l:0068}I do not think so...{g}{z}Rule by force ends when the king is replaced. But if the people love him, his virtue reaches the next generation too.{g}{x:00}
+
+@230
+{z}{f}{l:0068}I see, I am relieved to hear that.{g}{z}His Majesty's illness only worsens. Should the worst happen, I count on you.{g}{x:00}
+
+@231
+{z}{f}{l:0068}That is all. Forgive the interruption.{g}{x:00}
+
+@235
+{z}{f}{l:0068}{s:0068}{a:0000}, my sister has an urgent message.{g}{z}Come with me to the audience chamber.{g}{x:00}
+
+@236
+{z}{f}{l:0068}{s:0068}{a:0000}, it was surely my brother who took the Prince away.{g}{z}He means to kill him far from here.{j:00ed}{x:00}
+
+@237
+ I will take soldiers and search for the Prince at once...{w} Help me!{g}{x:00}
+
+@238
+{z}{f}{l:0000}{s:0000}Understood.{g}{x:00}
+
+@239
+{z}{f}{l:0068}Equip yourselves with this money right now and gather at the inn. Understood?{g}{x:00}
+
+@240
+{z}You received 18000 G.{g}{x:00}
+
+@241
+{z}{f}{l:0068}We may never return to this castle...{w} If you have business with the steward, finish it first.{g}{z}{f}{l:0000}Yes.{g}{x:00}
+
+@245
+{z}{f}{l:00cd}{s:02c5}The castle seems to be in uproar...{g}{z}If you need me, tell me now.{g}{x:00}
+
+@250
+{z}{f}{l:0066}{s:0066}{a:0000}, this is serious. No time for festivals.{g}{z}Come with me to the audience chamber.{g}{x:00}
+
+@255
+{z}{f}{l:006e}{s:006e}You have come... I have waited for you all this while.{g}{z}Without delay, let me hear your answer.{g}{x:00}
+
+@257
+{z}{f}{l:006e}Will you fight for His Majesty as a knight of Grandcour?{y:0001020103}{x:00}
+
+@258
+{z}{f}{l:006e}A fine decision. We shall see the King and hold your investiture at once.{g}{z}Follow me.{g}{x:00}
+
+@259
+{z}{f}{l:006e}You have thought this through and reached your own conclusion. I will not interfere.{g}{x:00}
+
+@260
+{z}{f}{l:006e}Even if you refuse knighthood, our relationship with your company remains as it has been.{g}{j:0105}{x:00}
+
+@261
+{z}The King and the Regent gave me this. Take it.{g}{x:00}
+
+@262
+{z}You received 30000 G.{g}{x:00}
+
+@263
+{z}{f}{l:006e}Keep fighting for Grandcour, won't you!{g}{x:00}
+
+@265
+{z}{f}{l:0070}{s:0070}Damn you, {a:0094}! He makes a fool of us at every turn...{g}{x:00}
+
+@266
+{z}{f}{l:0070}{a:0000}, as your senior, let me teach you one important thing.{g}{z}That man {a:0094}{j:010b}{x:00}
+
+@267
+ regards us knights, who shed blood on the battlefield, as mere pawns to be thrown away.{g}{z}And the split of Ragail some ten years ago{j:010c}{x:00}
+
+@268
+ was caused by his arrogance in the first place.{g}{x:00}
+
+@269
+{z}{f}{l:0070}That attitude just now, as if he were the king himself...{w} It angered you too, did it not?{y:00010e010f}{x:00}
+
+@270
+{z}{f}{l:0070}As I thought... I wish there were some way for us knights to have His Majesty's ear.{g}{x:00}
+
+@271
+{z}{f}{l:0070}It does not anger you...{w} One day you will be treated the same way. Does that not gall you?{g}{x:00}
+
+@272
+{z}{f}{l:0070}Deep down that man looks down even on His Majesty. Fail to see it, and you are as spineless as {a:006e}!{g}{x:00}
+
+@275
+{z}{f}{l:006e}{s:006e}{a:0000}, there is word about the peace festival.{g}{z}Let us hurry to the audience chamber.{g}{x:00}
+
+@276
+{z}{f}{l:0002}{s:0002}This is terrible, {a:0000}.{g}{z}{a:0070} has started a rebellion...{w}{w} He's gathering troops outside the castle, shouting "Strike down the tyrant!"{g}{x:00}
+
+@277
+{z}{f}{l:006e}{s:006e}This will not be settled peacefully...{g}{z}It seems we must take the field ourselves. For now, back to the audience chamber.{g}{x:00}
+
+@280
+{z}{f}{l:0070}{s:0070}{a:0000}, {a:0094} is summoning us.{g}{x:00}
+
+@281
+{z}{f}{l:0070}I have no wish to obey his orders, but His Majesty will be there, so I cannot refuse...{w} Let us go.{g}{x:00}
+
+@282
+{z}{f}{l:00cd}{s:02c5}You seem in a hurry.{g}{z}If you need anything, tell me at once.{g}{x:00}
+
+@284
+{z}{f}{l:0076}{s:0076}Ah, Sir {a:0000}. I have been waiting.{g}{x:00}
+
+@285
+{z}{f}{l:0076}Without delay, I would hear your answer...{g}{j:011e}{x:00}
+
+@286
+{z}Will you fight for the people as a knight of the Republic of Estania?{y:00011f0120}{x:00}
+
+@287
+{z}{f}{l:0076}A fine decision! Then we shall hold the investiture at once. Come along.{g}{x:00}
+
+@288
+{z}{f}{l:0076}I see. A great pity, but so be it...{g}{x:00}
+
+@289
+{z}{f}{l:0076}The Chairman gave me this to hand over should you refuse. Please take it.{g}{x:00}
+
+@290
+{z}You received 30000 G.{g}{x:00}
+
+@291
+{z}{f}{l:0076}Remain an ally of the people always. Farewell!{g}{x:00}
+
+@295
+{z}{f}{l:0076}{s:0076}Sir {a:0000}, let me introduce my granddaughter.{g}{j:0128}{x:00}
+
+@296
+{z}This is {a:0078}. Young though she is, she serves as Commander of the Heat Haze Knights.{g}{x:00}
+
+@297
+{z}{f}{l:0078}{s:0078}You saved me once when I was in danger...{g}{z}I meant to repay the debt{j:012a}{x:00}
+
+@298
+ when we next met.{g}{z}Though I never thought we'd meet again as comrades...{g}{x:00}
+
+@301
+{z}{f}{l:0078}{s:0078}My dream is to become a fine knight like Grandpa.{g}{z}I won't lose to you either!{g}{x:00}
+
+@302
+{z}{f}{l:0076}By the way, have you heard about conscription yet?{g}{x:00}
+
+@303
+{z}{f}{l:0000}{s:0000}Yes, just now, from the Chairman...{g}{x:00}
+
+@304
+{z}{f}{l:0076}I opposed it strongly... Do you not agree conscription is unnecessary?{y:0001320134}{x:00}
+
+@306
+{z}{f}{l:0076}Hm, the people are starting to grow discontented with noble rule.{g}{j:0133}{x:00}
+
+@307
+{z}Perhaps the time has come for us to change the government...{g}{x:00}
+
+@308
+{z}{f}{l:0000}No, it is needed to protect the people even after the continent is united.{g}{x:00}
+
+@309
+{z}{f}{l:0076}Do you think so... The people will not do the nobles' bidding forever...{g}{x:00}
+
+@310
+{z}{f}{l:0076}I only wished to hear your opinion. Pay it no mind.{g}{x:00}
+
+@311
+{z}{f}{l:0078}See you, {a:0000}!{g}{x:00}
+
+@315
+{z}{f}{l:0076}{s:0076}{a:0077}! Welcome back!{g}{x:00}
+
+@316
+{z}{f}{l:0077}{s:0077}Yes. Thanks to Sir {a:0000}, I made up my mind to come back.{g}{z}His wish to save as many people as possible{j:013d}{x:00}
+
+@317
+ touched my heart.{g}{x:00}
+
+@319
+{z}{f}{l:0076}I too offer my thanks to Sir {a:0000}.{g}{x:00}
+
+@320
+{z}{f}{l:0077}{s:0077}Please forgive me...{g}{z}I have troubled not only Lord {a:0076} but Sir {a:0000} as well...{g}{x:00}
+
+@321
+{z}{f}{l:0076}It is all right, say no more...{g}{x:00}
+
+@322
+{z}{f}{l:0077}{a:0096} appeared and threatened Sir {a:0000}.{g}{z}He knows nothing of our hardships...{g}{x:00}
+
+@323
+{z}{f}{l:0076}So you did not return willingly...{g}{z}Lend me your strength a little longer.{j:0144}{x:00}
+
+@324
+ I will spare you any painful duties.{g}{x:00}
+
+@325
+{z}{f}{l:0077}Yes... Thank you for your consideration.{g}{x:00}
+
+@330
+{z}{f}{l:0076}{s:0076}Sir {a:0000}, there is to be a meeting about the festival in the audience chamber.{g}{z}Let us go together.{g}{x:00}
+
+@331
+{z}{f}{l:0096}{s:0096}{a:0000}, a meeting about the festival in the audience chamber.{g}{z}Come with me.{g}{x:00}
+
+@335
+{z}{f}{l:0002}{s:0002}Big trouble, {a:0000}!{g}{z}Farmers near the castle have all risen in revolt at once. {a:0076} and {a:0078} are with them!{g}{x:00}
+
+@336
+{z}{f}{l:0000}{s:0000}A revolt...{w} Those two sided with them?{g}{x:00}
+
+@337
+{z}{f}{l:0002}We'd better report to that Chairman right away.{g}{x:00}
+
+@340
+{z}{f}{l:0080}{s:0080}I have been waiting, Captain {a:0000}!{g}{z}Have you thought it over well...?{g}{x:00}
+
+@341
+{z}{f}{l:0080}Then, your decision...{g}{z}Will you serve the Kingdom of Mylard as a knight{j:0156}{x:00}
+
+@342
+ and fight alongside us?{y:0001570158}{x:00}
+
+@343
+{z}{f}{l:0080}Thank you! Then we shall go to the King at once for your investiture.{g}{x:00}
+
+@344
+{z}{f}{l:0080}Truly...? What a shame.{w} But it is best to decide one's own life for oneself.{g}{x:00}
+
+@345
+{z}{f}{l:0080}The King and Prince entrusted me with this, to be given should you decline. Please accept it.{g}{x:00}
+
+@346
+{z}You received 30000 G.{g}{x:00}
+
+@347
+{z}{f}{l:0080}Then this is goodbye...{w} Please go on helping Mylard.{g}{x:00}
+
+@350
+{z}{f}{l:0080}{s:0080}Captain {a:0000}...{w} no, Sir {a:0000}, this way please!{g}{x:00}
+
+@351
+{z}{f}{l:0080}Sir {a:0000}...{w} What did you think of the Prince and Lady {a:00a8}?{g}{z}{f}{l:0000}{s:0000}Well, I could not say...{g}{z}{f}{l:0080}I see...{w}{j:0160}{x:00}
+
+@352
+ Very well, then.{g}{z}Has His Majesty explained what comes next?{g}{x:00}
+
+@354
+{z}{f}{l:0000}No, nothing in particular...{g}{x:00}
+
+@355
+{z}{f}{l:0080}So he forgot, as I feared...{w} Then allow me to explain.{g}{z}We have prepared a room for you in the castle,{j:0164}{x:00}
+
+@356
+ so please rest there.{g}{z}Missions will be assigned by the King in the audience chamber.{g}{z}When you are ready,{j:0165}{x:00}
+
+@357
+ greet the King before heading to the battlefield.{g}{z}The King will provide the soldiers, so do not worry.{g}{j:0166}{x:00}
+
+@358
+{z}As I said before, while you serve a ruler you must not leave the town except to fight.{g}{x:00}
+
+@359
+{z}{f}{l:0080}Then I look forward to your future deeds. Do your best!{g}{x:00}
+
+@365
+{z}{f}{l:0097}{s:0097}...Pardon me a moment.{g}{x:00}
+
+@366
+{z}{f}{l:0097}I heard from {a:0080} about the pursuit of the retreating troops...{w} A bitter task, I understand.{g}{z}You know by now why {a:007e}{j:016f}{x:00}
+
+@367
+ is so set on expanding our territory?{g}{x:00}
+
+@368
+{z}{f}{l:0000}{s:0000}To give Lady {a:00a8} the broad horizons of Mylard as a present.{g}{x:00}
+
+@369
+{z}{f}{l:0097}Quite so. A romantic tale for the two of them...{g}{x:00}
+
+@370
+{z}{f}{l:0097}But to the people, it is merely dragging the nation into war to fulfil his own long-held wish!{g}{j:0173}{x:00}
+
+@371
+{z}Such a war should be stopped quickly!{g}{z}Do you not agree?{y:0001750177}{x:00}
+
+@373
+{z}{f}{l:0097}Hm...{w} I am relieved to hear you share my view.{g}{z}Anyway, my brother the King spoils him so much that{j:0176}{x:00}
+
+@374
+ the unruly Prince has grown full of himself.{g}{z}Sooner or later I shall have to admonish him.{g}{x:00}
+
+@375
+{z}{f}{l:0097}Hmm, so not everyone sees it the same way... But to me he seems to be mixing private feelings with affairs of state.{g}{x:00}
+
+@380
+{z}{f}{l:007e}{s:007e}Hey, I've been waiting.{g}{z}Dad wants a word. Come along to the audience chamber.{g}{x:00}
+
+@381
+{z}{f}{l:007e}{s:007e}Ah, {a:00a8}, good timing.{g}{z}I'm off for a sail for the first time in ages. Come along.{g}{x:00}
+
+@382
+{z}{f}{l:00a8}{s:00a8}Oh, I'd love to...{g}{z}But I'm sorry,{j:017f}{x:00}
+
+@383
+ His Majesty has called me about the wedding arrangements.{g}{x:00}
+
+@384
+{z}{f}{l:007e}Nobody called me...{g}{z}Oh well, off you go to Dad, then.{g}{x:00}
+
+@385
+{z}{f}{l:00a8}{a:0000}, please do come to the wedding.{g}{x:00}
+
+@386
+{z}{f}{l:007e}Two men on a boat... Hm...{w} I know, let's invite that cute girl in your unit!{g}{z}{f}{l:0000}{s:0000}{a:0001}{j:0183}{x:00}
+
+@387
+ you mean? But I wonder where she is now...{g}{x:00}
+
+@388
+{z}{f}{l:007e}Right, go and look in your room. I'll check the inn.{g}{z}We'll meet at the inn later.{g}{x:00}
+
+@390
+{z}{f}{l:00cd}{s:02c5}You seem in a hurry. What is the matter?{g}{z}{f}{l:0000}{s:0000}Has {a:0001} been here?{g}{x:00}
+
+@392
+{z}{f}{l:00cd}No, I have not seen her...{g}{z}If you have business with me,{j:0189}{x:00}
+
+@393
+ perhaps you would like to see to that first?{g}{x:00}
+
+@395
+{z}{f}{l:0097}{s:0097}{a:0000}, my brother wishes to speak with us.{g}{z}We go to the audience chamber at once.{g}{x:00}
+
+@399
+{z}{f}{l:0086}{s:0086}I have been waiting, {a:0000}!{g}{x:00}
+
+@400
+{z}{f}{l:0086}Let me hear at once how firm your resolve is.{g}{j:0191}{x:00}
+
+@401
+{z}Are you willing to serve the Kingdom of Fenrir as a knight and stake your life on it?{y:0001920193}{x:00}
+
+@402
+{z}{f}{l:0086}Good, I understand your resolve! Let us go and see the Queen at once. Your investiture is to be held.{g}{x:00}
+
+@403
+{z}{f}{l:0086}I see... A pity, but so be it. Walk the path you believe in...{g}{x:00}
+
+@404
+{z}{f}{l:0086}The Queen entrusted me with this, to be given should you decline. Please do take it.{g}{x:00}
+
+@405
+{z}You received 30000 G.{g}{x:00}
+
+@406
+{z}{f}{l:0086}Then I hope you will go on lending your strength to Fenrir...{w} Well done.{g}{x:00}
+
+@410
+{z}{f}{l:0000}{s:0000}What is it...?{g}{x:00}
+
+@411
+{z}{f}{l:00a9}{s:00a9}You see, there is something I want very much...{g}{x:00}
+
+@412
+{z}{f}{l:0088}{s:0088}Lady {a:00a9}, are you safe?!{g}{x:00}
+
+@413
+{z}{f}{l:0088}Hey, you! What do you mean by taking Lady {a:00a9} into your room?!{g}{z}Try anything funny and you'll answer to me!{g}{x:00}
+
+@414
+{z}{f}{l:00a9}Don't get the wrong idea!{g}{z}I asked {a:0000} myself.{g}{x:00}
+
+@415
+{z}{f}{l:00a9}Say, {a:0000}, do you know the small island north of the continent?{g}{z}They say pirates hid a big jewel they stole{j:01a0}{x:00}
+
+@416
+ on that island...{g}{z}I want you, {a:0000}, to fetch it for me. Please!{g}{x:00}
+
+@417
+{z}{f}{l:0088}If that's all it is, leave it to me, {a:0088}...{g}{x:00}
+
+@418
+{z}{f}{l:00a9}Oh, you're still here?{g}{z}I'm asking {a:0000}. Don't interfere.{g}{x:00}
+
+@419
+{z}{f}{l:0088}Tch...{w} Damn it. Why ask a fellow like that...{g}{x:00}
+
+@420
+{z}{f}{l:00a9}Be sure to bring back the jewel. Promise, {a:0000}.{g}{z}But pirates are said to appear near the island... so be careful.{g}{x:00}
+
+@421
+{z}{f}{l:00a9}It's not much, but use this to get ready.{g}{x:00}
+
+@422
+{z}You received 16000 G.{g}{x:00}
+
+@423
+{z}{f}{l:00a9}I'll wait here. Call me when you're ready.{g}{x:00}
+
+@424
+{z}{f}{l:00a9}{s:00a9}Are you ready yet?{y:0001a901aa}{x:00}
+
+@425
+{z}{f}{l:00a9}I'm looking forward to the jewel!{g}{x:00}
+
+@426
+{z}{f}{l:00a9}Hurry!{g}{x:00}
+
+@430
+{z}{f}{l:00a9}{s:00a9}{a:0000}...{w} Mother found out...{g}{x:00}
+
+@431
+{z}{f}{l:0099}{s:0099}I heard from {a:00a9}. You took a jewel from pirates, I hear.{g}{z}I thought highly of you...{j:01b0}{x:00}
+
+@432
+ but I never permitted you to go into battle without my leave.{g}{x:00}
+
+@433
+{z}{f}{l:00a9}I told you, I'm the one who talked him into it!{g}{x:00}
+
+@434
+{z}{f}{l:0099}{a:0000}, whatever the circumstances from now on, do not move troops without my leave.{g}{z}Break this again and you will be severely punished. Understood?{g}{x:00}
+
+@435
+{z}{f}{l:00a9}I'm sorry, it's my fault...{g}{z}{f}{l:0000}{s:0000}No, what is done is done.{g}{x:00}
+
+@436
+{z}{f}{l:0000}More importantly, the jewel...{g}{x:00}
+
+@437
+{z}{f}{l:00a9}Thank you...{w} But I have caused you trouble...{g}{x:00}
+
+@438
+{z}{f}{l:00a9}I've never seen Mother look so frightening.{g}{z}I wonder if something happened...{g}{x:00}
+
+@440
+{z}{f}{l:00a9}{s:00a9}{a:0000}...{w} Mother is here.{g}{x:00}
+
+@441
+{z}{f}{l:0099}{s:0099}Just now {a:0088} came to give {a:00a9} a jewel.{g}{z}He apparently fought pirates and took it.{g}{j:01ba}{x:00}
+
+@442
+{z}I scolded him severely. Fighting without my leave is never permitted.{g}{z}{f}{l:0000}{s:0000}...{g}{x:00}
+
+@444
+{z}{f}{l:0099}I will tell you too: whatever the circumstances from now on, do not move troops without my leave.{g}{j:01bd}{x:00}
+
+@445
+{z}Break this and you will be severely punished. Understood?{g}{x:00}
+
+@446
+{z}{f}{l:00a9}If it had been you with the jewel, you would have been scolded.{g}{j:01bf}{x:00}
+
+@447
+{z}Mother took the jewel away, but I'm glad it caused you no trouble.{g}{z}Please forget about today.{g}{x:00}
+
+@450
+{z}{f}{l:00a9}{s:00a9}{a:0000}, the Archbishop is here now, talking with Sister in the audience chamber.{g}{z}Something about it feels really wrong...{g}{x:00}
+
+@452
+{z}{f}{l:00a9}{a:0000}, go and hear what they say!{g}{z}{f}{l:0000}{s:0000}Understood...{g}{x:00}
+
+@455
+{z}{f}{l:0086}{s:0086}{a:0000}, an archbishop has come as the Pope's envoy.{g}{z}What is he discussing with Her Majesty...{j:01c8}{x:00}
+
+@456
+ It may be something we cannot ignore. We are going to see for ourselves!{g}{z}{f}{l:0000}{s:0000}Me too...?{j:01c9}{x:00}
+
+@457
+ Understood, let us go.{g}{x:00}
+
+@460
+{z}{f}{l:0099}{s:0099}Christina... I apologise for keeping it from you.{g}{z}But what you are about to do{j:01cd}{x:00}
+
+@461
+ will rob the people of a prosperous life. Will you go anyway?{g}{x:00}
+
+@462
+{z}{f}{l:0098}{s:0098}A prosperity won by dirtying our hands...{g}{z}I will never accept it!{g}{x:00}
+
+@463
+{z}{f}{l:0099}Why will you not think realistically...{w} Fine ideals alone cannot protect the people.{g}{x:00}
+
+@464
+{z}{f}{l:0099}{a:0086}, {a:0000}, I must give a painful and sorrowful order.{g}{z}Capture Christina!{g}{x:00}
+
+@466
+{z}You received 20000 G.{g}{x:00}
+
+@467
+{z}{f}{l:0099}To preserve the people's way of life, you need not hold back, queen or no queen.{g}{z}Now, go and prepare at once!{g}{x:00}
+
+@468
+{z}{f}{l:0086}{s:0086}There is no other way... Please understand, {a:0000}.{g}{x:00}
+
+@469
+{z}{f}{l:0099}{s:0099}I want this to be the last such battle...{g}{x:00}
+
+@470
+{z}{f}{l:0099}{s:0099}Are you prepared?{y:0001d701d8}{x:00}
+
+@471
+{z}{f}{l:0099}I will go as well!{g}{x:00}
+
+@472
+{z}{f}{l:0099}Hurry! If the pirates are defeated...{g}{x:00}
+

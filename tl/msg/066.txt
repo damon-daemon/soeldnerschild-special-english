@@ -1,0 +1,618 @@
+@0
+{z}{s:0320}Hey, {a:0000}, can anyone carry that secret letter?{g}{x:00}
+
+@1
+{z}Is there some reason it has to be {a:0000}?{g}{x:00}
+
+@2
+{z}{s:0320}Once it's known who has the papers, the enemy will concentrate on them.{g}{x:00}
+
+@3
+{z}So it's the most dangerous job. It has to be someone who can take a concentrated attack.{g}{x:00}
+
+@4
+{z}{s:0320}Then anyone will do. Nobody in this company is that weak.{g}{x:00}
+
+@5
+{z}{s:0320}Captain, what'll you do? Give it to someone else?{g}{x:00}
+
+@6
+{z}I'll tell you now, I'm not carrying it. I don't like being chased.{g}{x:00}
+
+@7
+{z}{s:0320}...Not me either.{g}{x:00}
+
+@8
+{z}{s:0320}I'm fine with it... Even if the enemy targets me...{g}{x:00}
+
+@9
+{z}{s:0320}{a:0000} is only thinking of us.{g}{x:00}
+
+@10
+{z}You should understand that much.{g}{x:00}
+
+@11
+{z}{s:0320}Oh? Was that it? Sorry, {a:0000}...{g}{x:00}
+
+@12
+{z}I didn't realise you were being kind...{g}{x:00}
+
+@13
+{z}{s:0320}Tch... Always playing the good guy.{g}{x:00}
+
+@14
+{z}{s:0320}{a:0002}! Stop complaining! Be a man!{g}{x:00}
+
+@15
+{z}{s:0320}All right...{g}{x:00}
+
+@16
+{z}{s:0320}Me? Really? Right, I'll do my best!{g}{x:00}
+
+@17
+{z}{s:0320}Is this one really all right? I'm a bit worried...{g}{x:00}
+
+@18
+{z}{s:0320}It'll be fine. Won't it, {a:0001}?{g}{x:00}
+
+@19
+{z}{s:0320}Yes! It'll be fine!{g}{x:00}
+
+@20
+{z}{s:0320}Right! Leave it to me! I won't let anyone have those papers!{g}{x:00}
+
+@21
+{z}{s:0320}I'd be fine even if the enemy targeted me...{g}{x:00}
+
+@22
+{z}{s:0320}{a:0000} is only thinking of us.{g}{x:00}
+
+@23
+{z}You should understand that much.{g}{x:00}
+
+@24
+{z}{s:0320}Oh? Was that it? Sorry, {a:0000}...{g}{x:00}
+
+@25
+{z}I didn't realise you were being kind...{g}{x:00}
+
+@26
+{z}{s:0320}Understood, leave it to me. I'll protect these papers without fail.{g}{x:00}
+
+@27
+{z}{s:0320}So our job is to keep the enemy away from {a:0003}...{g}{x:00}
+
+@28
+{z}Well, that sounds interesting too.{g}{x:00}
+
+@29
+{z}{s:0320}I'd be fine even if the enemy targeted me...{g}{x:00}
+
+@30
+{z}{s:0320}{a:0000} is only thinking of you.{g}{x:00}
+
+@31
+{z}You should understand that much.{g}{x:00}
+
+@32
+{z}{s:0320}Oh? Was that it? Sorry, {a:0000}...{g}{x:00}
+
+@33
+{z}I didn't realise you were being kind...{g}{x:00}
+
+@34
+{z}{s:0320}I heard that whole conversation...{g}{x:00}
+
+@35
+{z}{s:0320}I wanted to know who holds the papers.{g}{x:00}
+
+@36
+{z}{s:0320}They never knew someone was listening... Fools.{g}{x:00}
+
+@37
+{z}{s:0320}Once we know who has the papers, this battle is as good as won.{g}{x:00}
+
+@38
+{z}We need only go after that one.{g}{x:00}
+
+@39
+{z}{s:0320}Be careful, {a:0000}. The enemy will come for you.{g}{x:00}
+
+@40
+{z}{s:0320}Captain, just head north. We'll hold the enemy off.{g}{x:00}
+
+@41
+{z}{s:0320}{a:0000}, avoid fighting the enemy as much as you can.{g}{x:00}
+
+@42
+{z}It's over if the papers are taken.{g}{x:00}
+
+@43
+{z}{s:0320}The enemy will come for you. Be careful.{g}{x:00}
+
+@44
+{z}{s:0320}I'm prepared for that. But the rest of you had better cover me properly.{g}{x:00}
+
+@45
+{z}{s:0320}{a:0001}, just head north.{g}{x:00}
+
+@46
+{z}Follow the road north.{g}{x:00}
+
+@47
+{z}{s:0320}Understood.{g}{x:00}
+
+@48
+{z}{s:0320}So they are after me... Fine by me.{g}{x:00}
+
+@49
+{z}{s:0320}Just head north. We'll deal with the enemy.{g}{x:00}
+
+@50
+{z}{s:0320}I mustn't fight? Tch... how dull.{g}{x:00}
+
+@51
+{z}{s:0320}If the papers fall into enemy hands, it's over.{g}{x:00}
+
+@52
+{z}And you're the one carrying them. Do you think this is the time to fight?{g}{x:00}
+
+@53
+{z}{s:0320}...All right.{g}{x:00}
+
+@54
+{z}{s:0320}The enemy will probably come after me. Everyone, back me up.{g}{x:00}
+
+@55
+{z}{s:0320}Don't worry about backup. Just head north.{g}{x:00}
+
+@56
+{z}{s:0320}North, right? Understood.{g}{x:00}
+
+@57
+{z}{s:0320}Don't let the one with the papers escape! Got that?{g}{x:00}
+
+@58
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@59
+{z}{s:0320}Someone's coming from over there... Who are they?{g}{x:00}
+
+@60
+{z}{s:0320}Huh? A company... and a company... Are they fighting?{g}{x:00}
+
+@61
+{z}{s:0320}Hey! Boss! It's me!{g}{x:00}
+
+@62
+{z}{s:0320}You're... from the other day... Well! Fancy meeting you here!{g}{x:00}
+
+@63
+{z}{s:0320}Do you know them?{g}{x:00}
+
+@64
+{z}{s:0320}We met at a tavern the other day. Never thought I'd see him here.{g}{x:00}
+
+@65
+{z}{s:0320}I wonder if they'd lend us a hand.{g}{x:00}
+
+@66
+{z}If they would, it'd make things much easier.{g}{x:00}
+
+@67
+{z}{s:0320}True enough. Let's ask them...{g}{x:00}
+
+@68
+{z}Hey, boss! We could use your help. What do you say?{g}{x:00}
+
+@69
+{z}{s:0320}Lend a hand...? What do we have to do?{g}{x:00}
+
+@70
+{z}{s:0320}We want you to attack the enemy captain.{g}{x:00}
+
+@71
+{z}And take the papers he carries...{g}{x:00}
+
+@72
+{z}{s:0320}We want you to attack that slip of a girl over there.{g}{x:00}
+
+@73
+{z}And take the papers she carries...{g}{x:00}
+
+@74
+{z}{s:0320}We want you to attack that youngster over there.{g}{x:00}
+
+@75
+{z}And take the papers he carries...{g}{x:00}
+
+@76
+{z}{s:0320}We want you to attack that fierce-looking woman over there...{g}{x:00}
+
+@77
+{z}And take the papers she carries...{g}{x:00}
+
+@78
+{z}{s:0320}Easy enough! Leave it to us!{g}{x:00}
+
+@79
+{z}{s:0320}Really? I'm in your debt!{g}{x:00}
+
+@80
+{z}{s:0320}Boss, is this wise?{g}{x:00}
+
+@81
+{z}{s:0320}We won't know till we try. But he's an acquaintance of mine.{g}{x:00}
+
+@82
+{z}And he's come asking me a favour. I can't very well refuse.{g}{x:00}
+
+@83
+{z}{s:0320}So many bandits on the enemy's side... Will {a:0000} be all right...?{g}{x:00}
+
+@84
+{z}{s:0320}They've allied with bandits... Tch, this is getting troublesome.{g}{x:00}
+
+@85
+{z}{s:0320}This is getting troublesome... Will {a:0000} be all right...?{g}{x:00}
+
+@86
+{z}{s:0320}Captain, are you all right? Things have turned nasty.{g}{x:00}
+
+@87
+{z}{s:0320}Enemy reinforcements, now of all times... We can't win...{g}{x:00}
+
+@88
+{z}{s:0320}Caught between bandits and mercenaries...{g}{x:00}
+
+@89
+{z}{s:0320}Bandits in front, mercenaries behind... Even for me, this is bad.{g}{x:00}
+
+@90
+{z}{s:0320}Mercenaries and bandits joining forces...{g}{x:00}
+
+@91
+{z}Everyone! Back me up!{g}{x:00}
+
+@92
+{z}{s:0320}Hey! Don't resist! Hand it over, quick!{g}{x:00}
+
+@93
+{z}{s:0320}Eek... the papers... If only I'd tried harder...{g}{x:00}
+
+@94
+{z}{s:0320}Hey! Don't resist! Hand it over, quick!{g}{x:00}
+
+@95
+{z}{s:0320}Damn... because of me... the papers were taken...{g}{x:00}
+
+@96
+{z}{s:0320}Hey! Don't resist! Hand it over, quick!{g}{x:00}
+
+@97
+{z}{s:0320}The papers were taken... I'm sorry... it's my fault.{g}{x:00}
+
+@98
+{z}{s:0320}We have the papers... That's the job done.{g}{x:00}
+
+@99
+{z}My thanks, bandits. We owe it all to your help.{g}{x:00}
+
+@100
+{z}{s:0320}Think nothing of it! We help each other in a pinch.{g}{x:00}
+
+@101
+{z}Well, we're going back to the hideout. We've not had a brawl like that in ages, and it's worn us out.{g}{x:00}
+
+@102
+{z}Be seeing you!{g}{x:00}
+
+@103
+{z}{s:0320}Let's go back to town too...{w}{w} Pull out!{g}{x:00}
+
+@104
+{z}{s:0320}We have the papers... That's the job done.{g}{x:00}
+
+@105
+{z}With the papers in hand, nothing keeps us here. Heading home!{g}{x:00}
+
+@106
+{z}...{w}{w} Oh, right! On the way back we must stop at the bandits' hideout and thank them!{g}{x:00}
+
+@107
+{z}We won thanks to them, after all.{g}{x:00}
+
+@108
+{z}{s:0320}We have the papers... That's the job done.{g}{x:00}
+
+@109
+{z}With the papers in hand, nothing keeps us here. Pulling out!{g}{x:00}
+
+@110
+{z}{s:0320}We have the papers... This is right, isn't it?{g}{x:00}
+
+@111
+{z}Good, our part is done! Let's take this to the mercenaries!{g}{x:00}
+
+@112
+{z}{s:0320}The papers were taken... Mission failed.{g}{x:00}
+
+@113
+{z}He must be feeling low. And it wasn't his fault alone...{g}{x:00}
+
+@114
+{z}{s:0320}The papers were taken... We failed the mission.{g}{x:00}
+
+@115
+{z}{a:0001} must be downcast... And it was not her fault alone...{g}{x:00}
+
+@116
+{z}{s:0320}The papers were taken... Mission failed.{g}{x:00}
+
+@117
+{z}The poor boy must be downcast... It wasn't his fault alone...{g}{x:00}
+
+@118
+{z}{s:0320}Damn... they took the papers. We've lost.{g}{x:00}
+
+@119
+{z}He must be feeling low... And it wasn't his fault alone...{g}{x:00}
+
+@120
+{z}{s:0320}The papers were taken... Mission failed.{g}{x:00}
+
+@121
+{z}Come to think of it, {a:0002} said something about it being his fault when we retreated... Even he feels responsible.{g}{x:00}
+
+@122
+{z}{s:0320}The papers were taken... We failed the mission.{g}{x:00}
+
+@123
+{z}Let's cheer {a:0002} up when we're back. Even he must be downcast this time.{g}{x:00}
+
+@124
+{z}{s:0320}The papers were taken... Mission failed.{g}{x:00}
+
+@125
+{z}Let's hurry back and cheer {a:0002} up. He must be really downcast today.{g}{x:00}
+
+@126
+{z}{s:0320}The papers fell into enemy hands... Mission failed...{g}{x:00}
+
+@127
+{z}Even {a:0002} must be downcast today. Let's hurry back and cheer him up.{g}{x:00}
+
+@128
+{z}{s:0320}The papers were taken... Mission failed.{g}{x:00}
+
+@129
+{z}{a:0003} must be down. She has a strong sense of duty. Let's hurry back and cheer her up.{g}{x:00}
+
+@130
+{z}{s:0320}The papers were taken... We failed the mission.{g}{x:00}
+
+@131
+{z}{a:0003} has a strong sense of duty. She must be very downcast. Let's hurry back and cheer her up.{g}{x:00}
+
+@132
+{z}{s:0320}Damn... they took the papers. We've lost.{g}{x:00}
+
+@133
+{z}{a:0003} must be down. She has a strong sense of duty. Let's hurry back and cheer her up.{g}{x:00}
+
+@134
+{z}{s:0320}The papers fell into enemy hands... Mission failed...{g}{x:00}
+
+@135
+{z}{a:0003} must be downcast... And it wasn't her fault alone... We must hurry back and cheer her up.{g}{x:00}
+
+@136
+{z}{s:0320}Once we're in this forest, the enemy can't follow...{g}{x:00}
+
+@137
+{z}I'm going on ahead! I'll shake the enemy off for good here!{g}{x:00}
+
+@138
+{z}{s:0320}Once we're in this forest, the enemy can't follow us any more...{g}{x:00}
+
+@139
+{z}I'm hurrying on! Everyone, be sure to catch up with me!{g}{x:00}
+
+@140
+{z}{s:0320}Once we're in this forest, the enemy won't be able to follow us...{g}{x:00}
+
+@141
+{z}I'm hurrying on! It's the perfect chance to shake the enemy off for good!{g}{x:00}
+
+@142
+{z}{s:0320}Once we're in this forest, I doubt the enemy can follow us...{g}{x:00}
+
+@143
+{z}I'm hurrying on! Now is the only time to shake the enemy off for good!{g}{x:00}
+
+@144
+{z}{s:0320}We've lost them... We can't catch up now...{g}{x:00}
+
+@145
+{z}{s:0320}Sorry... I was no use to you...{g}{x:00}
+
+@146
+{z}{s:0320}No... it's all right. Don't worry about it.{g}{x:00}
+
+@147
+{z}{s:0320}Some of the enemy are left, but there's no point staying here.{g}{x:00}
+
+@148
+{z}{s:0320}Yes, we've no business with those men either... Staying here is pointless...{g}{x:00}
+
+@149
+{z}There's nothing for it but to go home...{g}{x:00}
+
+@150
+{z}{s:0320}Then we'll pull out too.{g}{x:00}
+
+@151
+{z}I'm truly sorry about today... Until next time.{g}{x:00}
+
+@152
+{z}{s:0320}Nothing for it... We were soundly beaten today...{g}{x:00}
+
+@153
+{z}{s:0320}We've lost them... We can't catch up now...{g}{x:00}
+
+@154
+{z}Even joining forces with the bandits wasn't enough... Oh well. Let's pull out.{g}{x:00}
+
+@155
+{z}{s:0320}We've lost them... We can't catch up now...{g}{x:00}
+
+@156
+{z}Oh well... We lost. Let's go home...{g}{x:00}
+
+@157
+{z}{s:0320}Damn, we've lost them... We'll never catch up now...{g}{x:00}
+
+@158
+{z}Let's go home... No point staying here. We were no help to them...{g}{x:00}
+
+@159
+{z}{s:0320}Phew... That should make us safe. The mission is done.{g}{x:00}
+
+@160
+{z}Now, shall we go after the others? They must be uneasy with only one company.{g}{x:00}
+
+@161
+{z}{s:0320}Now we can rest easy. Glad we saw the mission through.{g}{x:00}
+
+@162
+{z}Now, I must join up with them. They'll surely feel uneasy with only one company.{g}{x:00}
+
+@163
+{z}{s:0320}Yes! We protected the documents! We won!{g}{x:00}
+
+@164
+{z}Let's hurry after the others. They must be lonely, I'm sure of it.{g}{x:00}
+
+@165
+{z}{s:0320}Thank goodness... They weren't taken...{g}{x:00}
+
+@166
+{z}Now, I must hurry after them... They might be feeling lonely.{g}{x:00}
+
+@167
+{z}{s:0320}We're safe now. I'm glad we completed the mission...{g}{x:00}
+
+@168
+{z}Come, let's hurry after them. They might well be anxious.{g}{x:00}
+
+@169
+{z}{s:0320}Them... and us... Everyone... Everyone's been wiped out...{g}{x:00}
+
+@170
+{z}{s:0320}As long as the enemy is beaten, there's nothing left to worry about.{g}{x:00}
+
+@171
+{z}Now, let's hurry on.{g}{x:00}
+
+@172
+{z}{s:0320}The enemy's gone... Now we can go on in peace.{g}{x:00}
+
+@173
+{z}Now then, let's hurry on.{g}{x:00}
+
+@174
+{z}{s:0320}The enemy has been wiped out... Now there's nothing to worry about.{g}{x:00}
+
+@175
+{z}Everyone! Let's hurry on!{g}{x:00}
+
+@176
+{z}{s:0320}The enemy is wiped out... At last we can go on in peace.{g}{x:00}
+
+@177
+{z}Everyone! Let's hurry on!{g}{x:00}
+
+@178
+{z}{s:0320}The enemy is wiped out... We're safe now.{g}{x:00}
+
+@179
+{z}Everyone! Let's hurry!{g}{x:00}
+
+@180
+{z}{s:0320}I can't fight any more... I'm sorry...{g}{x:00}
+
+@181
+{z}{s:0320}Damn it... my company...{g}{x:00}
+
+@182
+{z}{s:0320}I'm sorry... I'll have to pull out.{g}{x:00}
+
+@183
+{z}{s:0320}Ow, ow... Sorry... I'm withdrawing...{g}{x:00}
+
+@184
+{z}{s:0320}...Forgive me. At such a crucial time...{g}{x:00}
+
+@185
+{z}{s:0320}You'll have to manage... without me... Sorry...{g}{x:00}
+
+@186
+{z}{s:0320}The mercenaries are wiped out... Are we to fight on alone?{g}{x:00}
+
+@187
+{z}Damn it! We're in this now! I'll see it through to the end!{g}{x:00}
+
+@188
+{z}{s:0320}The rest is up to you... Do your best...{g}{x:00}
+
+@189
+{z}{s:0320}These men... they're strong...{g}{x:00}
+
+@190
+{z}{s:0320}R-remember this... Next time, I won't let you off lightly...{g}{x:00}
+
+@191
+{z}{s:0320}I couldn't help you... Sorry...{g}{x:00}
+
+@192
+{z}{s:0320}The bandits are wiped out... This is bad...{g}{x:00}
+
+@193
+{z}{s:0320}You lot... be sure you take those documents...{g}{x:00}
+
+@194
+{z}{s:0320}I won't hold back! Prepare yourself!{g}{x:00}
+
+@195
+{z}{s:0320}Don't think you'll live through a fight with me!{g}{x:00}
+
+@196
+{z}{s:0320}You're my opponent? Heh... This will be over quickly.{g}{x:00}
+
+@197
+{z}{s:0320}I won't lose! I'll never lose to the likes of you!{g}{x:00}
+
+@198
+{z}{s:0320}You really want to take on my company? What a fool...{g}{x:00}
+
+@199
+{z}{s:0320}Don't think it'll be that easy! I'm a bandit chief!{g}{x:00}
+
+@200
+{z}{s:0320}I won't hand this over, even if I die! I can't give it up!{g}{x:00}
+
+@201
+{z}{s:0320}I'll never give this up! Whatever happens!{g}{x:00}
+
+@202
+{z}{s:0320}You want this? If you want it, take it by force!{g}{x:00}
+
+@203
+{z}{s:0320}As if I'd give this to the likes of you!{g}{x:00}
+
+@204
+{z}All right, I'm counting on you.{g}{x:00}
+
+@205
+{z}Without everyone's support, I could never manage this...{g}{x:00}
+

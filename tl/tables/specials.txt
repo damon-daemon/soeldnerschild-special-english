@@ -1,0 +1,22 @@
+# special moves, half-width (0x8001a65c): KEY|English, at most 11 letters (see tools/tables.py; Japanese: tables.py show specials)
+00|Megaton Pch
+01|Mighty Frog
+02|God Hand
+03|BusterSword
+04|Ray Blade
+05|Overdrive
+06|Axe Express
+07|Spiral Axe
+08|Final Burn
+09|Power Slash
+0a|Hyper Blast
+0b|Moon Strike
+0c|Heavy Crush
+0d|Sand Break
+0e|Tornado
+0f|Phantom Spr
+10|ThunderSpin
+11|North Cross
+12|Aura Screw
+13|DoubleSonic
+14|Death Cross

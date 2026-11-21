@@ -1,0 +1,351 @@
+@0
+{z}But somewhere in this forest, {p:01}'s troops are lurking...{g}{x:00}
+
+@1
+{z}{s:0320}Right, and ten companies of them...{g}{x:00}
+
+@2
+{z}{s:0320}Can we find them all?{g}{x:00}
+
+@3
+{z}{s:0320}And time is short, too.{g}{x:00}
+
+@4
+{z}{s:0320}{p:01}'s regular army means to march through here.{g}{x:00}
+
+@5
+{z}{s:0320}Against {p:01}?{g}{x:00}
+
+@6
+{z}{s:0320}Yes. After so many battles, {p:01}'s troops are worn down and their morale is low.{g}{x:00}
+
+@7
+{z}{s:0320}So now is the perfect chance to strike {p:01}.{g}{x:00}
+
+@8
+{z}{s:0320}Where do you think the enemy is?{g}{x:00}
+
+@9
+{z}{s:0320}Probably split up and hiding in two or three places.{g}{x:00}
+
+@10
+{z}{s:0320}Then let's split up and search. We'll find them faster that way.{g}{x:00}
+
+@11
+{z}{s:0320}{a:0000} already thought of that, without you telling him.{g}{x:00}
+
+@12
+{z}{s:0320}Found you!{g}{x:00}
+
+@13
+{z}{s:0320}So you were hiding here!{g}{x:00}
+
+@14
+{z}{s:0320}Come on out!{g}{x:00}
+
+@15
+{z}{s:0320}I knew they'd be here...{g}{x:00}
+
+@16
+{z}{s:0320}So they were here after all...{g}{x:00}
+
+@17
+{z}{s:0320}Found you!{g}{x:00}
+
+@18
+{z}{s:0320}So this is where you were!{g}{x:00}
+
+@19
+{z}{s:0320}You call that hiding?{g}{x:00}
+
+@20
+{z}{s:0320}There are more here!{g}{x:00}
+
+@21
+{z}{s:0320}I knew it... I thought it looked suspicious.{g}{x:00}
+
+@22
+{z}{s:0320}I knew they'd be here...{g}{x:00}
+
+@23
+{z}{s:0320}Come on out!{g}{x:00}
+
+@24
+{z}{s:0320}There are more here!{g}{x:00}
+
+@25
+{z}{s:0320}Finally found you!{g}{x:00}
+
+@26
+{z}{s:0320}How long do you mean to hide? Come out at once!{g}{x:00}
+
+@27
+{z}{s:0320}Just as I expected...{g}{x:00}
+
+@28
+{z}{s:0320}Hmm... So you were here...{g}{x:00}
+
+@29
+{z}{s:0320}We know you're in there! Show yourselves!{g}{x:00}
+
+@30
+{z}{s:0320}Well spotted. {w}{w}Hm? {w}{w}Only we were found...{g}{x:00}
+
+@31
+{z}We'll hold them back for the others! Let's go!{g}{x:00}
+
+@32
+{z}{s:0320}Found out... Then we have no choice but to fight.{g}{x:00}
+
+@33
+{z}We fight alongside the others!{g}{x:00}
+
+@34
+{z}{s:0320}Come quickly!{g}{x:00}
+
+@35
+{z}{s:0320}We've been found... And I thought we'd hidden well.{g}{x:00}
+
+@36
+{z}We'll support the others too! Attack!{g}{x:00}
+
+@37
+{z}{s:0320}Found out... No help for it, we join the battle!{g}{x:00}
+
+@38
+{z}{s:0320}Well done finding us. You have my thanks.{g}{x:00}
+
+@39
+{z}...Why thank you, you ask? {w}{w}Because...{g}{x:00}
+
+@40
+{z}{s:0320}Right, let's get to work.{g}{x:00}
+
+@41
+{z}{s:0320}Wouldn't it be smarter to split the work?{g}{x:00}
+
+@42
+{z}{s:0320}You mean one company fights the enemy and another hunts the ambushers?{g}{x:00}
+
+@43
+{z}{s:0320}Let Captain {a:0000} give the companies their orders.{g}{x:00}
+
+@44
+{z}{s:0320}{a:0000}! It's up to you!{g}{x:00}
+
+@45
+{z}{s:0320}Right! Let's go!{g}{x:00}
+
+@46
+{z}{s:0320}There are still more of us hiding... {w}{w}Too bad for you...{g}{x:00}
+
+@47
+{z}{s:0320}True... this isn't the last of them. {w}{w}Let's split up and search!{g}{x:00}
+
+@48
+{z}{s:0320}Right, let's find the rest of them.{g}{x:00}
+
+@49
+{z}{s:0320}Shut up! We'll find them soon enough!{g}{x:00}
+
+@50
+{z}{s:0320}Indeed, we haven't found even half yet... We must hurry.{g}{x:00}
+
+@51
+{z}{s:0320}{a:0000}, let's find the remaining ambushers quickly.{g}{x:00}
+
+@52
+{z}{s:0320}Still short of ten companies... Where are they hiding?{g}{x:00}
+
+@53
+{z}{s:0320}Still short of ten companies... Where in the world are they hiding?{g}{x:00}
+
+@54
+{z}{s:0320}That's not all of them yet... Where the hell are they hiding?{g}{x:00}
+
+@55
+{z}{s:0320}So there are still some hiding somewhere... Where could they be?{g}{x:00}
+
+@56
+{z}{s:0320}Even this isn't all of them... Where are they?{g}{x:00}
+
+@57
+{z}{s:0320}We hid so well... and to be beaten by mere mercenaries...{g}{x:00}
+
+@58
+{z}{s:0320}Where are the rest of them? We're short on time!{g}{x:00}
+
+@59
+{z}{s:0320}Let's find the rest quickly. I hope we find them all next time...{g}{x:00}
+
+@60
+{z}{s:0320}We must find the rest, and fast... We're running out of time.{g}{x:00}
+
+@61
+{z}{s:0320}Let's find the others quickly! We're running out of time!{g}{x:00}
+
+@62
+{z}{s:0320}Let's find the rest quickly! There's no time!{g}{x:00}
+
+@63
+{z}{s:0320}With all we've found so far, that makes... one, two, three... {w}{w}eight, nine, ten...{g}{x:00}
+
+@64
+{z}We did it! We found them all! Now all that's left is to fight!{g}{x:00}
+
+@65
+{z}{s:0320}With all we've found so far... one, two, three... {w}{w}eight, nine, ten...{g}{x:00}
+
+@66
+{z}Yes! That's all of them! At last we can concentrate on the fight!{g}{x:00}
+
+@67
+{z}{s:0320}With all we've found so far, that makes... one, two, three... {w}{w}eight, nine, ten...{g}{x:00}
+
+@68
+{z}That's all ten companies! Now we just have to wipe out the enemy!{g}{x:00}
+
+@69
+{z}{s:0320}With all we've found so far, that makes... one, two, three... {w}{w}eight, nine, ten...{g}{x:00}
+
+@70
+{z}Phew... we finally found them all. Now we just wipe them out. Come on, one last push!{g}{x:00}
+
+@71
+{z}{s:0320}With all we've found so far, that makes... one, two, three... {w}{w}eight, nine, ten...{g}{x:00}
+
+@72
+{z}So that's all of them. Now we just wipe them out.{g}{x:00}
+
+@73
+{z}{s:0320}...All of us... defeated...{g}{x:00}
+
+@74
+{z}A complete defeat...{g}{x:00}
+
+@75
+{z}{s:0320}Phew... it's finally over...{g}{x:00}
+
+@76
+{z}Having to hunt them down made today's job twice the work.{g}{x:00}
+
+@77
+{z}{s:0320}The enemy's gone... Did we really beat ten companies?{g}{x:00}
+
+@78
+{z}Somehow... I feel like there are still some out there. I'm just imagining it, right?{g}{x:00}
+
+@79
+{z}{s:0320}That's the tenth company... Haah, it's finally over.{g}{x:00}
+
+@80
+{z}The tension of not knowing where the enemy is... It's not bad once in a while.{g}{x:00}
+
+@81
+{z}{s:0320}That makes ten companies...{g}{x:00}
+
+@82
+{z}I don't usually count the companies we beat, but I doubt I'm wrong.{g}{x:00}
+
+@83
+{z}{s:0320}Yes! That wipes them out!{g}{x:00}
+
+@84
+{z}I never knew hunting down the enemy was this hard.{g}{x:00}
+
+@85
+{z}{s:0320}Isn't that {p:01}'s regular army?{g}{x:00}
+
+@86
+{z}{s:0320}What's that? The enemy?{g}{x:00}
+
+@87
+{z}{s:0320}Who's coming from over there?{g}{x:00}
+
+@88
+{z}{s:0320}Is that the enemy coming from over there?{g}{x:00}
+
+@89
+{z}{s:0320}What's coming from over there...{g}{x:00}
+
+@90
+{z}{s:0320}Hm? What is that?{g}{x:00}
+
+@91
+{z}{s:0320}Men of the Tigre Mercenaries! I'll come straight to the point!{g}{x:00}
+
+@92
+{z}Withdraw all forces!{g}{x:00}
+
+@93
+{z}{s:0320}What? What do you mean?!{g}{x:00}
+
+@94
+{z}{s:0320}Huh? What do you mean?{g}{x:00}
+
+@95
+{z}{s:0320}We're out of time, is that it...{g}{x:00}
+
+@96
+{z}{s:0320}Huh? What do you mean?{g}{x:00}
+
+@97
+{z}{s:0320}As I feared... it seems we took too long.{g}{x:00}
+
+@98
+{z}{s:0320}What do you mean?{g}{x:00}
+
+@99
+{z}{s:0320}{p:01} is now fully armed, so our army has called off the advance.{g}{x:00}
+
+@100
+{z}You did not make it in time...{g}{x:00}
+
+@101
+{z}Now, withdraw at once!{g}{x:00}
+
+@102
+{z}{s:0320}Nothing for it... We failed.{g}{x:00}
+
+@103
+{z}{s:0320}Oh, well... Let's withdraw...{g}{x:00}
+
+@104
+{z}{s:0320}Damn it... Why...{g}{x:00}
+
+@105
+{z}{s:0320}Oh, well...{g}{x:00}
+
+@106
+{z}{s:0320}...So be it.{g}{x:00}
+
+@107
+{z}{s:0320}I'm sorry... I was no help...{g}{x:00}
+
+@108
+{z}{s:0320}Damn... Losing to the likes of you... Why me...{g}{x:00}
+
+@109
+{z}{s:0320}{a:0000}... I leave the rest to you...{g}{x:00}
+
+@110
+{z}{s:0320}I'll leave the rest to you all...{g}{x:00}
+
+@111
+{z}{s:0320}I was no use after all...{g}{x:00}
+
+@112
+{z}{s:0320}Here we come! Prepare yourselves!{g}{x:00}
+
+@113
+{z}{s:0320}Better for you if you'd never found us... Poor fellows.{g}{x:00}
+
+@114
+{z}{s:0320}We won't lose!{g}{x:00}
+
+@115
+{z}{s:0320}Anyway, all we can do is try.{g}{x:00}
+
+@116
+{z}You've given us the chance to avenge our comrades! Let's go!{g}{x:00}
+

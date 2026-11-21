@@ -1,0 +1,354 @@
+@0
+{z}{s:0320}Hey, when do we get to go home?{g}{x:00}
+
+@1
+{z}{s:0320}When the relief troops arrive.{g}{x:00}
+
+@2
+{z}{s:0320}So when will they get here?{g}{x:00}
+
+@3
+{z}{s:0320}How should I know?{g}{x:00}
+
+@4
+{z}{s:0320}Ah... nothing to do... This idleness is unbearable...{g}{x:00}
+
+@5
+{z}{s:0320}Hey, if no enemy turns up, is our job done?{g}{x:00}
+
+@6
+{z}{s:0320}That's right.{g}{x:00}
+
+@7
+{z}{s:0320}Hmm... I hope none come...{g}{x:00}
+
+@8
+{z}{s:0320}Hmph! If they're coming, let them come already!{g}{x:00}
+
+@9
+{z}I can't stand this idle waiting.{g}{x:00}
+
+@10
+{z}{s:0320}Is that the fort over there? Where the supply depot is?{g}{x:00}
+
+@11
+{z}{s:0320}Hm? There are strangely few soldiers... Are they all that's guarding it?{g}{x:00}
+
+@12
+{z}And they're not regular army... {w}{w}It's the Tigre lot...{g}{x:00}
+
+@13
+{z}{s:0320}Heh! Easy pickings!{g}{x:00}
+
+@14
+{z}{s:0320}Only if we link up properly, mind.{g}{x:00}
+
+@15
+{z}{s:0320}Ah! Mercenaries! They're almost on us!{g}{x:00}
+
+@16
+{z}{s:0320}Everyone! It's our turn! Steady yourselves!{g}{x:00}
+
+@17
+{z}{s:0320}Right!{g}{x:00}
+
+@18
+{z}{s:0320}It's as if they came back to life... What a change.{g}{x:00}
+
+@19
+{z}{s:0320}Ah... so we have to fight after all.{g}{x:00}
+
+@20
+{z}If it's come to this, we'll just have to. I can't let the others down.{g}{x:00}
+
+@21
+{z}{s:0320}Oh? Are they here?{g}{x:00}
+
+@22
+{z}{s:0320}The supply depot is in that fort, right?{g}{x:00}
+
+@23
+{z}{s:0320}Yes.{g}{x:00}
+
+@24
+{z}{s:0320}What's the plan?{g}{x:00}
+
+@25
+{z}{s:0320}...There isn't one. {w}{w}We seize the supply depot, that's all.{g}{x:00}
+
+@26
+{z}{s:0320}Nice and simple, I like it!{g}{x:00}
+
+@27
+{z}{s:0320}So there was a detached force... No wonder there were so few.{g}{x:00}
+
+@28
+{z}{s:0320}...{w}{w}! They're here... Now we're all together.{g}{x:00}
+
+@29
+{z}{s:0320}What? You're already here? I thought we'd be first.{g}{x:00}
+
+@30
+{z}{s:0320}Hurry over here!{g}{x:00}
+
+@31
+{z}{s:0320}Right! Coming at once! Hold on!{g}{x:00}
+
+@32
+{z}{s:0320}So many of them... Will we be all right?{g}{x:00}
+
+@33
+{z}{s:0320}To think there'd be this many... I hadn't counted on that.{g}{x:00}
+
+@34
+{z}{s:0320}Come on... there are still more? I never expected this.{g}{x:00}
+
+@35
+{z}{s:0320}Damn it... one after another... Come at us all together, then!{g}{x:00}
+
+@36
+{z}{s:0320}Still more... Hmm... Can we hold out?{g}{x:00}
+
+@37
+{z}{s:0320}Who are they?{g}{x:00}
+
+@38
+{z}{s:0320}Well done, all of you. It's time you were relieved... {w}{w}er...{g}{x:00}
+
+@39
+{z}Hm? There shouldn't be that many mercenaries... {w}{w}Are they the enemy? Have they attacked?{g}{x:00}
+
+@40
+{z}{s:0320}Yes! The enemy! Please help us!{g}{x:00}
+
+@41
+{z}{s:0320}That's right, the enemy attacked. Get over here and help!{g}{x:00}
+
+@42
+{z}{s:0320}This is no time to talk of relief! These are the enemy!{g}{x:00}
+
+@43
+{z}{s:0320}Yes! Hurry and help us!{g}{x:00}
+
+@44
+{z}{s:0320}Indeed, come to our aid quickly.{g}{x:00}
+
+@45
+{z}{s:0320}Yes, it's the enemy. This is no time for a changeover.{g}{x:00}
+
+@46
+{z}{s:0320}So the enemy is here after all... It must be {p:01}'s doing...{g}{x:00}
+
+@47
+{z}We will concentrate on guarding the supply depot. We leave the enemy to you.{g}{x:00}
+
+@48
+{z}{s:0320}Yes! Understood!{g}{x:00}
+
+@49
+{z}{s:0320}Then the supply depot is yours to hold.{g}{x:00}
+
+@50
+{z}{s:0320}Right! Leave it to us!{g}{x:00}
+
+@51
+{z}{s:0320}Yes! Understood!{g}{x:00}
+
+@52
+{z}{s:0320}Hmm... We can only do our best.{g}{x:00}
+
+@53
+{z}{s:0320}I will do all I can.{g}{x:00}
+
+@54
+{z}{s:0320}Damn... the regular army turning up... I hadn't counted on that.{g}{x:00}
+
+@55
+{z}{s:0320}We did it! We've seized the enemy supply depot!{g}{x:00}
+
+@56
+{z}{s:0320}Damn... Our vital supply depot is in enemy hands...{g}{x:00}
+
+@57
+{z}All forces! Pull out! Send word at once to the units that were counting on this supply depot!{g}{x:00}
+
+@58
+{z}{s:0320}We're not strong enough... No choice, let's pull out.{g}{x:00}
+
+@59
+{z}{s:0320}Nothing for it... We've lost.{g}{x:00}
+
+@60
+{z}{s:0320}The supply depot in enemy hands... We're beaten, I fear.{g}{x:00}
+
+@61
+{z}{s:0320}Ah... we've lost...{g}{x:00}
+
+@62
+{z}{s:0320}The depot... damn it... It galls me.{g}{x:00}
+
+@63
+{z}{s:0320}Haah... what a pitiful result.{g}{x:00}
+
+@64
+{z}Right, off to report. The regular army asked us to do this. We have no choice.{g}{x:00}
+
+@65
+{z}{s:0320}...Truly pitiful.{g}{x:00}
+
+@66
+{z}Well then, let us go and report. The regular army asked this of us, after all...{g}{x:00}
+
+@67
+{z}{s:0320}To think it would end like this...{g}{x:00}
+
+@68
+{z}Come, let's go and report. The regular army asked it of us, after all...{g}{x:00}
+
+@69
+{z}{s:0320}To let the enemy take the supply depot...{g}{x:00}
+
+@70
+{z}We must hurry and report to {p:01}. We can't cause them any more trouble... {a:0000}! Hurry!{g}{x:00}
+
+@71
+{z}{s:0320}Damn... the depot... How could this happen...{g}{x:00}
+
+@72
+{z}Nothing for it... Let's go and report. Being late would only make things worse.{g}{x:00}
+
+@73
+{z}{s:0320}They were this strong? Those Tigre fellows...{g}{x:00}
+
+@74
+{z}{s:0320}Good! The enemy is wiped out! We've won!{g}{x:00}
+
+@75
+{z}You mercenaries did splendidly. It's thanks to you that we held the supply depot.{g}{x:00}
+
+@76
+{z}Late as it is, we'll take over now. You've done well.{g}{x:00}
+
+@77
+{z}{s:0320}Then we shall be on our way.{g}{x:00}
+
+@78
+{z}{s:0320}Right, we'll be off then.{g}{x:00}
+
+@79
+{z}{s:0320}Right, we'll be off then.{g}{x:00}
+
+@80
+{z}{s:0320}Right, we'll be off then.{g}{x:00}
+
+@81
+{z}{s:0320}Then I shall take my leave.{g}{x:00}
+
+@82
+{z}{s:0320}Phew... the supply depot is safe.{g}{x:00}
+
+@83
+{z}With such a huge army coming, for a while I didn't know what would happen...{g}{x:00}
+
+@84
+{z}{s:0320}Now we can relax.{g}{x:00}
+
+@85
+{z}There were so many of them, I thought we were finished...{g}{x:00}
+
+@86
+{z}{s:0320}Phew... so that's the end of it. We managed to hold it.{g}{x:00}
+
+@87
+{z}Honestly, when they came with that huge army I thought we were done for... but it worked out.{g}{x:00}
+
+@88
+{z}{s:0320}We did it! We held the depot!{g}{x:00}
+
+@89
+{z}We wiped out that huge army! We're something, aren't we?{g}{x:00}
+
+@90
+{z}{s:0320}Hmm... that was close.{g}{x:00}
+
+@91
+{z}Against such a huge army, perhaps it couldn't be helped, but...{g}{x:00}
+
+@92
+{z}{s:0320}I'm sorry... {a:0000}...{g}{x:00}
+
+@93
+{z}{s:0320}My company... wiped out... Damn it...{g}{x:00}
+
+@94
+{z}{s:0320}I have no choice but to pull out... I'm sorry...{g}{x:00}
+
+@95
+{z}{s:0320}Ow, ow... I'm withdrawing... Sorry...{g}{x:00}
+
+@96
+{z}{s:0320}I can do no more... Forgive me.{g}{x:00}
+
+@97
+{z}{s:0320}We came later, yet we fall first... How shameful...{g}{x:00}
+
+@98
+{z}If the enemy takes the supply depot... head off and report at once.{g}{x:00}
+
+@99
+{z}For the sake of the units that rely on its stores... {w}{w}Understood?{g}{x:00}
+
+@100
+{z}{s:0320}If the depot is taken, we lose right there...{g}{x:00}
+
+@101
+{z}{s:0320}If the depot is taken, we have to pull out right then, do we?{g}{x:00}
+
+@102
+{z}{s:0320}Even if the depot is taken, we're not to pursue... is that it?{g}{x:00}
+
+@103
+{z}{s:0320}If the depot is taken, we pull out at once, right?{g}{x:00}
+
+@104
+{z}{s:0320}Even if the depot is taken, there's no time to retake it, I see.{g}{x:00}
+
+@105
+{z}{s:0320}Argh... me, retreating before my own men...{g}{x:00}
+
+@106
+{z}{s:0320}I haven't lost... there's no way I'd lose... {w}{w}Gah...{g}{x:00}
+
+@107
+{z}{s:0320}Gah... the rest is up to you... I'll be waiting... for good news...{g}{x:00}
+
+@108
+{z}{s:0320}Hand over the supply depot, now! Don't resist!{g}{x:00}
+
+@109
+{z}{s:0320}Here we come, you Tigre cowards! Prepare yourselves!{g}{x:00}
+
+@110
+{z}{s:0320}We'll crush your company first! Charge!{g}{x:00}
+
+@111
+{z}{s:0320}Vermin like you think you can beat me?!{g}{x:00}
+
+@112
+{z}{s:0320}Whoever wants to die first, come at me!{g}{x:00}
+
+@113
+{z}{s:0320}Out of the way! Move! I'm headed for the fort!{g}{x:00}
+
+@114
+{z}{s:0320}You won't get near the supply depot!{g}{x:00}
+
+@115
+{z}{s:0320}Too bad... while I'm here, you can't possibly approach the fort.{g}{x:00}
+
+@116
+{z}{s:0320}You'll go no further!{g}{x:00}
+
+@117
+{z}{s:0320}Don't underestimate me just because I'm old.{g}{x:00}
+

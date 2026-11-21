@@ -1,0 +1,381 @@
+@0
+{z}{f}{l:00e7}{s:0001}Hey...{w} will {a:0028} really come here?{g}{x:00}
+
+@1
+{z}{s:0320}He's a mercenary too... Having taken a job, he'll come for certain.{g}{x:00}
+
+@2
+{z}{s:0320}Don't get so fixated on revenge that someone else cuts you down...{g}{x:00}
+
+@3
+{z}{f}{l:00e7}{s:0001}Then {a:0004} will protect me, right?{g}{x:00}
+
+@4
+{z}{s:0320}We'll back you up as much as we can too...{g}{x:00}
+
+@5
+{z}But {a:0028} is a dangerous foe... Don't let your guard down...{g}{x:00}
+
+@6
+{z}{s:0320}That one? That fort is our target this time, right?{g}{x:00}
+
+@7
+{z}{s:0320}There are enemies down there...{g}{x:00}
+
+@8
+{z}{s:0320}Heh... Nothing much to them.{g}{x:00}
+
+@9
+{z}{s:0320}Here they come...{g}{x:00}
+
+@10
+{z}{a:0028}! You killed my father and the others... Here you pay for it!{g}{x:00}
+
+@11
+{z}{f}{l:00e7}{s:0001}Me too!{g}{x:00}
+
+@12
+{z}{s:0320}Heh... I wondered who it was. You lot again!{g}{x:00}
+
+@13
+{z}I'm sick to death of you dogging my heels...{g}{x:00}
+
+@14
+{z}Perfect... I'll kill every last one of you here!{g}{x:00}
+
+@15
+{z}{s:0320}Looks like we're a little late...{g}{x:00}
+
+@16
+{z}{s:0320}{a:002b}!{g}{x:00}
+
+@17
+{z}{s:0320}{p:01} hired us... to back you up.{g}{x:00}
+
+@18
+{z}Leave the small fry to us, and you go after {a:0028}!{g}{x:00}
+
+@19
+{z}{s:0320}...{g}{x:00}
+
+@20
+{z}{a:002b}...{w} I'm in your debt...{g}{x:00}
+
+@21
+{z}{s:0320}Heh heh... This is all part of the job.{g}{x:00}
+
+@22
+{z}Come on, don't dawdle! Let's go, {a:0000}!{g}{x:00}
+
+@23
+{z}{s:0320}So it was the Medusa Mercenaries {p:01} hired...{g}{x:00}
+
+@24
+{z}Well, I'm grateful for the help, but...{g}{x:00}
+
+@25
+{z}{s:0320}I knew it...{w} there must be a man among us she fancies.{g}{x:00}
+
+@26
+{z}It can't be {a:0005}... so it's me... or {a:0002}... or {a:0000}, after all...{g}{x:00}
+
+@27
+{z}{s:0320}The Medusa Mercenaries?! Tch...{w} Damn that {a:002b}...{g}{x:00}
+
+@28
+{z}{f}{l:00e7}{s:0001}This time, no matter what...{w} I can't lose, even if it kills me!{g}{x:00}
+
+@29
+{z}{f}{l:00e9}{s:0002}Anyone who wants to die, step up in front of me!{g}{x:00}
+
+@30
+{z}{s:0320}Until you Blood Mist Mercenaries are wiped out, this continent will never know true peace!{g}{x:00}
+
+@31
+{z}{s:0320}We won't let anyone get in the way of our revenge!{g}{x:00}
+
+@32
+{z}{s:0320}{a:0028}, like {a:0031}, is a man who must be defeated...{g}{x:00}
+
+@33
+{z}{s:0320}Honestly... What am I doing?{g}{x:00}
+
+@34
+{z}Heh heh... Once in a while...{w} why not...{g}{x:00}
+
+@35
+{z}{s:0320}{a:002b}'s whims are a real nuisance...{g}{x:00}
+
+@36
+{z}Poking her nose into a fight like this...{g}{x:00}
+
+@37
+{z}{s:0320}Fighting {a:0028} for nothing hardly pays, but...{g}{x:00}
+
+@38
+{z}It's all for {a:002b}'s sake...{g}{x:00}
+
+@39
+{z}{s:0320}Heh heh heh... Die!{g}{x:00}
+
+@40
+{z}{s:0320}Heh! Here I come!{g}{x:00}
+
+@41
+{z}{s:0320}I'll kill you...{w}{w} I'll kill you!{g}{x:00}
+
+@42
+{z}{f}{l:00e7}{s:0001}{a:0000}... Please...{w}{w} Please avenge my father!{g}{x:00}
+
+@43
+{z}{s:0320}{a:0000}... I leave the rest to you...{g}{x:00}
+
+@44
+{z}Make sure you take {a:0028} down...{g}{x:00}
+
+@45
+{z}{s:0320}This is as far as I go...{g}{x:00}
+
+@46
+{z}Don't give up till the very end! Keep at it!{g}{x:00}
+
+@47
+{z}{s:0320}Damn...{w}{w} This is it... I couldn't help much, could I...{g}{x:00}
+
+@48
+{z}{s:0320}Don't let this chance slip! This time, bring down {a:0028}!{g}{x:00}
+
+@49
+{z}{s:0320}We've been beaten... We came to help, and look at the state of us.{g}{x:00}
+
+@50
+{z}We're falling back, but you must avenge them! Steady now!{g}{x:00}
+
+@51
+{z}{s:0320}Ouch! Beaten again...{g}{x:00}
+
+@52
+{z}{s:0320}I'm done for... {a:002b}...{w} I'm sorry...{g}{x:00}
+
+@53
+{z}{s:0320}Tch... Too many enemies. No choice... retreat!{g}{x:00}
+
+@54
+{z}{s:0320}They've sharpened their skills! {a:0028}! Don't let your guard down!{g}{x:00}
+
+@55
+{z}{s:0320}{a:0028}! Now I'll bring you down!{g}{x:00}
+
+@56
+{z}{s:0320}Heh... You've improved a little, I see.{g}{x:00}
+
+@57
+{z}But you can't beat me... I'll dye this armour in your blood!{g}{x:00}
+
+@58
+{z}One on one, then!{g}{x:00}
+
+@59
+{z}{s:0320}I refuse!{g}{x:00}
+
+@60
+{z}I won't duel a coward like you!{g}{x:00}
+
+@61
+{z}{s:0320}Heh...{w}{w} You're a coward after all.{g}{x:00}
+
+@62
+{z}So you can't beat me in a duel, is that it!{g}{x:00}
+
+@63
+{z}{f}{l:00e7}{s:0001}{a:0000}!{g}{x:00}
+
+@64
+{z}Please...{w} please avenge my father, whatever it takes!{g}{x:00}
+
+@65
+{z}{s:0320}{a:0000}! I leave it to you!{g}{x:00}
+
+@66
+{z}Make sure you win!{g}{x:00}
+
+@67
+{z}{f}{l:00e7}{s:0001}What?! Why did you refuse?{g}{x:00}
+
+@68
+{z}Do you really want to avenge my father or not?!{g}{x:00}
+
+@69
+{z}{f}{l:00e9}{s:0002}{a:0000}! Why?! Why did you refuse?!{g}{x:00}
+
+@70
+{z}If you won't do it, I'll take him down myself!{g}{x:00}
+
+@71
+{z}{s:0320}Why...{w}{w} Weren't you here for revenge?{g}{x:00}
+
+@72
+{z}{s:0320}Are you that afraid of him...{g}{x:00}
+
+@73
+{z}{s:0320}...{g}{x:00}
+
+@74
+{z}Our men's morale has fallen.{g}{x:00}
+
+@75
+{z}{s:0320}Call yourself a man! Didn't you come for revenge?{g}{x:00}
+
+@76
+{z}I thought better of you... Do the rest yourselves!{w}{w} So long!{g}{x:00}
+
+@77
+{z}{f}{l:00e7}{s:0001}You escaped us last time, but not now...{g}{x:00}
+
+@78
+{z}I'll avenge my father with my own hands!{g}{x:00}
+
+@79
+{z}{s:0320}Brat! Don't get cocky!{g}{x:00}
+
+@80
+{z}You're in my way! I'll kill you...{w} Heh.{g}{x:00}
+
+@81
+{z}{s:0320}For Father...{w} for Mother... This time I'll finish you!{g}{x:00}
+
+@82
+{z}{s:0320}Heh! I told you, I don't bother with small fry!{g}{x:00}
+
+@83
+{z}{s:0320}Don't underestimate me... I'm not who I used to be.{g}{x:00}
+
+@84
+{z}I've fought all this time to bring you down!{g}{x:00}
+
+@85
+{z}Here I come!{g}{x:00}
+
+@86
+{z}{s:0320}Now this is fun!{w} Come on, then!{g}{x:00}
+
+@87
+{z}{f}{l:00e7}{s:0001}{v:0095}We did it...{w}{w} We did it!{u}{x:00}
+
+@88
+{z}{v:0096}With everyone's strength...{w} we avenged Father!{u}{x:00}
+
+@89
+{z}{s:0320}{v:0097}Yes...{u}{x:00}
+
+@90
+{z}{v:0098}Father...{w}{w} Mother...{w}{w}{w} I've avenged you...{u}{x:00}
+
+@91
+{z}{s:0320}{v:0099}Ugh...{u}{x:00}
+
+@92
+{z}{v:009a}I...{w} it hurts...{w}{w} Me...{w} am I really dying...?{u}{x:00}
+
+@93
+{z}{v:009b}Ngh...{w} Gaaah...{u}{x:00}
+
+@94
+{z}{v:009c}My blood... Heh...{w} my own armour...{w} dyed with my own blood... Who'd have thought...{u}{x:00}
+
+@95
+{z}{s:0320}...{g}{x:00}
+
+@96
+{z}{s:0320}{v:009d}Laugh...{w}{w}{w} Laugh at my wretched death!{u}{x:00}
+
+@97
+{z}{v:009e}B...{w} but...{w}{w} I'll tell you one thing...{u}{x:00}
+
+@98
+{z}{v:009f}What you're doing{w}{w} is no different from me...{u}{x:00}
+
+@99
+{z}{v:00a0}You do what kings and ministers tell you... kill people...{w} destroy nations...{w} and make orphans...{u}{x:00}
+
+@100
+{z}{v:00a1}Mark that well... and engrave it on your heart... Heh... Heh heh heh heh heh...{u}{x:00}
+
+@101
+{z}{s:0320}{a:0028}... Even {a:0028} has fallen...{w}{w}!{g}{x:00}
+
+@102
+{z}Retreat! We're pulling out!{g}{x:00}
+
+@103
+{z}{s:0320}...{g}{x:00}
+
+@104
+{z}{s:0320}{v:00a2}Pay no mind to what {a:0028} said...{u}{x:00}
+
+@105
+{z}{v:00a3}You're not in the wrong... Have some faith in yourself!{u}{x:00}
+
+@106
+{z}{s:0320}...{g}{x:00}
+
+@107
+{z}{s:0320}{v:00a4}Thanks to you...{w} the age of the mercenary is coming to an end...{u}{x:00}
+
+@108
+{z}{v:00a5}Just once, I'd have liked to talk with you...{w}{w} not as mercenaries... but as ordinary people...{u}{x:00}
+
+@109
+{z}{s:0320}{a:002b}...{g}{x:00}
+
+@110
+{z}{s:0320}{v:00a6}Well...{w} then, we'll be on our way...{u}{x:00}
+
+@111
+{z}{v:00a7}You...{w}{w} Don't you dare die...{u}{x:00}
+
+@112
+{z}{s:0320}{a:0028}!{g}{x:00}
+
+@113
+{z}Reflect in the next world on the weight of the blood soaked into that armour!{g}{x:00}
+
+@114
+{z}{s:0320}Hehehe... Here I come!{g}{x:00}
+
+@115
+{z}{s:0320}Heavy{w} Crush!{g}{x:00}
+
+@116
+{z}{s:0320}Sand Break!{g}{x:00}
+
+@117
+{z}{s:0320}Take this! Tor-{w}nado!{g}{x:00}
+
+@118
+{z}{s:0320}Come on, come on... Still no match for me, eh?{g}{x:00}
+
+@119
+{z}{s:0320}Ngh... Not yet! We're just getting started!{g}{x:00}
+
+@120
+{z}{s:0320}That hurt...{w} That hurt, damn you!{g}{x:00}
+
+@121
+{z}You bastard!{w} I won't forgive you! This time I'll kill you for sure!{g}{x:00}
+
+@122
+{z}{s:0320}{a:0028}... This...{w} is the end!{g}{x:00}
+
+@123
+{z}{s:0320}Hehehe!{w} This time...{w}{w} die!{g}{x:00}
+
+@124
+{z}{s:0320}You...{w} You've got a lot stronger...{w} Tch...{w} Cheeky brat!{g}{x:00}
+
+@125
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@126
+{z}{s:0320}She's a horrid woman, but...{w} I suppose I ought to be grateful this time.{g}{x:00}
+

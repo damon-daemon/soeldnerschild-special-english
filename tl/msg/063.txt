@@ -1,0 +1,387 @@
+@0
+{z}{s:0320}Enemy! The enemy has appeared to the north-west! Prepare to intercept, quickly!{g}{x:00}
+
+@1
+{z}{s:0320}What? Already? Well, we're ready, more or less...{g}{x:00}
+
+@2
+{z}{s:0320}So many of them?{g}{x:00}
+
+@3
+{z}{s:0320}There are quite a lot...{g}{x:00}
+
+@4
+{z}{s:0320}All the more worth fighting! Let's get started!{g}{x:00}
+
+@5
+{z}{s:0320}Look how many enemies there are. How can you be so cheerful?{g}{x:00}
+
+@6
+{z}{s:0320}Because I can't see us losing. What, are you scared?{g}{x:00}
+
+@7
+{z}{s:0320}O-of course not! I'm a staff officer of the knights!{g}{x:00}
+
+@8
+{z}{s:0320}Then that's fine, but...{w}{w} Are you really not scared?{g}{x:00}
+
+@9
+{z}{s:0320}You! Stop pestering me!{g}{x:00}
+
+@10
+{z}{s:0320}If we win this battle, this territory will be ours.{g}{x:00}
+
+@11
+{z}And we have momentum now. I can't see us losing... We'll finish them in one push!{g}{x:00}
+
+@12
+{z}{s:0320}So the enemy has hired the Tigre... That could be trouble.{g}{x:00}
+
+@13
+{z}But we have momentum on our side. Nothing can stop us!{g}{x:00}
+
+@14
+{z}{s:0320}The enemy is coming! Meet them!{g}{x:00}
+
+@15
+{z}{s:0320}...Here we go.{g}{x:00}
+
+@16
+{z}{s:0320}Right!{g}{x:00}
+
+@17
+{z}{s:0320}We'll intercept at the northern bridge. You meet them at the central bridge.{g}{x:00}
+
+@18
+{z}Understood?{g}{x:00}
+
+@19
+{z}{s:0320}A head-on clash, then. A contest of strength...{g}{x:00}
+
+@20
+{z}{s:0320}In a battle like this, the timing of healing is vital. {a:0001}, keep a close watch around you.{g}{x:00}
+
+@21
+{z}What you do will decide the battle.{g}{x:00}
+
+@22
+{z}{s:0320}Understood! Leave it to me!{g}{x:00}
+
+@23
+{z}{s:0320}Damn... why must we go to the front and fight too?{g}{x:00}
+
+@24
+{z}I wish he'd plan to let the mercenaries fight, and if they're wiped out, admit defeat and withdraw.{g}{x:00}
+
+@25
+{z}Then we'd have it easy... Why doesn't he see that? This fool of a commander...{g}{x:00}
+
+@26
+{z}{s:0320}Hey, what's wrong? Did something happen?{g}{x:00}
+
+@27
+{z}{s:0320}N-no, nothing... L-let's fight!{g}{x:00}
+
+@28
+{z}{s:0320}Fight however suits you best. We'll follow your lead.{g}{x:00}
+
+@29
+{z}{s:0320}What shall we do?{g}{x:00}
+
+@30
+{z}{s:0320}Let's go after the Tigre. They're said to be strong...{g}{x:00}
+
+@31
+{z}{s:0320}You want to know how strong they are... Is that it?{g}{x:00}
+
+@32
+{z}{s:0320}Yes.{g}{x:00}
+
+@33
+{z}{s:0320}So we're going after the enemy mercenaries.{g}{x:00}
+
+@34
+{z}{s:0320}Then our target is the knights. As soon as we finish them, we'll join you.{g}{x:00}
+
+@35
+{z}{s:0320}Understood.{g}{x:00}
+
+@36
+{z}{s:0320}Then all forces, advance! Our aim is the enemy's annihilation!{g}{x:00}
+
+@37
+{z}Attack!{g}{x:00}
+
+@38
+{z}{s:0320}Tch... I thought momentum would win it... I can't believe it...{g}{x:00}
+
+@39
+{z}{s:0320}The enemy's advance has been stopped... And against so many troops, too...{g}{x:00}
+
+@40
+{z}I've earned great credit today. There should be a handsome reward in it... I can't wait.{g}{x:00}
+
+@41
+{z}Hey, mercenaries! I want to get back quickly and report. We're leaving.{g}{x:00}
+
+@42
+{z}{s:0320}I wonder if I'll get a reward too... Though I hardly did anything...{g}{x:00}
+
+@43
+{z}{s:0320}Huh? Already over? They're good, these men...{g}{x:00}
+
+@44
+{z}I was sure you'd win. I'd only have been in the way, so I hung back a bit...{g}{x:00}
+
+@45
+{z}So we'll withdraw now. We have all sorts of reports to make...{g}{x:00}
+
+@46
+{z}I'm sorry...{g}{x:00}
+
+@47
+{z}{s:0320}It's over... We've won, haven't we?{g}{x:00}
+
+@48
+{z}We practically won thanks to you mercenaries... Thank you.{g}{x:00}
+
+@49
+{z}{s:0320}Good work today, everyone. We completed the mission safely.{g}{x:00}
+
+@50
+{z}That was a hard fight. I'm worn out. Let's have a good rest in town.{g}{x:00}
+
+@51
+{z}{s:0320}We did it! We've won! We stopped the enemy's advance!{g}{x:00}
+
+@52
+{z}Battles like this are tiring. I want to go home and rest.{g}{x:00}
+
+@53
+{z}{s:0320}Phew... It's over... That's today's job done.{g}{x:00}
+
+@54
+{z}Well, time to head back. I need a good rest... I've been feeling worn out lately.{g}{x:00}
+
+@55
+{z}{s:0320}Thank goodness... we won...{g}{x:00}
+
+@56
+{z}The fighting has been fierce, so everyone must be tired. Let's go home and rest.{g}{x:00}
+
+@57
+{z}{s:0320}Well, that's the end of it.{g}{x:00}
+
+@58
+{z}So in the end, only you and I are left... We must fight better than this.{g}{x:00}
+
+@59
+{z}{s:0320}What was that?! That staff officer! He's the worst!{g}{x:00}
+
+@60
+{z}We won, but I can't be happy about it. It's his fault!{g}{x:00}
+
+@61
+{z}{s:0320}What's with that guy?! He makes my blood boil!{g}{x:00}
+
+@62
+{z}We won, and I still can't be glad. It's his fault!{g}{x:00}
+
+@63
+{z}{s:0320}Hm... So the knights had a man like that...{g}{x:00}
+
+@64
+{z}Even though we won, it feels like we fought for his sake. Not a pleasant feeling.{g}{x:00}
+
+@65
+{z}{s:0320}What is it with that man?! So self-serving!{g}{x:00}
+
+@66
+{z}We won, but I'm not happy at all... It's his fault!{g}{x:00}
+
+@67
+{z}{s:0320}Hm... A man like that among the knights... I can hardly believe it.{g}{x:00}
+
+@68
+{z}{s:0320}I'm sorry...{g}{x:00}
+
+@69
+{z}{s:0320}Why... why did I lose? I can't believe it...{g}{x:00}
+
+@70
+{z}{s:0320}I'm sorry... I can't fight any more...{g}{x:00}
+
+@71
+{z}{s:0320}I'm retreating...{g}{x:00}
+
+@72
+{z}{s:0320}It seems we must withdraw... Forgive me.{g}{x:00}
+
+@73
+{z}{s:0320}Tch... I leave everything to you... I'm counting on you...{g}{x:00}
+
+@74
+{z}{s:0320}Sorry... I'm retreating... I can't fight any more...{g}{x:00}
+
+@75
+{z}The rest... I leave to you... I'm counting on you.{g}{x:00}
+
+@76
+{z}{s:0320}You? Do you mean me? You're leaving it to me?{g}{x:00}
+
+@77
+{z}Impossible... If the commander couldn't beat them, there's no way I can.{g}{x:00}
+
+@78
+{z}...{w}{w} Not me! It wasn't me the commander entrusted! I wasn't entrusted with anything!{g}{x:00}
+
+@79
+{z}{s:0320}Tch... that I should lose... Mercenaries, I leave it to you...{g}{x:00}
+
+@80
+{z}{s:0320}To run away and still lose... I must look utterly pathetic...{g}{x:00}
+
+@81
+{z}{s:0320}I knew it, we lost... That's why I said to let the mercenaries fight...{g}{x:00}
+
+@82
+{z}{s:0320}How irresponsible! And he's a member of the knights...{g}{x:00}
+
+@83
+{z}{s:0320}So he really was scared... What a pathetic man.{g}{x:00}
+
+@84
+{z}{s:0320}And he calls himself a knight... What a disgrace.{g}{x:00}
+
+@85
+{z}{s:0320}How can anyone be so irresponsible?! I can't believe it!{g}{x:00}
+
+@86
+{z}{s:0320}A man like that, one of the knights... I can hardly believe it.{g}{x:00}
+
+@87
+{z}{s:0320}Well then, time to run away...{g}{x:00}
+
+@88
+{z}{s:0320}Run away? Don't be ridiculous! And you call yourself a knight!{g}{x:00}
+
+@89
+{z}{s:0320}Run away, he says? How low can he get...{g}{x:00}
+
+@90
+{z}{s:0320}Run away? You can't be serious. A knight... why...{g}{x:00}
+
+@91
+{z}{s:0320}What a wretch... And he's a staff officer of the knights.{g}{x:00}
+
+@92
+{z}{s:0320}What do you mean, run away? Hey! What do you mean?!{g}{x:00}
+
+@93
+{z}{s:0320}Aren't you ashamed as a knight? To act so pitifully...{g}{x:00}
+
+@94
+{z}{s:0320}They seem to be saying all sorts of things... Ignore it, ignore it...{g}{x:00}
+
+@95
+{z}I'm running away. That's all.{g}{x:00}
+
+@96
+{z}{s:0320}Right, the town is close now. Let's hurry on.{g}{x:00}
+
+@97
+{z}Mercenaries, do your best! I'll cheer you on from a distance!{g}{x:00}
+
+@98
+{z}{s:0320}He really ran away... What a man!{g}{x:00}
+
+@99
+{z}{s:0320}He really did leave... What a bastard!{g}{x:00}
+
+@100
+{z}{s:0320}He really did leave... I can't believe it...{g}{x:00}
+
+@101
+{z}{s:0320}He actually left... What a piece of work...{g}{x:00}
+
+@102
+{z}{s:0320}To think he would really leave... What an outrageous fellow...{g}{x:00}
+
+@103
+{z}{s:0320}Forgive us... we are wiped out... The rest is up to you...{g}{x:00}
+
+@104
+{z}{s:0320}Only us left, then... This'll be rough.{g}{x:00}
+
+@105
+{z}{s:0320}Damn... A Knight Commander, and yet... how pathetic...{g}{x:00}
+
+@106
+{z}{s:0320}Forgive me... I can fight no more...{g}{x:00}
+
+@107
+{z}{s:0320}Damn... Do what you can without me... Sorry about this.{g}{x:00}
+
+@108
+{z}{s:0320}Only we remain! Steel yourselves and fight!{g}{x:00}
+
+@109
+{z}We will wipe out the enemy, every last one!{g}{x:00}
+
+@110
+{z}{s:0320}Not bad at all... I'll call today your win.{g}{x:00}
+
+@111
+{z}{s:0320}Damn it... My company, wiped out...{g}{x:00}
+
+@112
+{z}{s:0320}Tch... We lost. Time to pull out.{g}{x:00}
+
+@113
+{z}{s:0320}I am the Knight Commander of {p:01}. We have come to take this land.{g}{x:00}
+
+@114
+{z}Prepare yourselves!{g}{x:00}
+
+@115
+{z}{s:0320}We'll ride this momentum and finish them in one stroke!{g}{x:00}
+
+@116
+{z}{s:0320}Our livelihoods are at stake too. We won't hold back!{g}{x:00}
+
+@117
+{z}{s:0320}Hand over this land, quick! We're going to win anyway!{g}{x:00}
+
+@118
+{z}{s:0320}Come on, come on! Don't you run away!{g}{x:00}
+
+@119
+{z}{s:0320}We won't give up this land! Not on your life!{g}{x:00}
+
+@120
+{z}{s:0320}Forgive me... I'm only following orders. I've no grudge against you.{g}{x:00}
+
+@121
+{z}{s:0320}My company cannot lose! We will never lose!{g}{x:00}
+
+@122
+{z}{s:0320}I won't lose!{g}{x:00}
+
+@123
+{z}{s:0320}You've got nerve... Come on, then!{g}{x:00}
+
+@124
+{z}{s:0320}I don't want to fight at all! Stop! Please stop!{g}{x:00}
+
+@125
+{z}{s:0320}I won't give up this land! Never!{g}{x:00}
+
+@126
+{z}{s:0320}I'll take on all comers! Come and get it!{g}{x:00}
+
+@127
+{z}Thank you!{g}{x:00}
+
+@128
+{z}{s:0320}Damn... I leave it all to you... I'm counting on you...{g}{x:00}
+

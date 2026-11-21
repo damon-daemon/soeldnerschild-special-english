@@ -1,0 +1,358 @@
+@0
+{z}{s:0320}Hey, mercenaries are coming!{g}{x:00}
+
+@1
+{z}{s:0320}Did {p:01} hire them?{g}{x:00}
+
+@2
+{z}{s:0320}Must have. {w}{w}This is bad...{g}{x:00}
+
+@3
+{z}{s:0320}Damn {p:01}... They've come to finish us off!{g}{x:00}
+
+@4
+{z}{s:0320}It's over...{g}{x:00}
+
+@5
+{z}{s:0320}Those must be the wounded.{g}{x:00}
+
+@6
+{z}{s:0320}Haven't any medics been sent?{g}{x:00}
+
+@7
+{z}{s:0320}Not yet, it seems. But they may still come.{g}{x:00}
+
+@8
+{z}{s:0320}Then we'd better finish this before they do...{g}{x:00}
+
+@9
+{z}{s:0320}Or things get messy.{g}{x:00}
+
+@10
+{z}{s:0320}Right! Everyone, move out fast!{g}{x:00}
+
+@11
+{z}{s:0320}Have medics been sent?{g}{x:00}
+
+@12
+{z}{s:0320}Who knows...{g}{x:00}
+
+@13
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Even if it's a job, it leaves a bad taste...{g}{x:00}
+
+@14
+{z}{f}{l:00e7}They're wounded men, aren't they...{g}{x:00}
+
+@15
+{z}{s:0320}Huh? Who's that coming from there?{g}{x:00}
+
+@16
+{z}{s:0320}Hold on! We've come to help!{g}{x:00}
+
+@17
+{z}{s:0320}So medics were sent...{g}{x:00}
+
+@18
+{z}{s:0320}Are we saved...?{g}{x:00}
+
+@19
+{z}{s:0320}Maybe. There's hope now.{g}{x:00}
+
+@20
+{z}{s:0320}We're heading your way. Hold on!{g}{x:00}
+
+@21
+{z}{s:0320}While we dithered, the medics arrived.{g}{x:00}
+
+@22
+{z}{s:0320}Given the distance to the wounded, they're sure to recover.{g}{x:00}
+
+@23
+{z}{s:0320}Even if they recover, it isn't over.{g}{x:00}
+
+@24
+{z}As long as we don't let them escape afterwards.{g}{x:00}
+
+@25
+{z}{s:0320}Hold the enemy back while we heal those men!{g}{x:00}
+
+@26
+{z}{s:0320}Of course. Rejoin us the moment they're healed!{g}{x:00}
+
+@27
+{z}{s:0320}Yes.{g}{x:00}
+
+@28
+{z}{s:0320}You can move now. Run, quickly!{g}{x:00}
+
+@29
+{z}{s:0320}Sorry... All we can do is run...{g}{x:00}
+
+@30
+{z}{s:0320}Run, quickly! Don't stand there gaping!{g}{x:00}
+
+@31
+{z}{s:0320}Understood.{g}{x:00}
+
+@32
+{z}{s:0320}Just because you can move, don't go attacking.{g}{x:00}
+
+@33
+{z}{s:0320}Yes, I know.{g}{x:00}
+
+@34
+{z}{s:0320}We only have to stop them escaping. Stop them escaping...{g}{x:00}
+
+@35
+{z}{s:0320}We just can't let them get away. Can't let them...{g}{x:00}
+
+@36
+{z}{s:0320}Captain, make sure they don't escape.{g}{x:00}
+
+@37
+{z}{s:0320}If they get away, it's over. If they do...{g}{x:00}
+
+@38
+{z}{s:0320}Those men are well again... We can attack them now, can't we?{g}{x:00}
+
+@39
+{z}{s:0320}Healed again, eh? Oh well.{g}{x:00}
+
+@40
+{z}{s:0320}Captain, I know I keep saying it, but if even one company escapes, it's over.{g}{x:00}
+
+@41
+{z}{s:0320}Stopping their recovery isn't the goal. No need to rush.{g}{x:00}
+
+@42
+{z}{s:0320}Stopping their recovery isn't the goal. Don't rush.{g}{x:00}
+
+@43
+{z}{s:0320}If we attack the healthy ones...{g}{x:00}
+
+@44
+{z}{s:0320}So they all recovered in the end...{g}{x:00}
+
+@45
+{z}{s:0320}{a:0000}, let's all go after them! We can't let them escape!{g}{x:00}
+
+@46
+{z}{s:0320}No need to rush. We just mustn't let them escape.{g}{x:00}
+
+@47
+{z}{s:0320}They all recovered, then... Well, that should be more fun.{g}{x:00}
+
+@48
+{z}{s:0320}Will it be all right with just me and {a:0000}...?{g}{x:00}
+
+@49
+{z}{s:0320}To get away from that... It's hard to believe...{g}{x:00}
+
+@50
+{z}{s:0320}Only my company got away in the end... I can't bring myself to be glad.{g}{x:00}
+
+@51
+{z}{s:0320}Will the enemy keep fighting?{g}{x:00}
+
+@52
+{z}{s:0320}We let them escape... Mission failed.{g}{x:00}
+
+@53
+{z}There's no point fighting the other soldiers. Let's pull out.{g}{x:00}
+
+@54
+{z}{s:0320}Damn it, they got away... That's a failure.{g}{x:00}
+
+@55
+{z}Nothing for it. Let's pull out. There's no point staying to fight the regular army.{g}{x:00}
+
+@56
+{z}{s:0320}They escaped... We've lost, then.{g}{x:00}
+
+@57
+{z}Well, time to go home... Some of them are still here, but there's no need to attack.{g}{x:00}
+
+@58
+{z}{s:0320}They got away... Mission failed.{g}{x:00}
+
+@59
+{z}Well then, time to go home. There's no need to attack any more.{g}{x:00}
+
+@60
+{z}{s:0320}They got away... We've lost.{g}{x:00}
+
+@61
+{z}Let's go home... There's no need to fight the ones left behind.{g}{x:00}
+
+@62
+{z}{s:0320}They escaped... We've lost.{g}{x:00}
+
+@63
+{z}Nothing for it... Let's pull out...{g}{x:00}
+
+@64
+{z}{s:0320}They've pulled out... We're saved...{g}{x:00}
+
+@65
+{z}{s:0320}Now you lot can get home safe. Isn't that good?{g}{x:00}
+
+@66
+{z}Then we're off to collect our bonus pay!{g}{x:00}
+
+@67
+{z}{s:0320}We got one company away somehow... Phew... that was close.{g}{x:00}
+
+@68
+{z}One company getting away is enough, right? That's our job done, then. Let's go and collect the rest of our money.{g}{x:00}
+
+@69
+{z}{s:0320}So close... But a loss is a loss.{g}{x:00}
+
+@70
+{z}{s:0320}Just one more push... But the mission has failed...{g}{x:00}
+
+@71
+{z}{s:0320}And we were so close... Damn it... they got away.{g}{x:00}
+
+@72
+{z}{s:0320}Only a little further, and yet... What a pity...{g}{x:00}
+
+@73
+{z}{s:0320}Oh... they got away... And we were so close.{g}{x:00}
+
+@74
+{z}{s:0320}All wiped out, then... I thought we'd be saved...{g}{x:00}
+
+@75
+{z}{s:0320}We came all this way to help you, and you get wiped out...{g}{x:00}
+
+@76
+{z}Oh well, time to go home. Nothing left for us here.{g}{x:00}
+
+@77
+{z}{s:0320}Mission accomplished!{g}{x:00}
+
+@78
+{z}{s:0320}Looks like it's over. I'm truly glad we completed the mission.{g}{x:00}
+
+@79
+{z}{s:0320}Phew... it's over... The mission is done.{g}{x:00}
+
+@80
+{z}{s:0320}Seems it's over. Good, the mission is done.{g}{x:00}
+
+@81
+{z}{s:0320}The mission is complete.{g}{x:00}
+
+@82
+{z}Hunting down injured people... It still doesn't feel right...{g}{x:00}
+
+@83
+{z}{s:0320}I told myself that if I was doing this, I'd give it my all, and yet...{g}{x:00}
+
+@84
+{z}{s:0320}Damn... losing to the likes of them...{g}{x:00}
+
+@85
+{z}{s:0320}Everyone... I'm sorry... I'm pulling out...{g}{x:00}
+
+@86
+{z}{s:0320}Maybe I was still drunk from last night...{g}{x:00}
+
+@87
+{z}{s:0320}Looks like I've no choice but to withdraw...{g}{x:00}
+
+@88
+{z}{s:0320}I said I'd save you, and yet... Sorry...{g}{x:00}
+
+@89
+{z}{s:0320}Not everyone has recovered yet... It's over...{g}{x:00}
+
+@90
+{z}{s:0320}Even without the mercenaries' help, I'll get away, no matter what.{g}{x:00}
+
+@91
+{z}{s:0320}On a job this easy... Why...{g}{x:00}
+
+@92
+{z}{s:0320}Damn... withdraw! Everyone... I'm sorry...{g}{x:00}
+
+@93
+{z}{s:0320}Not bad at all... Let's call it my loss for today.{g}{x:00}
+
+@94
+{z}{s:0320}All that was left was to run... How bitter...{g}{x:00}
+
+@95
+{z}{s:0320}Couldn't get away... Ugh...{g}{x:00}
+
+@96
+{z}{s:0320}In this state... There's nothing I can do...{g}{x:00}
+
+@97
+{z}{s:0320}We could finally move, and yet... Was it all for nothing?{g}{x:00}
+
+@98
+{z}{s:0320}I knew I'd lose before the fight began... In a state like this...{g}{x:00}
+
+@99
+{z}{s:0320}There are still men who haven't recovered... Everyone... I'm sorry...{g}{x:00}
+
+@100
+{z}{s:0320}The healers are wiped out... Tch! Useless wretches!{g}{x:00}
+
+@101
+{z}But all I need to do is crush those Tigre fellows... No need to worry.{g}{x:00}
+
+@102
+{z}{s:0320}So you're the Tigre... You might give me a little sport.{g}{x:00}
+
+@103
+{z}{s:0320}Guarding the wounded isn't my style...{g}{x:00}
+
+@104
+{z}{s:0320}I'll crush your company first! Let's go!{g}{x:00}
+
+@105
+{z}{s:0320}I'll cut you down! Come on!{g}{x:00}
+
+@106
+{z}{s:0320}They've caught up with us...{g}{x:00}
+
+@107
+{z}{s:0320}I'm still a knight, however lowly... I won't fall so easily!{g}{x:00}
+
+@108
+{z}{s:0320}In this state I can do nothing...{g}{x:00}
+
+@109
+{z}{s:0320}Out of my way! I've no wish to fight!{g}{x:00}
+
+@110
+{z}{s:0320}Damn... I've no strength to resist...{g}{x:00}
+
+@111
+{z}{s:0320}You mean to beat me, in earnest? Ha ha ha! You make me laugh!{g}{x:00}
+
+@112
+{z}{s:0320}Attacking my company... You must be in a hurry to die.{g}{x:00}
+
+@113
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}I hope they get well soon... Those poor men...{g}{x:00}
+
+@114
+{z}{f}{l:00e7}If they weren't wounded, I wouldn't mind a bit...{g}{x:00}
+
+@115
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Attacking people who can't move...{g}{x:00}
+
+@116
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}Attacking people who can't move...{g}{x:00}
+
+@117
+{z}Please... pull out.{g}{x:00}
+

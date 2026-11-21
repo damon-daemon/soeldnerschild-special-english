@@ -1,0 +1,8 @@
+# troop types (0x800175c8): KEY|English, at most 4 letters (see tools/tables.py; Japanese: tables.py show troops)
+00|Inf.
+01|Pike
+02|Cav.
+03|Bow
+04|Holy
+05|Dark
+06|Navy

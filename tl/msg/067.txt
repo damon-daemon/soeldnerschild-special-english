@@ -1,0 +1,546 @@
+@0
+{z}{s:0320}Here they come! Look! Over there!{g}{x:00}
+
+@1
+{z}{s:0320}That's quite an army. I heard the escort was strong, but...{g}{x:00}
+
+@2
+{z}{s:0320}Is he really that important, this noble?{g}{x:00}
+
+@3
+{z}{s:0320}Judging by the size of that escort, he's a big fish.{g}{x:00}
+
+@4
+{z}{s:0320}All we have to do is capture him, right?{g}{x:00}
+
+@5
+{z}{s:0320}Yes, if only the enemy would pull out at the same time.{g}{x:00}
+
+@6
+{z}But that's hardly likely... So we take him with us and run.{g}{x:00}
+
+@7
+{z}{s:0320}Run where?{g}{x:00}
+
+@8
+{z}{s:0320}North-west.{g}{x:00}
+
+@9
+{z}{s:0320}Just back the way we came.{g}{x:00}
+
+@10
+{z}{s:0320}Mercenaries lying in ambush... Did {p:01} hire them?{g}{x:00}
+
+@11
+{z}{s:0320}We were almost home, and now they get in the way...{g}{x:00}
+
+@12
+{z}{s:0320}We're here with you. Nothing to worry about.{g}{x:00}
+
+@13
+{z}{s:0320}Besides, there are only that few of them... Easy.{g}{x:00}
+
+@14
+{z}{s:0320}You just make for the bridge to the north-east. We'll deal with the enemy.{g}{x:00}
+
+@15
+{z}{s:0320}I am to travel alone?{g}{x:00}
+
+@16
+{z}{s:0320}Hey, isn't it dangerous with only these few?{g}{x:00}
+
+@17
+{z}{s:0320}Now you mention it, you're right. Then let's split into two groups.{g}{x:00}
+
+@18
+{z}{s:0320}I'll go with the noble.{g}{x:00}
+
+@19
+{z}{s:0320}So will I.{g}{x:00}
+
+@20
+{z}{s:0320}Good, the rest of us hold the enemy back. Understood?{g}{x:00}
+
+@21
+{z}{s:0320}Right!{g}{x:00}
+
+@22
+{z}{s:0320}Please, don't resist! Come with me!{g}{x:00}
+
+@23
+{z}{s:0320}Hey! Don't try anything clever! Come with me and keep quiet!{g}{x:00}
+
+@24
+{z}{s:0320}You can't escape now! Give it up!{g}{x:00}
+
+@25
+{z}{s:0320}You can't escape now. Give yourself up.{g}{x:00}
+
+@26
+{z}{s:0320}There's no escape now... Give yourself up.{g}{x:00}
+
+@27
+{z}{s:0320}You can't escape now! Give up!{g}{x:00}
+
+@28
+{z}{s:0320}The enemy's aim wasn't to kill the noble, but to capture him...{g}{x:00}
+
+@29
+{z}...Then we can still turn this around. We just need to take the noble back.{g}{x:00}
+
+@30
+{z}{s:0320}W-{w}{w}wait! Please, {w}{w}listen to what I have to say!{g}{x:00}
+
+@31
+{z}{s:0320}I doubt it's anything good... but what is it? Go on.{g}{x:00}
+
+@32
+{z}{s:0320}What is it? Out with it.{g}{x:00}
+
+@33
+{z}{s:0320}It's probably nothing much... but I'll listen.{g}{x:00}
+
+@34
+{z}{s:0320}I'll listen. Speak.{g}{x:00}
+
+@35
+{z}{s:0320}What? Say your piece.{g}{x:00}
+
+@36
+{z}{s:0320}What is it you want? My life?{g}{x:00}
+
+@37
+{z}No, it's money, isn't it? Take me and you get money... That's why you're after me, isn't it?{g}{x:00}
+
+@38
+{z}Then if I pay you, everything is settled... Isn't that so?{g}{x:00}
+
+@39
+{z}I'll pay three times what this job earns you. So please, let me go!{g}{x:00}
+
+@40
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}{c:07}No way... {w}{w}Why...{g}{x:00}
+
+@41
+{z}{s:0320}No way... Hey! You can't be serious!{g}{x:00}
+
+@42
+{z}{s:0320}No... Why...{g}{x:00}
+
+@43
+{z}{s:0320}Surely not...{g}{x:00}
+
+@44
+{z}{s:0320}You can't mean it...{g}{x:00}
+
+@45
+{z}{s:0320}You'll let me go? Thank goodness...{g}{x:00}
+
+@46
+{z}Then here is the money, as promised. Please take it.{g}{x:00}
+
+@47
+{z}You received 20000 G.{g}{x:00}
+
+@48
+{z}{s:0320}Can we go home now? You'll be fine without us, right?{g}{x:00}
+
+@49
+{z}{s:0320}Yes, you may go.{g}{x:00}
+
+@50
+{z}{s:0320}Then, if you'll excuse us...{g}{x:00}
+
+@51
+{z}{s:0320}I'll hurry on too. Well, farewell.{g}{x:00}
+
+@52
+{z}{s:0320}All we had to do was run... Why give in to money...{g}{x:00}
+
+@53
+{z}{s:0320}All we had to do was run... How could you?{g}{x:00}
+
+@54
+{z}{s:0320}All we had to do was run, and it was over... So why...{g}{x:00}
+
+@55
+{z}{s:0320}We'd have won just by running...{g}{x:00}
+
+@56
+{z}{s:0320}All we had left to do was run... Why make that choice...{g}{x:00}
+
+@57
+{z}{s:0320}Impossible... {w}{w}Why refuse? You're mercenaries, hired for money...{g}{x:00}
+
+@58
+{z}{s:0320}That's right, we're mercenaries. But we're not like the rest!{g}{x:00}
+
+@59
+{z}{s:0320}Trying to move us with money... It's useless! Useless!{g}{x:00}
+
+@60
+{z}{s:0320}If you think money can move anything, you're quite wrong!{g}{x:00}
+
+@61
+{z}{s:0320}Bad luck... We've no interest in money.{g}{x:00}
+
+@62
+{z}{s:0320}The power of money counts for little...{g}{x:00}
+
+@63
+{z}{s:0320}Tch...{g}{x:00}
+
+@64
+{z}{s:0320}I thought it was a fine bargain... but no luck.{g}{x:00}
+
+@65
+{z}Very well... After them! Get the noble back! We haven't lost yet!{g}{x:00}
+
+@66
+{z}{s:0320}Not even willing to hear me out...{g}{x:00}
+
+@67
+{z}{s:0320}What was he going to say? Well, never mind that.{g}{x:00}
+
+@68
+{z}We haven't lost yet! Chase the company that took the noble! Don't let them escape!{g}{x:00}
+
+@69
+{z}{s:0320}We went to all that trouble to catch him... I'm sorry...{g}{x:00}
+
+@70
+{z}{s:0320}Damn it... after all that trouble to catch him...{g}{x:00}
+
+@71
+{z}{s:0320}After all that trouble to catch him... I'm sorry...{g}{x:00}
+
+@72
+{z}{s:0320}We were so close... Sorry, everyone...{g}{x:00}
+
+@73
+{z}{s:0320}We couldn't get away... Forgive me.{g}{x:00}
+
+@74
+{z}{s:0320}I've got the noble safe! We rescued him!{g}{x:00}
+
+@75
+{z}{s:0320}Damn... we almost got away...{g}{x:00}
+
+@76
+{z}Nothing for it... Pull out. We can't sacrifice any more men.{g}{x:00}
+
+@77
+{z}{s:0320}We were so close to getting away... We fell short at the end.{g}{x:00}
+
+@78
+{z}There's no help for it... Pull out. I won't let men die for nothing.{g}{x:00}
+
+@79
+{z}{s:0320}We were so close... How galling.{g}{x:00}
+
+@80
+{z}But there's nothing for it... Let's pull out.{g}{x:00}
+
+@81
+{z}{s:0320}Damn it... we were so close... Curse it!{g}{x:00}
+
+@82
+{z}We've no choice but to give up. Don't let men die for nothing... {a:0003} said so once.{g}{x:00}
+
+@83
+{z}{s:0320}No... we almost got away...{g}{x:00}
+
+@84
+{z}But we've no choice but to give up. Fighting on would only cost more lives.{g}{x:00}
+
+@85
+{z}{s:0320}We were so close...{g}{x:00}
+
+@86
+{z}But we have to give up now... We can't sacrifice more men.{g}{x:00}
+
+@87
+{z}The defeat condition has changed.{g}{x:00}
+
+@88
+{z}The defeat condition has changed.{g}{x:00}
+
+@89
+{z}{s:0320}The enemy has withdrawn... Phew... We won...{g}{x:00}
+
+@90
+{z}{s:0320}Wiped out... Do what you will with me.{g}{x:00}
+
+@91
+{z}{s:0320}We didn't come to take your life. So we won't harm you.{g}{x:00}
+
+@92
+{z}Just come with us. That's all.{g}{x:00}
+
+@93
+{z}{s:0320}We don't want your life. So we won't lay a finger on you.{g}{x:00}
+
+@94
+{z}Just come with us. That's all we ask.{g}{x:00}
+
+@95
+{z}{s:0320}We didn't come to kill you...{g}{x:00}
+
+@96
+{z}Just come along with us quietly. That's all.{g}{x:00}
+
+@97
+{z}{s:0320}We're not after your life. We came to capture you.{g}{x:00}
+
+@98
+{z}So come along with us quietly.{g}{x:00}
+
+@99
+{z}{s:0320}We won't harm you... We've no use for your life.{g}{x:00}
+
+@100
+{z}We came to carry you off. So just come along quietly, and that's that.{g}{x:00}
+
+@101
+{z}{s:0320}Be at ease. We have no intention of killing you.{g}{x:00}
+
+@102
+{z}Just follow us quietly. That is all we ask.{g}{x:00}
+
+@103
+{z}{s:0320}I was sure I'd be killed, but it's a kidnapping...{g}{x:00}
+
+@104
+{z}Resisting now is pointless... I'll do as you say...{g}{x:00}
+
+@105
+{z}{s:0320}Such an important noble... carried off...{g}{x:00}
+
+@106
+{z}Sigh... I'll lose the Guild's trust now...{g}{x:00}
+
+@107
+{z}{s:0320}The enemy's wiped out... We won...{g}{x:00}
+
+@108
+{z}Thank goodness they didn't take him back. It would have been my fault.{g}{x:00}
+
+@109
+{z}{s:0320}The enemy's wiped out. Nobody left to get in our way.{g}{x:00}
+
+@110
+{z}Right! Let's hurry on! This job's nearly done!{g}{x:00}
+
+@111
+{z}{s:0320}The enemy seems to be wiped out. Nothing can get in our way now...{g}{x:00}
+
+@112
+{z}Thank goodness they didn't take him back. Truly...{g}{x:00}
+
+@113
+{z}{s:0320}Not a nuisance left... Phew... It's over...{g}{x:00}
+
+@114
+{z}Now we only have to take this one along... A bit of a bother...{g}{x:00}
+
+@115
+{z}{s:0320}It seems the enemy has been wiped out. Nothing can get in our way now...{g}{x:00}
+
+@116
+{z}Now, let's press on. The job isn't over until we bring him back.{g}{x:00}
+
+@117
+{z}{s:0320}The enemy's wiped out... Nothing can get in our way now...{g}{x:00}
+
+@118
+{z}Now, we press on. The mission isn't over until we bring him back.{g}{x:00}
+
+@119
+{z}{s:0320}We're in {p:01} territory... Now is the only time to leave the enemy behind...{g}{x:00}
+
+@120
+{z}Everyone! I'm going on ahead!{g}{x:00}
+
+@121
+{z}{s:0320}Right! We're in {p:01} territory!{g}{x:00}
+
+@122
+{z}Now's our chance to shake off the enemy! Everyone, follow on after me!{g}{x:00}
+
+@123
+{z}{s:0320}We're in {p:01} territory...{g}{x:00}
+
+@124
+{z}Now's our chance to shake off the enemy! Everyone, follow on after me!{g}{x:00}
+
+@125
+{z}{s:0320}Phew... At last, {p:01} territory... Let's shake off the enemy here...{g}{x:00}
+
+@126
+{z}Captain, I'm going on ahead. I'm counting on you for the rest.{g}{x:00}
+
+@127
+{z}{s:0320}At last, {p:01} territory... Now we shake off the enemy.{g}{x:00}
+
+@128
+{z}I'm going on ahead. Everyone, follow me.{g}{x:00}
+
+@129
+{z}{s:0320}We're in {p:01} territory... Now's the perfect chance to leave the enemy behind...{g}{x:00}
+
+@130
+{z}I'm hurrying on! We'll meet up later!{g}{x:00}
+
+@131
+{z}{s:0320}They took him away... I chased them with everything I had...{g}{x:00}
+
+@132
+{z}We have to give up... We'll never catch them now. Oh well.{g}{x:00}
+
+@133
+{z}{s:0320}Look! The enemy's given up! We won!{g}{x:00}
+
+@134
+{z}Oops... no time to celebrate. We must join the others quickly...{g}{x:00}
+
+@135
+{z}{s:0320}The enemy has pulled out... We're safe now.{g}{x:00}
+
+@136
+{z}That's right! No time to celebrate! We must join them quickly...{g}{x:00}
+
+@137
+{z}{s:0320}It seems we got away. Glad we completed the mission...{g}{x:00}
+
+@138
+{z}Oh my... no time for this. We must join the others quickly...{g}{x:00}
+
+@139
+{z}{s:0320}The enemy has withdrawn... Phew... We should be safe now.{g}{x:00}
+
+@140
+{z}Now then, let's go after the others. They must be uneasy with only one company...{g}{x:00}
+
+@141
+{z}{s:0320}Thank goodness the enemy gave up. At least the mission is done.{g}{x:00}
+
+@142
+{z}That's right... no time for this. We must hurry after them...{g}{x:00}
+
+@143
+{z}{s:0320}Phew... At last, across the bridge... That was close.{g}{x:00}
+
+@144
+{z}From here on, I need no more support. I can manage alone. You've done well today.{g}{x:00}
+
+@145
+{z}Now, if you'll excuse me.{g}{x:00}
+
+@146
+{z}{s:0320}We delivered him safely... Our duty is done.{g}{x:00}
+
+@147
+{z}Now then... let's head home too. The job's finished.{g}{x:00}
+
+@148
+{z}{s:0320}At last across the bridge... Phew... That was a hard road...{g}{x:00}
+
+@149
+{z}I should be fine alone from here. Let me hurry on.{g}{x:00}
+
+@150
+{z}{s:0320}He got away... We've failed.{g}{x:00}
+
+@151
+{z}{s:0320}We let the noble escape... Damn it... we've failed...{g}{x:00}
+
+@152
+{z}{s:0320}He got away... We've failed.{g}{x:00}
+
+@153
+{z}{s:0320}He got away... Which means... we've failed.{g}{x:00}
+
+@154
+{z}{s:0320}He got away... No... why...{g}{x:00}
+
+@155
+{z}{s:0320}I can't go on... Everyone, I'm sorry...{g}{x:00}
+
+@156
+{z}{s:0320}Why...{g}{x:00}
+
+@157
+{z}{s:0320}No... my company...{g}{x:00}
+
+@158
+{z}{s:0320}Sorry... I'm pulling out. I can't go on...{g}{x:00}
+
+@159
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@160
+{z}{s:0320}Please... escape without me... Sorry...{g}{x:00}
+
+@161
+{z}{s:0320}Don't ask the impossible... There's no way we can escape.{g}{x:00}
+
+@162
+{z}{s:0320}Don't let them get away... Whatever you do, don't let them escape...{g}{x:00}
+
+@163
+{z}{s:0320}Protect the noble at all costs... At all costs...{g}{x:00}
+
+@164
+{z}{s:0320}Our targets are... only those men...{g}{x:00}
+
+@165
+{z}{s:0320}My company... lost... No way...{g}{x:00}
+
+@166
+{z}{s:0320}Don't let them... get away... Don't you dare...{g}{x:00}
+
+@167
+{z}{s:0320}Impossible...{g}{x:00}
+
+@168
+{z}{s:0320}Getting in the way of our job! I'll beat you to a pulp!{g}{x:00}
+
+@169
+{z}{s:0320}We are {p:01}! Don't you run away in fear!{g}{x:00}
+
+@170
+{z}{s:0320}Ready? {w}{w}Here we come!{g}{x:00}
+
+@171
+{z}{s:0320}Attacking my company takes nerve, I'll give you that.{g}{x:00}
+
+@172
+{z}{s:0320}It's no good... It's hopeless...{g}{x:00}
+
+@173
+{z}{s:0320}Don't get in my way! Please!{g}{x:00}
+
+@174
+{z}{s:0320}Don't get in the way! I'll flatten the lot of you!{g}{x:00}
+
+@175
+{z}{s:0320}I can't lose here... I will win, whatever it takes!{g}{x:00}
+
+@176
+{z}{s:0320}Caught up already? Not bad, you lot...{g}{x:00}
+
+@177
+{z}{s:0320}They've caught up... This is bad.{g}{x:00}
+
+@178
+{z}{s:0320}I can't lose here... I can't lose!{g}{x:00}
+
+@179
+{z}{s:0320}Just a little further... and we're over the bridge... Once we cross that bridge...{g}{x:00}
+
+@180
+{z}{s:0320}What on earth is he about to say...{g}{x:00}
+
+@181
+{z}Fighting on will only add to the men dying for nothing.{g}{x:00}
+

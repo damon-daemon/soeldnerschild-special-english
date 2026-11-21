@@ -1,0 +1,285 @@
+@0
+{z}{s:0320}I hate being kept waiting. Let's leave them and go on ahead.{g}{x:00}
+
+@1
+{z}{s:0320}Right... Let's go on to the village and wait over a good meal.{g}{x:00}
+
+@2
+{z}{s:0320}Yeah... can't wait.{g}{x:00}
+
+@3
+{z}{s:0320}Then we run. I'm not fool enough to fight knights.{g}{x:00}
+
+@4
+{z}{s:0320}Hey! Someone's coming!{g}{x:00}
+
+@5
+{z}{s:0320}You're late! You kept us waiting forever...{g}{x:00}
+
+@6
+{z}{s:0320}No! It's not them!{g}{x:00}
+
+@7
+{z}{s:0320}What?! Knights?{g}{x:00}
+
+@8
+{z}{s:0320}This is bad... What do we do...{g}{x:00}
+
+@9
+{z}{s:0320}Wait!{g}{x:00}
+
+@10
+{z}{s:0320}Just mercenaries. You gave us a scare.{g}{x:00}
+
+@11
+{z}{s:0320}Of course we fight, right? Let's scatter them!{g}{x:00}
+
+@12
+{z}{s:0320}Everyone! Don't let them near the village!{g}{x:00}
+
+@13
+{z}{s:0320}Right! At them!{g}{x:00}
+
+@14
+{z}{s:0320}Better not move yet. Let's wait for our friends.{g}{x:00}
+
+@15
+{z}{s:0320}So we hit them all at once when they get here.{g}{x:00}
+
+@16
+{z}{s:0320}Yes, that's the idea.{g}{x:00}
+
+@17
+{z}{s:0320}Huh? The enemy isn't moving.{g}{x:00}
+
+@18
+{z}{s:0320}They're plotting something.{g}{x:00}
+
+@19
+{z}{s:0320}Let's advance for now, to keep them away from the village too.{g}{x:00}
+
+@20
+{z}{s:0320}{a:0000}, be careful! It's their comrades!{g}{x:00}
+
+@21
+{z}{s:0320}Eek! Enemies!{g}{x:00}
+
+@22
+{z}{s:0320}They had friends after all!{g}{x:00}
+
+@23
+{z}{s:0320}They were so quiet because they were waiting for reinforcements.{g}{x:00}
+
+@24
+{z}{s:0320}I see... they were waiting for this lot.{g}{x:00}
+
+@25
+{z}{s:0320}I see... so that was it...{g}{x:00}
+
+@26
+{z}{s:0320}Sorry to keep you waiting.{g}{x:00}
+
+@27
+{z}{s:0320}You're late. We're tired of waiting.{g}{x:00}
+
+@28
+{z}{s:0320}Sorry... {w}{w}Who are these?{g}{x:00}
+
+@29
+{z}{s:0320}A mercenary company sent by {p:01}. They say they'll protect the village from us.{g}{x:00}
+
+@30
+{z}{s:0320}Why aren't you attacking?{g}{x:00}
+
+@31
+{z}{s:0320}I meant to fight once you joined us.{g}{x:00}
+
+@32
+{z}{s:0320}I see! Then let's charge at once!{g}{x:00}
+
+@33
+{z}{s:0320}No, you head for the village. We'll cover you.{g}{x:00}
+
+@34
+{z}{s:0320}Now, wait.{g}{x:00}
+
+@35
+{z}{s:0320}They seem to be heading for the village. We must stop them quickly.{g}{x:00}
+
+@36
+{z}{s:0320}They seem to be heading for the village. We must stop them quickly.{g}{x:00}
+
+@37
+{z}{s:0320}Heading for the village? Not on my watch!{g}{x:00}
+
+@38
+{z}{s:0320}Heading for the village? We won't allow it!{g}{x:00}
+
+@39
+{z}{s:0320}Heading for the village? Not likely.{g}{x:00}
+
+@40
+{z}{s:0320}We mustn't let them near the village.{g}{x:00}
+
+@41
+{z}{s:0320}Right, we'll hold the mercenaries back! Charge!{g}{x:00}
+
+@42
+{z}Victory condition added: "The enemy enters the village".{g}{x:00}
+
+@43
+{z}{s:0320}We'll hurry to the village!{g}{x:00}
+
+@44
+{z}{s:0320}I was no use... sorry...{g}{x:00}
+
+@45
+{z}{s:0320}Damn... useless lot. Right, if that's how it is...{g}{x:00}
+
+@46
+{z}Everyone, make for the village! Think only of getting in!{g}{x:00}
+
+@47
+{z}{s:0320}Stop struggling. The tide is with us.{g}{x:00}
+
+@48
+{z}{s:0320}You're not going to the village! Not a chance!{g}{x:00}
+
+@49
+{z}{s:0320}No you don't! You won't set a foot in the village!{g}{x:00}
+
+@50
+{z}{s:0320}Not so fast! Everyone, keep up the attack!{g}{x:00}
+
+@51
+{z}{s:0320}Fools...{g}{x:00}
+
+@52
+{z}{s:0320}At last we're here... Once we're in the village, it's ours.{g}{x:00}
+
+@53
+{z}After all that trouble, we'll enjoy ourselves to the full.{g}{x:00}
+
+@54
+{z}{s:0320}Ha ha ha ha... Bad luck, mercenaries!{g}{x:00}
+
+@55
+{z}Right now my men are running wild! Doing as they please! Ha ha ha...{g}{x:00}
+
+@56
+{z}{s:0320}Terrible... it's too terrible...{g}{x:00}
+
+@57
+{z}But it's our fault. We couldn't stop them...{g}{x:00}
+
+@58
+{z}{s:0320}Damn it... What did we come here for...{g}{x:00}
+
+@59
+{z}{s:0320}How awful...{g}{x:00}
+
+@60
+{z}{s:0320}Damn! That's not fair!{g}{x:00}
+
+@61
+{z}In the end, we couldn't do anything...{g}{x:00}
+
+@62
+{z}{s:0320}...What a disaster...{g}{x:00}
+
+@63
+{z}{s:0320}Show them the pride of our people... {w}{w}please...{g}{x:00}
+
+@64
+{z}{s:0320}...For mercenaries... {w}{w}they're so strong...{g}{x:00}
+
+@65
+{z}{s:0320}Yes! We won!{g}{x:00}
+
+@66
+{z}{s:0320}The enemy is wiped out! We won!{g}{x:00}
+
+@67
+{z}{s:0320}The enemy seems to be wiped out. The mission is accomplished.{g}{x:00}
+
+@68
+{z}{s:0320}Phew... finally settled. The mission is accomplished.{g}{x:00}
+
+@69
+{z}With them gone, this village will find peace again.{g}{x:00}
+
+@70
+{z}{s:0320}Everything's settled...{g}{x:00}
+
+@71
+{z}It gave us a lot of trouble, but this village will find peace again.{g}{x:00}
+
+@72
+{z}{s:0320}Your sort can get out, right now!{g}{x:00}
+
+@73
+{z}{s:0320}You'd best turn back for your own good.{g}{x:00}
+
+@74
+{z}{s:0320}Mere mercenaries like you can't stop us!{g}{x:00}
+
+@75
+{z}{s:0320}Come on, then! I'm the leader here!{g}{x:00}
+
+@76
+{z}{s:0320}Well, who's next? I'll take anyone!{g}{x:00}
+
+@77
+{z}{s:0320}Sorry... {a:0000}... I wasn't any help...{g}{x:00}
+
+@78
+{z}{s:0320}Me, retreating...{g}{x:00}
+
+@79
+{z}{s:0320}Galling, but... I can't go on...{g}{x:00}
+
+@80
+{z}{s:0320}Retreating in a place like this... Maybe yesterday's drink is still in me...{g}{x:00}
+
+@81
+{z}{s:0320}This is the end...{g}{x:00}
+
+@82
+{z}{s:0320}Who isn't? But if we cause too much of a stir,{g}{x:00}
+
+@84
+{z}The defeat condition has changed.{g}{x:00}
+
+@85
+{z}Then what did we even come here for...{g}{x:00}
+
+@86
+{z}We've let the villagers down...{g}{x:00}
+
+@87
+{z}Now this area will be at peace. {w}{w}Thank goodness...{g}{x:00}
+
+@88
+{z}Looking down on mercenaries! Now you know our strength!{g}{x:00}
+
+@89
+{z}Now the village won't be attacked again.{g}{x:00}
+
+@90
+{z}Raiding villages is when I'm happiest. Food, drink, women, and gold...{g}{x:00}
+
+@91
+{z}{p:01} will send knights to drive us back!{g}{x:00}
+
+@92
+{z}If you mean to go to that village, we won't let you!{g}{x:00}
+
+@93
+{z}{s:0320}Forget that. Let's attack all at once and wipe them out.{g}{x:00}
+
+@94
+{z}Once we're in the village, their job is a failure. Then they'll give up and go home.{g}{x:00}
+
+@95
+{z}We can get whatever we want.{g}{x:00}
+

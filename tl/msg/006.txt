@@ -1,0 +1,1517 @@
+@0
+{z}{f}{l:00d4}{s:02c6}*hic* Whoo...{g}{z}Hm? Got something on my face?{g}{x:00}
+
+@1
+{z}{f}{l:00d4}{s:02c6}Ugh, in a world like this, who can stay sober?{g}{x:00}
+
+@2
+{z}{f}{l:00ca}{s:02c2}Welcome!{g}{x:00}
+
+@3
+{z}Well, {a:0000}! Come and have another drink.{g}{x:00}
+
+@4
+{z}Ah, if it isn't {a:0000}! Come and have another drink.{g}{x:00}
+
+@5
+{z}{f}{l:00ca}{s:02c2}Back again, are you?{g}{x:00}
+
+@6
+{z}{f}{l:00ca}We've got plenty of fine drinks!{x:00}
+
+@7
+{z}Go on, have a drink first.{g}{x:00}
+
+@8
+{z}{f}{l:00ca}Hey, you're short of coin. No drinking for free. Off you go.{g}{x:00}
+
+@9
+{z}{f}{l:00ca}Looks like you're short of coin. How about a different drink?{g}{x:00}
+
+@10
+{z}{f}{l:00ca}We take payment first. Wait a moment while I get it ready.{g}{x:00}
+
+@11
+{z}{f}{l:00ca}No charge. It's on me.{g}{x:00}
+
+@12
+{z}{f}{l:00ca}I'd like to treat you, but... not this one, sorry.{g}{x:00}
+
+@13
+{z}Pick another drink, please.{g}{x:00}
+
+@14
+{z}{f}{l:00ca}This one, eh... You must be rich. It'll take a little while, all right?{g}{x:00}
+
+@15
+{z}...{n}
+...{n}
+...{g}{x:00}
+
+@16
+{z}Done. Here you go.{g}{x:00}
+
+@17
+{z}You finish your drink.{g}{x:00}
+
+@18
+{z}You feel refreshed.{g}{x:00}
+
+@19
+{z}You feel warmed through.{g}{x:00}
+
+@20
+{z}You feel good.{g}{x:00}
+
+@21
+{z}Strength surges through your body!{g}{x:00}
+
+@22
+{z}Your body burns with heat!{g}{x:00}
+
+@23
+{z}Every tavern has a singer. The star attraction, you might say.{g}{x:00}
+
+@24
+{z}???{g}{x:00}
+
+@25
+{z}Be nice to {p:00}, our star attraction!{g}{x:00}
+
+@27
+{z}The singers talk with everyone who comes into the tavern, so they know everything. Get on good terms with them.{g}{x:00}
+
+@29
+{z}Do you know Smiley? A mercenary captain rumoured to be the strongest on the continent.{g}{z}He always wears a creepy helmet, {j:001e}{x:00}
+
+@30
+so even his own men have never seen his face.{g}{z}If you meet him on the battlefield, run. He's far too strong...{g}{x:00}
+
+@31
+{z}Do you know Cortes? The cruellest mercenary captain on the continent.{g}{z}He plunders, and kills women and children alike.{g}{j:0020}{x:00}
+
+@32
+{z}They say he's never lost a battle, so the work never dries up.{g}{x:00}
+
+@33
+{z}Do you know Isabel? Captain of a mercenary company whose commanders are all women.{g}{j:0022}{x:00}
+
+@34
+{z}They say she's a fearsome woman who beats even the toughest men with ease.{g}{x:00}
+
+@35
+{z}Do you know the strongest knights of the Holy Rana Empire? The Holy Emperor's Lightning Knights.{g}{j:0024}{x:00}
+
+@36
+{z}Their Knight Commander, Oswald, always wears a black helmet, so he's nicknamed the "Black Flash".{g}{x:00}
+
+@37
+{z}Do you know the strongest knights of the Duchy of Saxen? The Twin-Headed Dragon Knights.{g}{j:0026}{x:00}
+
+@38
+{z}Their Knight Commander, Ferdinand, is a brave man.{g}{z}They say he once stormed an enemy castle alone and fought a hundred soldiers.{g}{x:00}
+
+@39
+{z}Do you know the strongest knights of the Kingdom of Grandcour? The Sun Knights.{g}{j:0028}{x:00}
+
+@40
+{z}Their Knight Commander, Francois, is said to be the handsomest man on the continent.{g}{z}And not just his face; his skill with the spear is superb, they say.{g}{x:00}
+
+@41
+{z}Do you know the strongest knights of the Republic of Estania? The Purple Cloud Knights.{g}{j:002a}{x:00}
+
+@42
+{z}Their Knight Commander, Alberto, is old, but he's the finest veteran commander on the continent.{g}{z}They say he fights in the two-sword style.{g}{x:00}
+
+@43
+{z}Do you know the strongest knights of the Kingdom of Mylard? The White Whale Knights.{g}{j:002c}{x:00}
+
+@44
+{z}Their Knight Commander, Willem, is Mylard's prince, yet he leads from the front, reckless of his life.{g}{x:00}
+
+@45
+{z}Do you know the strongest knights of the Kingdom of Fenrir? The Rime Knights.{g}{j:002e}{x:00}
+
+@46
+{z}Their Knight Commander, Frederica, is the strongest woman knight on the continent.{g}{z}She wears crimson armour, so she's nicknamed the "Crimson Phantom".{g}{x:00}
+
+@47
+{z}Come again. I'll have some fine liquor ready.{g}{x:00}
+
+@50
+{z}{s:0320}You're the new Tigre mercenary captain, aren't you?{g}{x:00}
+
+@51
+{z}{s:0320}You're the new Tigre mercenary captain, aren't you?{g}{x:00}
+
+@52
+{z}{s:0320}You're the Tigre captain, {a:0000}, aren't you?{g}{x:00}
+
+@53
+{z}{s:0320}You're the Tigre captain, {a:0000}, aren't you?{g}{x:00}
+
+@54
+{z}{s:0320}Well, if it isn't the famous {a:0000}!{g}{x:00}
+
+@55
+{z}{s:0320}Oh, you're the famous {a:0000}!{g}{x:00}
+
+@56
+{z}{s:0320}I'll make my mark on the next job. You can count on me.{g}{x:00}
+
+@57
+{z}{s:0320}I'll make my mark on the next job. Do count on me.{g}{x:00}
+
+@58
+{z}{s:0320}You command a mercenary company, don't you?{g}{j:003b}{x:00}
+
+@59
+{z}I'd like to be a commander in a company too, but no captain will sign me at my price.{g}{j:003c}{x:00}
+
+@60
+{z}I don't sell myself cheap. Something will turn up. I'll just sit here drinking and wait.{g}{x:00}
+
+@61
+{z}{s:0320}You command a mercenary company, don't you?{g}{j:003e}{x:00}
+
+@62
+{z}I'd like to be a commander in a company too, but I can't find a captain who'll sign me at my price.{g}{j:003f}{x:00}
+
+@63
+{z}No one appreciates my worth. Someone will hire me eventually, so I'll wait patiently.{g}{x:00}
+
+@64
+{z}{s:0320}I hope there's a generous mercenary captain in this town...{g}{x:00}
+
+@65
+{z}{s:0320}I hope there's an understanding mercenary captain in this town...{g}{x:00}
+
+@66
+{z}How about hiring me? My fee is {b:00}G.{x:00}
+
+@67
+{z}Why not hire me? My fee is {b:00}G.{x:00}
+
+@68
+{z}Pity. I hope you won't regret it later.{g}{x:00}
+
+@69
+{z}What a shame. Come back if you change your mind.{g}{x:00}
+
+@70
+{z}Oh dear, you've no money. Another time, then...{g}{x:00}
+
+@71
+{z}Oh, you can't afford it. So you took me for cheap...{g}{x:00}
+
+@72
+{z}Then we have a deal. Let's get to work.{g}{x:00}
+
+@73
+{z}Then we have a deal. I look forward to working with you.{g}{x:00}
+
+@74
+{z}{s:0320}Ah, it's you.{g}{x:00}
+
+@75
+{z}{s:0320}Oh, you again...{g}{x:00}
+
+@83
+{z}{f}{l:00ca}Just say when you fancy a drink.{g}{x:00}
+
+@164
+{z}Come again, lad.{g}{x:00}
+
+@165
+{z}Come again!{g}{x:00}
+
+@166
+{z}Please do come again.{g}{x:00}
+
+@167
+{z}Come back soon!{g}{x:00}
+
+@168
+{z}Leaving already? What a shame.{g}{z}Stay longer next time.{g}{x:00}
+
+@169
+{z}Aww! Leaving already? Oh well...{g}{z}Then come again! Promise!{g}{x:00}
+
+@170
+{z}Oh, are you leaving already? What a pity...{g}{z}Please come again. Promise me.{g}{x:00}
+
+@171
+{z}Leaving already? Hmph...{g}{z}Come again, you hear? Promise!{x:00}
+
+@198
+{z}{f}{l:0066}Well, do your best.{g}{x:00}
+
+@199
+{z}{f}{l:0023}We'll drive the pirates off, so rest assured.{g}{j:00ce}{x:00}
+
+@200
+{z}{f}{l:0023}{s:0023}You're here! Let's have a good drink in the back!{g}{x:00}
+
+@201
+{z}{f}{l:0023}{s:0023}...Ah, that was a fine drink.{g}{x:00}
+
+@202
+{z}{f}{l:0023}{a:0000}, you're doing better than I expected.{g}{j:00cb}{x:00}
+
+@203
+{z}This time we must deal with pirates. I'm counting on you.{g}{x:00}
+
+@204
+{z}{f}{l:0066}{s:0066}Pirates? Then you'll be facing {a:009b}?{g}{z}...He's a tough one.{g}{x:00}
+
+@205
+{z}{f}{l:0023}So you are Lord {a:0066}... I hear you are the strongest knight in Saxen.{g}{x:00}
+
+@206
+{z}{f}{l:0066}Cheeky for a mercenary... Well, do your best.{g}{x:00}
+
+@207
+{z}{f}{l:0023}{a:0000}, I'll head back first. Come to the inn when you're ready, as usual.{g}{x:00}
+
+@209
+{z}{f}{l:0023}{s:0023}Ah, you're here.{g}{x:00}
+
+@210
+{z}{f}{l:0023}...This is {a:0000}, who recently joined my company.{g}{x:00}
+
+@211
+{z}{f}{l:0025}{s:0025}I see, I see... No sense talking standing here. Let's go inside.{g}{x:00}
+
+@212
+{z}{f}{l:0025}He has a fine, gallant look about him. Where did you find him?{g}{x:00}
+
+@213
+{z}{f}{l:0023}He's a friend's foster son...{w} That friend was killed by {a:0028}...{g}{z}{f}{l:0025}How terrible...{w}{j:00d6}{x:00}
+
+@214
+ So that's why you took him in.{g}{x:00}
+
+@215
+{z}{f}{l:0023}{a:0000}, this is {a:0025}, who leads the Crotoi Mercenaries...{g}{z}One of the few comrades who fight for peace on the continent.{g}{x:00}
+
+@216
+{z}{f}{l:0000}{s:0000}I'm {a:0000}.{g}{x:00}
+
+@217
+{z}{f}{l:0025}Work hard and become {a:0023}'s right-hand man.{g}{x:00}
+
+@218
+{z}{f}{l:0025}{a:0023}... Many think we're in their way.{g}{z}Needless to say,{j:00db}{x:00}
+
+@219
+ watch yourself... You never know what might happen.{g}{x:00}
+
+@220
+{z}{f}{l:0023}Time we got to work too. I'll be waiting at the inn, as always.{g}{x:00}
+
+@221
+{z}{f}{l:0024}{s:0024}Oh!{g}{z}What are you doing here? This is no place for you!{g}{x:00}
+
+@222
+{z}{f}{l:0024}Shut up. Get out, now!{g}{x:00}
+
+@223
+{z}{f}{l:0032}{c:06}§ Gloomy Man §{c:07}{n}
+...{g}{x:00}
+
+@224
+{z}{f}{l:0025}Well, time I was going. I wish you both luck. See you!{g}{x:00}
+
+@230
+{z}{f}{l:008e}{s:008e}I'll come straight to the point...{w} His Holiness needs you.{g}{z}It concerns the foreign tribes of the frontier.{j:00e7}{x:00}
+
+@231
+ You know they're waiting for a chance to advance onto the continent.{g}{z}Now they're about to move their army in earnest.{g}{j:00e8}{x:00}
+
+@232
+{z}His Holiness means to crush them before they get started.{g}{x:00}
+
+@233
+{z}{f}{l:008e}You have been given this task. It is an honour, but a heavy duty.{g}{z}You cannot refuse.{j:00ea}{x:00}
+
+@234
+ Nor can you fail, of course.{g}{z}If you understand, start preparing at once. I have brought your pay.{g}{x:00}
+
+@235
+{z}You received 6000 G.{g}{x:00}
+
+@236
+{z}{f}{l:008e}I'll wait at the inn. Succeed, and there will be a further reward. Now... good luck.{g}{x:00}
+
+@240
+{z}{f}{l:0004}{s:0004}Hey, Captain! Look, he's got a woman with him!{g}{x:00}
+
+@241
+{z}{f}{l:0002}{s:0002}That's... {w}{a:002c} of the Medusa Mercenaries! What's going on?{g}{x:00}
+
+@242
+{z}{f}{l:0004}Isn't this bad? If {a:0001} finds out...{g}{x:00}
+
+@243
+{z}{f}{l:002c}{s:002c}Your men are here too, so this'll be quick. I've a message from {a:002b}.{g}{z}'Let us join forces and destroy the{j:00f4}{x:00}
+
+@244
+ Funeral Mercenaries.'{w} That's all.{g}{x:00}
+
+@245
+{z}{f}{l:0004}That doesn't tell us much. What does it mean?{g}{x:00}
+
+@246
+{z}{f}{l:002c}You know {a:0031} is ambitious, and so strong that even each nation's best knights can't touch him, don't you?{g}{j:00f7}{x:00}
+
+@247
+{z}Fearing his power, the Pope put a huge bounty on his head...{w} But no one will try to take him down.{g}{x:00}
+
+@248
+{z}{f}{l:002c}So {a:002b} thought of joining forces with you to defeat {a:0031}...{w} and splitting the bounty.{g}{x:00}
+
+@249
+{z}{f}{l:0004}...{w} {a:0031}, eh...{g}{z}{f}{l:0002}Last time we fought, she said she'd never work with us.{g}{x:00}
+
+@251
+{z}{f}{l:0004}In short, {a:002b} has taken a fancy to our Captain.{g}{x:00}
+
+@253
+{z}{f}{l:002c}Well? It's not a bad offer, is it?{g}{x:00}
+
+@254
+{z}{f}{l:0004}Whatever that woman's scheme, this is the perfect chance to beat {a:0031}. We can't pass it up.{g}{x:00}
+
+@255
+{z}{f}{l:0002}Of course! We've {a:0023} to avenge!{g}{x:00}
+
+@256
+{z}{f}{l:0004}Right, it's settled! Back to the inn to tell the others!{g}{x:00}
+
+@257
+{z}{f}{l:0002}Right!{g}{x:00}
+
+@258
+{z}{f}{l:002c}Didn't even need to ask you, did I?{g}{z}Take this advance payment for now.{g}{x:00}
+
+@259
+{z}You received 19800 G.{g}{x:00}
+
+@260
+{z}{f}{l:002c}I'll wait at the inn too, so don't dawdle!{g}{x:00}
+
+@270
+{z}{f}{l:0008}{c:06}§ Shifty-Eyed Man §{n}
+{c:07}Hey, you there, hold on!{w} You looked me in the eye just now, didn't you?{g}{j:010f}{x:00}
+
+@271
+{z}Hm, a mercenary, are you? I'm in a foul mood, and I was just looking for someone to fight.{g}{x:00}
+
+@272
+{z}{f}{l:0008}You'll fight me, won't you?{y:0001110112}{x:00}
+
+@273
+{z}{f}{l:0008}No mercenary wants to lose to a monk. This is for real, here I come!{g}{x:00}
+
+@274
+{z}{f}{l:0008}A mercenary, and he's scared stiff...{w} Be off with you! Bah, that's sobered me right up.{g}{x:00}
+
+@280
+{z}{f}{l:0008}{c:06}§ Shifty-Eyed Man §{n}
+{c:07}Y-you're strong...{w} All right, you win.{g}{x:00}
+
+@281
+{z}{f}{l:0000}{s:0000}You said you were a monk just now... What makes you a monk?{g}{x:00}
+
+@282
+{z}{f}{l:0008}My name is {a:0008}... Believe it or not, I'm on the cathedral's rolls, aiming to be a priest.{g}{x:00}
+
+@283
+{z}{f}{l:0008}But no drink, no women,{w} can you believe it? I can't stand it. Now I'm a total dropout.{g}{j:011c}{x:00}
+
+@284
+{z}So I've been wandering about picking fights with everyone...{w} But this is the first time I've lost.{g}{x:00}
+
+@285
+{z}{f}{l:0008}You're a mercenary, aren't you? Take me on! Under you I could really let loose!{g}{x:00}
+
+@286
+{z}{f}{l:0000}If you only want to brawl, try another company.{g}{x:00}
+
+@287
+{z}{f}{l:0008}Don't worry, I won't defy your orders.{g}{z}I told you, I was aiming to be a priest.{g}{j:0120}{x:00}
+
+@288
+{z}I'm an honest sort at heart. Can't you tell?{g}{x:00}
+
+@289
+{z}{f}{l:0000}If you disobey orders and run wild, you're out at once.{g}{z}If you accept that, I'll make you a platoon leader.{g}{x:00}
+
+@290
+{z}{f}{l:0008}Thanks! You won't regret it!{g}{x:00}
+
+@291
+{z}{a:0008} has joined you!{g}{x:00}
+
+@292
+{z}{f}{l:0008}Well then, off to buy a decent weapon...{g}{x:00}
+
+@299
+{z}{f}{l:0005}{s:0005}The end of the wars, our long-cherished wish, is finally in sight...{g}{z}But to bring true peace, there's one more thing{j:012c}{x:00}
+
+@300
+ I've left undone... It concerns {a:0031}.{g}{z}He seems to have started moving. Somewhere near here...{g}{x:00}
+
+@302
+{z}{f}{l:0005}He calmly watched the nations destroy each other, it seems, waiting for their numbers to shrink.{g}{j:012f}{x:00}
+
+@303
+{z}Even if the continent is united, we can't rest easy while he lives...{g}{x:00}
+
+@304
+{z}{f}{l:0005}Putting him in his grave is not only vengeance for {a:0023}, it is for the peace of the continent!{g}{j:0131}{x:00}
+
+@305
+{z}Let's settle this once and for all, {a:0000}.{g}{z}{f}{l:0000}{s:0000}Do we have a chance of winning?{g}{x:00}
+
+@306
+{z}{f}{l:0005}Fear not, everyone has grown strong enough. There will be no better chance to defeat him!{g}{x:00}
+
+@307
+{z}{f}{l:0000}...Understood. Let's defeat {a:0031}!{g}{z}Wait for me at the inn. I'll follow later.{g}{x:00}
+
+@308
+{z}{f}{l:0005}I'll tell the others myself.{g}{x:00}
+
+@310
+{z}{f}{l:0091}{s:0091}To dismiss me now, of all times...{w} What a disgrace!{g}{z}They have no idea how much{j:0137}{x:00}
+
+@311
+ I have done for Rana!{g}{z}...No, never mind my own fate.{g}{x:00}
+
+@312
+{z}{f}{l:0091}This will surely turn the people against Rana...{w} Then there is only one last resort!{g}{x:00}
+
+@313
+{z}{f}{l:0091}I will assassinate the Emperor and build a new order on the continent!{g}{x:00}
+
+@315
+{z}{f}{l:0091}{s:0091}{a:0000}, I can no longer tolerate the Emperor's outrages.{g}{z}No, I don't mean my dismissal.{j:013c}{x:00}
+
+@316
+ I mean his plan to seize the Wigg Church.{g}{x:00}
+
+@317
+{z}{f}{l:0091}Do that, and Rana will surely make enemies of the people...{w} I will stop it with a last resort!{g}{z}{f}{l:0000}{s:0000}A last resort...{g}{x:00}
+
+@319
+{z}{f}{l:0091}Yes. I will assassinate the Emperor and build a new order on the continent!{g}{z}Will you stand with me?{g}{x:00}
+
+@320
+{z}{f}{l:0000}Very well. If there is no other way...{g}{x:00}
+
+@321
+{z}{f}{l:0091}Good, then let us settle the plan.{g}{z}Go to the audience chamber as if nothing were amiss, and take your leave before the campaign.{j:0142}{x:00}
+
+@322
+ Leave the rest to me.{g}{x:00}
+
+@323
+{z}{f}{l:0091}I am counting on you!{g}{x:00}
+
+@330
+{z}{s:0320}Oh, welcome. Is this your first time in town, lad?{g}{z}Tell me your name.{g}{x:00}
+
+@331
+{z}{s:0320}Hello! Is this your first time in town?{g}{z}What's your name?{g}{x:00}
+
+@332
+{z}{s:0320}Welcome, sir. Is this your first time in this town?{g}{z}May I ask your name?{g}{x:00}
+
+@333
+{z}{s:0320}Oh, welcome! Is this your first time in town, maybe?{g}{z}Hey, hey, what's your name?{g}{x:00}
+
+@334
+{z}{f}{l:0000}{s:0000}It's {a:0000}.{g}{x:00}
+
+@335
+{z}Oh, what a lovely name. I'm {p:00}.{g}{x:00}
+
+@336
+{z}Wow, what a nice name! I'm {p:00}. Pleased to meet you!{g}{x:00}
+
+@337
+{z}What a lovely name! I'm {p:00}. Nice to meet you.{g}{x:00}
+
+@338
+{z}Hey, nice name! I'm {p:00}. Nice to meet you!{g}{x:00}
+
+@339
+{z}{s:0320}Welcome. Oh, you're the one from the other day...{g}{x:00}
+
+@340
+{z}{s:0320}Hello! You're {a:0000}, right?{g}{x:00}
+
+@341
+{z}{s:0320}Welcome.{g}{z}{a:0000}... was it?{g}{x:00}
+
+@342
+{z}{s:0320}Welcome. It's {a:0000}, isn't it?{g}{x:00}
+
+@343
+{z}{s:0320}Oh, lad! Hee hee... you came to see me, didn't you?{g}{x:00}
+
+@344
+{z}{s:0320}Wow, {a:0000}! I'm so glad you came!{g}{x:00}
+
+@345
+{z}{s:0320}Oh, {a:0000}. I'm always so glad when you come.{g}{x:00}
+
+@346
+{z}{s:0320}If it isn't {a:0000}! You came again!{g}{x:00}
+
+@347
+{z}{s:0320}Oh, lad... Keeping a lady waiting, you naughty thing.{g}{x:00}
+
+@348
+{z}{s:0320}Wow, {a:0000}! I've missed you!{g}{x:00}
+
+@349
+{z}{s:0320}Oh, {a:0000}! I have been waiting for you all this time.{g}{x:00}
+
+@350
+{z}{s:0320}Oh, {a:0000}! Honestly, I was so lonely!{g}{x:00}
+
+@351
+{z}{s:0320}Lad, you can't bear to leave me, can you? Hee hee.{g}{x:00}
+
+@352
+{z}{s:0320}You came back! I'm so happy!{g}{x:00}
+
+@353
+{z}{s:0320}You came back to me. I am very happy.{g}{x:00}
+
+@354
+{z}{s:0320}You can't bring yourself to leave because of me, can you? It's written all over your face!{g}{x:00}
+
+@355
+{z}Come on, I'd love a good long talk.{x:00}
+
+@356
+{z}I'd love to talk about all sorts of things.{x:00}
+
+@357
+{z}I'd love to chat with you about all sorts of things.{x:00}
+
+@358
+{z}Hey, let's talk about all sorts of things.{x:00}
+
+@359
+{z}Yes, yes, I understand. I understand perfectly.{g}{x:00}
+
+@360
+{z}I see. That must be important.{g}{x:00}
+
+@361
+{z}Hmm... You're more admirable than you look. I'm impressed.{g}{x:00}
+
+@362
+{z}Hmm, you're really something, {a:0000}!{g}{x:00}
+
+@363
+{z}I see. Do your best!{g}{x:00}
+
+@364
+{z}I think so too! You can surely do it, {a:0000}!{g}{x:00}
+
+@365
+{z}I understand how you feel, {a:0000}.{g}{x:00}
+
+@366
+{z}How wonderful... Do your best.{g}{x:00}
+
+@367
+{z}I think so too. Someone has to do it...{g}{x:00}
+
+@368
+{z}Wow, you've really thought about all this.{g}{x:00}
+
+@369
+{z}Wow! I'm impressed!{g}{x:00}
+
+@370
+{z}Right. I think you can do it, {a:0000}.{g}{x:00}
+
+@371
+{z}What present? I don't like being teased.{g}{x:00}
+
+@372
+{z}What present? I don't see anything!?{g}{x:00}
+
+@373
+{z}Um... what present? I don't see anything...{g}{x:00}
+
+@374
+{z}Huh? A present? Where is it? I can't find it.{g}{x:00}
+
+@375
+{z}Oh, thank you...{g}{x:00}
+
+@376
+{z}Thank you. I'll treasure it...{g}{x:00}
+
+@377
+{z}Oh... thank you very much...{g}{x:00}
+
+@378
+{z}Huh, for me? Thank you...{g}{x:00}
+
+@379
+{z}Oh, a lovely jewel... You're surprisingly good at pleasing a woman.{g}{z}Hee hee... here's your thanks. Mwah!{g}{x:00}
+
+@380
+{z}Wow, it's {p:00}!{g}{z}Thank you, {a:0000}. This is for you. Mwah!{g}{x:00}
+
+@381
+{z}Oh, how lovely! Is this really for me?{g}{z}Um... thank you, {a:0000}. Mwah!{g}{x:00}
+
+@382
+{z}Whoa! How did you ever get hold of this?{g}{z}{a:0000}, you're amazing! I'm so happy! Mwah!{g}{x:00}
+
+@383
+{z}I know... have this. A noble from out of town gave it to me. I think it will help on the battlefield.{g}{x:00}
+
+@384
+{z}I know, I'll give you something nice! A noble in town gave it to me, but I think it'd be useful on the battlefield.{g}{x:00}
+
+@385
+{z}I know, please take this. It was a gift, but I am sure it will help you on the battlefield.{g}{x:00}
+
+@386
+{z}I know, I'll give you something nice. It was a gift, but I think it'll help on the battlefield.{g}{x:00}
+
+@387
+{z}You got {p:00}.{g}{x:00}
+
+@388
+{z}{p:00} seems to be fighting {p:01}.{g}{x:00}
+
+@389
+{z}{p:00} is fighting {p:01}, you know.{g}{x:00}
+
+@390
+{z}{p:00} is said to be fighting {p:01}.{g}{x:00}
+
+@391
+{z}{p:00} is fighting {p:01}, I hear.{g}{x:00}
+
+@392
+{z}{p:00} holds about {b:00} percent of the continent, I'd say.{g}{x:00}
+
+@393
+{z}{p:00} holds about {b:00} percent of the continent.{g}{x:00}
+
+@394
+{z}{p:00} holds about {b:00} percent of the continent, I believe.{g}{x:00}
+
+@395
+{z}{p:00} holds about {b:00} percent of the continent.{g}{x:00}
+
+@396
+{z}The nation with the greatest military power on the continent is {p:02}.{g}{x:00}
+
+@397
+{z}The nation with the greatest military power on the continent is {p:02}, you know.{g}{x:00}
+
+@398
+{z}The nation with the greatest military power on the continent is {p:02}, I believe.{g}{x:00}
+
+@399
+{z}The nation with the greatest military power on the continent is {p:02}.{g}{x:00}
+
+@400
+{z}The nation with the least military power on the continent is {p:03}.{g}{x:00}
+
+@401
+{z}The nation with the least military power on the continent is {p:03}, you know.{g}{x:00}
+
+@402
+{z}The nation with the least military power on the continent is {p:03}, I believe.{g}{x:00}
+
+@403
+{z}The nation with the least military power on the continent is {p:03}.{g}{x:00}
+
+@404
+{z}If you win the arena tournament, you get prize money.{g}{x:00}
+
+@405
+{z}If you win the arena tournament, they pay out prize money.{g}{x:00}
+
+@406
+{z}If you win the arena tournament, you receive prize money.{g}{x:00}
+
+@407
+{z}They say you get prize money if you win the arena tournament.{g}{x:00}
+
+@408
+{z}You can't enter the special seats at the back of the tavern without a reservation.{g}{x:00}
+
+@409
+{z}You can't get into the special seats at the back of the tavern without a reservation.{g}{x:00}
+
+@410
+{z}One cannot enter the special seats at the back of the tavern without a reservation.{g}{x:00}
+
+@411
+{z}You can't get into the special seats at the back of the tavern without a reservation.{g}{x:00}
+
+@412
+{z}The less cultured a town, the lower its prices. Buy where prices are low, and sell where they are high.{g}{x:00}
+
+@413
+{z}The less cultured a town, the lower its prices. Buy where prices are low, and sell where they are high.{g}{x:00}
+
+@414
+{z}The less cultured a town, the lower its prices. It is best to buy where prices are low and sell where they are high.{g}{x:00}
+
+@415
+{z}The less cultured a town, the lower its prices. Best to buy where prices are low and sell where they are high.{g}{x:00}
+
+@416
+{z}The Wigg Church's domain is also called the Papal Domain. It's the only safe place on this continent.{g}{x:00}
+
+@417
+{z}The Wigg Church's domain is also called the Papal Domain. It's the only safe place on this continent.{g}{x:00}
+
+@418
+{z}The Wigg Church's domain is called the Papal Domain. It is the only safe place on this continent.{g}{x:00}
+
+@419
+{z}The Wigg Church's domain is called the Papal Domain. It's probably the only safe place on this continent.{g}{x:00}
+
+@420
+{z}I hear there's a sword called Excalibur somewhere on the continent, the strongest one-handed sword.{g}{x:00}
+
+@421
+{z}Somewhere on the continent there's a sword called Excalibur, the strongest one-handed sword, they say.{g}{x:00}
+
+@422
+{z}They say there is a sword called Excalibur somewhere on the continent, the strongest one-handed sword.{g}{x:00}
+
+@423
+{z}They say there's a sword called Excalibur somewhere on the continent, the strongest one-handed sword.{g}{x:00}
+
+@424
+{z}I hear there's an axe called Splasher somewhere on the continent, the strongest one-handed axe.{g}{x:00}
+
+@425
+{z}Somewhere on the continent there's an axe called Splasher, the strongest one-handed axe, they say.{g}{x:00}
+
+@426
+{z}They say there is an axe called Splasher somewhere on the continent, the strongest one-handed axe.{g}{x:00}
+
+@427
+{z}They say there's an axe called Splasher somewhere on the continent, the strongest one-handed axe.{g}{x:00}
+
+@428
+{z}I hear there's a spear called Gungnir somewhere on the continent, the strongest spear.{g}{x:00}
+
+@429
+{z}Somewhere on the continent there's a spear called Gungnir, the strongest spear, they say.{g}{x:00}
+
+@430
+{z}They say there is a spear called Gungnir somewhere on the continent, the strongest spear.{g}{x:00}
+
+@431
+{z}They say there's a spear called Gungnir somewhere on the continent, the strongest spear.{g}{x:00}
+
+@432
+{z}I hear there's a sword called Durandal somewhere on the continent, the strongest two-handed sword.{g}{x:00}
+
+@433
+{z}Somewhere on the continent there's a sword called Durandal, the strongest two-handed sword, they say.{g}{x:00}
+
+@434
+{z}They say there is a sword called Durandal somewhere on the continent, the strongest two-handed sword.{g}{x:00}
+
+@435
+{z}They say there's a sword called Durandal somewhere on the continent, the strongest two-handed sword.{g}{x:00}
+
+@436
+{z}I hear there's an axe called Death Crusher somewhere on the continent, the strongest two-handed axe.{g}{x:00}
+
+@437
+{z}Somewhere on the continent there's an axe called Death Crusher, the strongest two-handed axe, they say.{g}{x:00}
+
+@438
+{z}They say there is an axe called Death Crusher somewhere on the continent, the strongest two-handed axe.{g}{x:00}
+
+@439
+{z}They say there's an axe called Death Crusher somewhere on the continent, the strongest two-handed axe.{g}{x:00}
+
+@440
+{z}I hear there's armour called Dragon Mail somewhere on the continent, the strongest armour.{g}{x:00}
+
+@441
+{z}Somewhere on the continent there's armour called Dragon Mail, the strongest armour, they say.{g}{x:00}
+
+@442
+{z}They say there is armour called Dragon Mail somewhere on the continent, the strongest armour.{g}{x:00}
+
+@443
+{z}They say there's armour called Dragon Mail somewhere on the continent, the strongest armour.{g}{x:00}
+
+@444
+{z}I hear there's a shield called Soul Shield somewhere on the continent, the strongest shield.{g}{x:00}
+
+@445
+{z}Somewhere on the continent there's a shield called Soul Shield, the strongest shield, they say.{g}{x:00}
+
+@446
+{z}They say there is a shield called Soul Shield somewhere on the continent, the strongest shield.{g}{x:00}
+
+@447
+{z}They say there's a shield called Soul Shield somewhere on the continent, the strongest shield.{g}{x:00}
+
+@448
+{z}Do you know the ultimate attack magic? It's called Inferno.{g}{x:00}
+
+@449
+{z}Do you know the ultimate attack magic? They call it Inferno.{g}{x:00}
+
+@450
+{z}Do you know the ultimate attack magic? It's called Inferno, they say.{g}{x:00}
+
+@451
+{z}Do you know the ultimate attack magic? It's called Inferno, apparently.{g}{x:00}
+
+@452
+{z}Do you know the ultimate healing magic? It's called Blessing.{g}{x:00}
+
+@453
+{z}Do you know the ultimate healing magic? They say it's called Blessing.{g}{x:00}
+
+@454
+{z}Do you know the ultimate healing magic? It is called Blessing, they say.{g}{x:00}
+
+@455
+{z}Do you know the ultimate healing magic? It's called Blessing, apparently.{g}{x:00}
+
+@456
+{z}Jobs from great powers seem to pay better than jobs from small nations.{g}{x:00}
+
+@457
+{z}Jobs from great powers pay better than jobs from small nations, they say.{g}{x:00}
+
+@458
+{z}Jobs from great powers pay better than jobs from small nations, I hear.{g}{x:00}
+
+@459
+{z}Jobs from great powers pay better than jobs from small nations, apparently.{g}{x:00}
+
+@460
+{z}They say that if your company's renown is low, you can't take the harder jobs.{g}{x:00}
+
+@461
+{z}If your company's renown is low, they won't trust you with the harder jobs, they say.{g}{x:00}
+
+@462
+{z}If your company's renown is low, they will not trust you with the harder jobs, I hear.{g}{x:00}
+
+@463
+{z}If your company's renown is low, they won't give you the harder jobs, they say.{g}{x:00}
+
+@464
+{z}Towns near the coast seem to have lots of jobs hunting pirates.{g}{x:00}
+
+@465
+{z}Towns near the coast have lots of jobs hunting pirates, they say.{g}{x:00}
+
+@466
+{z}Towns near the coast have lots of jobs hunting pirates, I hear.{g}{x:00}
+
+@467
+{z}Towns near the coast have lots of jobs hunting pirates, they say!{g}{x:00}
+
+@468
+{z}Towns near the mountains seem to have lots of jobs hunting brigands.{g}{x:00}
+
+@469
+{z}Towns near the mountains have lots of jobs hunting brigands, they say.{g}{x:00}
+
+@470
+{z}Towns near the mountains have lots of jobs hunting brigands, I hear.{g}{x:00}
+
+@471
+{z}Towns near the mountains have lots of jobs hunting brigands, they say!{g}{x:00}
+
+@472
+{z}Near desert towns, the desert itself can become a battlefield.{g}{x:00}
+
+@473
+{z}Near desert towns, the desert itself can become a battlefield, they say.{g}{x:00}
+
+@474
+{z}Near desert towns, the desert itself can become a battlefield, I hear.{g}{x:00}
+
+@475
+{z}Near desert towns, the desert itself can become a battlefield, they say.{g}{x:00}
+
+@476
+{z}The further east on the continent, the more often foreign tribes appear.{g}{x:00}
+
+@477
+{z}The further east on the continent, the more often foreign tribes appear, they say.{g}{x:00}
+
+@478
+{z}The further east on the continent, the more often foreign tribes appear, I hear.{g}{x:00}
+
+@479
+{z}The further east on the continent, the more often foreign tribes appear, they say.{g}{x:00}
+
+@480
+{z}(Unused){g}{x:00}
+
+@481
+{z}(Unused){g}{x:00}
+
+@482
+{z}(Unused){g}{x:00}
+
+@483
+{z}(Unused){g}{x:00}
+
+@484
+{z}The Pope sometimes visits the cathedral in this town.{g}{x:00}
+
+@485
+{z}The Pope sometimes visits the cathedral in this town, you know.{g}{x:00}
+
+@486
+{z}The Pope sometimes visits the cathedral in this town.{g}{x:00}
+
+@487
+{z}The Pope sometimes visits the cathedral in this town, you know.{g}{x:00}
+
+@488
+{z}Orbia has a cathedral. It's much bigger than the church in this town.{g}{x:00}
+
+@489
+{z}Orbia has a cathedral, you know. It's much bigger than the church in this town.{g}{x:00}
+
+@490
+{z}Orbia has a cathedral. It is much bigger than the church in this town.{g}{x:00}
+
+@491
+{z}Orbia has a cathedral, you know. It's much bigger than the church in this town.{g}{x:00}
+
+@492
+{z}A master swordsman lives in this town. They say his school is an odd one, the two-sword style.{g}{x:00}
+
+@493
+{z}A master swordsman lives in this town, you know. His school is an odd one, the two-sword style, apparently.{g}{x:00}
+
+@494
+{z}A master swordsman lives in this town. His school is an odd one, the two-sword style, I hear.{g}{x:00}
+
+@495
+{z}A master swordsman lives in this town. They say his school is an odd one, the two-sword style.{g}{x:00}
+
+@496
+{z}A master swordsman lives in Orbia. They say his school is an odd one, the two-sword style.{g}{x:00}
+
+@497
+{z}A master swordsman lives in Orbia, you know. His school is an odd one, the two-sword style, apparently.{g}{x:00}
+
+@498
+{z}A master swordsman lives in Orbia, I hear. His school is an odd one, the two-sword style.{g}{x:00}
+
+@499
+{z}A master swordsman lives in Orbia, you know. They say his school is an odd one, the two-sword style.{g}{x:00}
+
+@500
+{z}A famous tactician lives in this town, you know.{g}{x:00}
+
+@501
+{z}A famous tactician lives in this town, you know.{g}{x:00}
+
+@502
+{z}A famous tactician lives in this town.{g}{x:00}
+
+@503
+{z}A famous tactician lives in this town, you know.{g}{x:00}
+
+@504
+{z}A famous tactician seems to live in Verden.{g}{x:00}
+
+@505
+{z}A famous tactician lives in Verden, they say.{g}{x:00}
+
+@506
+{z}A famous tactician lives in Verden, I hear.{g}{x:00}
+
+@507
+{z}A famous tactician lives in Verden, they say.{g}{x:00}
+
+@508
+{z}A stubborn smith lives in this town, you know.{g}{x:00}
+
+@509
+{z}A stubborn smith lives in this town, you know.{g}{x:00}
+
+@510
+{z}A stubborn smith lives in this town.{g}{x:00}
+
+@511
+{z}A stubborn smith lives in this town, you know.{g}{x:00}
+
+@512
+{z}A stubborn smith seems to live in Chatroux.{g}{x:00}
+
+@513
+{z}A stubborn smith lives in Chatroux, they say.{g}{x:00}
+
+@514
+{z}A stubborn smith lives in Chatroux, I hear.{g}{x:00}
+
+@515
+{z}A stubborn smith lives in Chatroux, they say.{g}{x:00}
+
+@516
+{z}A strange inventor lives in this town, you know.{g}{x:00}
+
+@517
+{z}A strange inventor lives in this town, you know.{g}{x:00}
+
+@518
+{z}A strange inventor lives in this town.{g}{x:00}
+
+@519
+{z}A strange inventor lives in this town, you know.{g}{x:00}
+
+@520
+{z}A strange inventor seems to live in Oristano.{g}{x:00}
+
+@521
+{z}A strange inventor lives in Oristano, they say.{g}{x:00}
+
+@522
+{z}A strange inventor lives in Oristano, I hear.{g}{x:00}
+
+@523
+{z}A strange inventor lives in Oristano, they say.{g}{x:00}
+
+@524
+{z}Drinking a Spark Drink seems to build up your vitality.{g}{x:00}
+
+@525
+{z}Drinking a Spark Drink builds up your vitality, they say.{g}{x:00}
+
+@526
+{z}Drinking a Spark Drink builds up your vitality, I hear.{g}{x:00}
+
+@527
+{z}Drinking a Spark Drink builds up your vitality, they say.{g}{x:00}
+
+@528
+{z}They say the legendary liquor sometimes draws out hidden potential.{g}{x:00}
+
+@529
+{z}The legendary liquor sometimes draws out hidden potential, they say.{g}{x:00}
+
+@530
+{z}The legendary liquor sometimes draws out hidden potential, I hear.{g}{x:00}
+
+@531
+{z}The legendary liquor sometimes draws out hidden potential, they say.{g}{x:00}
+
+@532
+{z}Make friends with the shopkeepers. They bring out goods they show only to regular customers.{g}{x:00}
+
+@533
+{z}It pays to be friendly with the shopkeepers, you know. They bring out goods they show only to regulars.{g}{x:00}
+
+@534
+{z}If you befriend the shopkeepers, they sometimes bring out goods they show only to regular customers.{g}{x:00}
+
+@535
+{z}It pays to be friendly with the shopkeepers. They bring out goods they show only to regulars, apparently.{g}{x:00}
+
+@536
+{z}Make a donation at the church. They say it atones a little for past sins.{g}{x:00}
+
+@537
+{z}You should make a donation at the church, you know. It atones a little for past sins, they say.{g}{x:00}
+
+@538
+{z}You should make a donation at the church. It atones a little for past sins, I hear.{g}{x:00}
+
+@539
+{z}You should make a donation at the church. It atones a little for past sins, they say.{g}{x:00}
+
+@549
+{z}{f}{l:0007}{s:0007}I can hardly imagine you were once a mercenary, sir...{g}{z}What made you what you are?{g}{x:00}
+
+@550
+{z}{f}{l:0007}{s:0007}You are somehow different from what the world calls a mercenary, sir...{g}{z}What makes you so?{g}{x:00}
+
+@551
+{z}{f}{l:0000}{s:0000}I have a mission.{g}{z}To unite the continent and bring peace...{g}{x:00}
+
+@552
+ No, it must be done.{g}{z}{f}{l:0007}To hold such resolve, you must have your reasons.{g}{j:022a}{x:00}
+
+@553
+{z}{f}{l:0007}I see...{g}{z}If you truly could do such a thing, it would be wonderful.{g}{z}{f}{l:0000}I will do it, I swear.{j:0228}{x:00}
+
+@554
+{z}Having lost to you, I have no place left in the arena.{g}{x:00}
+
+@556
+{z}{f}{l:0007}Sir {a:0000}, will you not let me fight for your cause?{g}{x:00}
+
+@559
+{z}{f}{l:0000}That a man like you would lend us his strength is more than I could hope for. Let us fight together!{g}{x:00}
+
+@560
+{z}{a:0007} has joined you!{g}{x:00}
+
+@561
+{z}{f}{l:0007}I shall serve you well!{g}{x:00}
+
+@565
+{z}{f}{l:0070}{s:0070}{a:0071}, wake up and listen well...{g}{x:00}
+
+@566
+{z}{f}{l:0070}I've made up my mind! I'll strike down the tyrant {a:0094}!{g}{z}You'll help me, of course?{g}{x:00}
+
+@567
+{z}{f}{l:0071}{s:0071}I've been waiting to hear those words!{g}{x:00}
+
+@568
+{z}{f}{l:0071}Surely many others will agree with us. Let us gather as many allies as we can.{g}{x:00}
+
+@569
+{z}{f}{l:0070}Good, let's make the arrangements at once...{w} Today we cut out that cancer of the state!{g}{x:00}
+
+@573
+{z}{f}{l:0070}Besides, as long as that tyrant is there, His Majesty will never stand on his own...{g}{x:00}
+
+@574
+{z}{f}{l:0070}{s:0070}{a:0000}, {a:0071}, listen well.{g}{z}{a:0094} passes off his own opinions as His Majesty's, and does as he pleases under his authority...{w}{j:023f}{x:00}
+
+@575
+ So I have made up my mind.{g}{x:00}
+
+@576
+{z}{f}{l:0070}To restore the dignity of the royal house and the honour of knighthood, I will strike down the tyrant {a:0094}!{g}{x:00}
+
+@577
+{z}{f}{l:0071}{s:0071}So you have finally decided. I was waiting for you to say so.{g}{x:00}
+
+@578
+{z}{f}{l:0070}This is by no means treason.{g}{z}We knights are the true pillar of Grandcour. This fight is to make His Majesty{j:0243}{x:00}
+
+@579
+ understand that clearly.{g}{x:00}
+
+@580
+{z}{f}{l:0070}You understand, don't you, {a:0000}?{g}{x:00}
+
+@581
+{z}{f}{l:0000}{s:0000}I understand completely.{g}{x:00}
+
+@582
+{z}{f}{l:0070}Good, then I'll make the arrangements.{g}{z}Each of you, gather as many troops as you can, rise up outside the castle and surround it.{g}{x:00}
+
+@583
+{z}{f}{l:0070}Use my money for the funds!{g}{x:00}
+
+@584
+{z}You received 19000 G.{g}{x:00}
+
+@585
+{z}{f}{l:0070}We can't return to the castle until this is settled. If you have business with the steward, finish it first.{g}{x:00}
+
+@586
+{z}{f}{l:0070}We'll meet at the inn... Now go and get ready at once!{g}{x:00}
+
+@590
+{z}{f}{l:0097}{s:0097}{a:0080}, {a:0000}... I will defend this country even if I am called a villain.{g}{x:00}
+
+@591
+{z}{f}{l:0097}That selfish prince has not the calibre of a king!{g}{j:0250}{x:00}
+
+@592
+{z}While the wars went on, the valiant prince was praised to the skies.{g}{j:0251}{x:00}
+
+@593
+{z}But what will people think when they learn the war was really fought for a woman's petty wish...?{g}{x:00}
+
+@594
+{z}{f}{l:0097}Worse, those around him do not warn him; they flatter him...{g}{j:0253}{x:00}
+
+@595
+{z}There is not one decent person in his circle. It can only be a sign of the nation's ruin.{g}{x:00}
+
+@596
+{z}{f}{l:0097}{a:007e}, who cares nothing for the nation, has no right to be king! I will never accept his accession!{g}{x:00}
+
+@597
+{z}{f}{l:0097}I mean to banish {a:007e} and take the throne myself.{g}{z}I ask you both for your help!{g}{x:00}
+
+@598
+{z}{f}{l:0080}{s:0080}I understand the Grand Duke's thinking well...{g}{z}For the nation's future, I shall lend my aid.{g}{x:00}
+
+@599
+{z}{f}{l:0000}{s:0000}With the prince as he is, I see no other way...{g}{x:00}
+
+@600
+{z}{f}{l:0097}I'm glad you two understand...{g}{x:00}
+
+@601
+{z}{f}{l:0097}Then {a:0080}, go on ahead and keep {a:007e} away from the castle.{g}{x:00}
+
+@602
+{z}{f}{l:0097}{a:0000}, finish your preparations, then come to the audience chamber. I'll give you all the funds I have.{g}{x:00}
+
+@603
+{z}You received 22000 G.{g}{x:00}
+
+@604
+{z}{f}{l:0097}Until later, then... The three of us will rebuild this country!{g}{x:00}
+
+@610
+{z}{f}{l:0076}{s:0076}First, let me introduce an acquaintance of mine. {a:009e}, a farmer from Bastia.{g}{x:00}
+
+@611
+{z}{f}{l:009e}{s:009e}I remember your face. You came to my house once.{g}{z}I was in a gentler mood back then...{g}{x:00}
+
+@612
+{z}{f}{l:009e}{s:009e}The name's {a:009e}. Pleased to meet you. I've heard about you.{g}{x:00}
+
+@613
+{z}{f}{l:0076}{a:009e} and I go back a long way...{g}{x:00}
+
+@614
+{z}{f}{l:009e}We farmers had hopes for the nobles' rule. We thought it'd be better than the monarchy.{g}{x:00}
+
+@615
+{z}But our lives haven't got any better. Worse, they've brought in conscription!{g}{x:00}
+
+@616
+{z}{f}{l:009e}We've decided to take up arms and fight alongside {a:0076}...{w} Not that we want to fight, mind.{g}{x:00}
+
+@617
+{z}{f}{l:0076}The truth is, {a:009e}, {a:0096} has just stripped me of my military command.{g}{x:00}
+
+@618
+{z}{f}{l:009e}What?! Then how are we supposed to fight?!{g}{x:00}
+
+@619
+{z}{f}{l:0076}Do not worry. We have {a:0000}.{g}{x:00}
+
+@620
+{z}{f}{l:0076}{a:0000}, please lend your strength to the powerless common folk.{g}{z}Let us take Estania back and return it to the people!{g}{x:00}
+
+@622
+{z}{f}{l:0000}{s:0000}I understand fully. I will help, for the people's sake.{g}{x:00}
+
+@623
+{z}{f}{l:0076}I knew you would say so!{g}{z}As for funds...{w} take all of my money!{g}{x:00}
+
+@624
+{z}You received 18500 G.{g}{x:00}
+
+@625
+{z}{f}{l:009e}Then I'll go and call my friends. Let's meet at the inn.{g}{x:00}
+
+@626
+{z}{f}{l:0076}{a:0000}, once we rise up, we cannot return to the castle until it is settled.{g}{z}If you have business with the steward, see to it first.{g}{j:0273}{x:00}
+
+@627
+{z}Still, where has {a:0078} got to at a time like this...?{g}{x:00}
+
+@635
+{z}{f}{l:0076}{s:0076}{a:0078}, let me introduce an acquaintance. {a:009e}, a farmer from Bastia.{g}{x:00}
+
+@637
+{z}{f}{l:0076}Let us rise up with people like {a:009e} and take Estania back from the nobles for the people!{g}{x:00}
+
+@638
+{z}{f}{l:0078}{s:0078}Of course I'll help.{g}{z}Grandpa is never wrong.{g}{x:00}
+
+@639
+{z}{f}{l:0076}Good... I'm counting on you!{g}{x:00}
+
+@640
+{z}{f}{l:009e}Right, now we can win this!{g}{x:00}
+
+@650
+{z}{f}{l:0000}{s:0000}{a:0004}! I've been looking for you!{g}{x:00}
+
+@651
+{z}{f}{l:000c}{c:06}§ Man §{c:07}{n}
+Huh? Who are you?{g}{z}{f}{l:0000}{a:0004}...{w} No, you're not...{g}{z}{f}{l:000c}You want something from me?{g}{x:00}
+
+@654
+{z}{f}{l:0000}Sorry, I've mistaken you for someone else.{g}{x:00}
+
+@655
+{z}{f}{l:000c}Mistaken?! Hold it! You don't stop a man like me and get off that easy!{g}{x:00}
+
+@656
+{z}{f}{l:000c}Ah... You took me for this fellow.{g}{x:00}
+
+@657
+{z}{f}{l:0004}{s:0004}Hey, Captain. What are you doing there?{g}{x:00}
+
+@658
+{z}{f}{l:0000}{a:0004}! I was looking for you!{g}{x:00}
+
+@659
+{z}{f}{l:0004}He mistook me for {a:000c}? Ha ha ha...{g}{x:00}
+
+@660
+{z}{f}{l:0000}You know him?{g}{x:00}
+
+@661
+{z}{f}{l:0004}His name's {a:000c}. I just met him at the tavern.{g}{x:00}
+
+@662
+{z}{f}{l:0004}This is the man I was telling you about, the captain of the Tigre Mercenaries, {a:0000}.{g}{x:00}
+
+@663
+{z}{f}{l:000c}So you're the captain...{w} Sorry for being rude. I didn't know.{g}{x:00}
+
+@664
+{z}{f}{l:000c}I've heard all about you from {a:0004}.{g}{z}It's made me thoroughly ashamed of myself.{j:0299}{x:00}
+
+@665
+{n}
+I resented the world all my life, and gave up, calling it fate.{g}{z}It never crossed my mind to change the world myself.{g}{x:00}
+
+@666
+{z}{f}{l:000c}But you people are trying to change the world with your own hands...{g}{x:00}
+
+@667
+{z}{f}{l:0004}You can do it too.{g}{x:00}
+
+@668
+{z}{f}{l:000c}Eh?{g}{x:00}
+
+@669
+{z}{f}{l:0004}Come and fight with us. What do you say?{g}{x:00}
+
+@670
+{z}{f}{l:000c}Me, in the Tigre Mercenaries...?{g}{x:00}
+
+@671
+{z}{f}{l:0000}Yes. If you think the world is wrong, that is reason enough.{g}{x:00}
+
+@672
+{z}{f}{l:0004}Right, it's settled. From today you're a platoon leader of the Tigre Mercenaries, so work hard.{g}{x:00}
+
+@673
+{z}{f}{l:000c}Y-yes...{g}{x:00}
+
+@674
+{z}{a:000c} has joined you!{g}{x:00}
+
+@675
+{z}{f}{l:0004}I'll introduce you to everyone. Follow me.{g}{x:00}
+
+@676
+{z}{f}{l:0000}Now that we've found {a:0004}, let's look for work...{g}{x:00}
+
+@680
+{z}{f}{l:0005}{s:0005}Ah, here...{w} So it was you after all.{g}{x:00}
+
+@681
+{z}{f}{l:000e}{c:06}§ Old Man §{c:07}{n}
+Ho ho ho... I've been looking for you, {a:0005}.{g}{z}I thought it was time I lent you a hand...{g}{j:02aa}{x:00}
+
+@682
+{z}Once I too sought the pinnacle of magic alongside you and your son...{g}{j:02ab}{x:00}
+
+@683
+{z}Your pain...{w} your bitterness...{w} I believe I understand it all.{g}{z}{f}{l:0005}...{g}{x:00}
+
+@684
+{z}{f}{l:000e}Of course, I cannot take your burden from you.{g}{z}I only wish to help you,{j:02ad}{x:00}
+
+@685
+ as a friend...{g}{z}{f}{l:0005}...{g}{z}Are you prepared to die?{g}{x:00}
+
+@686
+{z}{f}{l:000e}My days are few anyway. It matters not...{g}{x:00}
+
+@687
+{z}{f}{l:0005}...{g}{x:00}
+
+@688
+{z}{f}{l:0005}{a:0000}, allow me to introduce someone.{g}{z}This is {a:000e}... an old friend of mine.{g}{z}His magic equals mine, or surpasses it...{g}{x:00}
+
+@689
+{z}{f}{l:000e}Ah, so you are {a:0000}...{g}{z}Will you take me into your company as well?{g}{j:02b2}{x:00}
+
+@690
+{z}I may be an old wreck, but I can still fight well enough.{g}{x:00}
+
+@691
+{z}{f}{l:000e}Though I'm no match for {a:0005} here.{g}{x:00}
+
+@692
+{z}{f}{l:0000}Please, lend us your strength. I beg you.{g}{x:00}
+
+@694
+{z}{f}{l:000e}Ho ho ho... I look forward to working with you.{g}{x:00}
+
+@696
+{z}{a:000e} has joined you!{g}{x:00}
+
+@697
+{z}{f}{l:0005}Then we shall go back to the inn first. We have much to talk about...{g}{x:00}
+
+@698
+{z}{f}{l:000e}Until later...{g}{x:00}
+
+@699
+{z}{f}{l:0000}A user of powerful magic...{w} an old friend of {a:0005}...{w} Hm...{g}{x:00}
+
+@700
+{z}{f}{l:0000}Come to think of it, {a:0005} said his son also sought the pinnacle of magic...{g}{x:00}
+
+@701
+{z}Test{g}{x:00}
+
+@710
+{z}{f}{l:0004}Come on, let's have a drink, just the two of us, for once, instead of you just standing there.{w}{w}{w}{w}{x:00}
+
+@711
+{z}{f}{l:00c3}What are you saying? Waiting for customers here is my job.{w}{w}{w}{x:00}
+
+@712
+{z}{f}{l:00c3}Besides... a drink alone with you would be far too thrilling. Another time, perhaps.{w}{w}{w}{w}{x:00}
+
+@713
+{z}{f}{l:0004}The fighting's over, and she's still this guarded... Same as ever.{w}{w}{w}{w}{x:00}
+
+@714
+Today again, Antonio{x:00}
+
+@715
+wanders the town in search{x:00}
+
+@716
+of new encounters.{x:00}
+
+@717
+Even this playboy is said{x:00}
+
+@718
+to be at his wits' end with{x:00}
+
+@719
+the young women of today...?{x:00}
+

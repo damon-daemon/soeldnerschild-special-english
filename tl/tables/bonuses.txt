@@ -1,0 +1,7 @@
+# item stat bonuses (0x80017654): KEY|English, at most 6 letters (see tools/tables.py; Japanese: tables.py show bonuses)
+00|AT+
+01|DF+
+02|AG+
+03|MR+
+04|MV+
+05|CP+

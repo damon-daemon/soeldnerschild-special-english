@@ -1,0 +1,363 @@
+@0
+{z}{f}{l:00e7}{s:0001}Look, over there! Isn't that the ambush?{g}{x:00}
+
+@1
+{z}{s:0320}Let's crush them in one go!{g}{x:00}
+
+@2
+{z}{s:0320}It's dangerous to advance without knowing who the enemy is...{g}{x:00}
+
+@3
+{z}No choice... Attack!{g}{x:00}
+
+@4
+{z}{f}{l:00ea}{s:0003}...{w}{w} I have a bad feeling about this...{g}{x:00}
+
+@5
+{z}{f}{l:00e9}{s:0002}Here we go! Yaaah!{g}{x:00}
+
+@6
+{z}{f}{l:00e7}{s:0001}{a:0023}! What on earth is going on?{g}{x:00}
+
+@7
+{z}{s:0320}Vermin like this are my opponents? How dull.{g}{x:00}
+
+@8
+{z}{s:0320}Heh heh... {a:0033}, Funeral Mercenaries. Pleased to meet you.{g}{x:00}
+
+@9
+{z}{s:0320}No hard feelings! I want power more than I want friends!{g}{x:00}
+
+@10
+{z}{f}{l:00ea}{s:0003}We're no match for them! All we can do is run...{w} But...{g}{x:00}
+
+@11
+{z}{f}{l:00e7}{s:0001}What do we do? At this rate, we'll all be killed.{g}{x:00}
+
+@12
+{z}{s:0320}Damn it! These men are far too strong!{g}{x:00}
+
+@13
+{z}{c:06}§ Man §{c:07}{n}Heh heh heh heh heh...{g}{x:00}
+
+@14
+{z}{s:0320}That man...{g}{x:00}
+
+@15
+{z}{s:0320}You know him?{g}{x:00}
+
+@16
+{z}{s:0320}...The Funeral Mercenaries, said to be the strongest on the continent.{g}{x:00}
+
+@17
+{z}And that is... {a:0031}, their leader.{g}{x:00}
+
+@18
+{z}{f}{l:00e7}{s:0001}What!{g}{x:00}
+
+@19
+{z}{s:0320}...{a:0023}. It's been a long time.{g}{x:00}
+
+@20
+{z}You've done well for yourself. Had I known, I'd have hurt you far worse back then.{g}{x:00}
+
+@21
+{z}{s:0320}...{g}{x:00}
+
+@22
+{z}{f}{l:00e7}{s:0001}What does that mean? Do you have some grudge against us?{g}{x:00}
+
+@23
+{z}{s:0320}Small fry, stand back!{g}{x:00}
+
+@24
+{z}{s:0320}...{g}{x:00}
+
+@25
+{z}As they are now, {a:0000} and the others cannot beat {a:0031}...{g}{x:00}
+
+@26
+{z}{a:0000}, {a:0002}, {a:0003}! I'll draw him off. Each of you, cut your way out and escape!{g}{x:00}
+
+@27
+{z}{f}{l:00e9}{s:0002}What are you saying!{g}{x:00}
+
+@28
+{z}If we beat the strongest company, that makes us the strongest, right? I'm doing it!{g}{x:00}
+
+@29
+{z}{s:0320}{a:0002}! That is an order!{g}{x:00}
+
+@30
+{z}Don't lay a hand on {a:0031}! We can't let the Tigre be crushed here!{g}{x:00}
+
+@31
+{z}{s:0320}Ha ha ha ha! You're finished here too!{g}{x:00}
+
+@32
+{z}{s:0320}{a:0024}! Why are you here?{g}{x:00}
+
+@33
+{z}{s:0320}One of {a:0031}'s men invited me. Let's just say they know talent when they see it.{g}{x:00}
+
+@34
+{z}{s:0320}That's right! Beat you lot and I'm number two in the Funeral Mercenaries!{g}{x:00}
+
+@35
+{z}{s:0320}That's obviously a lie! You're being tricked!{g}{x:00}
+
+@36
+{z}{s:0320}Shut up!{g}{x:00}
+
+@37
+{z}If I don't finish you now, I'll be killed... The deal is already done!{g}{x:00}
+
+@38
+{z}{s:0320}{a:0000}! He's not an opponent you can beat!{g}{x:00}
+
+@39
+{z}{s:0320}But if we go on like this...{g}{x:00}
+
+@40
+{z}{s:0320}Damned buzzing flies! Be gone!{g}{x:00}
+
+@41
+{z}{f}{l:00e7}{s:0001}You can't mean it! We're comrades!{g}{x:00}
+
+@42
+{z}{s:0320}{a:0024}! Do you know what you are doing?{g}{x:00}
+
+@43
+{z}{s:0320}Hah! Playing the righteous man, sucking up to {a:0023}!{g}{x:00}
+
+@44
+{z}{s:0320}{a:0002}... Company captain in my place, are you?{g}{x:00}
+
+@45
+{z}How does it feel to be the company captain you longed to be? ...Not that it will last past today!{g}{x:00}
+
+@46
+{z}{f}{l:00e9}{s:0002}Shut up, traitor!{g}{x:00}
+
+@47
+{z}{s:0320}{a:0023}... I've kept you waiting a long time...{g}{x:00}
+
+@48
+{z}I've come to finish you off...{g}{x:00}
+
+@49
+{z}{s:0320}Yes... I thought you would be coming soon.{g}{x:00}
+
+@50
+{z}{s:0320}Losing your sword arm wasn't enough for you, it seems.{g}{x:00}
+
+@51
+{z}Shall it be your right arm next, or a leg? ...{w} But...{w} unfortunately, I no longer have time to play with you.{g}{x:00}
+
+@52
+{z}{s:0320}Heh...{w} You feared I would take up the blade again, so you came to strike first.{g}{x:00}
+
+@53
+{z}{s:0320}Fool! I'll end your life here and now!{g}{x:00}
+
+@54
+{z}{s:0320}{v:006b}Ugh...{w}{w} Guh...{u}{x:00}
+
+@55
+{z}{s:0320}{v:006c}What!{u}{x:00}
+
+@56
+{z}{s:0320}{v:006d}What?!{u}{x:00}
+
+@57
+{z}{f}{l:00e7}{s:0001}{v:006e}{a:0023}!{u}{x:00}
+
+@58
+{z}{s:0320}{a:0023}!{g}{x:00}
+
+@59
+{z}{s:0320}{v:006f}{a:0031}...{u}{x:00}
+
+@60
+{z}{v:0070}You made a mistake when you didn't finish me off back then...{u}{x:00}
+
+@61
+{z}{s:0320}{v:0073}Nonsense... You will die.{u}{x:00}
+
+@62
+{z}{s:0320}{v:0075}All right! Let's kill off the rest of them too!{u}{x:00}
+
+@63
+{z}{s:0320}{v:0076}With {a:0023} dead, I have no use for the small fry...{u}{x:00}
+
+@64
+{z}{s:0320}{v:0077}What? But...{w} these guys...{u}{x:00}
+
+@65
+{z}{s:0320}{v:0078}Ugh... They've gone...{u}{x:00}
+
+@66
+{z}{f}{l:00e8}{s:0001}{v:0079}{a:0023}!{u}{x:00}
+
+@67
+{z}{f}{l:00ea}{s:0003}{v:007a}{a:0023}! Hold on!{u}{x:00}
+
+@68
+{z}{v:007b}If you're gone, what are we supposed to do?{u}{x:00}
+
+@69
+{z}{s:0320}...{v:007c}As long as you are safe, that is enough. I knew... {w}{w}it would come to this.{u}{x:00}
+
+@70
+{z}{v:007d}The Tigre Mercenaries...{w} are not finished yet... {w}The captain... {w}{w}is you...{u}{x:00}
+
+@71
+{z}{s:0320}Me...{w}{w} captain...{g}{x:00}
+
+@72
+{z}...{v:007f}I felt it...{w}{w} from the moment we first met...{u}{x:00}
+
+@73
+{z}{v:0080}That you would carry on my will...{w}{u}{x:00}
+
+@74
+{z}{s:0320}{a:0023}...{g}{x:00}
+
+@75
+{z}{s:0320}{v:0081}{a:0002}... you...{u}{x:00}
+
+@76
+{z}...{v:0082}As company captain, I want you to support him...{u}{x:00}
+
+@77
+{z}{s:0320}{v:0083}Ugh...{u}{x:00}
+
+@78
+{z}{f}{l:00e8}{s:0001}{v:0087}Yes...{w}{w} But...{u}{x:00}
+
+@79
+{z}{s:0320}{v:0088}It's all right... You can do it, I know...{u}{x:00}
+
+@80
+{z}{v:0089}{a:0003}...{u}{x:00}
+
+@81
+{z}{f}{l:00ea}{s:0003}{v:008a}Yes...{u}{x:00}
+
+@82
+{z}{s:0320}{v:008b}What I...{w} could not finish teaching him...{u}{x:00}
+
+@83
+{z}{f}{l:00ea}{s:0003}{v:008d}Understood...{u}{x:00}
+
+@84
+{z}{s:0320}{v:008e}...Ugh...{w}{w} Guh...{u}{x:00}
+
+@85
+{z}{v:008f}To you... as the mark of the new captain...{w}{w} I give my sword...{u}{x:00}
+
+@86
+{z}Promise me... {w}{w}you will become a man who can quell this war. I'm counting... {w}{w}on you...{g}{x:00}
+
+@87
+{z}{f}{l:00ea}{s:0003}{v:0092}{a:0023}!{u}{x:00}
+
+@88
+{z}{v:0093}Ugh...{u}{x:00}
+
+@89
+{z}{s:0320}{v:0094}Ugh...{u}{x:00}
+
+@90
+{z}{s:0320}...Understood.{w}{w} I'll do it...{g}{x:00}
+
+@91
+{z}By this sword I will quell this war... and then that {a:0031}...{g}{x:00}
+
+@92
+{z}Obtained the {c:05}Brave Sword{c:07}.{g}{x:00}
+
+@93
+{z}{s:0320}{v:0084}And {a:0001}...{u}{x:00}
+
+@94
+{z}{v:0085}You...{w} You should be able to summon holy soldiers by now...{u}{x:00}
+
+@95
+{z}{v:0086}Use that power... {w}to protect everyone... {w}{w}Understood?{u}{x:00}
+
+@96
+{z}{s:0320}I won't run or hide. Come on then!{g}{x:00}
+
+@97
+{z}{s:0320}You mean to stop my attack with one hand? You still don't know your place.{g}{x:00}
+
+@98
+{z}{s:0320}Buster Sword!{g}{x:00}
+
+@99
+{z}{s:0320}Ray Blade!{g}{x:00}
+
+@100
+{z}{s:0320}Behold my secret blade!{w} Overdrive!{g}{x:00}
+
+@101
+{z}{s:0320}Heh...{w} Ha ha ha ha...{w} Weak! You're weak, {a:0023}!{g}{x:00}
+
+@102
+{z}{s:0320}Gah...{g}{x:00}
+
+@103
+{z}{s:0320}Buster Sword!{g}{x:00}
+
+@104
+{z}{s:0320}Ray Blade!{g}{x:00}
+
+@105
+{z}{s:0320}Overdrive!{g}{x:00}
+
+@106
+{z}{s:0320}Whoever dares to wound me shall fall into hell!{g}{x:00}
+
+@107
+{z}Promise me... {w}{w}you will become a man who can quell this war. I'm counting... {w}{w}on you...{g}{x:00}
+
+@108
+{z}{a:0023}...{w}{w} I have come to finish you.{g}{x:00}
+
+@109
+{z}{s:0320}You'd betray us, after we fought beside you all this time?{g}{x:00}
+
+@110
+{z}Before that, I mean to send you to hell.{g}{x:00}
+
+@111
+{z}{s:0320}{v:0071}What!{u}{x:00}
+
+@112
+{z}{s:0320}{v:0072}Don't think this means you've won... I won't let you have your way...{u}{x:00}
+
+@113
+{z}{s:0320}{v:0074}You'll... {w}{w}find out soon...{u}{x:00}
+
+@114
+{z}{s:0320}{v:007e}What you must do from here on...{w} I meant to teach you in battle.{u}{x:00}
+
+@115
+{z}{v:008c}You teach him the rest...{u}{x:00}
+
+@116
+{z}{s:0320}{a:0023}!{g}{x:00}
+
+@117
+{z}{s:0320}{v:008f}To you... as the mark of the new captain...{w} {w}I give my sword...{u}{x:00}
+
+@118
+{z}{v:0090}First, build your strength... {w}and one day, without fail... {w}end this age of war.{u}{x:00}
+
+@119
+{z}{v:0091}I'm counting...{w} on you...{u}{x:00}
+
+@120
+{z}I'll finish him with my own hands!{g}{x:00}
+

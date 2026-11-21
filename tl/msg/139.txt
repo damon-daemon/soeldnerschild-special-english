@@ -1,0 +1,312 @@
+@0
+{z}{s:0320}That must be the island...{g}{x:00}
+
+@1
+{z}{s:0320}They say there are gems at the foot of the mountain...{g}{x:00}
+
+@2
+{z}{s:0320}...{g}{x:00}
+
+@3
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@4
+{z}I will grant Lady {a:00a9}'s wish myself!{g}{x:00}
+
+@5
+{z}I won't let you get in the way!{g}{x:00}
+
+@6
+{z}{s:0320}We're only doing what Lady {a:00a9} told us!{g}{x:00}
+
+@7
+{z}{s:0320}That's right! We have no intention of getting in your way!{g}{x:00}
+
+@8
+{z}{s:0320}That IS getting in the way!{g}{x:00}
+
+@9
+{z}Honestly, Lady {a:00a9} is to blame too... Why would Lady {a:00a9} turn to {a:0000}...{w} when she has me?{g}{x:00}
+
+@10
+{z}{s:0320}?{g}{x:00}
+
+@11
+{z}You... are you sweet on Lady {a:00a9}?{g}{x:00}
+
+@12
+{z}{s:0320}That has nothing to do with it!{g}{x:00}
+
+@13
+{z}Anyway, granting Lady {a:00a9}'s requests has always been my job!{g}{x:00}
+
+@14
+{z}{s:0320}That is...{w}{w} pirates!{g}{x:00}
+
+@15
+{z}{s:0320}{a:009b}!{g}{x:00}
+
+@16
+{z}{s:0320}You're the one from before... Have you become a knight?{g}{x:00}
+
+@17
+{z}You, who used dirty tricks to ambush us!{g}{x:00}
+
+@18
+{z}{s:0320}It's true, we were in the wrong that time!{g}{x:00}
+
+@19
+{z}It may sound like an excuse, but we never meant to harm you!{g}{x:00}
+
+@20
+{z}{s:0320}I won't believe another word you say...{g}{x:00}
+
+@21
+{z}I'm not fool enough to get burned twice!{g}{x:00}
+
+@22
+{z}{s:0320}Tch...{g}{x:00}
+
+@23
+{z}{s:0320}So you know {a:009b}...{g}{x:00}
+
+@24
+{z}{s:0320}...{g}{x:00}
+
+@25
+{z}{s:0320}Listen! {a:0000}!{g}{x:00}
+
+@26
+{z}Whoever drives off {a:009b} gets to present the gems to Lady {a:00a9}! No complaints!{g}{x:00}
+
+@27
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@28
+{z}You didn't come here on formal orders, did you...{g}{x:00}
+
+@29
+{z}{s:0320}What did you say...?{g}{x:00}
+
+@30
+{z}{s:0320}So what?! It's none of your business!{g}{x:00}
+
+@31
+{z}{s:0320}We'll see about that...{w}{w} Heh heh heh heh...{g}{x:00}
+
+@32
+{z}{s:0320}Ugh, I hate naval battles...{g}{x:00}
+
+@33
+{z}I take such care of my looks, and this sea wind ruins it all...{g}{x:00}
+
+@34
+{z}{s:0320}...{g}{x:00}
+
+@35
+{z}{s:0320}But it's for the Commander's love, so I'll put up with it today...{g}{x:00}
+
+@36
+{z}{s:0320}{a:009b}!{g}{x:00}
+
+@37
+{z}Will you really not talk this over?!{g}{x:00}
+
+@38
+{z}{s:0320}Enough!{g}{x:00}
+
+@39
+{z}I told you, I won't be burned twice!{g}{x:00}
+
+@40
+{z}{s:0320}Hey! Let's talk it over once more...{g}{x:00}
+
+@41
+{z}Last time you were nearly ready to listen...{g}{x:00}
+
+@42
+{z}{s:0320}And then you lot betrayed us!{g}{x:00}
+
+@43
+{z}I'll have no talks with the likes of you!{g}{x:00}
+
+@44
+{z}{s:0320}Back then, that {a:0024} started the fight on his own...{g}{x:00}
+
+@45
+{z}And if you won't talk even now that we're trying again, we have no choice but to fight!{g}{x:00}
+
+@46
+{z}{s:0320}Hmph! Suits us fine... Come on, then!{g}{x:00}
+
+@47
+{z}{s:0320}Sorry, but I'm taking the gems home!{g}{x:00}
+
+@48
+{z}{s:0320}So you're {a:0088}... A man who'll never rise above Commander of the Second Knights...{g}{x:00}
+
+@49
+{z}I won't lose to the likes of you!{g}{x:00}
+
+@50
+{z}{s:0320}What?!{w} Don't underestimate me!{g}{x:00}
+
+@51
+{z}{s:0320}If {a:0024} hadn't interfered back then, we needn't have fought...{g}{x:00}
+
+@52
+{z}{s:0320}If we can't talk it out, we fight...{w}{w} Here I come!{g}{x:00}
+
+@53
+{z}{s:0320}If talking fails... we must clear out the pirates after all...{g}{x:00}
+
+@54
+{z}{s:0320}Lady {a:00a9}'s wish is mine to grant!{g}{x:00}
+
+@55
+{z}{s:0320}Ah...{w}{w} the sea wind stings my skin... Let's finish this battle quickly...{g}{x:00}
+
+@56
+{z}{s:0320}I won't give up these gems... Here I come!{g}{x:00}
+
+@57
+{z}{s:0320}Eek! I've been beaten!{g}{x:00}
+
+@58
+{z}{s:0320}Damn! Not bad!{g}{x:00}
+
+@59
+{z}{s:0320}Losing to mere pirates... My skill still has a way to go...{g}{x:00}
+
+@60
+{z}{s:0320}Good grief...{w}{w} Humouring the princess is no easy job...{g}{x:00}
+
+@61
+{z}{s:0320}Fenrir and {a:009b}... There may be some connection...{g}{x:00}
+
+@62
+{z}{s:0320}Sea water is even worse for the skin than sea wind... Retreat at once...{g}{x:00}
+
+@63
+{z}{s:0320}{a:009b}...{w} Please give up piracy...{g}{x:00}
+
+@64
+{z}{s:0320}Quit being pirates and go back to being ordinary merchants...{g}{x:00}
+
+@65
+{z}{s:0320}We're far stronger now than we were back then...{g}{x:00}
+
+@66
+{z}{s:0320}We got {a:009b}!{g}{x:00}
+
+@67
+{z}Now we can take the gems home...{g}{x:00}
+
+@68
+{z}{s:0320}The gems are ours now. I can already picture the princess's happy face...{g}{x:00}
+
+@69
+{z}{s:0320}Now we can take the gems home...{g}{x:00}
+
+@70
+{z}{s:0320}All right! I took down {a:009b}!{g}{x:00}
+
+@71
+{z}{s:0320}Yes! I took down {a:009b}!{g}{x:00}
+
+@72
+{z}{s:0320}Commander! I did it! I took down {a:009b}!{g}{x:00}
+
+@73
+{z}{s:0320}Now Lord {a:0088} can present the gems!{g}{x:00}
+
+@74
+{z}{s:0320}Tch... Damn that {a:0000}...{g}{x:00}
+
+@75
+{z}These guys have got much stronger than before...{g}{x:00}
+
+@76
+{z}Damn it! You'll regret this!{g}{x:00}
+
+@77
+{z}{s:0320}Tch... Damn the Ice Fog Knights...{g}{x:00}
+
+@78
+{z}Damn...{w} you lot... don't think you'll get away with this...{g}{x:00}
+
+@79
+{z}{s:0320}Phew...{w}{g}{x:00}
+
+@80
+{z}Now all that is left is to present the gems to Lady {a:00a9}...{g}{x:00}
+
+@81
+{z}But {a:009b} seemed to know a great deal about our affairs...{g}{x:00}
+
+@82
+{z}How, I wonder...{g}{x:00}
+
+@83
+{z}{s:0320}{a:0088}! We have defeated Hawkins!{g}{x:00}
+
+@84
+{z}{s:0320}Damn... Beaten to it...{g}{x:00}
+
+@85
+{z}Go on, take the gems and present them to Lady {a:00a9}, then...{g}{x:00}
+
+@86
+{z}Lady {a:00a9} will be delighted, no doubt...{g}{x:00}
+
+@87
+{z}{s:0320}{a:0088}...{g}{x:00}
+
+@88
+{z}{s:0320}Hmph! I'm leaving! Farewell!{g}{x:00}
+
+@89
+{z}{s:0320}Perhaps I wronged {a:0088}...{g}{x:00}
+
+@90
+{z}...{g}{x:00}
+
+@91
+{z}But {a:009b} seemed to know a great deal about our affairs...{g}{x:00}
+
+@92
+{z}How, I wonder...{g}{x:00}
+
+@93
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@94
+{z}I shall give these gems to Lady {a:00a9} myself!{g}{x:00}
+
+@95
+{z}No hard feelings!{g}{x:00}
+
+@96
+{z}{s:0320}Phew...{g}{x:00}
+
+@97
+{z}Well, they will end up in Lady {a:00a9}'s hands anyway, so I suppose that will do...{g}{x:00}
+
+@98
+{z}But {a:009b} seemed to know a great deal about our affairs...{g}{x:00}
+
+@99
+{z}How, I wonder...{g}{x:00}
+
+@100
+{z}{s:0320}Curses... Beaten by a pirate, of all people...{g}{x:00}
+
+@101
+{z}{a:0000}! Much as it galls me, I'm falling back...{g}{x:00}
+
+@102
+{z}It galls me even more to bow to you...{w} But it is for Lady {a:00a9}... Bring the gems back, I beg you...{w} Please...{g}{x:00}
+
+@103
+{z}{s:0320}{a:0088}...{g}{x:00}
+

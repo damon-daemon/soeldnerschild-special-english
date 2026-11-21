@@ -1,0 +1,435 @@
+@0
+{z}{s:0320}So they've come... Men of {p:01}...{g}{x:00}
+
+@1
+{z}If not for them, my own nation would have been born...{g}{x:00}
+
+@2
+{z}{s:0320}Brother...{w} Resisting further will only make the people suffer.{g}{x:00}
+
+@3
+{z}Surrender with honour, and leave Saxen to {p:01}...{g}{x:00}
+
+@4
+{z}{s:0320}Heh...{w} Hahaha... Me, surrender?{g}{x:00}
+
+@5
+{z}Don't talk nonsense...{w} I will never bow to anyone!{g}{x:00}
+
+@6
+{z}{s:0320}Brother...{g}{x:00}
+
+@7
+{z}{s:0320}So that is Saxen's royal castle...{g}{x:00}
+
+@8
+{z}{s:0320}The ones around it are the Twin-Headed Dragon Knights and the Rising Dragon Knights.{g}{x:00}
+
+@9
+{z}Sir {a:0066}, Saxen's mightiest knight, and his sister, Lady {a:0068}...{g}{x:00}
+
+@10
+{z}{s:0320}I don't see King {a:00a1} of Saxen anywhere.{g}{x:00}
+
+@11
+{z}I heard he was ill... Could it be worse than we thought?{g}{x:00}
+
+@12
+{z}{s:0320}Hey, {a:0066}! What's become of {a:00a1}?{g}{x:00}
+
+@13
+{z}{s:0320}{a:00a1}?{w} He's gone ahead and croaked.{g}{x:00}
+
+@14
+{z}{s:0320}What? What do you mean?{g}{x:00}
+
+@15
+{z}{s:0320}It is none of your concern!{g}{x:00}
+
+@16
+{z}Or will you follow {a:00a1}?{w} He must be lonely on his own!{g}{x:00}
+
+@17
+{z}{s:0320}Is the King of Saxen dead already?{g}{x:00}
+
+@18
+{z}{s:0320}Who knows...{g}{x:00}
+
+@19
+{z}Either way, he's someone we have to defeat, right?{g}{x:00}
+
+@20
+{z}It saves us the trouble. Let's finish off the rest of the enemy quickly!{g}{x:00}
+
+@21
+{z}{s:0320}Heh...{w} I never thought you'd grow into such a man...{g}{x:00}
+
+@22
+{z}I should have acted a little sooner...{g}{x:00}
+
+@23
+{z}But...{w} I will not die alone!{g}{x:00}
+
+@24
+{z}I'll drag you with me to the underworld!{g}{x:00}
+
+@25
+{z}Face me, {a:0000}!{g}{x:00}
+
+@26
+{z}{s:0320}You would face me yourself?! Heh...{w} Interesting!{g}{x:00}
+
+@27
+{z}{s:0320}Why, you!{w} Don't look down on me just because I'm a former mercenary!{g}{x:00}
+
+@28
+{z}It's no fluke that I've fought my way across the whole continent!{g}{x:00}
+
+@29
+{z}{s:0320}{a:0066}... I've heard all sorts of rumours about you...{g}{x:00}
+
+@30
+{z}Sorry to say, they're not good ones...{w} Like that you're after the throne...{w} for one.{g}{x:00}
+
+@31
+{z}You didn't kill {a:00a1} too, did you?!{g}{x:00}
+
+@32
+{z}{s:0320}What if I did...? I told you it was none of your concern!{g}{x:00}
+
+@33
+{z}{s:0320}So you too have lost your soul to power, like {a:0031}...{g}{x:00}
+
+@34
+{z}{s:0320}{a:0031}, you say...{g}{x:00}
+
+@35
+{z}{s:0320}Then you must be defeated as well!{g}{x:00}
+
+@36
+{z}{s:0320}Raving nonsense!{g}{x:00}
+
+@37
+{z}Very well! See how far an old man can go!{g}{x:00}
+
+@38
+{z}{s:0320}So you are {a:0000}... You mean to destroy my country...{g}{x:00}
+
+@39
+{z}Just as {p:01} is dear to you...{w} Saxen is dear to me...{g}{x:00}
+
+@40
+{z}I cannot forgive you for trying to invade it!{g}{x:00}
+
+@41
+{z}{s:0320}Lady {a:0068}! Please, stop resisting!{g}{x:00}
+
+@42
+{z}Fighting on will only make the people of this land suffer!{g}{x:00}
+
+@43
+{z}{s:0320}You are quite right...{g}{x:00}
+
+@44
+{z}But my brother...{w} {a:0066} is not a man who listens to such things...{g}{x:00}
+
+@45
+{z}...{w} It is a pity...{w} but we must fight!{g}{x:00}
+
+@46
+{z}{s:0320}Lady {a:0068}...{g}{x:00}
+
+@47
+{z}I have fought all this time wishing to become a knight as fine as you...{g}{x:00}
+
+@48
+{z}And now I must fight you...{g}{x:00}
+
+@49
+{z}{s:0320}Sometimes one must fight against one's own will...{g}{x:00}
+
+@50
+{z}If you aim to be a knight, you must know that.{g}{x:00}
+
+@51
+{z}{s:0320}So you're Lady {a:0068}...{g}{x:00}
+
+@52
+{z}Drawing my sword on a beautiful woman goes against my creed...{g}{x:00}
+
+@53
+{z}{s:0320}But I can hardly refuse to fight.{g}{x:00}
+
+@54
+{z}Hesitate even a little, and your head will roll!{g}{x:00}
+
+@55
+{z}{s:0320}{a:0000} of {p:01}! We stake our honour to face you!{g}{x:00}
+
+@56
+{z}{s:0320}I must unite the continent soon and end the fighting...{g}{x:00}
+
+@57
+{z}{s:0320}I wonder if anyone in Saxen can match me...{w} This'll be fun!{g}{x:00}
+
+@58
+{z}{s:0320}Sir {a:0066} and Lady {a:0068}... Both are formidable foes.{w}{g}{x:00}
+
+@59
+{z}{s:0320}What did he mean, {a:00a1}'s croaked?{g}{x:00}
+
+@60
+{z}{s:0320}Saxen...{g}{x:00}
+
+@61
+{z}This land, the direct cause of Ragail's split, ends today...{g}{x:00}
+
+@62
+{z}{s:0320}Curse you! Vermin of {p:01}!{g}{x:00}
+
+@63
+{z}{s:0320}Protect Sir {a:0066}! Forward!{g}{x:00}
+
+@64
+{z}{s:0320}If we must fight, we give it everything!{g}{x:00}
+
+@65
+{z}{s:0320}For my country...{w} for Lady {a:0068}... I'll fight with all my strength!{g}{x:00}
+
+@66
+{z}{s:0320}I'm done for... Everyone...{w} I'm sorry...{w}{g}{x:00}
+
+@67
+{z}{s:0320}Damn it! Is this the end?!{g}{x:00}
+
+@68
+{z}{s:0320}{a:0000}... I'm sorry...{g}{x:00}
+
+@69
+{z}{s:0320}{a:0000}... Keep at it, even without me...{g}{x:00}
+
+@70
+{z}{s:0320}This seems to be my limit... Forgive me, I must withdraw...{g}{x:00}
+
+@71
+{z}{s:0320}You put pressure on me, of all people?! No more holding back!{g}{x:00}
+
+@72
+{z}Ferdinand's morale rose!{g}{x:00}
+
+@73
+{z}{s:0320}Impossible...{w} I, who was meant to be the conqueror...{g}{x:00}
+
+@74
+{z}After all,{w} my new kingdom...{w} was an empty{w} dream...{w}{g}{x:00}
+
+@75
+{z}{s:0320}Brother!{g}{x:00}
+
+@76
+{z}...{g}{x:00}
+
+@77
+{z}I shall follow you soon...{g}{x:00}
+
+@78
+{z}{s:0320}Fer...{w} Sir {a:0066}!{g}{x:00}
+
+@79
+{z}{s:0320}It seems...{w} this is the end.{g}{x:00}
+
+@80
+{z}{a:0000}...{g}{x:00}
+
+@81
+{z}Enemy though you are...{w} I trust you with this...{w} The people of Saxen...{w} protect them...{g}{x:00}
+
+@82
+{z}{s:0320}Lady {a:0068}...{g}{x:00}
+
+@83
+{z}{s:0320}{a:0068}!{g}{x:00}
+
+@84
+{z}{s:0320}Brother... I am{w} sorry...{g}{x:00}
+
+@85
+{z}This is as far as I go...{w} You must win...{w} and protect{w} the people of Saxen...{w}{g}{x:00}
+
+@86
+{z}{s:0320}{a:0068}...{g}{x:00}
+
+@87
+{z}I will not lose... I will build my new kingdom, no matter what!{g}{x:00}
+
+@88
+{z}Forward! Dogs of {p:01}!{g}{x:00}
+
+@89
+{z}{s:0320}{a:0069}!{g}{x:00}
+
+@90
+{z}{s:0320}Lady {a:0068}...{g}{x:00}
+
+@91
+{z}To serve{w} a fine lady like you...{w} I was...{w} happy...{g}{x:00}
+
+@92
+{z}{s:0320}{a:0069}...{g}{x:00}
+
+@93
+{z}{s:0320}Lady {a:0068}...{g}{x:00}
+
+@94
+{z}I will rise to heaven too, and watch over you...{g}{x:00}
+
+@95
+{z}{s:0320}First His Majesty, now Sir {a:0066} and Lady {a:0068}...{g}{x:00}
+
+@96
+{z}It's hopeless... Let's retreat...{g}{x:00}
+
+@97
+{z}{s:0320}Some conqueror... He couldn't even protect his own country.{g}{x:00}
+
+@98
+{z}If strength is all it takes, even I could be king...{g}{x:00}
+
+@99
+{z}{s:0320}{a:0002}...{g}{x:00}
+
+@100
+{z}{s:0320}{a:0066} kept going on about being a conqueror...{g}{x:00}
+
+@101
+{z}So he did kill {a:00a1} after all...?{g}{x:00}
+
+@102
+{z}{s:0320}...{g}{x:00}
+
+@103
+{z}He is the same as {a:0031}... Those drowned in power are destroyed by it.{g}{x:00}
+
+@104
+{z}Everyone is drawn to power... But once it holds you captive, there is no escape...{g}{x:00}
+
+@105
+{z}You will be all right, won't you... {a:0000}...{g}{x:00}
+
+@106
+{z}{s:0320}...{g}{x:00}
+
+@107
+{z}{s:0320}...{g}{x:00}
+
+@108
+{z}So Saxen is finished... We even struck down Sir {a:0066} and Lady {a:0068}...{g}{x:00}
+
+@109
+{z}But... Wasn't there another way?{g}{x:00}
+
+@110
+{z}{s:0320}...{g}{x:00}
+
+@111
+{z}{s:0320}...{g}{x:00}
+
+@112
+{z}{s:0320}Whoever they are, their ruin is always sad...{g}{x:00}
+
+@113
+{z}{s:0320}...{g}{x:00}
+
+@114
+{z}{s:0320}{a:0000} is a formidable foe! Do not let your guard down!{g}{x:00}
+
+@115
+{z}{s:0320}{a:0000}! You can do it...!{g}{x:00}
+
+@116
+{z}{s:0320}{a:0066} is Saxen's strongest fighter.{g}{x:00}
+
+@117
+{z}Don't let up, {a:0000}.{g}{x:00}
+
+@118
+{z}{s:0320}{a:0000}! Don't lose! You must win!{g}{x:00}
+
+@119
+{z}{s:0320}Never mind that!{w} Take him down, {a:0000}!{g}{x:00}
+
+@120
+{z}{s:0320}{a:0066} is a master of every weapon.{g}{x:00}
+
+@121
+{z}Be careful, now... {a:0000}...{g}{x:00}
+
+@122
+{z}{s:0320}{a:0000}, why did you refuse?!{g}{x:00}
+
+@123
+{z}You are a knight! Don't refuse a duel so lightly!{g}{x:00}
+
+@124
+{z}{s:0320}True, {a:0066} is strong... But still...{g}{x:00}
+
+@125
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@126
+{z}Lost your nerve?! How do you expect to end the war like that?!{g}{x:00}
+
+@127
+{z}{s:0320}{a:0000}... Why did you refuse...{g}{x:00}
+
+@128
+{z}{s:0320}...{g}{x:00}
+
+@129
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@130
+{z}{s:0320}To keep the losses to a minimum, I have to defeat you here!{g}{x:00}
+
+@131
+{z}{s:0320}Heh... It won't be that easy!{g}{x:00}
+
+@132
+{z}{s:0320}Unless I beat you and unite the continent, true peace will never come!{g}{x:00}
+
+@133
+{z}{s:0320}Since the day we met, I had a feeling you'd become my enemy!{g}{x:00}
+
+@134
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@135
+{z}{s:0320}Hmph!{w} Axe Express!{g}{x:00}
+
+@136
+{z}{s:0320}Spiral Axe!{g}{x:00}
+
+@137
+{z}{s:0320}Ha-{w}a-{w}aaargh...!{g}{x:00}
+
+@138
+{z}{w}Final Burn!{g}{x:00}
+
+@139
+{z}{s:0320}What's wrong, {a:0000}?! Is that all your strength?!{g}{x:00}
+
+@140
+{z}{s:0320}Ugh...{g}{x:00}
+
+@141
+{z}{s:0320}So even you were no match for me!{g}{x:00}
+
+@142
+{z}{s:0320}!{g}{x:00}
+
+@143
+{z}What...?!{g}{x:00}
+
+@144
+{z}{s:0320}Sir {a:0066}! This ends now!{g}{x:00}
+

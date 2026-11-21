@@ -1,0 +1,465 @@
+@0
+{z}{s:0320}Nearly at our destination...{g}{x:00}
+
+@1
+{z}Let's finish this dull job quickly so we can kick back.{g}{x:00}
+
+@2
+{z}{s:0320}Captain! The enemy has appeared!{g}{x:00}
+
+@3
+{z}{s:0320}That is...{w}{w}!{w}{w} The Tigre Mercenaries!{g}{x:00}
+
+@4
+{z}{s:0320}The Medusa Mercenaries, I think. Their captain is some woman called {a:002b}...{g}{x:00}
+
+@5
+{z}{s:0320}So that's the Medusa Mercenaries...{g}{x:00}
+
+@6
+{z}{s:0320}Tigre without {a:0023} is no threat to us...{g}{x:00}
+
+@7
+{z}You lot! Scatter them in one sweep!{g}{x:00}
+
+@8
+{z}{s:0320}Right!{g}{x:00}
+
+@9
+{z}{c:06}§ Man §{c:07}{n}{v:00c4}Hey there! You're the Tigre Mercenaries, aren't you?{u}{x:00}
+
+@10
+{z}{v:00c5}You're going to fight that company over there? I'll lend you a hand.{u}{x:00}
+
+@11
+{z}{s:0320}Who are you...?{g}{x:00}
+
+@12
+{z}{s:0320}{v:00c6}{a:0004}?{w}{w} It's {a:0004}!{u}{x:00}
+
+@13
+{z}{v:00c7}You were thrown out of Tigre! What are you doing here now?{u}{x:00}
+
+@14
+{z}{s:0320}{v:00c8}Heh...{w}{w} You haven't changed, sis. I'll explain it all later.{u}{x:00}
+
+@15
+{z}{v:00c9}I heard {a:0023} died...{w} I owe him a debt too. I want to help!{u}{x:00}
+
+@16
+{z}{v:00ca}Even if you say no, I'm helping anyway!{u}{x:00}
+
+@17
+{z}{s:0320}{v:00d1}I'm beaten... I'll pull out first. Meet you in town.{u}{x:00}
+
+@18
+{z}{s:0320}I'm beaten. Sorry... I'm retreating first.{g}{x:00}
+
+@19
+{z}{s:0320}Damn it! How did I lose?{g}{x:00}
+
+@20
+{z}{s:0320}Ugh...{w}{w} It galls me, but retreat is all that's left.{g}{x:00}
+
+@21
+{z}{s:0320}I can't lose to a woman like that.{g}{x:00}
+
+@22
+{z}{s:0320}{v:00cb}It's been a while since I fought. This fires me up! Watch how I do it!{u}{x:00}
+
+@23
+{z}{s:0320}Here we go!{g}{x:00}
+
+@24
+{z}{s:0320}Tigre! Hurry up and get crushed!{g}{x:00}
+
+@25
+{z}{s:0320}We did it! We can get the supplies to the front now.{g}{x:00}
+
+@26
+{z}{s:0320}Looks like we'll get away cleanly. That'll see the job done.{g}{x:00}
+
+@27
+{z}{s:0320}...{g}{x:00}
+
+@28
+{z}I really don't want to fight...{w}{w} but if I'm beaten here, we'll be out of work.{g}{x:00}
+
+@29
+{z}Let's settle this in a duel, you and me...{w}{w} Here I come!{g}{x:00}
+
+@30
+{z}{s:0320}Hmph...{w} Not bad at all...{g}{x:00}
+
+@31
+{z}{s:0320}I'll take you down!{g}{x:00}
+
+@32
+{z}{s:0320}Well, well... A spirited little boy.{g}{x:00}
+
+@33
+{z}But you've a hundred years to go before you can beat me!{g}{x:00}
+
+@34
+{z}{s:0320}Shut up!{g}{x:00}
+
+@35
+{z}{s:0320}So you're {a:002b}.{g}{x:00}
+
+@36
+{z}{s:0320}Are you really a woman? What a drab outfit.{g}{x:00}
+
+@37
+{z}{s:0320}W-What did you say!{g}{x:00}
+
+@38
+{z}{s:0320}{v:00cc}Ah, {a:002b}. As lovely as ever.{u}{x:00}
+
+@39
+{z}{s:0320}{v:00cd}You... {a:0004}, wasn't it?{u}{x:00}
+
+@40
+{z}{v:00ce}I haven't seen your face for a long while. What have you been up to?{u}{x:00}
+
+@41
+{z}{s:0320}{v:00cf}Oh, I had a few things to see to. I'm a busy man, believe it or not.{u}{x:00}
+
+@42
+{z}{v:00d0}Go easy on me, will you!{u}{x:00}
+
+@43
+{z}{s:0320}We don't match up well against you. I'm pulling out! The rest is up to you.{g}{x:00}
+
+@44
+{z}{s:0320}Right!{g}{x:00}
+
+@45
+{z}{s:0320}{v:00d2}We've no force left to guard the supply train.{w}{w} ...We'll have to leave it to its fate.{u}{x:00}
+
+@46
+{z}{s:0320}{v:00d3}The supply train is wiped out. There's no point fighting on.{u}{x:00}
+
+@47
+{z}{v:00d4}All forces, withdraw! We'll regroup at the usual place. Don't be late!{u}{x:00}
+
+@48
+{z}{s:0320}The supply train is wiped out...{w}{w} No point in fighting on.{g}{x:00}
+
+@49
+{z}All forces withdraw!{g}{x:00}
+
+@50
+{z}{s:0320}We did it! We made that woman retreat!{g}{x:00}
+
+@51
+{z}{s:0320}{v:00d5}Now we only need to crush the enemy supply train.{u}{x:00}
+
+@52
+{z}{s:0320}All that's left is to defeat their supply train.{g}{x:00}
+
+@53
+{z}{s:0320}Not yet! We have to wipe out the supply train.{g}{x:00}
+
+@54
+{z}{s:0320}Yes! That's our victory!{g}{x:00}
+
+@55
+{z}{s:0320}Yes! We beat the supply train! We won!{g}{x:00}
+
+@56
+{z}{s:0320}Beat the supply train and the mission is done! I can just picture that woman's sour face.{g}{x:00}
+
+@57
+{z}{s:0320}Phew... We managed to win.{g}{x:00}
+
+@58
+{z}But that man... {a:0004}, was it? Who could he be?{g}{x:00}
+
+@59
+{z}{s:0320}!{g}{x:00}
+
+@60
+{z}{s:0320}{v:00d7}Magnificent! You did well against the Medusa Mercenaries.{u}{x:00}
+
+@61
+{z}{s:0320}{v:00d8}{a:0004}!{w}{w} What are you playing at? Turning up out of nowhere like this, what do you want?{u}{x:00}
+
+@62
+{z}{s:0320}{v:00d9}Sis, there's no need to snap at me.{u}{x:00}
+
+@63
+{z}{v:00da}I'll tell you all the details at the inn. For now, let's pull out.{u}{x:00}
+
+@64
+{z}{s:0320}!{g}{x:00}
+
+@65
+{z}{s:0320}{v:00d7}Magnificent! You did well against the Medusa Mercenaries.{u}{x:00}
+
+@66
+{z}{s:0320}You're {a:0004}, right? Thank you for lending us your strength...{g}{x:00}
+
+@67
+{z}{s:0320}{v:00db}Save the thanks for the inn. Come on, let's pull out.{u}{x:00}
+
+@68
+{z}{s:0320}Eh?{g}{x:00}
+
+@69
+{z}{s:0320}{v:00dc}What... Are you saying I'm a nuisance if I come along?{u}{x:00}
+
+@70
+{z}{s:0320}N-No... Not at all...{g}{x:00}
+
+@71
+{z}{s:0320}{v:00dd}Well then, I'll tell you the rest at the inn. For now, let's pull out.{u}{x:00}
+
+@72
+{z}{s:0320}That man who suddenly appeared and helped us... You know him, {a:0003}?{g}{x:00}
+
+@73
+{z}{s:0320}{v:00df}Yes... He was a company captain in Tigre before I joined.{u}{x:00}
+
+@74
+{z}{s:0320}I see...{w}{w} If he joined us, I thought he'd be a valuable asset.{g}{x:00}
+
+@75
+{z}{s:0320}{v:00e0}As a fighter he's more than adequate, but his conduct is a bit of a problem...{u}{x:00}
+
+@76
+{z}{s:0320}?{g}{x:00}
+
+@77
+{z}{s:0320}{v:00e1}I'll tell you the details when we're back in town.{u}{x:00}
+
+@78
+{z}{s:0320}{v:00e2}Who is that fellow, anyway?{u}{x:00}
+
+@79
+{z}{s:0320}{v:00e3}Who knows... But he looks like a useful fighter.{u}{x:00}
+
+@80
+{z}{s:0320}{v:00e4}That {a:0004}... What on earth is he thinking?{u}{x:00}
+
+@81
+{z}{s:0320}Mission accomplished! {a:002b} should be able to join us soon.{g}{x:00}
+
+@82
+{z}We'll keep guarding the supply train with the troops we have left.{g}{x:00}
+
+@83
+{z}{s:0320}This time the win is mine. All forces! After the supply train!{g}{x:00}
+
+@84
+{z}See you around, {a:0000}!{g}{x:00}
+
+@85
+{z}{s:0320}!{g}{x:00}
+
+@86
+{z}{s:0320}{v:00e5}A shame...{w}{w} But you did well against the Medusa Mercenaries.{u}{x:00}
+
+@87
+{z}{s:0320}{v:00d8}{a:0004}!{w}{w} What are you playing at? Turning up out of nowhere like this, what do you want?{u}{x:00}
+
+@88
+{z}{s:0320}{v:00d9}Sis, there's no need to snap at me.{u}{x:00}
+
+@89
+{z}{v:00da}I'll tell you all the details at the inn. For now, let's pull out.{u}{x:00}
+
+@90
+{z}{s:0320}!{g}{x:00}
+
+@91
+{z}{s:0320}{v:00e5}A shame...{w}{w} But you did well against the Medusa Mercenaries.{u}{x:00}
+
+@92
+{z}{s:0320}You're {a:0004}, right? Thank you for lending us your strength.{g}{x:00}
+
+@93
+{z}{s:0320}{v:00db}Save the thanks for the inn. Come on, let's pull out.{u}{x:00}
+
+@94
+{z}{s:0320}Eh?{g}{x:00}
+
+@95
+{z}{s:0320}{v:00dc}What... Are you saying I'm a nuisance if I come along?{u}{x:00}
+
+@96
+{z}{s:0320}N-No... Not at all...{g}{x:00}
+
+@97
+{z}{s:0320}{v:00dd}Well then, I'll tell you the rest at the inn. For now, let's pull out.{u}{x:00}
+
+@98
+{z}{s:0320}That man who suddenly appeared and helped us... You know him, {a:0003}?{g}{x:00}
+
+@99
+{z}{s:0320}{v:00df}Yes... He was a company captain in Tigre before I joined.{u}{x:00}
+
+@100
+{z}{s:0320}I see...{w}{w} If he joined us, I thought he'd be a valuable asset.{g}{x:00}
+
+@101
+{z}{s:0320}{v:00e0}As a fighter he's more than adequate, but his conduct is a bit of a problem...{u}{x:00}
+
+@102
+{z}{s:0320}?{g}{x:00}
+
+@103
+{z}{s:0320}{v:00e1}I'll tell you the details when we're back in town.{u}{x:00}
+
+@104
+{z}{s:0320}{v:00e2}Who is that fellow, anyway?{u}{x:00}
+
+@105
+{z}{s:0320}{v:00e3}Who knows... But he looks like a useful fighter.{u}{x:00}
+
+@106
+{z}{s:0320}{v:00e4}That {a:0004}... What on earth is he thinking?{u}{x:00}
+
+@107
+{z}{s:0320}We were so close... Are we to fall here?{g}{x:00}
+
+@108
+{z}{s:0320}Our comrades are waiting at the front...{g}{x:00}
+
+@109
+{z}{s:0320}Damn! They got away. {a:002b} got the better of us...{g}{x:00}
+
+@110
+{z}But that man... {a:0004}, was it? Who could he be?{g}{x:00}
+
+@111
+{z}{s:0320}So we've broken through the pass. The Tigre Mercenaries have really fallen.{g}{x:00}
+
+@112
+{z}{a:002b} will join us soon...{w} We'll keep guarding the supply train with the troops we have left!{g}{x:00}
+
+@113
+{z}{s:0320}So you're {a:002b}!{g}{x:00}
+
+@114
+{z}{s:0320}What is it?{w} Does a little girl want something from me?{g}{x:00}
+
+@115
+{z}{s:0320}Yes... I want you to tell me why you fight.{g}{x:00}
+
+@116
+{z}{a:0023}'s ideal was to quell this war and lead the continent to peace!{g}{x:00}
+
+@117
+{z}We carry on that ideal and fight for it even now!{w} And you too...{g}{x:00}
+
+@118
+{z}{s:0320}Ha ha ha ha ha...{g}{x:00}
+
+@119
+{z}Don't talk nonsense. Why would a mercenary fight for peace? We'd be out of work.{g}{x:00}
+
+@120
+{z}It's soft talk like that that got {a:0023} killed!{g}{x:00}
+
+@121
+{z}{s:0320}Oh!{w}{w} Why won't you understand! Are you the same as {a:0028} and his lot?{g}{x:00}
+
+@122
+{z}{s:0320}{v:00c3}Ah!{w} That's...{u}{x:00}
+
+@123
+{z}{s:0320}{a:002b}! Let's go!{g}{x:00}
+
+@124
+{z}{s:0320}I can't lose to a little boy like you!{g}{x:00}
+
+@125
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@126
+{z}{s:0320}Buster Sword!{g}{x:00}
+
+@127
+{z}{s:0320}Ray Blade!{g}{x:00}
+
+@128
+{z}{s:0320}Here I come!{w}{w}{w} Overdrive!{g}{x:00}
+
+@129
+{z}{s:0320}Ugh...{g}{x:00}
+
+@130
+{z}{s:0320}Hmph! Is that all your strength amounts to?{g}{x:00}
+
+@131
+{z}{s:0320}{a:002b}! I'll end this now!{g}{x:00}
+
+@132
+{z}{s:0320}{a:0000}! This is the end for you too!{g}{x:00}
+
+@133
+{z}{s:0320}I... won?{g}{x:00}
+
+@134
+{z}{s:0320}{v:00d6}Hey, Captain!{u}{x:00}
+
+@135
+{z}{s:0320}{v:00d6}Hey, Captain!{u}{x:00}
+
+@136
+{z}{s:0320}{v:00de}Well, let's head back.{w}{w} Hm...? What's wrong?{u}{x:00}
+
+@137
+{z}{s:0320}...{g}{x:00}
+
+@138
+{z}{s:0320}{v:00d6}Hey, Captain!{u}{x:00}
+
+@139
+{z}{s:0320}{v:00d6}Hey, Captain!{u}{x:00}
+
+@140
+{z}{s:0320}{v:00de}Well, let's head back.{w}{w} Hm...? What's wrong?{u}{x:00}
+
+@141
+{z}{s:0320}You in the supply train needn't charge at the enemy.{g}{x:00}
+
+@142
+{z}Anywhere to the south will do...{w} Just think about getting away from here.{g}{x:00}
+
+@143
+{z}{s:0320}Understood...{g}{x:00}
+
+@144
+{z}{s:0320}You're our precious meal ticket, so make sure you escape!{g}{x:00}
+
+@145
+{z}{s:0320}We don't fancy being cut down either.{g}{x:00}
+
+@146
+{z}{s:0320}!{w}{w}{w} You are...{g}{x:00}
+
+@147
+{z}{s:0320}So you're {a:002b}... I won't let you break through here!{g}{x:00}
+
+@148
+{z}So a little boy like you is {a:0023}'s successor...{g}{x:00}
+
+@149
+{z}No wonder {a:0023} thought so highly of you...{g}{x:00}
+
+@150
+{z}{s:0320}Looking like that, I'll wager no man has ever courted you.{g}{x:00}
+
+@151
+{z}Poor thing...{g}{x:00}
+
+@152
+{z}{s:0320}Hmph! Better than a monster caked in make-up.{g}{x:00}
+
+@153
+{z}{s:0320}For a woman with no charm, you've a sharp tongue.{g}{x:00}
+
+@154
+{z}Don't come crying to me for help later. It won't work!{g}{x:00}
+

@@ -1,0 +1,1114 @@
+@0
+{z}{f}{l:006e}{s:006e}Your Majesty, Lord Regent.{g}{z}I have brought {a:0000}.{g}{x:00}
+
+@1
+{z}{f}{l:0000}{s:0000}I am {a:0000}.{n}
+It is an honour to be received.{g}{x:00}
+
+@2
+{z}{f}{l:00a4}{s:00a4}You are the {a:0000} who helped{n}
+Grandcour so many times?{g}{x:00}
+
+@3
+{z}{f}{l:00a4}Haven't we met somewhere...?{w}{n}
+Oh yes, at {a:006e}'s manor!{g}{x:00}
+
+@4
+{z}{f}{l:00a4}I thought you'd look more frightening,{n}
+but you seem kind.{g}{x:00}
+
+@5
+{z}{f}{l:00a4}I must thank you, so I shall make{n}
+you a Knight of Grandcour,{n}
+as a special favour.{g}{x:00}
+
+@7
+{z}{f}{l:00a4}Oh, let me introduce my retainers: {a:0094}, my Regent, who sees to government, and {a:006e}, my Governor, who sees to the army.{g}{x:00}
+
+@8
+{z}{f}{l:006e}Pleased to meet you.{g}{x:00}
+
+@9
+{z}{f}{l:0094}I am {a:0094}, the Regent.{g}{j:000a}{x:00}
+
+@10
+{z}I aid you all through the business of government. Do not take me lightly for lacking brawn, though many do.{g}{x:00}
+
+@11
+{z}{f}{l:00a4}{a:006e}, I want to introduce {a:0000}{n}
+to Mother too.{n}
+Please fetch her.{g}{x:00}
+
+@12
+{z}{f}{l:006e}Very well, Your Majesty.{g}{x:00}
+
+@13
+{z}{f}{l:00a4}{a:0000}, from next month you may{n}
+come and go here freely.{n}
+Your comrades may too, as before.{g}{x:00}
+
+@14
+{z}{f}{l:00a4}Now, the name of your order.{n}
+{a:0094} thought of a good one.{n}
+How about "Morning Star Knights"?{g}{x:00}
+
+@15
+{z}{f}{l:0094}A fine ring to it, I think.{g}{x:00}
+
+@16
+{z}{f}{l:00a4}Then it's decided!{n}
+It sounds splendid!{g}{x:00}
+
+@19
+{z}{f}{l:00a6}{s:00a6}Is this the new knight?{n}
+How do you do! I am the king's mother!{g}{x:00}
+
+@20
+{z}{f}{l:00a6}Oh... is this truly the first time?{n}
+Have we not met once before?{g}{x:00}
+
+@21
+{z}{f}{l:0094}He is the man who burst in on{n}
+the talks at the manor.{g}{x:00}
+
+@22
+{z}{f}{l:00a6}Ah, that mercenary...{n}
+You seem a little sturdier now.{g}{x:00}
+
+@23
+{z}{f}{l:00a6}You are younger than I expected, but you have a dependable look about you.{g}{x:00}
+
+@24
+{z}{f}{l:00a6}Please look after our young king.{g}{x:00}
+
+@25
+{z}{f}{l:0094}Then, as a knight in Grandcour's service,{n}
+you will work hard from today.{g}{j:001a}{x:00}
+
+@26
+{z}First, a mission to break through{n}
+the enemy's defensive line.{n}
+That should be easy for you.{g}{x:00}
+
+@27
+{z}{f}{l:00a6}I look forward to seeing{n}
+what you can do.{g}{x:00}
+
+@29
+{z}{f}{l:0094}Just in case, I have called for mercenaries at the Guild.{n}
+Let us hope a reliable company joins us.{g}{j:001e}{x:00}
+
+@30
+{z}I give you gold and soldiers.{n}
+Prepare your forces.{g}{x:00}
+
+@31
+{z}Berserker x50{n}
+Tercio x50{n}
+You received 18000 G.{g}{x:00}
+
+@32
+{z}{f}{l:00a4}{a:0000}, if you need more soldiers,{n}
+hire them with that gold.{n}
+When you are ready, come here again.{g}{x:00}
+
+@35
+{z}{f}{l:0094}Not me. Speak to the king.{g}{x:00}
+
+@36
+{z}{f}{l:00a4}{s:00a4}Are you ready?{y:0000250026}{x:00}
+
+@37
+{z}{f}{l:00a4}Do your best!{n}
+I'll be waiting for you to come back!{g}{x:00}
+
+@38
+{z}{f}{l:00a4}No need to rush.{g}{x:00}
+
+@40
+{z}{f}{l:00a4}{s:00a4}Wonderful, a great victory!{g}{x:00}
+
+@41
+{z}{f}{l:006e}{s:006e}Well done, {a:0000}.{g}{x:00}
+
+@42
+{z}{f}{l:0094}{s:0094}Up to expectations, for a start...{w} But do not let this victory make you careless.{g}{x:00}
+
+@43
+{z}{f}{l:0094}{a:006e}, explain to {a:0000}{n}
+what comes next.{g}{z}{f}{l:006e}Understood.{g}{x:00}
+
+@45
+{z}{f}{l:006e}Then let me explain.{g}{z}A room has been prepared for you in the castle, and you are to lodge there.{g}{j:002e}{x:00}
+
+@46
+{z}You receive missions from the king in the audience chamber.{g}{z}Once equipped, return there, take your leave of the king and set off for the battlefield.{g}{j:002f}{x:00}
+
+@47
+{z}The king will provide the soldiers.{g}{z}And as I said before,{j:0030}{x:00}
+
+@48
+{n}
+you may not leave this town{n}
+except to fight.{g}{x:00}
+
+@49
+{z}{f}{l:006e}Well, that is all from me.{n}
+Do get some proper rest.{g}{x:00}
+
+@50
+{z}{f}{l:0070}{s:0070}Hey, newcomer!{n}
+Out of my way for a moment!{g}{x:00}
+
+@51
+{z}{f}{l:0070}Your Majesty, give me a mission too.{g}{x:00}
+
+@52
+{z}{f}{l:0094}{a:0070}, there are no more missions this month. We have {a:0000}, after all.{g}{x:00}
+
+@53
+{z}{f}{l:0070}I was not asking you. I am asking His Majesty.{g}{x:00}
+
+@54
+{z}{f}{l:0094}Dear me, addressing the Regent so rudely...{w} What a troublesome man.{g}{x:00}
+
+@55
+{z}{f}{l:0070}Majesty, do you hold me in lower regard{n}
+than this newcomer?{g}{z}{f}{l:00a4}That's not it, but...{g}{x:00}
+
+@57
+{z}{f}{l:0094}{a:0070}, a mere knight does not tell His Majesty what to do!{g}{x:00}
+
+@58
+{z}{f}{l:0070}Silence!{n}
+You keep cutting in, so our voices{n}
+never reach His Majesty!{g}{z}Do you not see, you fool of a Regent?!{g}{x:00}
+
+@59
+{z}{f}{l:0094}{a:0000},{n}
+I am sorry you saw such an ugly scene...{g}{x:00}
+
+@60
+{z}{f}{l:00a4}You can go back now. I'm counting on you next month too.{g}{x:00}
+
+@61
+{z}{f}{l:0094}{s:0094}Insolent {a:0070}...{g}{x:00}
+
+@65
+{z}{f}{l:00a4}{s:00a4}{a:0000},{n}
+let me introduce my playmate.{g}{z}{a:00a5}, my friend since we were small.{g}{x:00}
+
+@66
+{z}{f}{l:00a5}{s:00a5}You needn't introduce me. We met{n}
+at {a:006e}'s manor once, remember?{g}{x:00}
+
+@67
+{z}{f}{l:00a5}{s:00a5}Hello, I'm {a:00a5}.{g}{x:00}
+
+@68
+{z}{f}{l:00a5}I've always served at His Majesty's side.{n}
+Nice to meet you.{g}{x:00}
+
+@69
+{z}{f}{l:0094}{s:0094}May I now give {a:0000} this month's task?{g}{x:00}
+
+@70
+{z}{f}{l:0094}This month's task is to defend our fort near the border...{w} The enemy is the infamous Blood Mist Mercenaries.{g}{z}{f}{l:0000}{s:0000}{j:0047}{x:00}
+
+@71
+ Blood Mist Mercenaries...{g}{z}{f}{l:0094}They are famed for cruelty,{n}
+but you should manage easily.{n}
+Return with victory.{g}{x:00}
+
+@73
+{z}Dragoon x50{n}
+Sniper x50{n}
+You received 20000 G.{g}{x:00}
+
+@75
+{z}{f}{l:00a5}{s:00a5}Be careful.{g}{x:00}
+
+@76
+{z}{f}{l:00a4}{s:00a4}Are you ready?{y:00004d004e}{x:00}
+
+@77
+{z}{f}{l:00a4}Good luck!{g}{x:00}
+
+@78
+{z}{f}{l:00a4}Hurry, or the fort will...{g}{x:00}
+
+@80
+{z}{f}{l:00a4}{s:00a4}You held the fort,{n}
+{a:0000}!{g}{z}{f}{l:00a5}{s:00a5}I'm glad you're unhurt.{g}{x:00}
+
+@82
+{z}{f}{l:0094}{s:0094}You felled {a:0028} with ease...{w}{n}
+Considerable skill.{g}{x:00}
+
+@83
+{z}{f}{l:00a4}You must be tired. You should rest.{g}{x:00}
+
+@85
+{z}{f}{l:006e}{s:006e}Rest your body while you can.{g}{x:00}
+
+@86
+{z}{f}{l:00a4}{s:00a4}{a:0000}, sorry, but there's{n}
+no work this month.{g}{z}I'm going out with Mother now.{g}{x:00}
+
+@87
+{z}{f}{l:00a6}{s:00a6}We shall take our ease.{n}
+Please do the same.{g}{x:00}
+
+@88
+{z}{f}{l:0094}{s:0094}His Majesty says so, but you know we have no time to idle.{g}{z}I have faith in you, so let me take this chance to ask{j:0059}{x:00}
+
+@89
+ a favour of you...{g}{z}You would not know it, but the house of Ragail had a famed sword handed down for generations.{j:005a}{x:00}
+
+@90
+ Its holder is the rightful heir.{g}{x:00}
+
+@91
+{z}{f}{l:0094}This is top secret, but when {a:00a1}{n}
+rebelled, that sword{n}
+was carried off.{g}{j:005c}{x:00}
+
+@92
+{z}I searched alone for the sword...{w}{n}
+and at last found where it is.{n}
+It seems to lie in the enemy's treasury!{g}{x:00}
+
+@93
+{z}{f}{l:0094}The guard, once strict, is now thin.{n}
+I want to retake it now!{n}
+Will you do it?{g}{z}I have prepared funds for you.{j:005e}{x:00}
+
+@94
+{n}
+Make ready quickly and return here.{g}{x:00}
+
+@95
+{z}Berserker x50{n}
+Dragoon x50{n}
+You received 22000 G.{g}{x:00}
+
+@96
+{z}{f}{l:0094}{s:0094}Is everything in order?{y:0000610062}{x:00}
+
+@97
+{z}{f}{l:0094}I am counting on you!{g}{x:00}
+
+@98
+{z}{f}{l:0094}Hurry, we cannot dawdle.{g}{x:00}
+
+@100
+{z}{f}{l:0094}{s:0094}You are back!{n}
+And how did it go?{g}{x:00}
+
+@101
+{z}{f}{l:0000}{s:0000}Yes, I have recovered the famed sword.{g}{x:00}
+
+@102
+{z}{f}{l:0094}Splendid, you did it!{n}
+Now His Majesty can call himself{n}
+a true king...{g}{z}Well done, {a:0000}.{n}
+I shall not forget your loyalty.{g}{x:00}
+
+@105
+{z}{f}{l:0000}{s:0000}I am sorry.{n}
+I failed to retake it...{g}{x:00}
+
+@106
+{z}{f}{l:0094}You failed...?{w}{n}
+I was wrong to ask you.{n}
+Enough! Begone!{g}{x:00}
+
+@110
+{z}{f}{l:00a4}{s:00a4}Terrible news, {a:0000}!{g}{x:00}
+
+@111
+{z}{f}{l:0094}{s:0094}The enemy has hired the Funeral Mercenaries...{g}{z}They are now marching on our country,{j:0070}{x:00}
+
+@112
+{n}
+so I hear.{g}{z}{f}{l:00a5}{s:00a5}The Funeral Mercenaries are{n}
+terrifying people, aren't they?{g}{z}{f}{l:0094}{a:0031} is our greatest foe...{w}{j:0071}{x:00}
+
+@113
+{n}
+but to secure our rule of the continent,{n}
+we cannot leave them be forever.{g}{x:00}
+
+@114
+{z}{f}{l:0094}{a:0000},{n}
+wipe out the Funeral Mercenaries!{n}
+Defend our land at all costs!{g}{x:00}
+
+@116
+{z}Tercio x50{n}
+Sniper x50{n}
+You received 25000 G.{g}{x:00}
+
+@117
+{z}{f}{l:0094}{s:0094}I am counting on you.{g}{x:00}
+
+@118
+{z}{f}{l:00a5}{s:00a5}Be careful.{g}{x:00}
+
+@119
+{z}{f}{l:00a4}{s:00a4}Ready? Have you forgotten nothing?{y:0000780079}{x:00}
+
+@120
+{z}{f}{l:00a4}Be sure to defeat {a:0031}!{g}{x:00}
+
+@121
+{z}{f}{l:00a4}Be careful.{g}{x:00}
+
+@125
+{z}{f}{l:00a4}{s:00a4}Welcome back! Are you hurt?{g}{x:00}
+
+@126
+{z}{f}{l:0094}{s:0094}What a man you are!{n}
+To have beaten that {a:0031}!{g}{x:00}
+
+@127
+{z}{f}{l:00a5}{s:00a5}Are we safe now?{w}{n}
+Oh, thank goodness...{g}{x:00}
+
+@128
+{z}{f}{l:00a4}Anyway, I'm glad you're safe.{n}
+Now go back to your room and rest!{g}{x:00}
+
+@130
+{z}{f}{l:0094}{s:0094}{a:0000}, this month's work{n}
+carries a heavy responsibility.{g}{x:00}
+
+@131
+{z}{f}{l:0094}At last we destroy hateful Saxen...{w}{n}
+Take the castle and deal with the traitor {a:00a1}!{g}{x:00}
+
+@132
+{z}Berserker x50{n}
+Sniper x50{n}
+You received 20000 G.{g}{x:00}
+
+@133
+{z}{f}{l:0070}{s:0070}{a:0094}... {w}that is, Lord Regent,{w} could that task not be mine?{g}{x:00}
+
+@134
+{z}{f}{l:0094}It is vital, and failure is not allowed.{n}
+Therefore it goes to {a:0000}.{g}{x:00}
+
+@135
+{z}{f}{l:0070}What do you mean by that!{g}{z}{f}{l:0094}I give it to the more trustworthy man.{j:0088}{x:00}
+
+@136
+{n}
+You know {a:0000}'s deeds so far,{n}
+do you not?{g}{x:00}
+
+@137
+{z}{f}{l:00a4}{s:00a4}You'll have your turn another time,{n}
+{a:0070}, so bear it for now.{g}{x:00}
+
+@138
+{z}{f}{l:0070}If Your Majesty says so...{w}{n}
+I shall give way here.{g}{x:00}
+
+@139
+{z}{f}{l:00a4}Then {a:0000},{n}
+go and get ready.{g}{x:00}
+
+@140
+{z}{f}{l:00a4}{s:00a4}Ready?{y:00008d008e}{x:00}
+
+@141
+{z}{f}{l:00a4}I'll cheer for you from this castle.{g}{x:00}
+
+@142
+{z}{f}{l:00a4}There's still plenty of time.{g}{x:00}
+
+@144
+{z}{f}{l:00a4}{s:00a4}Well done, {a:0000}.{n}
+How was the enemy?{g}{z}{f}{l:0000}{s:0000}King {a:00a1} seems to have died{j:0091}{x:00}
+
+@145
+{n}
+before we arrived.{g}{x:00}
+
+@146
+{z}{f}{l:0094}{s:0094}What...? {w}Could {a:0066} have{n}
+done it?{g}{z}That man was full of ambition...{w}{j:0093}{x:00}
+
+@147
+ When a traitor dies by treachery, heaven could hand down no fitter punishment.{g}{j:0094}{x:00}
+
+@148
+{z}Now the people and the land{n}
+have returned where they belong.{g}{x:00}
+
+@149
+{z}{f}{l:006e}{s:006e}...{w}{n}
+Brother... {w}Sister...{g}{x:00}
+
+@150
+{z}{f}{l:0094}{a:006e}, forgive me. This must be hard for you to hear.{g}{x:00}
+
+@151
+{z}{f}{l:00a4}Thanks to {a:0000},{n}
+Grandcour grows ever greater.{n}
+Please keep fighting for us.{g}{x:00}
+
+@152
+{z}{f}{l:00a4}{s:00a4}I wish the fighting{n}
+would end soon.{g}{x:00}
+
+@153
+{z}{f}{l:00a5}{s:00a5}I... I'm cheering for you.{g}{x:00}
+
+@155
+{z}{f}{l:0094}{s:0094}{a:0000}, I have another important task for you this month.{g}{x:00}
+
+@156
+{z}{f}{l:0094}Attack the Estanian capital{n}
+and sweep away those spineless nobles.{n}
+Erase republics from this world!{g}{x:00}
+
+@157
+{z}Tercio x50{n}
+Dragoon x50{n}
+You received 20000 G.{g}{x:00}
+
+@158
+{z}{f}{l:0070}{s:0070}Lord Regent, was I not to be given{n}
+this one?{g}{x:00}
+
+@159
+{z}{f}{l:0094}I recall saying no such thing.{n}
+You must be mistaken.{g}{x:00}
+
+@160
+{z}{f}{l:0070}Majesty! Is it your own will not to use me?{g}{z}In truth, this man passes off his own words as yours...{g}{x:00}
+
+@161
+{z}{f}{l:0094}Orders given in this audience chamber{n}
+are the king's word, weightier than all...{w}{n}
+How dare you doubt them!{g}{x:00}
+
+@162
+{z}{f}{l:0094}Do you still not see that such an attitude{n}
+is why His Majesty shuns you?{g}{x:00}
+
+@163
+{z}{f}{l:0070}Curse you, saying whatever you please...{g}{x:00}
+
+@164
+{z}{f}{l:00a4}{s:00a4}Is it all right?{n}
+You've made {a:0070} so angry...{g}{x:00}
+
+@165
+{z}{f}{l:0094}If anything happens,{n}
+I shall bear all responsibility.{n}
+Your Majesty need not worry.{g}{x:00}
+
+@166
+{z}{f}{l:00a4}{s:00a4}You're ready, then?{y:0000a700a8}{x:00}
+
+@167
+{z}{f}{l:00a4}With {a:0000},{n}
+we'll surely win!{g}{x:00}
+
+@168
+{z}{f}{l:00a4}Prepare well.{g}{x:00}
+
+@169
+{z}{f}{l:0070}You will pay for this!{g}{x:00}
+
+@170
+{z}{f}{l:0094}{s:0094}So Estania has fallen before us at last...{n}
+Well done.{g}{j:00ab}{x:00}
+
+@171
+{z}It is a wonder it survived so long{n}
+with so little strength.{g}{x:00}
+
+@172
+{z}{f}{l:006e}{s:006e}How did {a:0076} meet his end?{g}{z}{f}{l:0094}I recall {a:0076} once retired{n}
+as Knight Commander...{g}{j:00ad}{x:00}
+
+@173
+{z}To be drawn into war again and die:{n}
+a sad fate.{g}{x:00}
+
+@174
+{z}{f}{l:0000}Lord {a:0076} thought of the peasants{n}
+to the very end.{g}{z}He seems to have fought for a nation where{n}
+peasants too have a part in government...{g}{x:00}
+
+@175
+{z}{f}{l:00a4}Don't worry,{n}
+I'll cherish the peasants too...{g}{x:00}
+
+@176
+{z}{f}{l:0094}Though meddling in politics{n}
+is quite out of the question.{g}{x:00}
+
+@180
+{z}{f}{l:006e}At any rate, we have united the continent!{g}{x:00}
+
+@181
+{z}{f}{l:0094}Indeed. We have regained the glory of old Ragail, and more.{g}{x:00}
+
+@182
+{z}{f}{l:00a4}There'll be no more fighting...{w}{n}
+As a sign of peace, I'd like to hold{n}
+a festival for the people. What do you think?{g}{x:00}
+
+@183
+{z}{f}{l:006e}A fine idea. Everyone will be delighted!{g}{x:00}
+
+@184
+{z}{f}{l:00a4}Then {a:0094}, go and tell{n}
+the whole town.{g}{x:00}
+
+@185
+{z}{f}{l:0094}I...{w}{n}
+No, if it is Your Majesty's command, so be it.{g}{x:00}
+
+@186
+{z}{f}{l:006e}The Lord Regent is ill-suited{n}
+to pleasant work...{w}{n}
+I shall go and help.{g}{x:00}
+
+@187
+{z}{f}{l:00a4}{a:0000},{n}
+you worked really hard too.{g}{x:00}
+
+@188
+{z}{f}{l:00a6}{s:00a6}So you have united the continent at last.{n}
+Congratulations!{g}{x:00}
+
+@189
+{z}{f}{l:00a5}{s:00a5}So the knights won't have to go{n}
+off to fight any more...{g}{z}What will everyone do{n}
+once it's peaceful?{g}{x:00}
+
+@190
+{z}{f}{l:00a4}I'll see that everyone lives happily... First of all, I'll hold a peace festival.{g}{z}All three of you, look forward to it!{g}{x:00}
+
+@195
+{z}{f}{l:0094}{s:0094}{a:0000},{n}
+another important task for you.{g}{x:00}
+
+@196
+{z}{f}{l:0094}Attack the Mylard capital and slay that kingdom's king and prince...{w} We shall end the island nation's history!{g}{x:00}
+
+@197
+{z}Berserker x50{n}
+Sniper x50{n}
+You received 20000 G.{g}{x:00}
+
+@200
+{z}{f}{l:00a4}{s:00a4}Are you ready now?{y:0000c900ca}{x:00}
+
+@201
+{z}{f}{l:00a4}One last push to unification. Win for us!{g}{x:00}
+
+@202
+{z}{f}{l:00a4}Don't forget anything.{g}{x:00}
+
+@205
+{z}{f}{l:0094}{s:0094}Well done indeed.{n}
+You have my thanks.{g}{x:00}
+
+@206
+{z}{f}{l:006e}{s:006e}What sort of man was the Mylard prince?{g}{x:00}
+
+@207
+{z}{f}{l:0000}{s:0000}Prince {a:007e} now and then spoke{n}
+his fiancee's name.{g}{z}Even at the moment of death...{w}{w}{g}{x:00}
+
+@209
+{z}{f}{l:00a4}{s:00a4}Poor woman. To lose the one she loved...{g}{x:00}
+
+@210
+{z}{f}{l:006e}{s:006e}Yet to fight to impress a woman{n}
+and die for it... {w}a foolish man.{g}{x:00}
+
+@211
+{z}{f}{l:0094}Indeed. When private feelings intrude on affairs of state, the nation deserves to fall...{g}{x:00}
+
+@215
+{z}{f}{l:0094}{s:0094}{a:0000}...{n}
+This task will test your true worth.{g}{x:00}
+
+@216
+{z}{f}{l:0094}Attack the Fenrir capital and destroy{n}
+that nation utterly...{g}{z}I hold no grudge, but they will not bow to His{n}
+Majesty's virtue, so there is no other way.{g}{x:00}
+
+@217
+{z}Tercio x50{n}
+Dragoon x50{n}
+You received 20000 G.{g}{x:00}
+
+@220
+{z}{f}{l:00a4}{s:00a4}Everything's ready?{y:0000dd00de}{x:00}
+
+@221
+{z}{f}{l:00a4}Do the job well!{g}{x:00}
+
+@222
+{z}{f}{l:00a4}If you keep {a:0094} waiting,{n}
+he'll nag!{g}{x:00}
+
+@225
+{z}{f}{l:0094}{s:0094}{a:0000}, splendidly done.{g}{j:00e2}{x:00}
+
+@226
+{z}It seems the people of Fenrir{n}
+had no divine word telling them{n}
+to surrender to us...{g}{x:00}
+
+@227
+{z}{f}{l:006e}{s:006e}How was {a:0086}'s spearwork?{g}{x:00}
+
+@228
+{z}{f}{l:0000}{s:0000}{a:0086} seemed unwell.{n}
+She may have been with child.{g}{x:00}
+
+@229
+{z}{f}{l:006e}I see...{g}{x:00}
+
+@231
+{z}{f}{l:0094}The child of {a:0086} and {a:0087}...{w}{n}
+Enemy's child or no, I would have{n}
+liked to see how it grew.{g}{x:00}
+
+@235
+{z}{f}{l:0094}{s:0094}This month marks another milestone... We shall destroy Rana!{g}{x:00}
+
+@236
+{z}{f}{l:0094}{a:0000}, go and defeat the emperor{n}
+who mistook {a:00a1}'s rebellion for{n}
+a chance to rule the continent himself!{g}{x:00}
+
+@237
+{z}Berserker x50{n}
+Tercio x50{n}
+You received 20000 G.{g}{x:00}
+
+@240
+{z}{f}{l:00a4}{s:00a4}Ready?{y:0000f100f2}{x:00}
+
+@241
+{z}{f}{l:00a4}Good luck!{g}{x:00}
+
+@242
+{z}{f}{l:00a4}Aren't you ready yet...?{g}{x:00}
+
+@245
+{z}{f}{l:0094}{s:0094}Even great Rana is finished at last...{w}{n}
+The history of a great power is over.{g}{x:00}
+
+@246
+{z}{f}{l:006e}{s:006e}Even the mightiest have their end...{g}{x:00}
+
+@247
+{z}{f}{l:0094}The emperor had an only daughter,{n}
+did he not? What of her?{g}{x:00}
+
+@248
+{z}{f}{l:0000}{s:0000}She was nowhere to be seen.{g}{x:00}
+
+@249
+{z}{f}{l:00a4}{s:00a4}Let the daughter go.{n}
+Rana is finished.{g}{z}She's just an ordinary girl now.{g}{x:00}
+
+@250
+{z}{f}{l:0094}Even a time-honoured empire falls easily before force of arms...{g}{x:00}
+
+@253
+{z}{f}{l:0094}{s:0094}All here, it seems.{g}{z}You have all fought long and well.{n}
+I thank you.{g}{x:00}
+
+@254
+{z}{f}{l:0070}{s:0070}Wait. What of His Majesty?{g}{x:00}
+
+@255
+{z}{f}{l:0094}His Majesty is unwell and is recovering in his chamber.{g}{z}{f}{l:0070}Then why do you stand in his place!?{g}{x:00}
+
+@257
+{z}{f}{l:0070}Get away from there, now!{g}{x:00}
+
+@258
+{z}{f}{l:0094}I will not...{g}{z}This is on Lady {a:00a6}'s{n}
+instructions.{g}{j:0103}{x:00}
+
+@259
+{z}To give orders to me now is to give orders to His Majesty. Know your place.{g}{x:00}
+
+@260
+{z}{f}{l:0070}What!{n}
+Damn you, I can bear no more!{g}{x:00}
+
+@261
+{z}{f}{l:006e}{s:006e}Please be quiet, {a:0070}.{g}{z}{f}{l:0070}...{g}{x:00}
+
+@262
+{z}{f}{l:0070}If it were His Majesty's order, perhaps,{n}
+but I take no direction from you!{g}{x:00}
+
+@264
+{z}{f}{l:0094}...Very well.{w} I shall relay His Majesty's words. Is that acceptable?{g}{z}"A festival shall be held in one week. As for its preparations,{j:0109}{x:00}
+
+@265
+ all are to obey {a:0094} in everything."{w} ...That is all.{g}{x:00}
+
+@266
+{z}{f}{l:006e}A festival...{w}{n}
+I hope it passes peacefully...{g}{x:00}
+
+@269
+{z}{f}{l:006e}{s:006e}Let us get this over with.{g}{x:00}
+
+@270
+{z}{f}{l:006e}{s:006e}Lord Regent, {a:0070} has finally done it.{g}{z}He has raised a revolt, vowing to{n}
+strike you down{j:010f}{x:00}
+
+@271
+{n}
+and is massing troops outside the castle.{g}{x:00}
+
+@272
+{z}{f}{l:0094}{s:0094}What!{g}{z}How dare he forget the late king's favour and defy the royal house...{g}{j:0111}{x:00}
+
+@273
+{z}{a:006e}, {a:0000},{n}
+get ready at once and crush{n}
+the traitor!{g}{x:00}
+
+@274
+{z}You received 15000 G.{g}{x:00}
+
+@275
+{z}{f}{l:0094}...To come this far{n}
+and see this...{g}{x:00}
+
+@276
+{z}{f}{l:0094}{s:0094}Are you prepared?{y:0001150116}{x:00}
+
+@277
+{z}{f}{l:0094}Show them that treason{n}
+can never succeed!{g}{x:00}
+
+@278
+{z}{f}{l:0094}Hurry.{n}
+They may storm the castle at any moment.{g}{x:00}
+
+@280
+{z}{f}{l:0094}{s:0094}Well done.{n}
+For a time I wondered how it would end...{g}{x:00}
+
+@281
+{z}{f}{l:00a4}{s:00a4}The fighting was supposed to be over.{n}
+What a shame.{g}{x:00}
+
+@282
+{z}{f}{l:0094}Rewards for you two will be announced later. For today, rest easy...{g}{x:00}
+
+@283
+{z}{f}{l:00a4}Wait, {a:0094}!{g}{x:00}
+
+@284
+{z}{f}{l:00a4}I'll give orders to the knights myself. Sorry, {a:0094}, but please keep out of it.{g}{z}{f}{l:0094}I see...{g}{z}{f}{l:00a4}{j:011d}{x:00}
+
+@285
+ The revolt is quelled, but...{w}{n}
+what will you do now, {a:0094}?{g}{x:00}
+
+@286
+{z}{f}{l:0094}Why, I shall go on devoting myself{n}
+to the nation.{g}{x:00}
+
+@287
+{z}{f}{l:00a4}Hmm, wouldn't you do better{n}
+to rest a while?{g}{x:00}
+
+@288
+{z}{f}{l:006e}{s:006e}His Majesty seems to understand{n}
+the cause of this revolt well.{g}{x:00}
+
+@289
+{z}{f}{l:0094}You mean the blame for it is mine...{g}{x:00}
+
+@290
+{z}{f}{l:00a4}I'm very grateful for all your help,{n}
+{a:0094}...{w}{n}
+but I can't keep relying on others.{g}{x:00}
+
+@291
+{z}{f}{l:00a4}I have to become a proper king, one who{n}
+thinks of the people and the knights{n}
+and gives orders for himself.{g}{x:00}
+
+@292
+{z}{f}{l:0094}I see...{g}{z}I have long prided myself that none but I could assist Your Majesty.{g}{j:0125}{x:00}
+
+@293
+{z}Yet to have invited two revolts in your reign{n}
+is my own failure.{g}{j:0126}{x:00}
+
+@294
+{z}I shall take responsibility{n}
+and resign as Regent.{g}{x:00}
+
+@295
+{z}{f}{l:00a4}No, that's not what I meant...{g}{x:00}
+
+@296
+{z}{f}{l:0094}No, no. Hearing Your Majesty's fine words,{n}
+I am quite reassured.{g}{j:0129}{x:00}
+
+@297
+{z}From now on I shall watch over{n}
+Your Majesty's growth from the shadows.{g}{x:00}
+
+@298
+{z}{f}{l:0094}For my successor I would suggest {a:006e},{n}
+and for Governor,{n}
+{a:0000}...{g}{j:012b}{x:00}
+
+@299
+{z}No, that is for Your Majesty{n}
+to decide.{g}{x:00}
+
+@300
+{z}{f}{l:006e}Majesty, should we not tell the Queen Mother{n}
+and Lady {a:00a5} how the revolt ended?{g}{z}I shall go and fetch them.{g}{x:00}
+
+@301
+{z}{f}{l:00a4}Well then...{g}{x:00}
+
+@302
+{z}{f}{l:00a4}I said I'd give orders myself, but {a:0094} is right.{g}{z}{a:006e} for Regent and {a:0000} for Governor. That's best.{g}{x:00}
+
+@303
+{z}{f}{l:00a6}{s:00a6}I hear {a:0070} started a revolt!{n}
+Is Karl safe?{g}{x:00}
+
+@304
+{z}{f}{l:00a4}I'm fine.{g}{z}I won't let a revolt happen again, so don't worry, Mother. You too, {a:00a5}.{g}{x:00}
+
+@305
+{z}{f}{l:00a5}{s:00a5}You've grown up all of a sudden...{w}{n}
+Hee hee... whatever came over you?{g}{x:00}
+
+@306
+{z}{f}{l:00a4}{a:0000}, you must be worried about your comrades. Don't mind us; go and see them.{g}{x:00}
+
+@307
+{z}{f}{l:00a6}Since you came, Karl seems to have{n}
+grown much steadier...{w}{n}
+Thank you, {a:0000}.{g}{x:00}
+
+@310
+{z}{f}{l:0070}Grr...{w} I shall not forget your arrogance, mark me!{g}{x:00}
+
+@311
+{z}{f}{l:0094}...Do as you please.{g}{x:00}
+
+@312
+{z}{f}{l:006e}The festival in a week... I look forward to it.{g}{x:00}
+
+@313
+{z}{f}{l:0094}{a:0070}, do not force yourself to come.{w}{n}
+Your scowl ill suits{n}
+a festival of peace.{g}{x:00}
+
+@314
+{z}{f}{l:0070}...No, this will not do. This cannot go on.{g}{x:00}
+
+@315
+{z}{f}{l:0070}{a:0000}, you saw how {a:0094} behaved just now.{g}{z}I judge you a man to be trusted, and would speak with you privately...{w} Come with me to the tavern.{g}{x:00}
+
+@316
+{z}{f}{l:0000}{s:0000}...Understood. Let us go.{g}{x:00}
+
+@320
+{z}{f}{l:00a4}{s:00a4}{a:0070}, something happened outside{n}
+the castle. What was it?{g}{x:00}
+
+@321
+{z}{f}{l:0070}{s:0070}I must report.{g}{z}For His Majesty and Grandcour's future,{n}
+I was forced to cut down {a:0094}{n}
+and {a:006e}.{g}{x:00}
+
+@322
+{z}{f}{l:00a6}{s:00a6}I hear you and {a:0094} are on bad terms,{n}
+but do not joke like that.{g}{x:00}
+
+@323
+{z}{f}{l:0070}It is no joke...{w}{w} Neither of them is among the living any more.{g}{x:00}
+
+@324
+{z}{f}{l:00a6}...Why!? {w}What did they do!?{g}{z}{f}{l:0070}The knights and soldiers who truly fight, like us,{j:0145}{x:00}
+
+@325
+{n}
+were close to bursting with anger{n}
+at {a:0094}'s arbitrary rule...{g}{x:00}
+
+@326
+{z}{f}{l:0070}Left alone, this country would split again.{n}
+So we decided to remove the cause{n}
+of everyone's discontent.{g}{j:0147}{x:00}
+
+@327
+{z}Surely you have not forgotten that {a:00a1}{n}
+gathered the knights who hated {a:0094}{n}
+and broke away.{g}{x:00}
+
+@328
+{z}{f}{l:00a4}Then who am I to rely on from now on...?{g}{x:00}
+
+@329
+{z}{f}{l:0070}Think of running the country by your own{n}
+strength, not others'!{g}{z}If you still need a Regent,{n}
+appoint me or {a:0000}.{g}{x:00}
+
+@330
+{z}{f}{l:00a4}{a:0070} gets angry so quickly,{n}
+I'd hate to have him always by me...{w}{n}
+{a:0000} can be Regent.{g}{x:00}
+
+@331
+{z}{f}{l:0070}Is that any way to decide?{g}{z}Hmm... {w}Well, if Your Majesty wishes it...{g}{x:00}
+
+@332
+{z}{f}{l:00a4}{a:0070}, go and fetch {a:00a5}.{n}
+Right away!{g}{z}{f}{l:0070}I am hardly convinced, but...{g}{x:00}
+
+@334
+{z}{f}{l:0070}Ah, Lady {a:00a5}?{n}
+I am to go and fetch her?{g}{z}Then, excuse me for now.{g}{x:00}
+
+@335
+{z}{f}{l:00a6}And {a:006e} too...{w} To do such a thing without a word to us...{g}{x:00}
+
+@336
+{z}{f}{l:00a5}{s:00a5}His Majesty is safe, thank goodness...{g}{x:00}
+
+@337
+{z}{f}{l:00a6}{a:00a5}...{w}{n}
+Please always stay on Karl's side.{g}{z}Now, the three of us shall go at once.{g}{x:00}
+
+@338
+{z}{f}{l:00a5}Where to?{g}{x:00}
+
+@339
+{z}{f}{l:00a6}To pray for {a:0094} and {a:006e},{n}
+and for the many soldiers who died{n}
+fighting among their own.{g}{x:00}
+
+@340
+{z}{f}{l:00a5}Yes, let's.{g}{z}{f}{l:00a4}Yes, we must.{n}
+Without fail.{g}{x:00}
+
+@342
+{z}{f}{l:0000}{s:0000}...{g}{x:00}
+
+@350
+{z}{f}{l:00a4}{a:0094}, {a:006e},{n}
+do I look a little more like a king{n}
+now?{w}{w}{w}{x:00}
+
+@351
+{z}{f}{l:0094}Seated on the throne, you have a certain bearing,{n}
+Your Majesty.{w}{w}{w}{x:00}
+
+@352
+{z}{f}{l:0094}Only... saying "We" rather than "I" would suit you better still.{w}{w}{w}{x:00}
+
+@353
+{z}{f}{l:00a4}Do you think so...? What do you say, {a:006e}?{w}{w}{w}{x:00}
+
+@354
+{z}{f}{l:006e}The people await a king{n}
+suited to the times.{w}{w}{w}{z}Your Majesty is the king{n}
+most fitting for this peaceful age.{w}{w}{w}{x:00}
+
+@355
+Grandcour has regained{x:00}
+
+@356
+the glory of old Ragail.{x:00}
+
+@357
+With King Karl, a boy{x:00}
+
+@358
+who grows a little each day,{x:00}
+
+@359
+Grandcour may look forward{x:00}
+
+@360
+to ever greater prosperity{x:00}
+
+@361
+in the years to come...{x:00}
+
+@365
+{z}{f}{l:0070}How goes the government,{n}
+Your Majesty?{w}{w}{x:00}
+
+@366
+{z}{f}{l:00a4}{a:0000} is doing it well,{n}
+so there's no problem.{w}{w}{x:00}
+
+@367
+{z}{f}{l:00a6}But they say {a:0000} is the one who gained the most from {a:0094}'s death.{w}{w}{w}{w}{x:00}
+
+@368
+{z}{f}{l:0070}That is so indeed...{w}{w}{z}Then let us keep him working without a moment's rest.{w}{w}{w}{x:00}
+
+@369
+Grandcour has regained{x:00}
+
+@370
+the glory of old Ragail.{x:00}
+
+@371
+Yet this is the true starting{x:00}
+
+@372
+point for King Karl, a boy{x:00}
+
+@373
+who has lost those who{x:00}
+
+@374
+supported him...{x:00}
+
+@380
+Grandcour has regained the{x:00}
+
+@381
+glory of old Ragail.{x:00}
+
+@382
+Behind its revival, only the{x:00}
+
+@383
+tales of the mercenaries who{x:00}
+
+@384
+fought there speak of that{x:00}
+
+@385
+age of war...{x:00}
+
+@386
+{x:00}
+

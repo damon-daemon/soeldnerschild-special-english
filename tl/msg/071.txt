@@ -1,0 +1,393 @@
+@0
+{z}{s:0320}That must be {p:01}'s garrison...{g}{x:00}
+
+@1
+{z}{s:0320}Their forces are thin. Now may be the perfect time to strike.{g}{x:00}
+
+@2
+{z}{s:0320}But we can't fight them with our forces alone.{g}{x:00}
+
+@3
+{z}{s:0320}Not without joining up with the mercenaries...{g}{x:00}
+
+@4
+{z}{s:0320}Judging by their strength, the enemy means to join mercenaries too...{g}{x:00}
+
+@5
+{z}{s:0320}Most likely.{g}{x:00}
+
+@6
+{z}{s:0320}Tigre Mercenaries... Please, hurry...{g}{x:00}
+
+@7
+{z}{s:0320}{p:01}... So they did attack after all...{g}{x:00}
+
+@8
+{z}Haven't our hired mercenaries arrived yet? The enemy has already appeared!{g}{x:00}
+
+@9
+{z}{s:0320}They should have arrived by now...{g}{x:00}
+
+@10
+{z}{s:0320}Sorry to keep you waiting!{g}{x:00}
+
+@11
+{z}{s:0320}Are they the mercenaries we hired?{g}{x:00}
+
+@12
+{z}{s:0320}That banner...{w}{w} The Tigre Mercenaries...{g}{x:00}
+
+@13
+{z}{s:0320}They've come...{g}{x:00}
+
+@14
+{z}{s:0320}The ones encamped by the lake are {p:01}'s garrison, yes?{g}{x:00}
+
+@15
+{z}{s:0320}Yes. Wipe that garrison out.{g}{x:00}
+
+@16
+{z}{s:0320}Only that many? Piece of cake!{g}{x:00}
+
+@17
+{z}{s:0320}True, that's all they have now, but mercenaries will join them soon.{g}{x:00}
+
+@18
+{z}{s:0320}...Which means now is the perfect time...{g}{x:00}
+
+@19
+{z}{s:0320}Exactly.{g}{x:00}
+
+@20
+{z}{s:0320}The enemy seems to have joined their mercenaries. What now?{g}{x:00}
+
+@21
+{z}{s:0320}Best not to move until our mercenaries arrive.{g}{x:00}
+
+@22
+{z}But the moment they arrive, we charge.{g}{x:00}
+
+@23
+{z}{s:0320}Understood.{g}{x:00}
+
+@24
+{z}{s:0320}Please... don't come yet... Please...{g}{x:00}
+
+@25
+{z}{s:0320}Haven't the mercenaries arrived yet...?{g}{x:00}
+
+@26
+{z}{s:0320}...{w}{w}! They're here already?{g}{x:00}
+
+@27
+{z}{s:0320}Oh? Has it already started? Looks like we're late...{g}{x:00}
+
+@28
+{z}{s:0320}The enemy mercenaries are yours to deal with! We're counting on you!{g}{x:00}
+
+@29
+{z}{s:0320}Commander, I can't see that company's captain.{g}{x:00}
+
+@30
+{z}{s:0320}The captain's not there?{g}{x:00}
+
+@31
+{z}{s:0320}Yes, I'm certain of it.{g}{x:00}
+
+@32
+{z}{s:0320}Hey, where's your captain? Isn't he coming?{g}{x:00}
+
+@33
+{z}{s:0320}Don't worry! He'll be here soon!{g}{x:00}
+
+@34
+{z}Probably...{g}{x:00}
+
+@35
+{z}{s:0320}Judging by his men, the captain is being late on purpose.{g}{x:00}
+
+@36
+{z}{s:0320}What a bunch...{g}{x:00}
+
+@37
+{z}{s:0320}So we couldn't strike before the mercenaries arrived...{g}{x:00}
+
+@38
+{z}{s:0320}There was nothing we could do.{g}{x:00}
+
+@39
+{z}{s:0320}Hey! Who do we go after, the knights or the mercenaries?{g}{x:00}
+
+@40
+{z}{s:0320}You fight the mercenaries. We'll fight their regular army.{g}{x:00}
+
+@41
+{z}{s:0320}Mercenaries, right? Leave it to us!{g}{x:00}
+
+@42
+{z}{s:0320}Once we've wiped out the mercenaries, we'll come to your aid.{g}{x:00}
+
+@43
+{z}{s:0320}And when we've wiped out the regular army, we'll come to yours.{g}{x:00}
+
+@44
+{z}{s:0320}Which of us will be faster, I wonder?{g}{x:00}
+
+@45
+{z}{s:0320}{a:0001}! This is no game!{g}{x:00}
+
+@46
+{z}{s:0320}...Sorry.{g}{x:00}
+
+@47
+{z}{s:0320}Here already? I thought you'd be slower.{g}{x:00}
+
+@48
+{z}{s:0320}So it wasn't over yet... Tch! We're too early.{g}{x:00}
+
+@49
+{z}{s:0320}Get over here and start swinging! Just hurry!{g}{x:00}
+
+@50
+{z}{s:0320}Don't rush us. Give it a rest...{g}{x:00}
+
+@51
+{z}{s:0320}...{w}{w}! {w}{w}So those are the rest of them...{g}{x:00}
+
+@52
+{z}{s:0320}Huh? Where are my men?{g}{x:00}
+
+@53
+{z}{s:0320}Wiped out long ago...{g}{x:00}
+
+@54
+{z}{s:0320}Impossible... Who on earth are these enemies...{g}{x:00}
+
+@55
+{z}{s:0320}The knights and the Tigre.{g}{x:00}
+
+@56
+{z}{s:0320}But it was only the Tigre your men were up against.{g}{x:00}
+
+@57
+{z}{s:0320}The Tigre... Are they really that strong...?{g}{x:00}
+
+@58
+{z}{s:0320}...{w}{w}! They came... {w}{w}I thought they'd never come.{g}{x:00}
+
+@59
+{z}{s:0320}Huh? What happened to the knights?{g}{x:00}
+
+@60
+{z}{s:0320}Wiped out...{g}{x:00}
+
+@61
+{z}{s:0320}Impossible...{g}{x:00}
+
+@62
+{z}{s:0320}We're all that's left. Hurry! Please!{g}{x:00}
+
+@63
+{z}{s:0320}The knights wiped out already? I can't believe it.{g}{x:00}
+
+@64
+{z}{s:0320}We'd let {p:01}'s knights do the fighting and join in once victory was in sight...{g}{x:00}
+
+@65
+{z}That's what we thought, anyway... but life's not that easy.{g}{x:00}
+
+@66
+{z}{s:0320}Still some of them left, then...{g}{x:00}
+
+@67
+{z}{s:0320}Now it's the mercenaries' main force... Everyone, fight carefully!{g}{x:00}
+
+@68
+{z}{s:0320}If you're coming, come all at once! That's what I say!{g}{x:00}
+
+@69
+{z}{s:0320}They look rather half-hearted. Are they strong in a fight, though...?{g}{x:00}
+
+@70
+{z}{s:0320}So the mercenaries' main force makes its entrance. Everyone, fight carefully.{g}{x:00}
+
+@71
+{z}{s:0320}The tide has turned completely. This is bad...{g}{x:00}
+
+@72
+{z}{s:0320}I'm counting on you... Protect this territory from the enemy...{g}{x:00}
+
+@73
+{z}{s:0320}The knights are wiped out... We've landed ourselves a nasty job...{g}{x:00}
+
+@74
+{z}{s:0320}Utterly beaten... We're utterly beaten...{g}{x:00}
+
+@75
+{z}{s:0320}This is as far as we go... You'll have to manage on your own...{g}{x:00}
+
+@76
+{z}{s:0320}Our mercenaries are wiped out... This is bad...{g}{x:00}
+
+@77
+{z}{s:0320}I never should have taken this job... Damn...{g}{x:00}
+
+@78
+{z}{s:0320}Nobody's in our way now. This territory is ours.{g}{x:00}
+
+@79
+{z}We're going to report to the main force. We'll take our leave.{g}{x:00}
+
+@80
+{z}{s:0320}Then let's pull out too. There's no point staying here.{g}{x:00}
+
+@81
+{z}{s:0320}Let's head home. No sense hanging around a place like this.{g}{x:00}
+
+@82
+{z}{s:0320}Then let's go home too. I can't wait to put my feet up in town.{g}{x:00}
+
+@83
+{z}{s:0320}Well, let's go home. Our job is done.{g}{x:00}
+
+@84
+{z}{s:0320}Well, time we pulled out too. No sense lingering in a place like this.{g}{x:00}
+
+@85
+{z}{s:0320}The enemy seems to be wiped out. That finishes our job.{g}{x:00}
+
+@86
+{z}Come, let's pull out. We must rest well for the next job.{g}{x:00}
+
+@87
+{z}{s:0320}Look! The enemy's wiped out! We win!{g}{x:00}
+
+@88
+{z}Let's get out of here. There's no point hanging around a place like this.{g}{x:00}
+
+@89
+{z}{s:0320}The enemy's wiped out... Mission accomplished.{g}{x:00}
+
+@90
+{z}Well, time to go home. No sense lingering in a place like this.{g}{x:00}
+
+@91
+{z}{s:0320}The enemy's gone... We... we won.{g}{x:00}
+
+@92
+{z}I wonder if we lived up to the hopes of the people of {p:01}...{g}{x:00}
+
+@93
+{z}{s:0320}The enemy seems to be wiped out. Phew... it's finally over.{g}{x:00}
+
+@94
+{z}Then let us pull out.{g}{x:00}
+
+@95
+{z}{s:0320}I'm sorry... I wasn't strong enough...{g}{x:00}
+
+@96
+{z}{s:0320}I'm pulling out... Sorry, everyone...{g}{x:00}
+
+@97
+{z}{s:0320}I'm sorry... I can't fight any more...{g}{x:00}
+
+@98
+{z}{s:0320}I can't go on...{g}{x:00}
+
+@99
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@100
+{z}{s:0320}How could this happen to me... Forgive me, I must withdraw...{g}{x:00}
+
+@101
+{z}{s:0320}Impossible... My company, wiped out...{g}{x:00}
+
+@102
+{z}{s:0320}Next time we meet, it'll be your turn to fall...{g}{x:00}
+
+@103
+{z}{s:0320}Damn... to be beaten by the likes of these...{g}{x:00}
+
+@104
+{z}{s:0320}If it was to end like this, I shouldn't have come...{g}{x:00}
+
+@105
+{z}{s:0320}Damn... we're wiped out...{g}{x:00}
+
+@106
+{z}Please... wipe out the enemy...{g}{x:00}
+
+@107
+{z}{s:0320}The regular army is wiped out... It'll get a bit tougher.{g}{x:00}
+
+@108
+{z}{s:0320}The regular army is wiped out... The enemy's quite capable.{g}{x:00}
+
+@109
+{z}{s:0320}The regular army's wiped out? Well, we're enough on our own.{g}{x:00}
+
+@110
+{z}{s:0320}The regular army is wiped out... This is bad.{g}{x:00}
+
+@111
+{z}{s:0320}The regular army is wiped out... Are you all right, {a:0000}?{g}{x:00}
+
+@112
+{z}{s:0320}Me, retreating this early...{g}{x:00}
+
+@113
+{z}{s:0320}Damn... what a sorry sight... How pathetic...{g}{x:00}
+
+@114
+{z}{s:0320}Come to drive us off, have you? Interesting... We'll cut you down!{g}{x:00}
+
+@115
+{z}{s:0320}We will defend this territory, even at the cost of our lives!{g}{x:00}
+
+@116
+{z}{s:0320}We will not move from here! This territory belongs to our country!{g}{x:00}
+
+@117
+{z}{s:0320}We don't care about territorial disputes! As long as we get paid, that's all that matters!{g}{x:00}
+
+@118
+{z}{s:0320}Poor fool, having me set my sights on you...{g}{x:00}
+
+@119
+{z}{s:0320}The enemy are all beneath us! We can't lose! Go!{g}{x:00}
+
+@120
+{z}{s:0320}Heh... you're a fool too... attacking me...{g}{x:00}
+
+@121
+{z}{s:0320}We'll take this territory! Prepare yourselves!{g}{x:00}
+
+@122
+{z}{s:0320}For the sake of {p:01}'s prosperity, we cannot lose!{g}{x:00}
+
+@123
+{z}{s:0320}Don't think you can beat my company!{g}{x:00}
+
+@124
+{z}{s:0320}Knight or mercenary, makes no difference! I always give it everything!{g}{x:00}
+
+@125
+{z}{s:0320}For the sake of {p:01}'s prosperity... this job carries more responsibility than ever.{g}{x:00}
+
+@126
+{z}{s:0320}I won't lose! I don't want to let the others down!{g}{x:00}
+
+@127
+{z}{s:0320}Come on, then. We're ready for you.{g}{x:00}
+
+@128
+{z}{s:0320}Damn... the enemy is completely overwhelming us...{g}{x:00}
+
+@129
+{z}{s:0320}We're completely overwhelming the enemy... At this rate, we'll win...{g}{x:00}
+
+@130
+{z}Enemies! Enemy mercenaries!{g}{x:00}
+

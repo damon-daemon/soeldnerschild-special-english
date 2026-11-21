@@ -1,0 +1,492 @@
+@0
+{z}{s:0320}So you are {a:0000} of {p:01}...{g}{x:00}
+
+@1
+{z}So now you have come to invade even my country...{g}{x:00}
+
+@2
+{z}Destroy Fenrir, a land of the faithful, and divine retribution will surely follow. Do you know that?{g}{x:00}
+
+@3
+{z}{s:0320}...{g}{x:00}
+
+@4
+{z}{s:0320}What are you saying!{g}{x:00}
+
+@5
+{z}We're former mercenaries! You think we believe in divine retribution?{g}{x:00}
+
+@6
+{z}{s:0320}Fools who do not even fear God...{g}{x:00}
+
+@7
+{z}Then receive God's retribution in your own flesh!{g}{x:00}
+
+@8
+{z}{s:0320}Ngh...{g}{x:00}
+
+@9
+{z}{s:0320}{a:0086}, are you all right!{g}{x:00}
+
+@10
+{z}Do not strain yourself in your condition... Leave the fighting to me...{g}{x:00}
+
+@11
+{z}{s:0320}N...no...{w} ...{w} I too{w} am a knight of Fenrir...{g}{x:00}
+
+@12
+{z}I cannot...{w} do that!{g}{x:00}
+
+@13
+{z}{s:0320}{a:0086}...{g}{x:00}
+
+@14
+{z}{s:0320}Lady {a:0086}... Will you not surrender, whatever happens?{g}{x:00}
+
+@15
+{z}{s:0320}I too am a knight of my land... I cannot abandon my homeland and surrender.{g}{x:00}
+
+@16
+{z}Let us fight, {a:0000}!{g}{x:00}
+
+@17
+{z}{s:0320}Lady {a:0086}... Please, fight no more...{g}{x:00}
+
+@18
+{z}The people of Fenrir must be sick of war by now!{g}{x:00}
+
+@19
+{z}{s:0320}You invade our country, and yet you can say that!{g}{x:00}
+
+@20
+{z}We can no longer lend an ear to anything {p:01} says!{g}{x:00}
+
+@21
+{z}{s:0320}Hmph! I can't stand people like you who look down on others!{g}{x:00}
+
+@22
+{z}{s:0320}I pay no respect to the weak! That is all!{g}{x:00}
+
+@23
+{z}{s:0320}Then see for yourself whether I'm weak!{g}{x:00}
+
+@24
+{z}{s:0320}Lady {a:0086}...{g}{x:00}
+
+@25
+{z}I respect you... and yet I must fight you...{g}{x:00}
+
+@26
+{z}{s:0320}A strong will, not swayed by emotion... a knight needs that quality.{g}{x:00}
+
+@27
+{z}I have lived all this time suppressing my own feelings...{g}{x:00}
+
+@28
+{z}{s:0320}Lady {a:0086}...{g}{x:00}
+
+@29
+{z}{s:0320}Come at me! If that is the way to prove your valour!{g}{x:00}
+
+@30
+{z}{s:0320}To think I must face a man such as Sir {a:0000}...{g}{x:00}
+
+@31
+{z}{s:0320}What a pity... Sir {a:0087}...{g}{x:00}
+
+@32
+{z}I shall test your strength right here!{g}{x:00}
+
+@33
+{z}{s:0320}Sir {a:0087}, I would ask for a bout with you.{g}{x:00}
+
+@34
+{z}{s:0320}You are Sir {a:0004}, I believe... You will do nicely as an opponent!{g}{x:00}
+
+@35
+{z}Here I come!{g}{x:00}
+
+@36
+{z}You're good... But I won't be outdone!{g}{x:00}
+
+@37
+{z}{s:0320}Sir {a:0087}...{g}{x:00}
+
+@38
+{z}{s:0320}Here I come, Sir {a:0005}!{g}{x:00}
+
+@39
+{z}{s:0320}{a:0000}... I'll make a name for myself by beating you!{g}{x:00}
+
+@40
+{z}{s:0320}{a:0088}... Do you think only of yourself?{g}{x:00}
+
+@41
+{z}The others may stand on different sides, but they all fight for Fenrir's sake...{g}{x:00}
+
+@42
+{z}{s:0320}I'll...{w} win glory for Lady {a:00a9}!{g}{x:00}
+
+@43
+{z}{s:0320}Thinking about a woman on the battlefield!{g}{x:00}
+
+@44
+{z}You'll lose your life that way, sooner or later!{g}{x:00}
+
+@45
+{z}{s:0320}I won't let another country destroy the land where Lady {a:00a9} lives!{g}{x:00}
+
+@46
+{z}{s:0320}So...{w} you love this Lady {a:00a9}?{g}{x:00}
+
+@47
+{z}{s:0320}None of your business!{g}{x:00}
+
+@48
+{z}{s:0320}Is that wise? You can't confess once you're dead.{g}{x:00}
+
+@49
+{z}{s:0320}Shut up! I'll beat you,{w} and I'll come back alive!{g}{x:00}
+
+@50
+{z}{s:0320}I'm sorry, but we can't back down either!{g}{x:00}
+
+@51
+{z}{s:0320}Fighting on will only make the losses greater!{g}{x:00}
+
+@52
+{z}{s:0320}I...{w} I only follow the Commander's orders!{g}{x:00}
+
+@53
+{z}Here I come, {a:0000} of {p:01}!{g}{x:00}
+
+@54
+{z}{s:0320}Queen Christina IV!{g}{x:00}
+
+@55
+{z}{s:0320}{a:0000}... You are free to believe in whichever nation you like...{g}{x:00}
+
+@56
+{z}But if you draw your sword against me, you and {p:01} will surely suffer divine retribution...{g}{x:00}
+
+@57
+{z}Are you prepared for that?{g}{x:00}
+
+@58
+{z}{s:0320}If unifying the continent defies God's will, so be it...{g}{x:00}
+
+@59
+{z}{s:0320}Your Majesty...{g}{x:00}
+
+@60
+{z}If you say the word, everyone will lay down their weapons!{g}{x:00}
+
+@61
+{z}Make them stop! Fighting on will only add to everyone's suffering!{g}{x:00}
+
+@62
+{z}{s:0320}I cannot do that...{g}{x:00}
+
+@63
+{z}{s:0320}Why not!{w} Why can't you?{g}{x:00}
+
+@64
+{z}{s:0320}I cannot abandon the people who followed me out of devotion, not now!{g}{x:00}
+
+@65
+{z}{s:0320}Your Majesty...{g}{x:00}
+
+@66
+{z}Fenrir was once a very poor country...{g}{x:00}
+
+@67
+{z}They say it was largely your mother, the former Queen, who made it what it is...{g}{x:00}
+
+@68
+{z}But I also hear that behind that growth were pirates who moved at Fenrir's command...{g}{x:00}
+
+@69
+{z}{s:0320}Are you saying we are in league with pirates?{g}{x:00}
+
+@70
+{z}I will hear no such fabrication!{g}{x:00}
+
+@71
+{z}{s:0320}It seems Your Majesty knows nothing of it...{g}{x:00}
+
+@72
+{z}Then who on earth...{g}{x:00}
+
+@73
+{z}{s:0320}There is no one in our country base enough to ally with pirates!{g}{x:00}
+
+@74
+{z}{s:0320}Lady {a:0086} is strong, it's true, but...{g}{x:00}
+
+@75
+{z}{a:0000} as he is now will surely win...{g}{x:00}
+
+@76
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@77
+{z}{s:0320}{a:0086} is a master of the spear... Don't lose...{g}{x:00}
+
+@78
+{z}{s:0320}{a:0000}! You'd better win...{w}{w} I won't forgive you if you lose!{g}{x:00}
+
+@79
+{z}{s:0320}This duel will decide the fate of this country...{g}{x:00}
+
+@80
+{z}{s:0320}Against Lady {a:0086}, I suppose it's understandable...{g}{x:00}
+
+@81
+{z}{s:0320}{a:0000}! Have you lost your nerve?{g}{x:00}
+
+@82
+{z}If you won't do it, I'll take down {a:0086} myself!{g}{x:00}
+
+@83
+{z}{s:0320}Facing {a:0086}, I can see why you'd be scared, though...{g}{x:00}
+
+@84
+{z}{s:0320}{a:0000}, why did you refuse!{g}{x:00}
+
+@85
+{z}{s:0320}...{g}{x:00}
+
+@86
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@87
+{z}{s:0320}She would die... and take her unborn child with her?{g}{x:00}
+
+@88
+{z}{a:0087}... Forgive me...{g}{x:00}
+
+@89
+{z}{s:0320}{a:0086}...{w} ...{g}{x:00}
+
+@90
+{z}I shall join you soon... Wait for me just a little...{g}{x:00}
+
+@91
+{z}{s:0320}Even {a:0086}...{g}{x:00}
+
+@92
+{z}Even {a:0086} has been struck down...?{g}{x:00}
+
+@93
+{z}{s:0320}{a:0087}! Are you all right?{g}{x:00}
+
+@94
+{z}{s:0320}Cough... I'll live, somehow...{g}{x:00}
+
+@95
+{z}{s:0320}Then retreat! I'll manage the rest!{g}{x:00}
+
+@96
+{z}{s:0320}I'd only be in the way if I stayed...{g}{x:00}
+
+@97
+{z}In return, you must come back safely...{g}{x:00}
+
+@98
+{z}{s:0320}Yes...{w}{w} Of course...{g}{x:00}
+
+@99
+{z}{s:0320}Very well... Then I shall withdraw...{g}{x:00}
+
+@100
+{z}{s:0320}{a:0086}...{w}{w} I too{w} am finished...{g}{x:00}
+
+@101
+{z}From now on,{w} we three, as a family,{w} in a world without war,{w} let us live{w} in peace...{g}{x:00}
+
+@102
+{z}{s:0320}So...{w} Lady {a:00a9}... Before I go...{w} my feelings...{w} ...{g}{x:00}
+
+@103
+{z}{s:0320}The Commander has fallen...? Truly...? I can't believe it...{g}{x:00}
+
+@104
+{z}{s:0320}I too...{w} on the battlefield...{w} will die...{g}{x:00}
+
+@105
+{z}But...{w} if I can die still beautiful,{w} I don't mind...{g}{x:00}
+
+@106
+{z}{s:0320}O God...{w} protect the people of Fenrir...{g}{x:00}
+
+@107
+{z}And upon {p:01} and {a:0000}, who invaded Fenrir,{w} let divine retribution{w} fall...{g}{x:00}
+
+@108
+{z}{s:0320}Your Majesty! Ugh...{w} Curse you, {p:01}...{g}{x:00}
+
+@109
+{z}{s:0320}Her Majesty...{w} has fallen! How dare you!{w} Unforgivable!{g}{x:00}
+
+@110
+{z}{s:0320}{a:0000}... So we have to fight after all...{g}{x:00}
+
+@111
+{z}{s:0320}You think fear of divine retribution would stop me fighting?{g}{x:00}
+
+@112
+{z}{s:0320}The country Lady {a:0086} serves... I'd rather not have fought it...{g}{x:00}
+
+@113
+{z}{s:0320}With this battle we can take the north of the continent too.{g}{x:00}
+
+@114
+{z}{s:0320}They say Fenrir has lately been in league with pirates...{g}{x:00}
+
+@115
+{z}This battle may show us whether that is true...{g}{x:00}
+
+@116
+{z}{s:0320}Ugh...{w} At such a crucial time...{g}{x:00}
+
+@117
+{z}{s:0320}{a:0086}... I'll fight for you as well...{g}{x:00}
+
+@118
+{z}{s:0320}Lady {a:00a9}... I will protect Fenrir, I swear...{g}{x:00}
+
+@119
+{z}{s:0320}I can't die in a place like this!{g}{x:00}
+
+@120
+{z}{s:0320}So we have let them come...{w} all the way here...{g}{x:00}
+
+@121
+{z}There is no other choice! Bring divine retribution down on those who threaten Fenrir!{g}{x:00}
+
+@122
+{z}{s:0320}My unit... Sorry...{w} I'm retreating...{g}{x:00}
+
+@123
+{z}{s:0320}{a:0000}... This is as far as I go...{g}{x:00}
+
+@124
+{z}I leave the rest to you...{g}{x:00}
+
+@125
+{z}{s:0320}We were simply outnumbered, I suppose...{w}{g}{x:00}
+
+@126
+{z}{s:0320}Ugh...{w} Fired-up enemies are tough!{g}{x:00}
+
+@127
+{z}{s:0320}Forgive me...{w} I'm withdrawing...{g}{x:00}
+
+@128
+{z}{s:0320}...{g}{x:00}
+
+@129
+{z}Lady {a:0086}, Sir {a:0087}, and even the Queen...{g}{x:00}
+
+@130
+{z}With all who protected Fenrir cut down,{w} I regret it, but we can only flee...{g}{x:00}
+
+@131
+{z}{s:0320}Divine retribution, eh...{g}{x:00}
+
+@132
+{z}Does such a thing really exist?{g}{x:00}
+
+@133
+{z}Hey, {a:0000}...{g}{x:00}
+
+@134
+{z}{s:0320}...{g}{x:00}
+
+@135
+{z}{s:0320}Or will the retribution fall on {p:01} instead of us?{g}{x:00}
+
+@136
+{z}{s:0320}Lady {a:0086} surely wanted to live in peace with Sir {a:0087}...{g}{x:00}
+
+@137
+{z}{s:0320}...{g}{x:00}
+
+@138
+{z}{s:0320}Well, I wonder what divine retribution awaits us...{g}{x:00}
+
+@139
+{z}Like {a:0002} said, I don't believe in divine retribution either.{g}{x:00}
+
+@140
+{z}What do you think, Captain?{g}{x:00}
+
+@141
+{z}{s:0320}...{g}{x:00}
+
+@142
+{z}{s:0320}To think we killed Lady {a:0086}...{g}{x:00}
+
+@143
+{z}She was someone I meant to look up to all my life...{g}{x:00}
+
+@144
+{z}{s:0320}...{g}{x:00}
+
+@145
+{z}{s:0320}A child between {a:0086} and {a:0087}...{g}{x:00}
+
+@146
+{z}If it had been born safely, what sort of person would it have become...{g}{x:00}
+
+@147
+{z}Now we can never know...{g}{x:00}
+
+@148
+{z}{s:0320}I have no choice...{g}{x:00}
+
+@149
+{z}As a knight of {p:01}, I can only aim to unify the continent!{g}{x:00}
+
+@150
+{z}{s:0320}If you surrendered, we could avoid this pointless fighting!{g}{x:00}
+
+@151
+{z}{s:0320}Who could keep silent while their homeland is invaded?!{g}{x:00}
+
+@152
+{z}{s:0320}Phantom Spear!{g}{x:00}
+
+@153
+{z}{s:0320}Thunder Spin!{g}{x:00}
+
+@154
+{z}{s:0320}Northern{w} Cross!{g}{x:00}
+
+@155
+{z}{s:0320}Not yet... I can't...{w} fall!{g}{x:00}
+
+@156
+{z}{s:0320}Ugh...{w} I must defend Fenrir, even at the cost of my life!{g}{x:00}
+
+@157
+{z}{s:0320}Lady {a:0086}! This blow will defeat you!{g}{x:00}
+
+@158
+{z}{s:0320}Pay in your own flesh for defiling Fenrir!{g}{x:00}
+
+@159
+{z}{s:0320}Ugh...{w}{w} Why attack at a time like this...{g}{x:00}
+
+@160
+{z}Show me your arcane power!{g}{x:00}
+
+@161
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@162
+{z}{s:0320}Hm...{w} But this is a battlefield. I cannot lose either...{g}{x:00}
+
+@163
+{z}{s:0320}I won't let the likes of you destroy Fenrir!{g}{x:00}
+

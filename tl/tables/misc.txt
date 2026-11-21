@@ -1,0 +1,68 @@
+# loose labels (KEY = address): KEY|English, at most 16 letters (see tools/tables.py; Japanese: tables.py show misc)
+800c003c|----------------
+800c0d4c|Inf.
+800c0d51|Pike
+800c0d56|Cav.
+800c0d5b|Bow
+800c0d60|Fast
+800c0d65|Norm
+800c0ed0|Ca
+800c0ed3|Ar
+800c0ed6|Ho
+800c0ed9|Ma
+800c0edc|Sq
+800c13c8|AUDIO
+800c13d3|MUSIC
+800c13de|SFX
+800c13ec|STEREO
+800c13f9|MONO
+800c148c|Fore
+800c1491|Mid
+800c1496|Rear
+800c156c|Fore
+800c1571|Mid
+800c1576|Rear
+800c1cc8|Text Speed
+800c1cd3|Melee
+800c1ce0|Normal
+800c1ce7|Fast
+800c1cf0|Skip
+800c1cf7|Watch
+800c2394|E
+800c2397|D
+800c239a|C
+800c239d|B
+800c23a0|A
+800c23a3|S
+800c2adc|Attack
+800c2ae3|Wait
+800c2aea|Magic
+800c3230|Foe Rear
+800c3239|Foe Mid
+800c3242|Foe Fore
+800c324b|Our Fore
+800c3254|Our Mid
+800c325d|Our Rear
+800c37cc|Fore
+800c37d1|Mid
+800c37d6|Rear
+800c37dc|All
+800c37e1|Fore
+800c37e6|Mid
+800c37eb|Rear
+800c37f0|Chg.
+800c37f5|Hold
+800c37fa|Back
+800c37ff|Swap
+800c3810|All
+800c3817|Front
+800c381e|Middle
+800c3825|Rear
+800c382c|Charge
+800c3833|Hold
+800c383a|Back
+800c3841|Swap
+800c3848|Volley
+800c3850|Orders
+800c3857|Magic
+800c5244|Not enough TP.{g}

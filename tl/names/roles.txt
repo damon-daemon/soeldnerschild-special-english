@@ -1,0 +1,24 @@
+# speaker id (hex, 0x2bc+: exe pointer table 0x800c040c) | English
+2bc|Shopkeeper
+2bd|Guildmaster
+2be|Priest
+2bf|Nun
+2c0|Drillmaster
+2c1|Innkeeper
+2c2|Barkeep
+2c3|Arena Master
+2c4|Castle Guard
+2c5|Steward
+2c6|Young Man
+2c7|Young Woman
+2c8|Boy
+2c9|Girl
+2ca|Old Man
+2cb|Old Woman
+2cc|Apprentice
+2cd|Apprentice
+2ce|Customer
+2cf|Believer
+2d0|Supply Train
+2d1|Messenger
+2d2|Medics

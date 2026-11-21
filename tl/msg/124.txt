@@ -1,0 +1,282 @@
+@0
+{z}{s:0320}Aren't those the Knights of St. Matthaus? Are they our enemy this time?{g}{x:00}
+
+@1
+{z}{s:0320}Yes...{g}{x:00}
+
+@2
+{z}Those wretches have been scheming against Rana, trying to win over our ministers.{g}{x:00}
+
+@3
+{z}{s:0320}...{g}{x:00}
+
+@4
+{z}{s:0320}Have you any proof of that?{g}{x:00}
+
+@5
+{z}{s:0320}We do!{g}{x:00}
+
+@6
+{z}Their entering our realm without leave is proof enough.{g}{x:00}
+
+@7
+{z}Strike down Archbishop {a:008e} and his men, enemies of our realm, right here!{g}{x:00}
+
+@8
+{z}{s:0320}To think the Emperor had caught on...{g}{x:00}
+
+@9
+{z}{s:0320}Your Grace... what shall we do?{g}{x:00}
+
+@10
+{z}{s:0320}If we are captured, the whole Church will be in peril...{g}{x:00}
+
+@11
+{z}There is no other way... We shall crush the Rana army here and then return!{g}{x:00}
+
+@12
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@13
+{z}{s:0320}They come at us, do they? Heh...{g}{x:00}
+
+@14
+{z}Do you think you can beat me? {a:0000}! Begin the attack!{g}{x:00}
+
+@15
+{z}{s:0320}But we're to strike down an archbishop just for crossing the border?{g}{x:00}
+
+@16
+{z}{s:0320}{a:0001}!{g}{x:00}
+
+@17
+{z}Do you mean to defy His Majesty's order?{g}{x:00}
+
+@18
+{z}Once on the battlefield, disobeying orders is a grave crime, mercenary or knight alike!{g}{x:00}
+
+@19
+{z}If you cannot obey His Majesty, leave this place at once!{g}{x:00}
+
+@20
+{z}{s:0320}Well said, {a:0092}.{g}{x:00}
+
+@21
+{z}{a:0091}, {a:0000}, if you have no will to fight either, begone at once!{g}{x:00}
+
+@22
+{z}{s:0320}...{g}{x:00}
+
+@23
+{z}{s:0320}...{w} Then I shall withdraw.{g}{x:00}
+
+@24
+{z}Your Majesty... if you strike down the Archbishop, war with the Pope will be unavoidable.{g}{x:00}
+
+@25
+{z}{s:0320}Curse you, {a:0091}...{g}{x:00}
+
+@26
+{z}I need no telling of such things...{g}{x:00}
+
+@27
+{z}{s:0320}I don't much want to fight... I'm sorry.{g}{x:00}
+
+@28
+{z}{s:0320}As long as {a:0000} is a Rana knight, we have no choice but to side with the Emperor.{g}{x:00}
+
+@29
+{z}{s:0320}A power struggle between Emperor and Pope, is it... Good grief...{w}{w} two of a kind...{g}{x:00}
+
+@30
+{z}{s:0320}{a:008e}, I never thought I would be your enemy...{g}{x:00}
+
+@31
+{z}{s:0320}To unify the whole continent, I must sooner or later sever ties with the Pope.{g}{x:00}
+
+@32
+{z}{s:0320}...{g}{x:00}
+
+@33
+{z}{s:0320}The Emperor truly means to make an enemy of us? Very well...{w}{w} then we shall face you!{g}{x:00}
+
+@34
+{z}{s:0320}You there! Would you defy the Lord's will?{g}{x:00}
+
+@35
+{z}{s:0320}So those unwilling to fight should leave... Maybe we deserve to lose this time...{g}{x:00}
+
+@36
+{z}{s:0320}{a:008e}'s knights live up to their name... They're tough...{g}{x:00}
+
+@37
+{z}{s:0320}My company is wiped out...{w}{w} because I wasn't strong enough...{g}{x:00}
+
+@38
+{z}{s:0320}Beaten back... Damn it...{g}{x:00}
+
+@39
+{z}{s:0320}I shall retreat. {a:008e}...{w}{w} We shall meet again...{g}{x:00}
+
+@40
+{z}{s:0320}Damn you, {a:008e}... You are quite good...{g}{x:00}
+
+@41
+{z}{a:0000}... I shall withdraw, but you must strike down {a:008e}...{g}{x:00}
+
+@42
+{z}{s:0320}{a:0092}! Are you unhurt?{g}{x:00}
+
+@43
+{z}{s:0320}Yes...{w}{w} Do not worry...{g}{x:00}
+
+@44
+{z}I shall withdraw... Please take care, Your Majesty.{g}{x:00}
+
+@45
+{z}{s:0320}Mm...{g}{x:00}
+
+@46
+{z}{s:0320}Lady {a:0092}, are you unhurt?{g}{x:00}
+
+@47
+{z}{s:0320}Yes...{w}{w} Do not worry...{g}{x:00}
+
+@48
+{z}I shall withdraw... Please do not push yourself too hard...{g}{x:00}
+
+@49
+{z}{s:0320}Yes...{g}{x:00}
+
+@50
+{z}{s:0320}Damn... this is as far as we go. Retreat...{g}{x:00}
+
+@51
+{z}Let us report all of this to His Holiness the Pope.{g}{x:00}
+
+@52
+{z}Then, Your Majesty... I trust you will not regret this...{g}{x:00}
+
+@53
+{z}{s:0320}Damn... this is as far as we go. Retreat...{g}{x:00}
+
+@54
+{z}Let us report all of this to His Holiness the Pope.{g}{x:00}
+
+@55
+{z}Then, {a:0000}! See that you do not regret this...{g}{x:00}
+
+@56
+{z}{s:0320}I had heard you became a Rana knight...{g}{x:00}
+
+@57
+{z}But I never expected you to turn against the Pope...{g}{x:00}
+
+@58
+{z}{s:0320}I am a Rana knight now. I cannot defy the Emperor's orders...{g}{x:00}
+
+@59
+{z}{s:0320}Very well...{w}{w} Then come at me!{g}{x:00}
+
+@60
+{z}{s:0320}Your Grace... forgive me for raising my blade to you.{g}{x:00}
+
+@61
+{z}{s:0320}Sometimes kin meet in battle. Let no private feeling enter the fight...{g}{x:00}
+
+@62
+{z}Here I come!{g}{x:00}
+
+@63
+{z}{s:0320}I always meant to cross swords with you once, but I never thought it would come to this...{g}{x:00}
+
+@64
+{z}{s:0320}I too have wanted to fight you once...{g}{x:00}
+
+@65
+{z}A fine chance for both of us to fight without holding back... Here I come, {a:0005}!{g}{x:00}
+
+@66
+{z}{s:0320}Your Majesty... you will stand against the Church to the end?{g}{x:00}
+
+@67
+{z}{s:0320}I aim to unify the continent, and the Papal Domain is no exception...{g}{x:00}
+
+@68
+{z}Unless I rule all of Liguria, the unification cannot be called complete!{g}{x:00}
+
+@69
+{z}{s:0320}It seems Your Majesty is possessed by the demon of ambition...{g}{x:00}
+
+@70
+{z}{s:0320}Lady {a:0092}... even one such as you...{g}{x:00}
+
+@71
+{z}{s:0320}To protect the realm's unity, selfish conduct cannot be allowed!{g}{x:00}
+
+@72
+{z}{s:0320}To me, it looks as though you are forcing yourself...{g}{x:00}
+
+@73
+{z}{s:0320}Nothing of the sort! Here I come!{g}{x:00}
+
+@74
+{z}{s:0320}Sir {a:0000}!{g}{x:00}
+
+@75
+{z}To raise your sword against us is to rebel against the Lord. Are you sure you wish this?{g}{x:00}
+
+@76
+{z}{s:0320}...{g}{x:00}
+
+@77
+{z}What reprisals will the Church take against Rana, I wonder...{g}{x:00}
+
+@78
+{z}{s:0320}Your Grace... I did not want to fight you...{g}{x:00}
+
+@79
+{z}{s:0320}Just as I thought, the Church is no match for Rana in arms...{g}{x:00}
+
+@80
+{z}But what will become of us if all Rana's believers side with the Pope...{g}{x:00}
+
+@81
+{z}{s:0320}Pope {a:00a0}... What does he mean to do with Rana?{g}{x:00}
+
+@82
+{z}{s:0320}Two old foxes trying to outwit each other... Who will win, I wonder...{g}{x:00}
+
+@83
+{z}{s:0320}...{g}{x:00}
+
+@84
+{z}{a:008e}... Our position is a painful one too. Can you not understand?{g}{x:00}
+
+@85
+{z}{s:0320}Hmph... I shall never regret this...{g}{x:00}
+
+@86
+{z}This will be my new first step!{g}{x:00}
+
+@87
+{z}{s:0320}...{g}{x:00}
+
+@88
+{z}Perhaps I have taken...{w}{w} a step I should never have taken...{g}{x:00}
+
+@89
+{z}{s:0320}{a:0000}... Well done.{g}{x:00}
+
+@90
+{z}This victory owes much to your valiant service...{g}{x:00}
+
+@91
+{z}I want you to go on serving me as my loyal knight...{g}{x:00}
+
+@92
+{z}{s:0320}...{g}{x:00}
+
+@93
+{z}{s:0320}Now, back to Plauen. {a:0000}! Lead the way.{g}{x:00}
+

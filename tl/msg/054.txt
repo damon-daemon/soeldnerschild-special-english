@@ -1,0 +1,384 @@
+@0
+{z}{s:0320}Is there a nobleman among those people walking over there?{g}{x:00}
+
+@1
+{z}{s:0320}I think he's going straight along that road to the north-west.{g}{x:00}
+
+@2
+{z}{s:0320}If the noble gets through the north-western forest, we lose our chance to attack.{g}{x:00}
+
+@3
+{z}{s:0320}Because {p:01}'s territory is right there?{g}{x:00}
+
+@4
+{z}{s:0320}Exactly.{g}{x:00}
+
+@5
+{z}{s:0320}Hey! Mercenaries are coming from over there!{g}{x:00}
+
+@6
+{z}{s:0320}So they came after all...{g}{x:00}
+
+@7
+{z}{s:0320}The Tigre...{g}{x:00}
+
+@8
+{z}{s:0320}...Looks like it.{g}{x:00}
+
+@9
+{z}{s:0320}Your turn! Quick, {w}{w}drive them off, quickly!{g}{x:00}
+
+@10
+{z}{s:0320}I know, I know... {w}{w}Stop nagging.{g}{x:00}
+
+@11
+{z}{s:0320}I'll go north-west along this road. You hold the enemy back.{g}{x:00}
+
+@12
+{z}Understood?{g}{x:00}
+
+@13
+{z}{s:0320}You're going to walk on your own? Isn't that a bit too dangerous?{g}{x:00}
+
+@14
+{z}{s:0320}Then... {w}{w}you! Stay at my side.{g}{x:00}
+
+@15
+{z}{s:0320}Me? {w}{w}All right...{g}{x:00}
+
+@16
+{z}{s:0320}They're heading north-west, as I thought. If only we could get ahead of them...{g}{x:00}
+
+@17
+{z}{s:0320}The routes into the north-western forest are limited.{g}{x:00}
+
+@18
+{z}If we can seize them, the day is ours.{g}{x:00}
+
+@19
+{z}{s:0320}You want us to seize them...{g}{x:00}
+
+@20
+{z}{s:0320}No idea if it'll work, but we'll do what we can.{g}{x:00}
+
+@21
+{z}{s:0320}Let's go!{g}{x:00}
+
+@22
+{z}{s:0320}What? Who are they?{g}{x:00}
+
+@23
+{z}{s:0320}Those are our comrades. We were to meet them here.{g}{x:00}
+
+@24
+{z}{s:0320}Come over here quickly! The enemy's already here!{g}{x:00}
+
+@25
+{z}{s:0320}Who is that?{g}{x:00}
+
+@26
+{z}{s:0320}A high-ranking noble we're escorting.{g}{x:00}
+
+@27
+{z}{s:0320}Oh, right! I remember! Today we're escorting a noble!{g}{x:00}
+
+@28
+{z}Sorry... I forgot what the mission was. So what do we do...?{g}{x:00}
+
+@29
+{z}{s:0320}He's making for the north-western forest. Don't let the enemy near him until then.{g}{x:00}
+
+@30
+{z}{s:0320}Don't let them near!{g}{x:00}
+
+@31
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@32
+{z}{s:0320}So many enemies... Will we be all right?{g}{x:00}
+
+@33
+{z}{s:0320}More enemies makes no difference. We just beat them down.{g}{x:00}
+
+@34
+{z}{s:0320}The enemy's coming from there, too... Will we be all right?{g}{x:00}
+
+@35
+{z}{s:0320}A force this big, just to protect one man...{g}{x:00}
+
+@36
+{z}{s:0320}This is bad... very bad...{g}{x:00}
+
+@37
+{z}{s:0320}The enemy is steadily closing in... They really are after me.{g}{x:00}
+
+@38
+{z}Even with mercenaries on our side, survival isn't certain... I suppose I have no choice but to play that card.{g}{x:00}
+
+@39
+{z}You there, the mercenary captain! Hear me out for a moment!{g}{x:00}
+
+@40
+{z}I'm willing to pay you twice the reward you get for this job.{g}{x:00}
+
+@41
+{z}In return, if I may... {w}{w}would you stop going after me?{g}{x:00}
+
+@42
+{z}Money is what you're after, isn't it? You're hunting me for money, aren't you?{g}{x:00}
+
+@43
+{z}{s:0320}...Meaning you can't trust us?{g}{x:00}
+
+@44
+{z}{s:0320}That's not what I mean. I simply want to make sure.{g}{x:00}
+
+@45
+{z}If they accept, you'll get extra pay without any trouble.{g}{x:00}
+
+@46
+{z}It shouldn't be a bad deal for you, either.{g}{x:00}
+
+@47
+{z}{s:0320}Now that you put it that way... it's not a bad deal.{g}{x:00}
+
+@48
+{z}{s:0320}We don't fight for money. Don't insult us.{g}{x:00}
+
+@49
+{z}{s:0320}We don't fight because we want money!{g}{x:00}
+
+@50
+{z}{s:0320}There's more to the world than money... What a fool.{g}{x:00}
+
+@51
+{z}{s:0320}{a:0000}, you'll refuse, won't you? Of course you'll refuse, right?{g}{x:00}
+
+@52
+{z}{s:0320}We don't fight for the sake of money! Don't insult us!{g}{x:00}
+
+@53
+{z}{s:0320}Phew... saved. {w}{w}Now, as promised, here is your gold.{g}{x:00}
+
+@54
+{z}You received 17000 G.{g}{x:00}
+
+@55
+{z}{s:0320}I've handed over the gold, as agreed. Now, if you'll excuse me.{g}{x:00}
+
+@56
+{z}Don't you follow me!{g}{x:00}
+
+@57
+{z}{s:0320}He's gone...{g}{x:00}
+
+@58
+{z}Settled it all on his own, then off home by himself... What a piece of work.{g}{x:00}
+
+@59
+{z}Well, thanks to that we had it easy too, so maybe we have no right to complain.{g}{x:00}
+
+@60
+{z}Well, no point staying here any longer. Let's pull out.{g}{x:00}
+
+@61
+{z}{s:0320}Why...{g}{x:00}
+
+@62
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}{c:07}Why...{g}{x:00}
+
+@63
+{z}{s:0320}I can't believe it...{g}{x:00}
+
+@64
+{z}{s:0320}So they took it...{g}{x:00}
+
+@65
+{z}{s:0320}To give an answer like that...{g}{x:00}
+
+@66
+{z}{s:0320}We were refused... And that was our last resort...{g}{x:00}
+
+@67
+{z}It's over...{g}{x:00}
+
+@68
+{z}{s:0320}They refused...{g}{x:00}
+
+@69
+{z}I'd heard the Tigre won't be swayed by money... Seems it was true.{g}{x:00}
+
+@70
+{z}{s:0320}You thought you could buy us with money? How naive!{g}{x:00}
+
+@71
+{z}{s:0320}If only it hadn't been us... Poor fellows.{g}{x:00}
+
+@72
+{z}{s:0320}Trying to buy us off with money...{g}{x:00}
+
+@73
+{z}{s:0320}Right, back to work.{g}{x:00}
+
+@74
+{z}{s:0320}The only proper answer.{g}{x:00}
+
+@75
+{z}{s:0320}If only the mercenaries the enemy hired... {w}{w}had been anyone but these...{g}{x:00}
+
+@76
+{z}{s:0320}The noble's been killed... Damn...{g}{x:00}
+
+@77
+{z}Pull out!{g}{x:00}
+
+@78
+{z}{s:0320}Yes! We killed the noble! We win!{g}{x:00}
+
+@79
+{z}{s:0320}So the mission is accomplished...{g}{x:00}
+
+@80
+{z}{s:0320}So the mission is accomplished... {w}{w}Phew...{g}{x:00}
+
+@81
+{z}{s:0320}The mission is accomplished. Good work, everyone.{g}{x:00}
+
+@82
+{z}{s:0320}It was a hard fight, but at any rate we won.{g}{x:00}
+
+@83
+{z}{s:0320}At last... at last we're through the forest. {p:01} is right there...{g}{x:00}
+
+@84
+{z}Too bad for you! If it was going to end like this, you should have taken the money!{g}{x:00}
+
+@85
+{z}...What fools.{g}{x:00}
+
+@86
+{z}{s:0320}At last... at last we're through the forest. {p:01} is right there...{g}{x:00}
+
+@87
+{z}{s:0320}Hurry on ahead! You'll be fine alone from there!{g}{x:00}
+
+@88
+{z}{s:0320}Understood, I'll hurry on. Thank you for today.{g}{x:00}
+
+@89
+{z}{s:0320}He got away... So that's the end.{g}{x:00}
+
+@90
+{z}You're fools, though. You can't beat us anyway, so you should have taken the money.{g}{x:00}
+
+@91
+{z}Stubborn without being strong... You really are fools!{g}{x:00}
+
+@92
+{z}{s:0320}He got away... Galling, but the mission has failed.{g}{x:00}
+
+@93
+{z}But I'm not thinking 'if only we'd taken the money then'... not for a moment. As if I would!{g}{x:00}
+
+@94
+{z}{s:0320}He got away... Oh, the mission has failed...{g}{x:00}
+
+@95
+{z}But I don't think 'if only we'd taken the money then' at all... You don't either, do you, {a:0000}?{g}{x:00}
+
+@96
+{z}{s:0320}He got away... Damn, the mission has failed...{g}{x:00}
+
+@97
+{z}But I'm really glad we didn't take the money then. Everyone feels the same, I bet.{g}{x:00}
+
+@98
+{z}{s:0320}He got away... Haah, the mission has failed.{g}{x:00}
+
+@99
+{z}But I don't think 'if only we'd taken the money' even a little. And I'm sure you don't either, Captain.{g}{x:00}
+
+@100
+{z}{s:0320}He got away... Galling, but we failed the mission.{g}{x:00}
+
+@101
+{z}Still, it beats taking the money. And it's not just me; I'm sure everyone thinks so.{g}{x:00}
+
+@102
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@103
+{z}{s:0320}How could I slip up like this...{g}{x:00}
+
+@104
+{z}{s:0320}I'm sorry... I'm pulling out.{g}{x:00}
+
+@105
+{z}{s:0320}I can't go on any more...{g}{x:00}
+
+@106
+{z}{s:0320}I'll withdraw...{g}{x:00}
+
+@107
+{z}{s:0320}Flee on your own from here... Sorry I wasn't of use...{g}{x:00}
+
+@108
+{z}{s:0320}I'd have done so without being told!{g}{x:00}
+
+@109
+{z}{s:0320}Ugh... {w}{w}Damn...{g}{x:00}
+
+@110
+{z}{s:0320}My company, wiped out... {w}{w}These guys are strong...{g}{x:00}
+
+@111
+{z}{s:0320}I was just unwell... My true strength... is far beyond this...{g}{x:00}
+
+@112
+{z}{s:0320}Hyah! Here I come!{g}{x:00}
+
+@113
+{z}{s:0320}I'll pound you flat! Get ready!{g}{x:00}
+
+@114
+{z}{s:0320}Hey! Here we come!{g}{x:00}
+
+@115
+{z}{s:0320}S-stop! Please stop!{g}{x:00}
+
+@116
+{z}{s:0320}Any time! Come at me!{g}{x:00}
+
+@117
+{z}{s:0320}Once I've set my eyes on you, it's over. Poor fool.{g}{x:00}
+
+@118
+{z}{s:0320}Are you ready? I'm far too strong for you.{g}{x:00}
+
+@119
+{z}{s:0320}I won't lose!{g}{x:00}
+
+@120
+{z}{s:0320}Underestimate me for being a woman and you'll regret it!{g}{x:00}
+
+@121
+{z}{s:0320}I shall not lose.{g}{x:00}
+
+@122
+{z}{s:0320}Still far to go... I must hurry.{g}{x:00}
+
+@123
+{z}{s:0320}We just have to cross this forest. This forest...{g}{x:00}
+
+@124
+{z}{s:0320}You lot... can you really beat them?{g}{x:00}
+
+@125
+{z}{s:0320}We'll do what we can...{g}{x:00}
+
+@126
+{z}Who does this noble think he is...{g}{x:00}
+
+@127
+{z}But... he can't really go alone...{g}{x:00}
+

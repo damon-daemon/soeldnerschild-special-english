@@ -1,0 +1,312 @@
+@0
+{z}{s:0320}Almost there! Past that forest and we're clear!{g}{x:00}
+
+@1
+{z}{s:0320}The mission a failure and now a retreat...{g}{x:00}
+
+@2
+{z}{s:0320}Ah, no matter. We haven't taken that many losses.{g}{x:00}
+
+@3
+{z}{s:0320}True... And we've had the advance payment.{g}{x:00}
+
+@4
+{z}{s:0320}!{w}{w} Pursuers from Mylard!{g}{x:00}
+
+@5
+{z}{s:0320}Damn it! We were nearly clear!{g}{x:00}
+
+@6
+{z}{s:0320}Honestly...{w} Chasing a fleeing army. What persistent fellows.{g}{x:00}
+
+@7
+{z}{s:0320}This is no time for idle talk! Just get moving!{g}{x:00}
+
+@8
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@9
+{z}To be honest, I have little heart for this operation...{g}{x:00}
+
+@10
+{z}I shall wait here. Do as you see fit...{g}{x:00}
+
+@11
+{z}{s:0320}Lady {a:0080}...{g}{x:00}
+
+@12
+{z}{s:0320}Then we'll go after them by ourselves.{g}{x:00}
+
+@13
+{z}{s:0320}...{g}{x:00}
+
+@14
+{z}If even one company gets away, the mission has failed and we return at once...{w}{w} Is that clear?{g}{x:00}
+
+@15
+{z}{s:0320}Yeah... I know...{g}{x:00}
+
+@16
+{z}{s:0320}They're heading east, it seems.{w} Hurry or they'll slip away.{g}{x:00}
+
+@17
+{z}I feel like letting them go, myself...{g}{x:00}
+
+@18
+{z}{s:0320}...{g}{x:00}
+
+@19
+{z}{s:0320}Anyway, whatever we do is up to the captain.{g}{x:00}
+
+@20
+{z}{s:0320}...{g}{x:00}
+
+@21
+{z}{s:0320}{a:0000}... What do you make of {a:0080}'s behaviour?{g}{x:00}
+
+@22
+{z}What on earth is she thinking?{g}{x:00}
+
+@23
+{z}{s:0320}Really? I don't think so...{g}{x:00}
+
+@24
+{z}In that case, it's up to us.{g}{x:00}
+
+@25
+{z}{s:0320}...{g}{x:00}
+
+@26
+{z}{s:0320}True, she did seem to oppose the Prince's plan...{g}{x:00}
+
+@27
+{z}If so, her behaviour makes sense...{g}{x:00}
+
+@28
+{z}She herself may think it better for this mission to fail...{g}{x:00}
+
+@29
+{z}{s:0320}...{g}{x:00}
+
+@30
+{z}{s:0320}I...{w} I've been beaten... Sorry, everyone...{g}{x:00}
+
+@31
+{z}{s:0320}Damn...{w} Beaten back!{g}{x:00}
+
+@32
+{z}{s:0320}It's no use... I'm sorry...{g}{x:00}
+
+@33
+{z}{s:0320}Forced to retreat ourselves... Pathetic.{g}{x:00}
+
+@34
+{z}{s:0320}Ugh...{w} My own force wiped out...{g}{x:00}
+
+@35
+{z}{s:0320}Wiped out... My men...{g}{x:00}
+
+@36
+{z}{s:0320}To fall, after coming this far...{g}{x:00}
+
+@37
+{z}{s:0320}We couldn't get away after all... How galling...{g}{x:00}
+
+@38
+{z}{s:0320}Mylard knights...{w}{w} I'll remember this!{g}{x:00}
+
+@39
+{z}{s:0320}Damn it all... This is a heavy loss...{g}{x:00}
+
+@40
+{z}{s:0320}Damn! So close!{g}{x:00}
+
+@41
+{z}{s:0320}I hate this...{w} Attacking people who are fleeing... But it's the mission.{g}{x:00}
+
+@42
+{z}{s:0320}Not one company escapes! Prepare yourselves!{g}{x:00}
+
+@43
+{z}{s:0320}I don't see much point in striking these men...{g}{x:00}
+
+@44
+{z}But...{w} if the continent is to be united one day, an enemy must be beaten while we can, or he will sow trouble later...{g}{x:00}
+
+@45
+{z}{s:0320}Ngh... They've caught up...{g}{x:00}
+
+@46
+{z}Get as many men out as you can!{g}{x:00}
+
+@47
+{z}{s:0320}Damn! We will get away!{g}{x:00}
+
+@48
+{z}If we fall here, we lose everything!{g}{x:00}
+
+@49
+{z}{s:0320}So you're the leader!{g}{x:00}
+
+@50
+{z}Beat you and the rest won't chase us. Now, fight me!{g}{x:00}
+
+@51
+{z}{s:0320}By order of Prince {a:007e} of Mylard, we will strike you down!{g}{x:00}
+
+@52
+{z}{s:0320}I see...{w} That prince's order... No wonder they're so persistent...{g}{x:00}
+
+@53
+{z}But we will not fall so easily!{g}{x:00}
+
+@54
+{z}{s:0320}The Prince and the captain ordered it: don't let you escape.{g}{x:00}
+
+@55
+{z}Don't take it personally!{g}{x:00}
+
+@56
+{z}{s:0320}Not after coming this far! I won't go down!{g}{x:00}
+
+@57
+{z}{s:0320}Why are you chasing us?! What do you gain by killing us?!{g}{x:00}
+
+@58
+{z}We're mercenaries who just work for pay! We aren't always your enemies!{g}{x:00}
+
+@59
+{z}{s:0320}You're the mercenary captain! Sorry, but you're not escaping!{g}{x:00}
+
+@60
+{z}{s:0320}Little girl...{w} You dare mock me...{w} Want to get hurt?!{g}{x:00}
+
+@61
+{z}{s:0320}Damn... These men are persistent!{g}{x:00}
+
+@62
+{z}{s:0320}Sorry about that... I never let go of my prey!{g}{x:00}
+
+@63
+{z}{s:0320}...{g}{x:00}
+
+@64
+{z}{s:0320}What?! A creepy old man...{g}{x:00}
+
+@65
+{z}I won't fall in a place like this! I'll cut you down!{g}{x:00}
+
+@66
+{z}{s:0320}Only my company seems to have got away...{g}{x:00}
+
+@67
+{z}All that's left is to pray that as many companies as possible get out...{g}{x:00}
+
+@68
+{z}{s:0320}Damn Mylard!{w} Only my company escaped...{g}{x:00}
+
+@69
+{z}{s:0320}Phew...{w} That was close...{g}{x:00}
+
+@70
+{z}All that's left is to pray that as many companies as possible get out...{g}{x:00}
+
+@71
+{z}{s:0320}Phew...{w} That was close...{g}{x:00}
+
+@72
+{z}{s:0320}All right...{w} We're clear from here...{g}{x:00}
+
+@73
+{z}All that's left is to pray that as many companies as possible get out...{g}{x:00}
+
+@74
+{z}{s:0320}All right...{w} We're clear from here...{g}{x:00}
+
+@75
+{z}{s:0320}Phew... We got away somehow...{g}{x:00}
+
+@76
+{z}You lot, escape quickly too! Got it?!{g}{x:00}
+
+@77
+{z}{s:0320}Phew... We got away somehow...{g}{x:00}
+
+@78
+{z}{s:0320}Whew, saved!{g}{x:00}
+
+@79
+{z}{s:0320}If all the other units get away, we might just break even...{g}{x:00}
+
+@80
+{z}{s:0320}Whew, saved!{g}{x:00}
+
+@81
+{z}{s:0320}Sorry! I'm going ahead!{g}{x:00}
+
+@82
+{z}Everyone, make sure you get out!{g}{x:00}
+
+@83
+{z}{s:0320}Damn! Am I the only one who got out?{g}{x:00}
+
+@84
+{z}{s:0320}...{w}{w} It seems to be over...{g}{x:00}
+
+@85
+{z}So the mission is accomplished...{g}{x:00}
+
+@86
+{z}{a:0000}... Sorry for leaving everything to you...{g}{x:00}
+
+@87
+{z}{s:0320}Not at all...{g}{x:00}
+
+@88
+{z}{s:0320}Then let's report the results to the Prince...{g}{x:00}
+
+@89
+{z}{s:0320}...{g}{x:00}
+
+@90
+{z}{a:0080} seems down... She completed the mission, yet she looks anything but pleased...{g}{x:00}
+
+@91
+{z}{s:0320}...{g}{x:00}
+
+@92
+{z}That lady knight... She doesn't look pleased at all. What is she unhappy about?{g}{x:00}
+
+@93
+{z}{s:0320}Lady {a:0080}...{g}{x:00}
+
+@94
+{z}{s:0320}Well, the mission is done... The Prince will be glad.{g}{x:00}
+
+@95
+{z}{s:0320}...{g}{x:00}
+
+@96
+{z}{s:0320}Hmph...{w} The enemy escaped, then...{g}{x:00}
+
+@97
+{z}The mission is a failure! {a:0000}! We withdraw!{g}{x:00}
+
+@98
+{z}{s:0320}{a:0080}... What's the matter with her?{g}{x:00}
+
+@99
+{z}She's oddly lively for someone who failed the mission...{g}{x:00}
+
+@100
+{z}{s:0320}That lady knight... Is she pleased?{g}{x:00}
+
+@101
+{z}We failed the mission! What's going on?!{g}{x:00}
+
+@102
+{z}{s:0320}Lady {a:0080}...{g}{x:00}
+
+@103
+{z}{s:0320}The Prince will be furious... Well, no use fretting too much.{g}{x:00}
+

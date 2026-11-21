@@ -1,0 +1,14 @@
+# town map places (0x800175e0): KEY|English, at most 8 letters (see tools/tables.py; Japanese: tables.py show places)
+00|Shop
+01|Guild
+02|Church
+03|Minster
+04|Training
+05|Inn
+06|Tavern
+07|Castle
+08|Arena
+09|Square
+0a|House
+0b|House
+0c|Manor

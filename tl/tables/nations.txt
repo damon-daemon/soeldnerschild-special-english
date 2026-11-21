@@ -1,0 +1,8 @@
+# nation full names (0x80017ba8; SCENARIO): KEY|English, at most 16 letters (see tools/tables.py; Japanese: tables.py show nations)
+00|Holy Rana Empire
+01|Duchy of Saxen
+02|K. of Grandcour
+03|Rep. of Estania
+04|K. of Mylard
+05|K. of Fenrir
+06|Wigg Church

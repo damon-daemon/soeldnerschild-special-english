@@ -1,0 +1,2048 @@
+@0
+{z}{f}{l:00aa}{s:00aa}{w}{v:0000}Looking back...{u}{z}{w}{v:0001}It's been over ten years since I took you in.{u}{x:00}
+
+@1
+{z}{f}{l:0000}{s:0000}Has it really?{n}
+That long since the war...{g}{x:00}
+
+@2
+{z}{f}{l:0000}But why bring it up all of a sudden?{g}{x:00}
+
+@3
+{z}{f}{l:00aa}{w}{v:0002}Oh... It's just that{n}
+you've grown into such a fine man...{u}{z}{w}{v:0003}When you first came to this house{j:0004}{x:00}
+
+@4
+ you were a poor orphan who'd lost his parents to the war...{u}{z}{w}{v:0004}I was your father's friend, but living with strangers like us must have been hard.{u}{x:00}
+
+@5
+{z}{f}{l:00aa}{w}{v:0005}This is the Papal Domain, so we've{n}
+been spared the wars, but...{u}{z}{w}{v:0006}I've wondered whether you could{n}
+call your life here a happy one.{u}{x:00}
+
+@6
+{z}{f}{l:0000}...I could work my whole life and{n}
+never repay what you've given me.{g}{j:0007}{x:00}
+
+@7
+{z}I'm happier than I deserve.{g}{x:00}
+
+@8
+{z}{f}{l:0000}I'm so used to life here that being asked out of the blue feels strange.{g}{x:00}
+
+@9
+{z}{f}{l:00aa}{w}{v:0007}Ha ha ha...{u}{z}{w}{v:0008}Then will you always stay{n}
+with me and {a:0001}?{u}{x:00}
+
+@10
+{z}{f}{l:0000}Yes...{n}
+As long as you'll have me...{g}{x:00}
+
+@11
+{z}{f}{l:0001}{s:0001}{w}{v:0009}I'm home!{u}{x:00}
+
+@12
+{z}{f}{l:0001}{w}{v:000a}Hey, it's absolutely beautiful out!{n}
+It's a waste to stay cooped up inside.{u}{x:00}
+
+@16
+{z}{f}{l:00aa}{w}{v:000b}That reminds me... When you{n}
+two were small, the three of us{n}
+used to go to the square a lot.{u}{j:0011}{x:00}
+
+@17
+{z}{w}{v:000c}The Papal Domain was always peaceful, so you could play outside safely.{u}{x:00}
+
+@18
+{z}{f}{l:0001}{w}{v:000d}Then why don't the three{n}
+of us go out, like old times?{u}{x:00}
+
+@19
+{z}{f}{l:00aa}{w}{v:000e}No, I'll stay.{w} Any time now... he ought to be arriving.{u}{j:0014}{x:00}
+
+@20
+{z}{f}{l:0001}{w}{v:000f}Arriving?{u}{z}{f}{l:00aa}{w}{v:0010}An old friend of mine is coming...{w}{n}
+I haven't seen him in years.{u}{x:00}
+
+@23
+{z}{f}{l:0001}{w}{v:0011}Hey, what's he{n}
+like, this friend?{u}{x:00}
+
+@24
+{z}{f}{l:00aa}{w}{v:0012}He works as a mercenary.{n}
+With the times so dangerous lately,{n}
+he says there's work everywhere.{u}{x:00}
+
+@25
+{z}{f}{l:0000}...Isn't it awfully noisy outside?{g}{x:00}
+
+@26
+{z}{f}{l:0001}{w}{v:0013}Oh dear... What could it be?{u}{x:00}
+
+@27
+{z}{f}{l:0028}{c:06}§ Blood-Soaked Man §{n}
+{c:07}{w}{v:0014}Well, would you look at this!{u}{x:00}
+
+@28
+{z}{f}{l:0028}{w}{v:0015}A rich man's house like this,{n}
+and nobody's touched it yet...{u}{x:00}
+
+@29
+{z}{f}{l:00e7}{w}{v:0016}Who are you?!{u}{x:00}
+
+@30
+{z}{f}{l:0028}{w}{v:0017}Feisty one, aren't you...{w}{n}
+But your luck ran out when you met me!{u}{x:00}
+
+@32
+{z}{f}{l:00e7}{w}{v:0018}Aaah! Father!{u}{x:00}
+
+@33
+{z}{f}{l:00aa}{w}{v:0019}Ugh...{w}{n}
+Quick, take {a:0001} and run!{u}{x:00}
+
+@35
+{z}{f}{l:00e7}{w}{v:001a}No! I won't run away{n}
+and leave you!{u}{x:00}
+
+@36
+{z}{f}{l:00aa}{w}{v:001b}{a:0001}...{n}
+Go... Go now!{u}{z}{w}{v:001c}If you dawdle, they'll{n}
+kill you both too!{u}{x:00}
+
+@37
+{z}{f}{l:0028}{w}{v:001d}No use running.{n}
+After the old man, it's{n}
+your turn... Just wait.{u}{x:00}
+
+@38
+{z}{f}{l:00aa}{w}{v:001e}Urgh... Promise me...{w}{n}
+you'll protect {a:0001}...{w}{n}
+I'm counting...{w}{w} on you...{u}{x:00}
+
+@39
+{z}{f}{l:0000}...{a:0001}, come on!{g}{x:00}
+
+@40
+{z}{f}{l:0000}Uncle {a:00aa}...! Damn it...{g}{x:00}
+
+@41
+{z}{f}{l:00e8}{w}{v:001f}Father...{w}{n}
+Father!{u}{x:00}
+
+@42
+{z}{f}{l:0028}{w}{v:0020}Quit your squirming...{n}
+Wait your turn like a good girl...{u}{x:00}
+
+@44
+{z}{n}
+One day, some years ago -{x:00}
+
+@49
+{z}{n}
+The day {a:0028} appeared -{x:00}
+
+@50
+{z}{f}{l:0002}{s:0002}{w}{v:0044}Who could have...{w}{n}
+done this to my home...{u}{x:00}
+
+@51
+{z}{f}{l:0028}{c:06}§ Blood-Soaked Man §{n}
+{c:07}{w}{v:0045}Where'd that little{n}
+wench run off to...{u}{x:00}
+
+@52
+{z}{f}{l:0028}{w}{v:0046}Hey, you, brat!{n}
+You see a man and a girl{n}
+come through here?{u}{x:00}
+
+@53
+{z}{f}{l:0002}{w}{v:0047}What...!{w} You're the one who did this... who slaughtered my family!{u}{x:00}
+
+@54
+{z}{f}{l:0028}{w}{v:0048}So what if I am? Just hurry{n}
+up and answer my question!{n}
+Want to join your family in heaven?{u}{x:00}
+
+@55
+{z}{f}{l:00e9}{w}{v:0049}Shut up! I'll kill you!{u}{x:00}
+
+@56
+{z}{f}{l:0028}{w}{v:004a}Got some fight in you, brat...{w} Tch.{n}
+If you don't know, you're useless.{u}{x:00}
+
+@57
+{z}{f}{l:0028}{w}{v:004b}Now then, gotta find that girl...{n}
+Lose that necklace, and the{n}
+name {a:0028} is worth nothing...{u}{x:00}
+
+@58
+{z}{f}{l:0002}{w}{v:004c}Wait...{w}{w} you...{u}{x:00}
+
+@60
+{z}{f}{l:00e8}{s:0001}{w}{v:0021}Father...{w}{n}
+No... He can't be dead...{u}{x:00}
+
+@61
+{z}{f}{l:00e7}{a:0000}...{n}
+{w}{v:0022}What do we do now?{n}
+Father's gone... Our home's gone...{u}{z}{f}{l:0000}{s:0000}What do we do...?{g}{x:00}
+
+@64
+{z}{f}{l:0029}{c:06}§ Brutal Mercenary §{n}
+{c:07}{w}{v:0023}Still some prey left{n}
+in this scorched wasteland?{u}{x:00}
+
+@65
+{z}{f}{l:00e7}{w}{v:0024}No... Stay away...{u}{x:00}
+
+@67
+{z}{f}{l:00e8}{w}{v:0025}It's over...{n}
+Oh...{u}{x:00}
+
+@68
+{z}{f}{l:0029}{w}{v:0026}Heh heh heh...{u}{x:00}
+
+@69
+{z}{f}{l:0028}{c:06}§ Blood-Soaked Man §{n}
+{c:07}{w}{v:0027}Hey! What do you think you're doing?{u}{x:00}
+
+@70
+{z}{f}{l:00e7}{w}{v:0028}It's him!{u}{x:00}
+
+@71
+{z}{f}{l:0029}{w}{v:0029}Ah, Captain! Heh heh... Thought these two looked rich, so...{u}{x:00}
+
+@72
+{z}{f}{l:0028}{w}{v:002a}I've already taken everything of value off them.{u}{x:00}
+
+@73
+{z}{f}{l:0028}{w}{v:002b}Go and look elsewhere.{u}{x:00}
+
+@75
+{z}{f}{l:0029}{w}{v:002c}That's our Captain. Fast work.{u}{z}{f}{l:0028}{w}{v:002d}Spare me the flattery and get moving.{u}{x:00}
+
+@76
+{z}{f}{l:0028}{w}{v:002e}Now then...{u}{x:00}
+
+@78
+{z}{f}{l:00e8}{w}{v:002f}Ah...{u}{x:00}
+
+@79
+{z}{f}{l:0000}Stop it! You've done what you came for!{g}{x:00}
+
+@80
+{z}{f}{l:0028}{w}{v:0030}Not yet... Hand over the girl's necklace!{u}{x:00}
+
+@82
+{z}{f}{l:0028}{w}{v:0031}That looks mighty expensive...{u}{x:00}
+
+@84
+{z}{f}{l:0000}Scum like this run wild across the continent... Can no one stop them?!{g}{x:00}
+
+@85
+{z}{f}{l:0028}{w}{v:0032}Come on, quit mumbling and hand it over!{u}{x:00}
+
+@86
+{z}{f}{l:00e7}{w}{v:0033}Don't come near me!{u}{x:00}
+
+@87
+{z}{f}{l:0028}{w}{v:0034}Quite the spirit for such a pretty face.{u}{x:00}
+
+@88
+{z}{f}{l:0000}Stop!{g}{x:00}
+
+@89
+{z}{f}{l:0028}{w}{v:0035}Playing the hero, are you...{w} You'll get what the old man got!{u}{x:00}
+
+@90
+{z}{f}{l:00e7}{w}{v:0036}Aaah!{u}{x:00}
+
+@91
+{z}{f}{l:0023}{c:06}§ Mercenary Captain §{c:07}{n}{w}{v:0037}That's enough, {a:0028}!{u}{x:00}
+
+@92
+{z}{f}{l:0028}{w}{v:0038}Who's there?! {w}...That arm! You're {a:0023} of the Tigre Mercenaries! Tch, why are you here...?{u}{x:00}
+
+@93
+{z}{f}{l:0023}{w}{v:0039}Well met! You're finished too. Die, and pay for your sins!{u}{x:00}
+
+@94
+{z}{f}{l:0028}{w}{v:003a}Damn... I can't beat him one on one...{w} Better run for now.{u}{x:00}
+
+@95
+{z}{f}{l:0028}{w}{v:003b}Hey! Next time we meet on the battlefield, I'll smash you. Remember that!{u}{x:00}
+
+@96
+{z}{f}{l:00e7}{w}{v:003c}We're... safe...{u}{x:00}
+
+@97
+{z}{f}{l:0000}Thank you...{g}{x:00}
+
+@98
+{z}{f}{l:0023}{w}{v:003d}I am {a:0023}, captain of the Tigre Mercenaries. Do you live around here?{u}{z}{v:003e}I'm looking for a man named {a:00aa}.{u}{x:00}
+
+@100
+{z}{f}{l:00e8}{w}{v:003f}{a:00aa} is my father...{w} That man just killed him.{u}{x:00}
+
+@101
+{z}{f}{l:0023}{w}{v:0040}What?!{u}{x:00}
+
+@102
+{z}{f}{l:0023}{w}{v:0041}If only I'd arrived sooner... Then you must be {a:0001}. And the young man?{u}{x:00}
+
+@103
+{z}{f}{l:0000}I was raised by Uncle {a:00aa}. My name is {a:0000}.{g}{z}He told me a friend was coming...{g}{x:00}
+
+@104
+{z}{f}{l:0023}{w}{v:0042}That would be me... I'm glad at least you two survived. But...{u}{z}{v:0043}So even the Papal Domain has lost its peace...{u}{x:00}
+
+@110
+{z}{f}{l:0002}{c:06}§ Young Man §{c:07}{n}{w}{v:004d}Damn it... Where did that bastard go...{u}{x:00}
+
+@111
+{z}{f}{l:0002}{w}{v:004e}...Who are you lot? Did he get you too?{u}{z}{f}{l:0000}{s:0000}And you?{g}{x:00}
+
+@113
+{z}{f}{l:0002}{w}{v:004f}I live near here...{w} With my family, but he killed them all...{u}{j:0072}{x:00}
+
+@114
+{z}{w}{v:0050}I'll never forgive those bastards!{u}{x:00}
+
+@115
+{z}{f}{l:0001}{s:0001}{w}{v:0051}Why did you come here?{u}{x:00}
+
+@116
+{z}{f}{l:0002}{w}{v:0052}I just followed him. I'm going to avenge my family.{u}{x:00}
+
+@117
+{z}{f}{l:0023}{s:0023}{w}{v:0053}Your family too, at {a:0028}'s hands...{u}{x:00}
+
+@118
+{z}{f}{l:0002}{w}{v:0054}Who are you, old man?{u}{x:00}
+
+@119
+{z}{f}{l:0000}This is {a:0023} of the Tigre Mercenaries. He drove those men off.{g}{x:00}
+
+@120
+{z}{f}{l:0002}{w}{v:0055}What? So he got away?{u}{z}{w}{v:0056}Damn... One day I'll cut him down myself!{u}{x:00}
+
+@121
+{z}{f}{l:0001}{w}{v:0057}Cut him down? You couldn't possibly beat him...{u}{x:00}
+
+@122
+{z}{f}{l:0023}{w}{v:0058}Brave lad, I swear I'll avenge your family. Don't do anything rash.{u}{x:00}
+
+@123
+{z}{f}{l:0002}{w}{v:0059}What...{w} You're a mercenary, aren't you? They say mercenaries these days are no better than robbers...{u}{x:00}
+
+@124
+{z}{f}{l:00e8}{w}{v:005a}I don't know who to trust any more. How did the world come to this...{u}{x:00}
+
+@125
+{z}{f}{l:0000}It wasn't like this before the nations started fighting...{g}{z}If only the continent were one again...{g}{x:00}
+
+@126
+{z}{f}{l:0023}{w}{v:005b}Exactly so. Once peace brings order, there'll be no more mercenaries who act like robbers.{u}{x:00}
+
+@127
+{z}{f}{l:0002}{w}{v:005c}You... You're very different from that mercenary.{u}{x:00}
+
+@128
+{z}{f}{l:0001}{w}{v:005d}Hey, what's your name?{u}{z}{v:005e}I'm {a:0001}...{u}{x:00}
+
+@129
+{z}{f}{l:0002}{w}{v:005f}My name's {a:0002}...{u}{x:00}
+
+@130
+{z}{f}{l:0023}{w}{v:0060}Chasing {a:0028} all the way here... You have courage as well as a mouth.{u}{x:00}
+
+@131
+{z}{f}{l:0002}{w}{v:0061}I won't give up. I'll avenge them with my own hands.{u}{x:00}
+
+@134
+{z}{f}{l:0000}Sir {a:0023}... please let me join you!{g}{x:00}
+
+@136
+{z}{f}{l:0001}{w}{v:0062}What?!{u}{x:00}
+
+@137
+{z}{f}{l:0000}I want to...{w} fight alongside you, Sir {a:0023}!{g}{z}{f}{l:0001}{w}{v:0063}What?!{u}{x:00}
+
+@139
+{z}{f}{l:0000}I can't forgive men like that!{g}{x:00}
+
+@141
+{z}{f}{l:00e7}{w}{v:0064}You're right...{w} Then... I'm coming too. I'll fight as well!{u}{x:00}
+
+@142
+{z}{f}{l:0023}{w}{v:0065}You two seem to feel the same...{w} Very well, follow me.{u}{x:00}
+
+@143
+{z}{f}{l:0002}{w}{v:0066}Wait!{u}{z}{w}{v:0067}Me too...{w} I want to get stronger!{u}{x:00}
+
+@144
+{z}{f}{l:0002}{w}{v:0068}I won't die without a fight...{w} So train me!{u}{x:00}
+
+@145
+{z}{f}{l:0023}{w}{v:0069}I understand. I'll train all three of you.{u}{j:0092}{x:00}
+
+@146
+{z}{w}{v:006a}But our trade is life and death. No half measures... Are you ready for that?{u}{x:00}
+
+@154
+{z}{f}{l:0001}{s:0001}What lovely weather...{g}{x:00}
+
+@155
+{z}{f}{l:005e}{s:005e}Sir {a:0000}!{g}{x:00}
+
+@156
+{z}{f}{l:0000}Sir {a:005e}?! How did you find this place?{g}{x:00}
+
+@157
+{z}{f}{l:005e}There is something I must tell you, Sir {a:0000}.{g}{x:00}
+
+@158
+{z}{f}{l:005e}At last, our Holy Rana Empire holds all of Liguria in its hand...{g}{z}The continent is united!{g}{x:00}
+
+@159
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@160
+{z}{f}{l:005e}Thanks to the efforts of Sir {a:0000} and the others, we unified the land sooner than hoped.{g}{z}Throughout the wars,{j:00a1}{x:00}
+
+@161
+ you lent your aid to Rana, and for that we are truly grateful.{g}{x:00}
+
+@162
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@163
+{z}{f}{l:005e}There is another who wishes to meet you. He waits nearby.{g}{x:00}
+
+@164
+{z}{f}{l:0090}{s:0090}So this is {a:0000}!{g}{z}I am {a:0090}, Emperor of the Holy Rana Empire.{g}{x:00}
+
+@165
+{z}{f}{l:0001}The Emperor, all the way out here... to see {a:0000}?{g}{x:00}
+
+@166
+{z}{f}{l:0090}You have fought well, for the peace of the continent and the rise of Rana.{g}{x:00}
+
+@167
+{z}{f}{l:0000}I fought believing that Rana was the nation to end the wars and rule the continent.{g}{x:00}
+
+@169
+{z}{f}{l:0090}Admirable...{w} A true "Lone Mercenary"!{g}{z}I would have your deeds told to later generations...{g}{x:00}
+
+@170
+{z}{f}{l:0090}{a:005e}, at the castle, have our retainers write {a:0000}'s exploits into a tale.{g}{x:00}
+
+@171
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{z}{f}{l:0090}Then we shall leave your name out...{g}{x:00}
+
+@174
+{z}{f}{l:005e}Then, Sir {a:0000}, we take our leave. Until we meet again!{g}{x:00}
+
+@175
+{z}{f}{l:0090}Should you ever need our help, do not hesitate to come to the castle at Plauen.{g}{x:00}
+
+@180
+{z}{f}{l:0001}What an important visitor...{g}{x:00}
+
+@181
+{z}{f}{l:0001}Oh, {a:0002} and {a:0003} have come too!{g}{x:00}
+
+@182
+{z}{f}{l:0000}Do you know where {a:0004} and {a:0005} went?{g}{x:00}
+
+@183
+{z}{f}{l:0003}{a:0004} is surely off wooing the tavern singer.{g}{z}With peace here, he may try to woo every singer on the continent...{g}{x:00}
+
+@184
+{z}{f}{l:0001}{a:0005} should be somewhere around here too...{g}{x:00}
+
+@185
+{z}{f}{l:0000}Then I'll tell those two later.{g}{x:00}
+
+@186
+{z}{f}{l:0000}Everyone, listen...{w} As of today, I intend to disband the Tigre Mercenaries.{g}{x:00}
+
+@187
+{z}{f}{l:0003}Yes, mercenaries don't suit a peaceful continent.{g}{x:00}
+
+@188
+{z}{f}{l:0002}But shouldn't you tell the other two something this big?{g}{z}I'll go and look for them!{g}{x:00}
+
+@189
+{z}{f}{l:0001}We'll have to find other work now.{g}{x:00}
+
+@190
+{z}{f}{l:0005}{s:0005}{a:0000}, have you announced the Tigre Mercenaries' disbanding yet?{g}{x:00}
+
+@191
+{z}{f}{l:0000}{a:0005}... You knew?{g}{x:00}
+
+@192
+{z}{f}{l:0005}I had a look around. The people already know the continent is united...{g}{z}Every face I saw was truly{j:00c1}{x:00}
+
+@193
+ glad that peace had come.{g}{z}I have nothing left to regret...{w} You all did very well. Take care of yourselves.{g}{x:00}
+
+@194
+{z}{f}{l:0000}{a:0005}...{w} You stood by us to the end. You have my heartfelt thanks.{g}{x:00}
+
+@195
+{z}{f}{l:0005}Nonsense, it is I who should thank you...{w} Well then, I shall take my leave.{g}{x:00}
+
+@196
+{z}{f}{l:0005}Oh yes, now that the work of leading the people to happiness is done...{g}{x:00}
+
+@197
+{z}{f}{l:0005}why not make that young lady happy this time? Fo ho ho ho...{g}{z}{f}{l:0001}...{g}{x:00}
+
+@198
+{z}{f}{l:0000}{a:0003}... I'm sorry I couldn't make you the knight you longed to be.{g}{x:00}
+
+@199
+{z}{f}{l:0003}Don't worry. I gave up my regrets about knighthood long ago.{g}{z}If anything, you gave me a place to be useful in{j:00c8}{x:00}
+
+@200
+ ending the wars, and I'm grateful...{w} Thank you, {a:0000}.{g}{x:00}
+
+@201
+{z}{f}{l:0001}What will you do now, {a:0003}?{g}{x:00}
+
+@202
+{z}{f}{l:0003}For now I thought I'd visit my home town, Ansbach...{w} I don't know what comes after.{g}{z}{f}{l:0001}Then,{j:00cb}{x:00}
+
+@203
+ might you be getting married to someone...?{g}{x:00}
+
+@204
+{z}{f}{l:0003}Who knows...{w} If only someone would have me.{g}{z}Well, I should be going. Give my regards to {a:0002} and {a:0004}.{g}{x:00}
+
+@205
+{z}{f}{l:0000}{a:0003}...{w} I can't say how much having a senior like you has saved me.{g}{x:00}
+
+@206
+{z}{f}{l:0000}Thank you, truly.{g}{x:00}
+
+@207
+{z}{f}{l:0003}I hope we meet again somewhere. Goodbye.{g}{x:00}
+
+@210
+{z}{f}{l:0002}Sis was right after all! {a:0004} was at the tavern!{g}{x:00}
+
+@211
+{z}{f}{l:0004}{s:0004}...But Sis isn't here. And neither is the old man.{g}{x:00}
+
+@212
+{z}{f}{l:0001}They've both said their goodbyes and gone.{g}{z}I don't know about {a:0005}, but {a:0003} says she's going home to Ansbach.{g}{x:00}
+
+@213
+{z}{f}{l:0002}I see, Sis has left...{g}{z}Sis was kind of a beauty when she wasn't angry, wasn't she?{g}{j:00d6}{x:00}
+
+@214
+{z}With no more fighting, I hope she won't get so angry.{g}{x:00}
+
+@215
+{z}{f}{l:0004}{a:0000}, disbanding means I don't have to follow your orders any more, right?{g}{x:00}
+
+@216
+{z}{f}{l:0000}Yes. No more captain and men. We're just friends.{g}{x:00}
+
+@217
+{z}{f}{l:0004}All right! Now I can really let loose.{g}{x:00}
+
+@218
+{z}{f}{l:0001}With such a cute girl right beside you, you treated me like a child all along.{g}{x:00}
+
+@219
+{z}{f}{l:0004}Ha ha ha... No offence. You've got someone who suits you better.{g}{x:00}
+
+@220
+{z}{f}{l:0004}Well, I'm off too. See you around!{g}{x:00}
+
+@221
+{z}{f}{l:0000}{a:0004}!{g}{x:00}
+
+@222
+{z}{f}{l:0004}No need for thanks...{g}{x:00}
+
+@223
+{z}{f}{l:0000}I wanted to warn him not to play around too much...{g}{x:00}
+
+@230
+{z}{f}{l:0001}What do you plan to do, {a:0002}?{g}{x:00}
+
+@231
+{z}{f}{l:0002}Dunno. Haven't thought about it.{g}{x:00}
+
+@232
+{z}{f}{l:0000}Aren't you going back to Orbia?{g}{x:00}
+
+@233
+{z}{f}{l:0002}I've got no good memories there.{g}{z}Maybe I'll go to Ansbach...{g}{x:00}
+
+@236
+{z}{f}{l:0002}I had fun with you two...{w} Get along, you hear?{g}{z}{f}{l:0001}What?{g}{x:00}
+
+@237
+{z}{f}{l:0000}They all left rather suddenly...{g}{x:00}
+
+@239
+{z}{f}{l:0000}{a:0001}, as for us...{g}{x:00}
+
+@240
+{z}{f}{l:0001}Let's live in Orbia!{g}{z}It's home, and I don't want to forget my memories of Father...{g}{x:00}
+
+@242
+{z}{f}{l:0000}I see... All right, we'll live in Orbia.{g}{x:00}
+
+@243
+{z}{f}{l:0001}{a:0000}...{w} You still remember {a:0005}'s last words, don't you?{g}{x:00}
+
+@244
+{z}{f}{l:0001}Don't you ever forget...{w} You have to make me happy, no matter what!{g}{x:00}
+
+@250
+{z}{f}{l:0001}{s:0001}The mood in the square has changed completely.{g}{x:00}
+
+@251
+{z}{f}{l:0001}Oh, it's {a:0003} and {a:0005}!{g}{x:00}
+
+@252
+{z}{f}{l:0001}You've both come to see the festival preparations.{g}{x:00}
+
+@253
+--- (Per-nation text from here) ---{x:00}
+
+@254
+{z}{f}{l:0003}{s:0003}No, that's not it. I'm worried about the Wigg Church's moves...{g}{z}I fear more trouble may break out.{g}{x:00}
+
+@255
+{z}{f}{l:0000}No need to worry. The new Emperor, Lady {a:0092}, hates conflict above all.{g}{z}Whatever happens, she'll surely settle it peacefully.{g}{x:00}
+
+@259
+--- (Common text from here) ---{x:00}
+
+@260
+{z}{f}{l:0001}Then it will stay peaceful from now on. I'm relieved to hear it.{g}{x:00}
+
+@261
+{z}{f}{l:0003}I see... I'm just worrying too much. Well then, I'll go and look around.{g}{x:00}
+
+@262
+{z}{f}{l:0001}Look around? Honestly, {a:0003}, you worry too much.{g}{x:00}
+
+@263
+{z}{f}{l:0005}{s:0005}No. Without the will to protect the peace, an age of war may return at any time.{g}{z}What {a:0003} is doing{j:0108}{x:00}
+
+@264
+ is not mistaken in the least.{g}{x:00}
+
+@265
+{z}{f}{l:0000}True enough... {a:0003} takes this country very seriously...{g}{x:00}
+
+@266
+--- (Per-nation text from here) ---{x:00}
+
+@267
+{z}{f}{l:0000}Let's petition to have her made a knight.{g}{x:00}
+
+@268
+--- (Common text from here) ---{x:00}
+
+@269
+{z}{f}{l:0001}That's a good idea! {a:0003} will surely be delighted.{g}{x:00}
+
+@270
+{z}{f}{l:0000}It isn't to please {a:0003}. It's because it will benefit this country.{g}{x:00}
+
+@271
+{z}{f}{l:0002}{s:0002}Hey, what are you three plotting?!{g}{x:00}
+
+@272
+{z}{f}{l:0001}Honestly, {a:0002}!{g}{x:00}
+
+@273
+{z}{f}{l:0005}No... that's not it.{g}{z}The truth is... I came to say goodbye.{g}{z}{f}{l:0000}What?!{g}{z}{f}{l:0005}My mission is over,{j:0112}{x:00}
+
+@274
+ so I'll leave town and live out my days quietly.{g}{z}You have all been very good to me.{g}{j:0113}{x:00}
+
+@275
+{z}Wherever I may be...{w} I will pray for your success.{g}{x:00}
+
+@277
+{z}{f}{l:0001}...{g}{z}We'll meet again, won't we?{g}{z}{f}{l:0005}Mm... Yes, we shall.{g}{x:00}
+
+@278
+{z}{f}{l:0005}When a child is born to {a:0000} and {a:0001}, I shall rush over to celebrate.{g}{x:00}
+
+@279
+{z}{f}{l:0005}...Farewell...{g}{z}{f}{l:0001}...{g}{x:00}
+
+@282
+{z}{f}{l:0002}What's this, you two! When did it come to that?{g}{x:00}
+
+@283
+{z}{f}{l:00e7}That's not it at all! It isn't!{g}{x:00}
+
+@284
+{z}{f}{l:0002}Oh, so I'm in the way. Fine, have it your way...{g}{x:00}
+
+@285
+{z}{f}{l:0000}No, that's...{g}{z}{f}{l:0004}That's what? Come on, say it properly.{g}{x:00}
+
+@286
+{z}{f}{l:0001}Honestly... I give up!{g}{x:00}
+
+@287
+{z}{f}{l:0004}{s:0004}Whew, that was a close one!{g}{x:00}
+
+@288
+{z}{f}{l:0002}Did something happen?!{g}{x:00}
+
+@289
+{z}{f}{l:0004}I was wooing a singer at the tavern when {a:0003} suddenly walked in.{g}{x:00}
+
+@290
+{z}{f}{l:0004}I bolted out in a panic...{w} and next thing I knew I'd run all the way here.{g}{z}Catching a girl when she's feeling carefree is{j:0123}{x:00}
+
+@291
+ the basics of wooing, and yet...{w} why do I only get caught at times like this?{g}{x:00}
+
+@292
+{z}{f}{l:0002}...Don't scare us like that, honestly.{g}{x:00}
+
+@293
+{z}{f}{l:0001}Come to think of it, {a:0004}, you never so much as glance at the two beauties in our company.{g}{x:00}
+
+@294
+{z}{f}{l:0004}...{g}{z}Hey, {a:0000}!{g}{z}Why do you think I, of all men, left such a pretty girl alone?{g}{j:0127}{x:00}
+
+@295
+{z}If you're not interested...{g}{x:00}
+
+@296
+{z}{f}{l:0004}Ha ha ha... If you ask me, you're both still children.{g}{x:00}
+
+@297
+--- (Per-nation text from here) ---{x:00}
+
+@298
+{z}{f}{l:0004}Speaking of beauties, the new Emperor is a real stunner too. Only saw her when we fought together, though...{g}{x:00}
+
+@300
+{z}{f}{l:0004}Shall I give it a go? First man on the continent to woo an Emperor...{g}{x:00}
+
+@301
+{z}{f}{l:0001}Should we just let him? It could damage all our reputations...{g}{x:00}
+
+@302
+{z}{f}{l:0000}Even for you, {a:0004}, that Emperor is out of reach.{g}{x:00}
+
+@303
+--- (Common text from here) ---{x:00}
+
+@304
+{z}{f}{l:0000}Anyway, {a:0001}, why not throw yourself into whatever you want to do?{g}{x:00}
+
+@305
+{z}{f}{l:0001}I'm fine as I am...{w} I'm happiest when I'm with you...{g}{z}{f}{l:0000}...{g}{z}{f}{l:0001}...{g}{x:00}
+
+@306
+{z}{f}{l:0001}...Honestly, what a handful you are!{g}{x:00}
+
+@310
+{z}{f}{l:0003}{s:0003}Oh, have you two come to take a look as well?{g}{x:00}
+
+@311
+--- (Per-nation text from here) ---{x:00}
+
+@312
+{z}{f}{l:0000}{s:0000}Right, I must restart the festival preparations...{g}{x:00}
+
+@313
+{z}{f}{l:00e7}{s:0001}But there's no Emperor now. Who will take charge?{g}{x:00}
+
+@314
+{z}{f}{l:0000}In fact, I've become the new Emperor.{g}{x:00}
+
+@315
+{z}{f}{l:0001}What? Is that true? {a:0000}, Emperor?{g}{x:00}
+
+@316
+{z}{f}{l:0003}When Lady {a:0092} was driven from the castle, I wondered what would happen, but {a:0000} as Emperor...{g}{z}Tell me, what do you intend to do{j:013d}{x:00}
+
+@317
+ about the Wigg Church from now on?{g}{x:00}
+
+@318
+{z}{f}{l:0000}I've left the Wigg Church entirely to {a:0091}. He won't handle it badly.{g}{x:00}
+
+@319
+{z}{f}{l:0003}I see...{g}{z}Then I'll carry on patrolling, just to be safe.{g}{x:00}
+
+@320
+{z}{f}{l:0000}Yes, it's true.{g}{z}It all happened so suddenly that I'm bewildered.{g}{x:00}
+
+@322
+{z}{f}{l:00e7}Isn't {a:0003} happy that {a:0000} has become Emperor?{g}{x:00}
+
+@323
+{z}{f}{l:0000}No... {a:0003} takes this country more seriously than anyone.{g}{z}As my first act, I'll make her a knight.{g}{x:00}
+
+@324
+{z}{f}{l:0001}That's a good idea! {a:0003} will make a fine knight!{g}{x:00}
+
+@325
+{z}{f}{l:0002}{s:0002}It's already the talk of the town that you've become Emperor!{g}{x:00}
+
+@326
+--- (Common text from here) ---{x:00}
+
+@328
+{z}{f}{l:0005}{a:0000}... You can protect this country.{g}{z}Do your best. And the rest of you too...{g}{x:00}
+
+@329
+{z}{f}{l:0005}I have decided to leave this town... My work is done.{g}{z}I mean to live out my days quietly somewhere.{g}{x:00}
+
+@330
+{z}{f}{l:00e7}Can't we see you again?{g}{x:00}
+
+@331
+{z}{f}{l:0005}Wherever I may be, I will pray for your success.{g}{z}Farewell...{g}{x:00}
+
+@334
+{z}{f}{l:00e7}I'm glad the fighting is over, but we can't all stay together any more.{g}{x:00}
+
+@336
+{z}{f}{l:0002}Come to think of it, what happened to {a:0003}?{g}{x:00}
+
+@337
+{z}{f}{l:0001}She's gone to patrol the town...{g}{x:00}
+
+@338
+{z}{f}{l:0002}Same as ever...{g}{z}Still, I've nothing to do. Maybe I'll go and help her.{g}{x:00}
+
+@341
+{z}{f}{l:0004}{s:0004}Well, well, you two. Off on a date already?{g}{x:00}
+
+@345
+{z}{f}{l:0001}Honestly, {a:0004}...{g}{x:00}
+
+@346
+--- (Per-nation text from here) ---{x:00}
+
+@347
+{z}{f}{l:0001}Hey, guess what? {a:0000} has become the new Emperor!{g}{x:00}
+
+@348
+{z}{f}{l:0004}Come on, you're joking.{g}{z}Becoming a knight was shock enough, but Emperor...{g}{z}{a:0023} must be reeling in the afterlife.{g}{x:00}
+
+@349
+{z}{f}{l:0004}Not that I'd want to be Emperor. Can't drink freely, can't woo women...{w} I couldn't stand it.{g}{x:00}
+
+@350
+--- (Common text from here) ---{x:00}
+
+@351
+{z}{f}{l:00e7}So... {a:0000} won't have time for me any more...{g}{z}That would be lonely...{w} Doesn't it bother you, {a:0000}?{g}{x:00}
+
+@352
+{z}{f}{l:0000}No, not at all.{g}{z}Oh, right! I should be getting back to the castle...{g}{x:00}
+
+@353
+{z}{f}{l:0004}What a clumsy man.{g}{x:00}
+
+@354
+{z}{f}{l:0004}Come now, cheer up.{g}{z}Don't worry, in his heart he's thinking of you, little lady.{g}{x:00}
+
+@368
+{z}{f}{l:0000}Speak! What do you mean by that?!{g}{x:00}
+
+@369
+{z}{f}{l:0002}{s:0002}{a:0000}...{w} Look at the view from here.{g}{x:00}
+
+@370
+{z}{f}{l:0002}Is it any different from when we became mercenaries?{w} Nothing has changed, has it...{g}{x:00}
+
+@371
+{z}{f}{l:00ea}{s:0003}Just now, {a:0005} said farewell to us and left...{g}{x:00}
+
+@372
+{z}{f}{l:00eb}{s:0004}The old man misjudged {a:0000}, that's all.{g}{x:00}
+
+@373
+{z}{f}{l:0002}It's not just {a:0005}. We're disappointed too...{w} in you, who couldn't calm the wars one bit!{g}{x:00}
+
+@374
+{z}{f}{l:00ea}{a:0000}. We fought believing your words.{g}{j:0177}{x:00}
+
+@375
+{z}But...{w} you betrayed us!{g}{x:00}
+
+@376
+{z}{f}{l:00eb}I sided with you to repay my debt to {a:0023}...{g}{z}But seeing how sloppy you are,{j:0179}{x:00}
+
+@377
+ I doubt it repays him at all.{g}{x:00}
+
+@378
+{z}{f}{l:00eb}As of today I'm leaving Tigre. We probably won't meet again.{g}{x:00}
+
+@379
+{z}{f}{l:0000}{s:0000}...{g}{z}...Right, what about {a:0001}?{g}{x:00}
+
+@380
+{z}{f}{l:00ea}You didn't know...?{w} After last month's battle {a:0001} ran a high fever and has been in bed ever since.{g}{x:00}
+
+@381
+{z}{f}{l:0002}That's because you worried her sick! Did you forget my warning?!{g}{x:00}
+
+@382
+{z}{f}{l:0003}{a:0001}! No! You must stay in bed!{g}{x:00}
+
+@383
+{z}{f}{l:00e8}{s:0001}{a:0000}...{w} I'm sorry...{g}{z}I can't follow you either...{g}{z}Nobody...{w}{j:0180}{x:00}
+
+@384
+ needs you any more...{g}{x:00}
+
+@385
+{z}{f}{l:0000}...That can't be true.{g}{x:00}
+
+@386
+{z}{f}{l:00e8}No, everyone...{w} everyone...{g}{x:00}
+
+@387
+{z}{f}{l:0002}Are you all right, {a:0001}?!{g}{x:00}
+
+@388
+{z}{f}{l:00e7}Yes...{g}{x:00}
+
+@389
+{z}{f}{l:00e7}Everyone wishes you would just go away...{g}{x:00}
+
+@390
+{z}{f}{l:0000}What do you mean?{g}{z}Failing to end the wars is everyone's responsibility...{g}{z}{f}{l:00ea}...{g}{x:00}
+
+@391
+{z}{f}{l:00e9}Now you say it's everyone's responsibility?!{g}{z}{f}{l:00e8}You...{w} you are the one...{g}{x:00}
+
+@392
+{z}{f}{l:0002}Stop! I'll answer for them.{g}{x:00}
+
+@393
+{z}{f}{l:00e9}You're the one who's been prolonging the wars! Just like {a:0028} and {a:0031}!{g}{x:00}
+
+@394
+{z}{f}{l:00ea}Even if you never meant to...{g}{z}To the people, we who fight without achieving anything look no different{j:018b}{x:00}
+
+@395
+ from them...{g}{z}That's why I can't go on with you any longer...{w} The Tigre Mercenaries end today.{g}{x:00}
+
+@397
+{z}{f}{l:00e7}{a:0000}, answer me...{w} Will the day never come when everyone can live in peace...{w} Why do people go on with these foolish wars...{g}{x:00}
+
+@398
+{z}{f}{l:00e8}Why... why didn't you remember the ideals we swore together back then, before it came to this?!{g}{x:00}
+
+@399
+{z}{f}{l:00ea}That's enough now, {a:0001}...{w} Go back to bed and rest.{g}{x:00}
+
+@400
+{z}{f}{l:0002}Yes, forget a man like this!{g}{z}...Otherwise your illness won't get better.{g}{x:00}
+
+@402
+{z}{f}{l:00e9}{a:0000}! If you care for her at all, never show your face to her again!{g}{x:00}
+
+@403
+{z}{f}{l:0000}{a:0002}...{w} {a:0001}...{g}{x:00}
+
+@404
+{z}{f}{l:00e8}Ah!{g}{x:00}
+
+@409
+{z}{f}{l:0003}{s:0003}We beat {a:0066}, but Prince {a:0093} died as well...{g}{z}What will become of this country?{g}{x:00}
+
+@410
+{z}{f}{l:0000}About that...{w} At {a:0068}'s insistence, I am to take the throne as king.{g}{x:00}
+
+@411
+{z}{f}{l:0001}What? Is that true?{g}{z}{a:0000}, king?{g}{x:00}
+
+@412
+{z}{f}{l:0000}Yes, it's true...{g}{z}It all happened so suddenly that I'm bewildered.{g}{z}It means I must make this a country where everyone can{j:019d}{x:00}
+
+@413
+ live in peace.{g}{x:00}
+
+@414
+{z}{f}{l:0000}Next I'll appoint {a:0003} a knight.{g}{x:00}
+
+@415
+{z}{f}{l:0004}Speaking of beauties, that woman knight was quite a looker too.{g}{z}As stiff as {a:0003}, mind you...{w}{j:01a0}{x:00}
+
+@416
+ I suppose I'll give it a try.{g}{x:00}
+
+@417
+{z}{f}{l:0001}Would {a:0068} fall for the likes of {a:0004}?{g}{x:00}
+
+@418
+{z}{f}{l:0000}Impossible, I'd say. It would do {a:0004} good.{g}{x:00}
+
+@425
+{z}{f}{l:0000}{s:0000}Right, I must urge them to resume the festival preparations...{g}{x:00}
+
+@426
+{z}{f}{l:0001}{s:0001}Recommend it to whom? {a:0066}, I suppose?{g}{x:00}
+
+@427
+{z}{f}{l:0000}Yes, Lord {a:0066} is formally the new king...{w} And I've been made Supreme Commander.{g}{x:00}
+
+@428
+{z}{f}{l:0001}Really! That's wonderful!{g}{x:00}
+
+@429
+{z}{f}{l:0003}So he has everything his way now...{w} Are you content to serve him, {a:0000}?{g}{x:00}
+
+@430
+{z}{f}{l:0000}I may be {a:0066}'s retainer, but I haven't sold him my soul...{w} I only wish for this country's stability...{g}{x:00}
+
+@431
+{z}{f}{l:0003}I see... If that's what you believe, I'll say nothing...{g}{z}Anyway... should a Supreme Commander be loitering here{j:01b0}{x:00}
+
+@432
+ when there must be so much to do?{g}{x:00}
+
+@433
+{z}{f}{l:0001}Oh, didn't he come specially to tell us about the new king?{g}{x:00}
+
+@434
+{z}{f}{l:0003}So he did...{g}{z}I'll go and see how the people are taking King {a:0066}.{g}{x:00}
+
+@435
+{z}{f}{l:00e7}Isn't {a:0003} happy that {a:0000} has become Supreme Commander?{g}{x:00}
+
+@437
+{z}{f}{l:0002}{s:0002}Hey, did you hear? {a:0066} is the new king!{g}{x:00}
+
+@438
+{z}{f}{l:0001}That's not all, {a:0002}. {a:0000} has become Supreme Commander!{g}{x:00}
+
+@439
+{z}{f}{l:0001}Have you heard yet, {a:0004}? {a:0000} has become Supreme Commander!{g}{x:00}
+
+@440
+{z}{f}{l:0004}Supreme Commander...?{w} Well, quite a promotion.{g}{z}{a:0000} always gets the best of everything, doesn't he.{g}{j:01b9}{x:00}
+
+@441
+{z}Least he could do is introduce me to a girl or two.{g}{x:00}
+
+@442
+{z}{f}{l:0004}Still, Supreme Commander must be hard. Always left in charge of the fighting... I wouldn't want it.{g}{x:00}
+
+@450
+{z}{f}{l:0003}{s:0003}{a:0000}, we beat {a:0070}, but I'm still uneasy.{g}{z}Are there really no knights left who resent {a:0094}?{g}{x:00}
+
+@451
+{z}{f}{l:0000}Don't worry. Lord {a:0094} has resigned as Regent.{g}{z}Lord {a:006e} is the new Regent, and I'm likely to be made Governor.{g}{j:01c4}{x:00}
+
+@452
+{z}Though with the fighting over, it will probably be only a title.{g}{x:00}
+
+@453
+{z}{f}{l:0000}I'll ask His Majesty to make her a knight.{g}{x:00}
+
+@454
+{z}{f}{l:0004}Speaking of beauties, the king's mother is supposed to be a real stunner. Introduce me sometime.{g}{j:01c7}{x:00}
+
+@455
+{z}No, asking you would be pointless. I'll go and pay my respects myself. After all, I'm the Governor's comrade-in-arms.{g}{x:00}
+
+@456
+{z}{f}{l:0001}Surely he doesn't mean to woo even the king's mother...{g}{x:00}
+
+@457
+{z}{f}{l:0000}Even for {a:0004}, that's too far...{g}{z}...Now I'm starting to worry.{g}{x:00}
+
+@460
+{z}{f}{l:0000}{s:0000}Come to think of it, the festival preparations are still suspended.{g}{x:00}
+
+@461
+{z}{f}{l:0001}{s:0001}Without {a:0094}, it must be hard for a young king to run the country alone.{g}{x:00}
+
+@462
+{z}{f}{l:0000}...In fact, I've been appointed the new Regent.{g}{x:00}
+
+@463
+{z}{f}{l:0001}What?! Is that true? {a:0000}, Regent of this country? That's wonderful! Truly wonderful!{g}{x:00}
+
+@464
+{z}{f}{l:0003}Congratulations...{w} {a:0000}, we're proud of you.{g}{z}But... should you be loitering here? There must be plenty to do.{g}{x:00}
+
+@465
+{z}{f}{l:0001}He came all this way specially to report to us!{g}{x:00}
+
+@466
+{z}{f}{l:0003}Is that so? Then fine. I'll carry on patrolling.{g}{x:00}
+
+@467
+{z}{f}{l:00e7}{a:0003} doesn't seem very pleased...{g}{x:00}
+
+@468
+{z}{f}{l:0000}No, {a:0003} is right. She truly thinks about this country.{g}{z}Next I'll recommend her for knighthood.{g}{x:00}
+
+@469
+{z}{f}{l:0001}That's a good idea! {a:0003} will surely be delighted.{g}{x:00}
+
+@470
+{z}{f}{l:0000}It isn't to please {a:0003}. It's because it will benefit this country.{g}{x:00}
+
+@471
+{z}{f}{l:0002}{s:0002}Oh... so here you are! Trouble!{g}{j:01d8}{x:00}
+
+@472
+{z}The word in town is that you've started a rebellion... This is bad.{g}{z}{f}{l:0001}No...{g}{x:00}
+
+@473
+{z}{f}{l:0001}Hey {a:0004}, {a:0000} has been chosen as the new Regent!{g}{x:00}
+
+@474
+{z}{f}{l:0004}Come on, you're joking?!{g}{z}{f}{l:0001}It's true!{g}{z}{f}{l:0004}Becoming a knight floored me enough, and now Regent?{g}{j:01db}{x:00}
+
+@475
+{z}I never knew you had such ambition.{g}{x:00}
+
+@476
+{z}{f}{l:0004}But a Regent's life is cramped. Always just helping the king...{g}{z}I wouldn't want it.{g}{x:00}
+
+@485
+{z}{f}{l:0003}{s:0003}{a:0000}, I'm still uneasy...{g}{z}Even if we pursue democratic government,{j:01e6}{x:00}
+
+@486
+ someone has to be at the centre, don't they? Who on earth...{g}{x:00}
+
+@487
+{z}{f}{l:0000}About that... I'm to be the new Consul.{g}{j:01e8}{x:00}
+
+@488
+{z}It's a heavy burden, but I must strive for a country where {a:009e} and the others can live in peace.{g}{x:00}
+
+@489
+{z}{f}{l:0000}I'll propose in the Council that {a:0003} be made a knight.{g}{x:00}
+
+@490
+{z}{f}{l:0004}Speaking of beauties, {a:0078} of the Heat Haze Knights was cheeky, but rather cute...{g}{j:01eb}{x:00}
+
+@491
+{z}I think I'll go and visit.{g}{x:00}
+
+@492
+{z}{f}{l:0001}Doesn't {a:0004} mind even if the girl is a child?{g}{x:00}
+
+@493
+{z}{f}{l:0000}She won't stay a child forever either...{g}{x:00}
+
+@500
+{z}{f}{l:0000}{s:0000}Right, I must restart the festival preparations...{g}{x:00}
+
+@501
+{z}{f}{l:0001}{s:0001}"Must restart"... You sound as if you're giving the orders.{g}{x:00}
+
+@502
+{z}{f}{l:0000}Yes, in fact I've become the first king.{g}{x:00}
+
+@503
+{z}{f}{l:0001}Really! That's wonderful!{g}{x:00}
+
+@504
+{z}{f}{l:0003}King?{w} So you've restored the monarchy...{g}{z}But {a:0000}, what do you intend to do with this country?{g}{x:00}
+
+@505
+{z}{f}{l:0000}I restored the monarchy to strengthen the government's authority again...{g}{x:00}
+
+@506
+{z}{f}{l:0000}But I intend to make this a country where the people never suffer, and no rebellion ever breaks out again.{g}{x:00}
+
+@507
+{z}{f}{l:0003}I see, then that's fine...{w} I'll go and patrol the city.{g}{x:00}
+
+@508
+{z}{f}{l:0001}Patrol? It's peaceful now, so she could just rest easy.{g}{x:00}
+
+@509
+{z}{f}{l:0003}I can't loiter forever.{g}{x:00}
+
+@510
+{z}{f}{l:00e7}{a:0003} doesn't look pleased...{w} Does she oppose restoring the monarchy?{g}{x:00}
+
+@511
+{z}{f}{l:0000}No... {a:0003} takes this country more seriously than anyone.{g}{z}As my first act, I'll make her a knight.{g}{x:00}
+
+@512
+{z}{f}{l:0001}That's a good idea! {a:0003} will make a fine knight!{g}{x:00}
+
+@513
+{z}{f}{l:0002}{s:0002}How does it feel, {a:0000}?{g}{x:00}
+
+@514
+{z}{f}{l:0001}{a:0002}... listen, {a:0000} has become king!{g}{x:00}
+
+@515
+{z}{f}{l:0002}Well, if that isn't...{w} Oh, never mind.{g}{x:00}
+
+@516
+{z}{f}{l:0001}Hey {a:0004}, {a:0000} has become the first king!{g}{x:00}
+
+@517
+{z}{f}{l:0004}What, really?! To rise that far...{g}{z}As king you could summon every cute girl in the land to your castle.{g}{x:00}
+
+@518
+{z}{f}{l:0004}But come to think of it, a king can't play around freely...{w} I wouldn't want it.{g}{x:00}
+
+@525
+{z}{f}{l:0003}{s:0003}{a:0000}, what will become of this country now?{g}{x:00}
+
+@526
+{z}{f}{l:0000}Prince {a:007e} will take the throne in a week and marry Lady {a:00a8}.{g}{j:020f}{x:00}
+
+@527
+{z}The prince said he would leave the White Whale Knights to me.{g}{z}So he won't lead the knights himself.{g}{x:00}
+
+@528
+{z}{f}{l:0000}Next I'll recommend {a:0003} for knighthood.{g}{x:00}
+
+@529
+{z}{f}{l:0004}Speaking of beauties, the prince's fiancee is supposed to be quite a beauty...{g}{z}Maybe I'll go and take a look.{g}{x:00}
+
+@531
+{z}{f}{l:0001}Surely he doesn't mean to woo Lady {a:00a8}?{g}{x:00}
+
+@532
+{z}{f}{l:0000}Even {a:0004} couldn't wedge himself between those two.{g}{x:00}
+
+@533
+{z}{f}{l:0001}I envy Lady {a:00a8}...{w} She can be with the one she loves forever...{g}{j:0216}{x:00}
+
+@534
+{z}But I'm happy now too. It's been so long since I was alone with {a:0000}...{g}{x:00}
+
+@535
+{z}{f}{l:0001}{a:0000}, thank you for protecting me all this time. And from now on, always...{g}{x:00}
+
+@538
+{z}{f}{l:0003}With the star of the enthronement gone, will they cancel the ceremony?{g}{x:00}
+
+@540
+{z}{f}{l:0000}{s:0000}No, {a:0097} will be enthroned as king, so the ceremony goes ahead as planned.{g}{x:00}
+
+@541
+{z}{f}{l:0003}Come to think of it, Lord {a:0097}'s soldiers were with Prince {a:007e} just now. What will become of the prince?{g}{z}{f}{l:0001}And the king and Lady {a:00a8}?{g}{x:00}
+
+@543
+{z}{f}{l:0000}Rest easy, all three were released...{w} They will probably live together somewhere far away.{g}{j:0220}{x:00}
+
+@544
+{z}The new king, Lord {a:0097}, swore never to move his troops for his own ends.{g}{x:00}
+
+@545
+{z}{f}{l:0003}As long as those three weren't harmed, that's enough...{g}{z}Then I'll carry on patrolling, just to be safe.{g}{x:00}
+
+@548
+{z}{f}{l:00e7}{a:0003} doesn't seem very pleased...{g}{x:00}
+
+@549
+{z}{f}{l:0000}No... {a:0003} takes this country more seriously than anyone.{g}{z}Next I'll recommend {a:0003} for knighthood.{g}{x:00}
+
+@550
+{z}{f}{l:0001}That's a good idea! {a:0003} will make a fine knight!{g}{x:00}
+
+@551
+{z}{f}{l:0002}{s:0002}I heard something nasty in town...{g}{j:0228}{x:00}
+
+@552
+{z}The rumour in town is that the Grand Duke started a rebellion and that we helped him... This is bad.{g}{x:00}
+
+@553
+{z}{f}{l:00e7}That's slander. We fought for the people...{g}{x:00}
+
+@554
+{z}{f}{l:0004}That girl who clung to the prince...{w} I wonder what she's doing now?{g}{z}{f}{l:0001}They say she was sent away with the king and the prince.{g}{x:00}
+
+@556
+{z}{f}{l:0004}Tch, I heard she was a beauty, but I never once met her.{g}{j:022d}{x:00}
+
+@557
+{z}If I'd had the chances {a:0000} had, I'd have stolen that girl's heart.{w} What a waste...{g}{x:00}
+
+@558
+{z}{f}{l:0004}Still, serving under that {a:0097} must be stifling.{g}{j:022f}{x:00}
+
+@559
+{z}He'll always be glaring at {a:0000}, I bet...{w} It won't be easy for him from now on, will it?{g}{x:00}
+
+@570
+{z}{f}{l:0003}{s:0003}{a:0000}...{g}{z}Now that Lady {a:0086} is gone, whom will the Queen ask to assist her?{g}{x:00}
+
+@571
+{z}{f}{l:0000}In fact, I've been chosen to succeed as Chief Advisor of State.{g}{z}And the Queen's mother has promised never to contend with the Queen again.{g}{x:00}
+
+@572
+{z}{f}{l:0003}Then I can rest easy. I'll go and look around.{g}{x:00}
+
+@573
+{z}{f}{l:0000}Wait a moment. I have one more piece of good news for {a:0003}.{g}{z}The Queen has said she will make {a:0003}{j:023e}{x:00}
+
+@574
+a knight.{g}{z}{f}{l:0003}That's...{w} is it really true?{g}{x:00}
+
+@575
+{z}{f}{l:0000}Yes, it's true. I'm sure she will hold the investiture before long.{g}{x:00}
+
+@576
+{z}{f}{l:0001}That's wonderful, congratulations!{g}{x:00}
+
+@577
+{z}{f}{l:0003}Thank you, {a:0001}...{g}{x:00}
+
+@578
+{z}{f}{l:0003}But until the ceremony, I must see to my present duties.{g}{x:00}
+
+@579
+{z}{f}{l:0001}She hurried off... She didn't want us to see her tears.{g}{x:00}
+
+@580
+{z}{f}{l:0004}Speaking of beauties, the Queen is a beauty, but her younger sister is supposed to be quite cute.{g}{j:0245}{x:00}
+
+@581
+{z}The Queen seemed a bit stiff, but the sister...{w} I think I'll go and have a look.{g}{x:00}
+
+@582
+{z}{f}{l:0001}{a:0004} never learns.{g}{x:00}
+
+@583
+{z}{f}{l:0000}But {a:0004} may not be quite Lady {a:00a9}'s ideal man.{g}{x:00}
+
+@590
+{z}{f}{l:0000}{s:0000}Ah, well...{g}{x:00}
+
+@591
+{z}{f}{l:0001}{a:0000}, what has become of the Queen?{g}{x:00}
+
+@592
+{z}{f}{l:0000}The Queen has abdicated, and her younger sister {a:00a9} has taken the throne.{g}{x:00}
+
+@593
+{z}{f}{l:0001}It feels a little sad...{g}{x:00}
+
+@594
+{z}{f}{l:0003}Was there no reward for you yourself?{g}{x:00}
+
+@595
+{z}{f}{l:0000}Well, with Lady {a:00a9}...{w} No, never mind.{g}{z}{f}{l:0003}I see... You didn't fight for a reward, after all.{g}{x:00}
+
+@596
+{z}{f}{l:0003}Then I'll go and patrol the city.{g}{x:00}
+
+@597
+{z}{f}{l:0001}Patrol? It's peaceful now, so she could just rest easy.{g}{x:00}
+
+@598
+{z}{f}{l:0003}There's no point loitering here, is there...{g}{x:00}
+
+@599
+{z}{f}{l:00e7}{a:0003} doesn't seem very pleased... Is it because we weren't recognised?{g}{x:00}
+
+@600
+{z}{f}{l:0000}No... {a:0003} takes this country more seriously than anyone.{g}{z}Next I'll recommend {a:0003} for knighthood.{g}{x:00}
+
+@601
+{z}{f}{l:0001}That's a good idea! {a:0003} will surely be delighted.{g}{x:00}
+
+@602
+{z}{f}{l:0002}{s:0002}I heard something rather troublesome in town...{g}{z}Apparently someone saw us letting pirates escape...{j:025b}{x:00}
+
+@603
+ It's all over town.{g}{z}And now news that the Queen's been replaced... There'll be uproar.{g}{x:00}
+
+@605
+{z}{f}{l:00e7}I see... They haven't been told why the Queen was replaced.{g}{x:00}
+
+@606
+{z}{f}{l:0001}Hey {a:0004}, have you heard yet? Lady {a:00a9} has been chosen as the next Queen!{g}{x:00}
+
+@607
+{z}{f}{l:0004}Huh, is that so... But I prefer the previous queen.{g}{j:0260}{x:00}
+
+@608
+{z}Without the crown she's just a woman... She must be lonely right now. If I'm going to strike, it's now...{g}{x:00}
+
+@609
+{z}{f}{l:0004}Wait a moment... Courting the former Queen sounds rather cramped.{g}{z}Maybe an ordinary girl suits me better after all?{g}{x:00}
+
+@614
+{z}{f}{l:0001}He's gone...{g}{x:00}
+
+@615
+{z}{f}{l:0001}Come on, let's go back to the castle, too! The new Queen is waiting for {a:0000}!{g}{x:00}
+
+@616
+{z}{f}{l:0000}{a:0001}...{g}{x:00}
+
+@620
+{z}{f}{l:0066}{s:0066}{a:0000}! So you're here. I've been looking for you.{g}{x:00}
+
+@621
+{z}{f}{l:0000}Lord {a:0066}...{w} Why have you come here?{g}{x:00}
+
+@622
+{z}{f}{l:0066}I came because there is something I must tell you...{g}{x:00}
+
+@623
+{z}{f}{l:0066}Rejoice. At last our Duchy of Saxen has unified the Ligurian continent!{g}{x:00}
+
+@624
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@625
+{z}{f}{l:0066}Thanks to {a:0000} and the others, we unified the land sooner than expected...{g}{j:0272}{x:00}
+
+@626
+{z}I thank you also for taking our side so many times before that.{g}{x:00}
+
+@627
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@628
+{z}{f}{l:0066}Another here wishes to thank you as well.{g}{x:00}
+
+@629
+{z}{f}{l:00a1}{s:00a1}So this is {a:0000}!{g}{z}I am {a:00a1}, King of the Duchy of Saxen. This is our first meeting, is it not?{g}{x:00}
+
+@630
+{z}{f}{l:0001}Even the King of Saxen?!{g}{x:00}
+
+@631
+{z}{f}{l:00a1}It was a pity when you declined knighthood...{g}{z}But you have fought well for the peace of the continent and the rise of Saxen.{g}{x:00}
+
+@632
+{z}{f}{l:0000}I helped Saxen because I wished to end the wars as soon as possible. I never wanted high rank.{g}{x:00}
+
+@633
+{z}{f}{l:00a1}Admirable...{w} {a:0000}, you are a true "Lone Mercenary"!{g}{z}I would like it known to later generations that such a man existed...{g}{x:00}
+
+@634
+{z}{f}{l:00a1}{a:0066}, at the castle, have our retainers write {a:0000}'s exploits into a tale.{g}{x:00}
+
+@635
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{x:00}
+
+@636
+{z}{f}{l:00a1}Then we shall leave your name out...{g}{x:00}
+
+@637
+{z}{f}{l:0066}What a bother you make of things...{w} Well then, we take our leave.{g}{x:00}
+
+@638
+{z}{f}{l:00a1}{a:0000}, should you ever wish for my help, do not hesitate to come to the castle.{g}{z}Now, I must take my leave. Until we meet again.{g}{x:00}
+
+@645
+{z}{f}{l:006e}{s:006e}{a:0000}!{g}{x:00}
+
+@646
+{z}{f}{l:0000}Lord {a:006e}...{w} How did you find this place?{g}{x:00}
+
+@647
+{z}{f}{l:006e}I've brought good news for you! Rejoice, the Kingdom of Grandcour has finally unified the continent!{g}{x:00}
+
+@648
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@649
+{z}{f}{l:006e}Thanks to your efforts, we unified the land sooner than expected.{g}{z}We are grateful for your help to Grandcour.{g}{x:00}
+
+@651
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@652
+{z}{f}{l:006e}Someone else has come too. Please, meet him.{g}{x:00}
+
+@653
+{z}{f}{l:00a4}{s:00a4}So you are {a:0000}? I've wanted to meet you for so long!{g}{x:00}
+
+@657
+{z}{f}{l:006e}{a:0000}, did you know? This is the King of Grandcour, His Majesty {a:00a4}.{g}{x:00}
+
+@659
+{z}{f}{l:0001}Even the King is here?!{g}{x:00}
+
+@660
+{z}{f}{l:00a4}I wanted you to become a knight, but...{g}{z}you fought well for Grandcour.{g}{x:00}
+
+@661
+{z}{f}{l:0000}I helped Grandcour because I wished to end the wars as soon as possible.{g}{j:0296}{x:00}
+
+@662
+{z}I never wished for high rank.{g}{x:00}
+
+@663
+{z}{f}{l:006e}Is that so...{w} You truly are a "Lone Mercenary"!{g}{x:00}
+
+@664
+{z}{f}{l:006e}Your Majesty, once we are back at the castle, why not have {a:0000}'s exploits compiled into a tale?{g}{x:00}
+
+@665
+{z}{f}{l:00a4}What a fine idea. Let's do it!{g}{x:00}
+
+@666
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{x:00}
+
+@667
+{z}{f}{l:006e}Then we shall leave your name out...{g}{x:00}
+
+@668
+{z}{f}{l:006e}Your Majesty, we should be getting back...{g}{x:00}
+
+@669
+{z}{f}{l:00a4}Well then, {a:0000}, I'm going back, but do come and visit the castle any time!{g}{x:00}
+
+@670
+{z}{f}{l:006e}Until we meet again!{g}{x:00}
+
+@675
+{z}{f}{l:0076}{s:0076}Found you at last, Sir {a:0000}!{g}{x:00}
+
+@676
+{z}{f}{l:0000}Lord {a:0076}...{w} How did you find this place?{g}{x:00}
+
+@677
+{z}{f}{l:0076}I have come to bring you good news...{w} Rejoice, our Republic of Estania has splendidly unified the continent!{g}{x:00}
+
+@678
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@679
+{z}{f}{l:0076}Indeed, and sooner than I had hoped...{g}{z}It is all thanks to you and your comrades. You have my heartfelt thanks.{g}{x:00}
+
+@680
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@681
+{z}{f}{l:0076}Another who wishes to thank you waits just over there.{g}{x:00}
+
+@682
+{z}{f}{l:0095}{s:0095}So you are {a:0000}!{g}{z}We have not met before. I am {a:0095}, Chairman of the Noble Council.{g}{x:00}
+
+@683
+{z}{f}{l:0001}Even the Chairman?!{g}{x:00}
+
+@684
+{z}{f}{l:0095}I was disappointed when I heard you would not become a knight...{g}{z}You have fought well for the peace of the continent and the rise of Estania.{j:02ad}{x:00}
+
+@685
+ I thank you for your cooperation.{g}{x:00}
+
+@686
+{z}{f}{l:0000}I helped Estania in order to end the wars as soon as possible.{g}{z}I never wished for high rank.{g}{x:00}
+
+@687
+{z}{f}{l:0095}Admirable! You are what one might call a "Lone Mercenary"...{g}{x:00}
+
+@688
+{z}{f}{l:0076}I would see your deeds passed down to posterity somehow...{g}{x:00}
+
+@689
+{z}{f}{l:0076}Chairman, why not have your men write {a:0000}'s exploits into a tale back at the castle?{g}{x:00}
+
+@690
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{x:00}
+
+@691
+{z}{f}{l:0095}Then we may as well leave your name out...{g}{x:00}
+
+@693
+{z}{f}{l:0095}Now then, we take our leave. Come to the castle if you need anything.{g}{x:00}
+
+@694
+{z}{f}{l:0076}I myself have long wished for a bout with you.{g}{z}Please do come to the castle...{w} Well then!{g}{x:00}
+
+@700
+{z}{f}{l:007e}{c:06}§ Young Man §{c:07}{n}Hey, are you the one called {a:0000}?{g}{x:00}
+
+@701
+{z}{f}{l:0000}I am, but who are you?{g}{z}{f}{l:007e}Oh, right, I forgot to introduce myself.{g}{x:00}
+
+@703
+{z}{f}{l:007e}I'm {a:007e}, prince of the Kingdom of Mylard. Just wanted to say a word of thanks.{g}{z}{f}{l:0001}Thanks?{g}{x:00}
+
+@705
+{z}{f}{l:007e}Be glad, my country has finally unified the continent!{g}{x:00}
+
+@706
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@707
+{z}{f}{l:007e}Yeah, and much sooner than expected... Thanks to you lot.{g}{x:00}
+
+@708
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@709
+{z}{f}{l:007e}Actually, my old man's here too...{w} He's slow, though.{g}{x:00}
+
+@710
+{z}{f}{l:00a7}{s:00a7}Phew, I've finally caught up...{w} {a:007e} is as fleet of foot as ever.{g}{x:00}
+
+@711
+{z}{f}{l:007e}Dad, I found {a:0000}.{g}{x:00}
+
+@712
+{z}{f}{l:00a7}Oh, so you are the one!{g}{z}I am {a:00a7}, King of the Kingdom of Mylard.{g}{x:00}
+
+@713
+{z}{f}{l:0001}Even the King is here?!{g}{x:00}
+
+@714
+{z}{f}{l:00a7}I was sad when I heard you would not become a knight...{g}{z}But for the peace of the continent and the rise of Mylard,{j:02cb}{x:00}
+
+@715
+ you have helped us well.{g}{x:00}
+
+@716
+{z}{f}{l:0000}I helped Mylard because I wished to end the wars as soon as possible.{g}{z}I never wished for high rank...{g}{x:00}
+
+@717
+{z}{f}{l:00a7}Admirable! You are a "Lone Mercenary", indeed.{g}{z}I would like to pass this down to posterity somehow...{g}{x:00}
+
+@718
+{z}{f}{l:00a7}{a:007e}, have you any good ideas?{g}{x:00}
+
+@719
+{z}{f}{l:007e}Dad, why not have the retainers write {a:0000}'s exploits into a tale?{g}{x:00}
+
+@720
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{x:00}
+
+@721
+{z}{f}{l:007e}Then we'll just leave your name out...{g}{x:00}
+
+@722
+{z}{f}{l:007e}Well then, Dad, shall we head back?{g}{x:00}
+
+@724
+{z}{f}{l:00a7}We're going back to the castle. Now that peace has come, do come and visit us some time.{g}{x:00}
+
+@725
+{z}{f}{l:007e}When you come, I'll introduce you to my lovely fiancee. See you!{g}{x:00}
+
+@730
+{z}{f}{l:0086}{s:0086}I've finally found you, {a:0000}.{g}{x:00}
+
+@731
+{z}{f}{l:0000}Oh, Lady {a:0086}...{w} Why are you here?{g}{x:00}
+
+@732
+{z}{f}{l:0086}I came to bring you good news...{w} My Kingdom of Fenrir has achieved the unification of the continent!{g}{x:00}
+
+@733
+{z}{f}{l:0001}Then the wars are finally over!{g}{x:00}
+
+@734
+{z}{f}{l:0086}To be honest, I did not think we could unify so quickly...{g}{z}Your efforts counted for a great deal. I am grateful.{g}{x:00}
+
+@736
+{z}{f}{l:0000}I'm glad I could be of use.{g}{x:00}
+
+@737
+{z}{f}{l:0086}Another here wishes to thank you as well.{g}{x:00}
+
+@738
+{z}{f}{l:0098}{s:0098}So you are {a:0000}...{g}{z}This is our first meeting.{j:02e3}{x:00}
+
+@739
+ I am {a:0098}, Queen of the Kingdom of Fenrir.{g}{x:00}
+
+@740
+{z}{f}{l:0001}The Queen, all the way out here?!{g}{x:00}
+
+@741
+{z}{f}{l:0098}I was very sorry when you declined the offer of a Fenrir knighthood...{g}{z}In any case, for the peace of the continent and{j:02e6}{x:00}
+
+@742
+ the rise of Fenrir, I thank you for all you have done.{g}{x:00}
+
+@743
+{z}{f}{l:0000}I helped Fenrir because I wished to end the wars as soon as possible. I never wanted high rank.{g}{x:00}
+
+@744
+{z}{f}{l:0098}I see...{w} So you are a "Lone Mercenary".{g}{j:02e9}{x:00}
+
+@745
+{z}I wish your deeds to be remembered...{w} Let us compile {a:0000}'s exploits into a tale.{g}{x:00}
+
+@746
+{z}{f}{l:0000}No, please! Not for one such as me...{g}{z}{f}{l:0098}Then we shall leave your name out...{g}{x:00}
+
+@749
+{z}{f}{l:0086}Your Majesty, shall we be going back?{g}{x:00}
+
+@750
+{z}{f}{l:0098}Do come and visit the castle some time. My mother and sister will be waiting with me.{g}{x:00}
+
+@751
+{z}{f}{l:0086}Then I shall take my leave as well.{g}{x:00}
+
+@760
+{z}{f}{l:0001}Wait for me, {a:0000}!{w}{w}{x:00}
+
+@761
+{z}{f}{l:0000}{a:0001}...{w} Are you following me all the way to the castle?{w}{w}{w}{z}Everyone there will tease us, saying "before they're even married..."{w}{w}{w}{x:00}
+
+@762
+{z}{f}{l:0001}Sorry, sorry. Then I'll see you off here.{w}{w}{w}{x:00}
+
+@763
+{z}{f}{l:0001}Leave the house to me. Do your best at work.{w}{w}{w}{x:00}
+
+@764
+{z}{f}{l:0000}All right, all right...{w}{w}{z}Go home now.{w}{w}{x:00}
+
+@765
+{z}{f}{l:0001}Hee hee, getting shy...{w}{w}{w}{x:00}
+
+@766
+{a:0000} spends his days busy{x:00}
+
+@767
+with affairs of state.{x:00}
+
+@768
+Meanwhile, Anastasia leaves{x:00}
+
+@769
+the knightly order and comes{x:00}
+
+@770
+to live with {a:0000}.{x:00}
+
+@771
+Living under the same roof{x:00}
+
+@772
+again, the two come to{x:00}
+
+@773
+realise how much the other{x:00}
+
+@774
+has grown since the old{x:00}
+
+@775
+days...{x:00}
+
+@780
+{z}{f}{l:0001}Wait a moment, {a:0000}!{w}{w}{x:00}
+
+@781
+{z}{f}{l:0000}{a:0001}...{w} We're almost at the castle... I'm busy today and have no time.{w}{w}{w}{z}Later...{w}{w}{x:00}
+
+@782
+{z}{f}{l:0001}It's always that... We hardly ever get to meet.{w}{w}{w}{x:00}
+
+@784
+{z}{f}{l:0000}Sorry... On my next day off I'll come and see you, I promise...{w}{w}{w}{x:00}
+
+@785
+{z}{f}{l:0001}Honestly...{w}{w}{x:00}
+
+@786
+{z}{f}{l:0001}I know you're not as free as you used to be, but...{w}{w}{w}{x:00}
+
+@787
+{z}{f}{l:0001}I was happier back when we all fought together...{w}{w}{w}{x:00}
+
+@788
+Anastasia leaves the order and{x:00}
+
+@789
+begins a new life in town.{x:00}
+
+@790
+Meanwhile, {a:0000}{x:00}
+
+@791
+spends his days busy with{x:00}
+
+@792
+affairs of state.{x:00}
+
+@793
+For the two, living apart,{x:00}
+
+@794
+happiness still seems to be{x:00}
+
+@795
+a long way off...{x:00}
+
+@800
+{z}{f}{l:0001}Wait for me, {a:0000}!{w}{w}{x:00}
+
+@801
+{z}{f}{l:0000}{a:0001}...{w} If you follow me to the castle, they'll tease us again.{w}{w}{w}{x:00}
+
+@802
+{z}{f}{l:0001}So what? Let them tease us.{w}{w}{w}{x:00}
+
+@803
+{z}{f}{l:0001}Hee hee... I'm happy, you see. I don't mind being teased.{w}{w}{w}{x:00}
+
+@804
+{z}{f}{l:0000}Well, I do mind...{w}{w}{z}Honestly... This is far enough, go home.{w}{w}{w}{x:00}
+
+@805
+{z}{f}{l:0001}Honestly... getting shy.{w}{w}{x:00}
+
+@806
+{z}{f}{l:0001}Hey, {a:0000}! Come home early!{w}{w}{w}{x:00}
+
+@807
+Now commanding the White{x:00}
+
+@808
+Whale Knights, {a:0000}{x:00}
+
+@809
+marries Anastasia and begins{x:00}
+
+@810
+life in a new mansion.{x:00}
+
+@811
+Having regained a peaceful{x:00}
+
+@812
+life, the two need nothing{x:00}
+
+@813
+more than this...{x:00}
+
+@815
+{z}{f}{l:0001}Wait for me, {a:0000}!{w}{w}{x:00}
+
+@816
+{z}{f}{l:0000}{a:0001}... I'm busy today, so another time.{w}{w}{w}{x:00}
+
+@817
+{z}{f}{l:0001}It's always that... When will I get to see you?{w}{w}{w}{x:00}
+
+@818
+{z}{f}{l:0000}...We may not be able to meet for a while.{w}{w}{w}{x:00}
+
+@819
+{z}{f}{l:0001}Are you really that busy?{w}{w}{x:00}
+
+@820
+{z}{f}{l:0000}Actually... I've decided to marry Lady {a:00a9}...{w}{w}{w}{x:00}
+
+@821
+Anastasia leaves the order and{x:00}
+
+@822
+lives apart from {a:0000}.{x:00}
+
+@823
+Yet on learning of the{x:00}
+
+@824
+wedding of {a:0000}{x:00}
+
+@825
+and Sophia,{x:00}
+
+@826
+she is said to have vanished{x:00}
+
+@827
+before anyone knew.{x:00}
+
+@828
+Married to the Queen,{x:00}
+
+@829
+{a:0000}, the most powerful{x:00}
+
+@830
+man in the land, was heavy{x:00}
+
+@831
+of heart...{x:00}
+
+@840
+{z}{f}{l:0001}It's finally finished! Our new home!{w}{w}{w}{x:00}
+
+@841
+{z}{f}{l:0000}Yes... I hope it never gets burned down again.{w}{w}{w}{x:00}
+
+@842
+{z}{f}{l:0001}You worry too much... A house this big, everyone will hear the rumours and come to visit, I'm sure.{w}{w}{w}{w}{z}{f}{l:0000}True.{j:034b}{x:00}
+
+@843
+ I'd like to see everyone again, but...{w}{w}{w}{x:00}
+
+@844
+{z}{f}{l:0000}Until then, the two of us can simply live happily.{w}{w}{w}{x:00}
+
+@845
+{z}{f}{l:0001}...Did you just say "the two of us"?{w}{w}{z}{a:0000}, that's the first time you've ever said such a thing.{w}{w}{w}{x:00}
+
+@846
+{z}{f}{l:0000}...Is it?{w}{w}{x:00}
+
+@847
+{z}{f}{l:0001}As for me... I don't need anyone to visit for a while!{w}{w}{w}{x:00}
+
+@848
+In the Papal Domain, the two{x:00}
+
+@849
+begin new lives as commoners.{x:00}
+
+@850
+Having come through the long{x:00}
+
+@851
+wars together, their bond{x:00}
+
+@852
+has grown stronger. With a{x:00}
+
+@853
+peaceful life regained, they{x:00}
+
+@854
+have nothing more to ask{x:00}
+
+@855
+for...{x:00}
+
+@860
+{z}{f}{l:00eb}In the end, he just wasn't captain material, that's all.{w}{w}{w}{x:00}
+
+@861
+{z}{f}{l:00ea}It was the one and only error of judgement Captain {a:0023} ever made.{w}{w}{w}{x:00}
+
+@862
+{z}{f}{l:0005}If you take no heed of those around you and just do whatever work suits the moment, life is easy enough.{w}{w}{w}{j:035f}{x:00}
+
+@863
+{z}But then you can accomplish nothing, nor win the trust of those around you.{w}{w}{w}{w}{x:00}
+
+@864
+{z}{f}{l:0005}So he could not bring about the peace that {a:0023} sought...{w}{w}{w}{z}{a:0023} cannot rest in peace...{w}{w}{w}{x:00}
+
+@865
+{z}{f}{l:0004}Let's stop talking about him. It makes me feel sick.{w}{w}{w}{x:00}
+
+@866
+{z}{f}{l:0003}Yes, let's forget about him...{w}{w}{w}{x:00}
+
+@867
+The three who left {a:0000}{x:00}
+
+@868
+were never heard of again.{x:00}
+
+@869
+No one knew their fate.{x:00}
+
+@870
+They changed their names,{x:00}
+
+@871
+cast off the past, and walked{x:00}
+
+@872
+the second life they sought,{x:00}
+
+@873
+we may suppose...{x:00}
+
+@880
+{z}{f}{l:00e7}{a:0000}...{w}{w}{x:00}
+
+@881
+{z}{f}{l:0002}{a:0001}... Pull yourself together!{w}{w}{z}It's me! Do you know me?{w}{w}{z}{f}{l:00e7}...{w}{w}{x:00}
+
+@883
+{z}{f}{l:0002}I can't just leave her like this... What should I do?{w}{w}{w}{x:00}
+
+@884
+{z}{f}{l:0001}{a:0002}, I have to get ready to fight... {a:0000} is waiting.{w}{w}{w}{x:00}
+
+@885
+{z}{f}{l:0002}...{w}{w}{z}{a:0001}... It's all right, it's all right now...{w}{w}{w}{z}We're not going into battle today... {a:0001}...{w}{w}{w}{x:00}
+
+@887
+{z}{f}{l:0001}{a:0000}...{w} Wait...{w} I'm...{w} coming...{w}{w}{w}{x:00}
+
+@888
+Anastasia fought to the limit{x:00}
+
+@889
+of her strength for{x:00}
+
+@890
+{a:0000}, and on the day the{x:00}
+
+@891
+three left she collapsed from{x:00}
+
+@892
+the strain. By the time her{x:00}
+
+@893
+fever broke, her mind had{x:00}
+
+@894
+already fled from reality. As{x:00}
+
+@895
+she chased a captain who{x:00}
+
+@896
+was not there and followed{x:00}
+
+@897
+voices no one could hear,{x:00}
+
+@898
+Ryuk was helpless...{x:00}
+
+@900
+{z}{f}{l:0000}...{w}{w}{z}Why...{w} It was everyone's responsibility...{w}{w}{w}{x:00}
+
+@901
+Having lost his place and{x:00}
+
+@902
+his friends, {a:0000} stood{x:00}
+
+@903
+there in a daze.{x:00}
+
+@904
+Why had his comrades left?{x:00}
+
+@905
+Did {a:0000}{x:00}
+
+@906
+ever understand...?{x:00}
+

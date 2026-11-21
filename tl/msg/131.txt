@@ -1,0 +1,330 @@
+@0
+{z}{s:0320}{a:006e}! {a:0000}! Why do you stand in my way?{g}{x:00}
+
+@1
+{z}I only want to remove those who use His young Majesty to seize the government for themselves.{g}{x:00}
+
+@2
+{z}{s:0320}...{g}{x:00}
+
+@3
+{z}{s:0320}If we cut down the Regent now, who will hold the country together?{g}{x:00}
+
+@4
+{z}Surely you don't think you could do it yourself!{g}{x:00}
+
+@5
+{z}{s:0320}I know I can't do it alone...{g}{x:00}
+
+@6
+{z}But if the three of us join forces... it is not impossible...{g}{x:00}
+
+@7
+{z}{s:0320}Heh... I wonder.{g}{x:00}
+
+@8
+{z}Even three rough soldiers like us could hardly govern better than the Regent...{g}{x:00}
+
+@9
+{z}{s:0320}{a:006e}...{w}{w} So you will never understand my reasons...{g}{x:00}
+
+@10
+{z}{s:0320}...{g}{x:00}
+
+@11
+{z}{s:0320}I see...{g}{x:00}
+
+@12
+{z}Then we are finished, you and I... I will defeat you, and {a:0094} too!{g}{x:00}
+
+@13
+{z}{s:0320}Then I will defeat you and put down the rebellion.{g}{x:00}
+
+@14
+{z}{s:0320}Very well...{g}{x:00}
+
+@15
+{z}I have long wanted to test myself against you...{g}{x:00}
+
+@16
+{z}Let us settle here which of us is the stronger!{g}{x:00}
+
+@17
+{z}{s:0320}Why are people of the same country fighting each other?{g}{x:00}
+
+@18
+{z}{s:0320}That man has disgraced every knight's honour! I can never forgive it!{g}{x:00}
+
+@19
+{z}{s:0320}Killing each other over something like honour...{g}{x:00}
+
+@20
+{z}{s:0320}Ya-{w}a-{w}awn...{w}{w}{w} I've finally arrived...{g}{x:00}
+
+@21
+{z}It seems it has already begun...{g}{x:00}
+
+@22
+{z}{s:0320}You've come, {a:0071}! Strike the enemy from behind!{g}{x:00}
+
+@23
+{z}{s:0320}Yes! Leave it to me!{g}{x:00}
+
+@24
+{z}Enemy morale rose.{g}{x:00}
+
+@25
+{z}{s:0320}Damn! They're pincering us!{g}{x:00}
+
+@26
+{z}{s:0320}Reinforcements...{g}{x:00}
+
+@27
+{z}So {a:0071}, the Sleeping Beauty, makes her entrance... I did notice she was missing...{g}{x:00}
+
+@28
+{z}{s:0320}Reinforcements, eh... No wonder there were so few of them.{g}{x:00}
+
+@29
+{z}{s:0320}Reinforcements, hm...{g}{x:00}
+
+@30
+{z}Everyone! Take care that they don't catch us in a pincer!{g}{x:00}
+
+@31
+{z}{s:0320}Enemy reinforcements? It must be Lady {a:0071}...{g}{x:00}
+
+@32
+{z}{s:0320}We are so close to peace returning to the world.{g}{x:00}
+
+@33
+{z}Until then, we have to keep fighting!{g}{x:00}
+
+@34
+{z}{s:0320}This may be the last battle... Let me run wild while I can!{g}{x:00}
+
+@35
+{z}{s:0320}This battle decides the future of Grandcour,{w}{w} and the whole continent!{g}{x:00}
+
+@36
+{z}I can't afford to lose!{g}{x:00}
+
+@37
+{z}{s:0320}I thought things would get easier now the fighting is nearly over...{g}{x:00}
+
+@38
+{z}{s:0320}I do hope this will be the last battle...{g}{x:00}
+
+@39
+{z}{s:0320}To think comrades must shed each other's blood at the very end...{g}{x:00}
+
+@40
+{z}{s:0320}You think of nothing but yourself!{g}{x:00}
+
+@41
+{z}{s:0320}Doesn't it gall you that {a:0094} runs the country as he pleases?{g}{x:00}
+
+@42
+{z}{s:0320}I can't doze off today...{w}{w} Attack!{g}{x:00}
+
+@43
+{z}{s:0320}I can't go on...{w}{w} I'm retreating. Good luck...{w}{w} {a:0000}!{g}{x:00}
+
+@44
+{z}{s:0320}Argh... Is this all I am? Am I still not strong enough?{g}{x:00}
+
+@45
+{z}{s:0320}To retreat in such an important battle...{g}{x:00}
+
+@46
+{z}{s:0320}Damn...{w}{w} My company, wiped out...{g}{x:00}
+
+@47
+{z}{s:0320}Forgive me...{w}{w} {a:0000}. This is as far as I go.{g}{x:00}
+
+@48
+{z}{s:0320}{a:0070} lives up to his name...{w}{w} He's good...{g}{x:00}
+
+@49
+{z}{a:0000}! Forgive me, but I am retreating. The rest is up to you!{g}{x:00}
+
+@50
+{z}{s:0320}Damn...{w}{w} Beaten by a traitor...{g}{x:00}
+
+@51
+{z}{s:0320}Heh... So I lose...{g}{x:00}
+
+@52
+{z}Against the two finest knights of the age at once, I could hardly hope to win...{w}{w} could I...{g}{x:00}
+
+@53
+{z}{s:0320}Argh... Impressive... To think you've done this to my troops...{g}{x:00}
+
+@54
+{z}{s:0320}{a:0071}!{g}{x:00}
+
+@55
+{z}{s:0320}Ah...{w}{w} Now I can finally sleep as much as I like...{w}{w} can't I...{g}{x:00}
+
+@56
+{z}{s:0320}Argh...{w}{w} {a:0071}...{w}{w} Rest in peace...{g}{x:00}
+
+@57
+{z}{s:0320}Lord {a:0070}!{g}{x:00}
+
+@58
+{z}All units...{w}{w} retreat...{g}{x:00}
+
+@59
+{z}{s:0320}Lord {a:0070} has fallen! We have no choice but to retreat...{g}{x:00}
+
+@60
+{z}{s:0320}{a:0000}, is it? So the time has come to fight you too...{g}{x:00}
+
+@61
+{z}{s:0320}Lord {a:0070}! Please pull back your troops!{g}{x:00}
+
+@62
+{z}{s:0320}It is you who should pull back...{g}{x:00}
+
+@63
+{z}If we of the knightly class wound one another, only that man gains!{g}{x:00}
+
+@64
+{z}{s:0320}The Regent puts the country first.{g}{x:00}
+
+@65
+{z}So there may be times when the knights' authority suffers...{g}{x:00}
+
+@66
+{z}{s:0320}Argh...{w}{w} How can a man like you not see it... Led astray by {a:0094}...{g}{x:00}
+
+@67
+{z}Very well! I will wake you up!{g}{x:00}
+
+@68
+{z}{s:0320}So I have no choice but to defeat you...{g}{x:00}
+
+@69
+{z}{s:0320}A little girl like you? As if you could!{w} Out of my way!{g}{x:00}
+
+@70
+{z}{s:0320}Don't get in my way! I'll cut down anyone who does!{g}{x:00}
+
+@71
+{z}{s:0320}What you do with {a:0094} is none of my business!{g}{x:00}
+
+@72
+{z}But since I'm fighting you, I won't lose. My pride is at stake!{g}{x:00}
+
+@73
+{z}{s:0320}Heh...{w} Interesting...{g}{x:00}
+
+@74
+{z}Show me what your pride is worth!{g}{x:00}
+
+@75
+{z}{s:0320}Lord {a:0070}... Whatever your reasons, you are a traitor...{g}{x:00}
+
+@76
+{z}For the sake of Grandcour, I must strike you down.{g}{x:00}
+
+@77
+{z}{s:0320}Hmph...{w}{w} You dare call me a traitor!{g}{x:00}
+
+@78
+{z}If you truly care for the country, it is {a:0094} who should be struck down!{g}{x:00}
+
+@79
+{z}{s:0320}It is not only my own grudge that drives me against {a:0094}.{g}{x:00}
+
+@80
+{z}I want to ease the knights' growing discontent!{g}{x:00}
+
+@81
+{z}{s:0320}It's the same thing. The country is falling to ruin!{g}{x:00}
+
+@82
+{z}It's always the weak common folk who suffer in war.{g}{x:00}
+
+@83
+{z}{s:0320}Argh...{g}{x:00}
+
+@84
+{z}{s:0320}Lord {a:0070}...{g}{x:00}
+
+@85
+{z}I cannot think the Regent has erred so gravely...{g}{x:00}
+
+@86
+{z}{s:0320}Even a man of your experience can't see through {a:0094}...{g}{x:00}
+
+@87
+{z}How much we knights have suffered because of {a:0094}...{w}{w} no newcomer could understand!{g}{x:00}
+
+@88
+{z}{s:0320}{a:006e}! Let us settle this!{g}{x:00}
+
+@89
+{z}{s:0320}I won't hold back!{g}{x:00}
+
+@90
+{z}{s:0320}Heh... I would expect no less...{g}{x:00}
+
+@91
+{z}{s:0320}You're good...{w}{w} {a:006e} lives up to his name...{g}{x:00}
+
+@92
+{z}{s:0320}{a:0070}... {w}{w}You too{w} ...{w} ...{g}{x:00}
+
+@93
+{z}{s:0320}Traitor! Prepare yourself!{g}{x:00}
+
+@94
+{z}{s:0320}I won't be called a traitor by a greenhorn like you!{g}{x:00}
+
+@95
+{z}{s:0320}{a:0070}... You must have been in a difficult position too...{g}{x:00}
+
+@96
+{z}{s:0320}Lord Regent...{g}{x:00}
+
+@97
+{z}{s:0320}Though it was to put down a rebellion, it was a fight among former comrades...{g}{x:00}
+
+@98
+{z}It must have been very hard for you.{g}{x:00}
+
+@99
+{z}{s:0320}...{g}{x:00}
+
+@100
+{z}{s:0320}But your mission is not over yet...{g}{x:00}
+
+@101
+{z}We must report our victory to His Majesty in the castle.{g}{x:00}
+
+@102
+{z}{s:0320}...{g}{x:00}
+
+@103
+{z}{s:0320}{a:0000}...{w}{w} Let's go. The King must be waiting for us...{g}{x:00}
+
+@104
+{z}{s:0320}{a:0000}...{w}{w} Let's go. The King must be waiting for us...{g}{x:00}
+
+@105
+{z}{s:0320}Let's go, {a:0000}... His Majesty is waiting.{g}{x:00}
+
+@106
+{z}{s:0320}Our mission isn't done until we report to His Majesty...{g}{x:00}
+
+@107
+{z}{s:0320}Our mission isn't done until we report to His Majesty.{g}{x:00}
+
+@108
+{z}{s:0320}...{g}{x:00}
+
+@109
+{z}Let's go...{w}{w} {a:0000}... We must report this victory to His Majesty.{g}{x:00}
+

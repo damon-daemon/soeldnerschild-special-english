@@ -1,0 +1,564 @@
+@0
+{z}{s:0320}So you are {a:0000}! Your fame has reached even Mylard...{g}{x:00}
+
+@1
+{z}{s:0320}The battle is already decided...{g}{x:00}
+
+@2
+{z}If you care for the people of Mylard, avoid this pointless fight and consider surrender!{g}{x:00}
+
+@3
+{z}{s:0320}What nonsense...{g}{x:00}
+
+@4
+{z}{s:0320}Let them talk!{g}{x:00}
+
+@5
+{z}{a:00a8}... and Mylard. I fight to protect them...{g}{x:00}
+
+@6
+{z}Never in my life has a battle been so worth fighting...{g}{x:00}
+
+@7
+{z}At last I can unleash my true strength!{g}{x:00}
+
+@8
+{z}Forward! {a:007f}! {a:0080}!{g}{x:00}
+
+@9
+{z}{s:0320}Yes!{g}{x:00}
+
+@10
+{z}{s:0320}They are attacking... They won't listen to reason...{g}{x:00}
+
+@11
+{z}{s:0320}They have their pride too...{g}{x:00}
+
+@12
+{z}{s:0320}It's only natural, really... We have no choice but to fight...{g}{x:00}
+
+@13
+{z}{s:0320}Beware of Prince {a:007e}! He's the finest swordsman in Mylard!{g}{x:00}
+
+@14
+{z}{s:0320}Even if this battle costs me my life...{g}{x:00}
+
+@15
+{z}If I can die for the one I love and for my country, I have no regrets...{g}{x:00}
+
+@16
+{z}{s:0320}...{w}{w} Your Highness...{g}{x:00}
+
+@17
+{z}I feel the same... I too shall fight for the one I love, until my life is spent!{g}{x:00}
+
+@18
+{z}{s:0320}Heh... So you came this way after all!{g}{x:00}
+
+@19
+{z}{s:0320}We've been waiting! You shall go no further!{g}{x:00}
+
+@20
+{z}{s:0320}We won't let you reach the Prince!{g}{x:00}
+
+@21
+{z}{s:0320}Uncle... Even you are going into battle?{g}{x:00}
+
+@22
+{z}{s:0320}Because of a wilful prince, the country may fall...{g}{x:00}
+
+@23
+{z}For my own future as well... I shall do as I please here...{g}{x:00}
+
+@24
+{z}{s:0320}Uncle... I am sorry...{g}{x:00}
+
+@25
+{z}{s:0320}Is that Grand Duke Ethelbald? I heard he was on bad terms with the Prince...{g}{x:00}
+
+@26
+{z}Perhaps they called a truce, with all of Mylard in danger...{g}{x:00}
+
+@27
+{z}{s:0320}Reinforcements, is it...{g}{x:00}
+
+@28
+{z}How many soldiers does Mylard still have left, I wonder...{g}{x:00}
+
+@29
+{z}{s:0320}More reinforcements?{w}{w} They guard their homeland well, all right!{g}{x:00}
+
+@30
+{z}{s:0320}Reinforcements... They don't seem to get along, though...{g}{x:00}
+
+@31
+{z}{s:0320}The Grand Duke's reinforcements... No easy fight, this...{g}{x:00}
+
+@32
+{z}{s:0320}For the country I love... and for the one I love...{g}{x:00}
+
+@33
+{z}I will fight... with my life on the line!{g}{x:00}
+
+@34
+{z}{a:0000} of {p:01}... I challenge you to a duel.{g}{x:00}
+
+@35
+{z}{s:0320}Your Highness... You must win...{g}{x:00}
+
+@36
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@37
+{z}{s:0320}Prince {a:007e} is the best swordsman in Mylard... Don't lose, {a:0000}...{g}{x:00}
+
+@38
+{z}{s:0320}The Prince is strong, true, but you've grown even stronger!{g}{x:00}
+
+@39
+{z}Have confidence, {a:0000}!{g}{x:00}
+
+@40
+{z}{s:0320}I'm leaving {a:007e} to you!{g}{x:00}
+
+@41
+{z}Don't you die in a place like this!{g}{x:00}
+
+@42
+{z}{s:0320}{a:0000} has become one of the five finest fighters on the continent...{g}{x:00}
+
+@43
+{z}Even against Prince {a:007e}, you should be able to hold your own...{g}{x:00}
+
+@44
+{z}{s:0320}{a:0000}! Lost your nerve?!{g}{x:00}
+
+@45
+{z}If you won't do it, I'll take down {a:007e} myself!{g}{x:00}
+
+@46
+{z}{s:0320}Well, given the opponent... I can understand wanting to refuse...{g}{x:00}
+
+@47
+{z}{s:0320}{a:0000}, why are you refusing...?{g}{x:00}
+
+@48
+{z}Prince {a:007e} challenged you to a duel on his honour...{g}{x:00}
+
+@49
+{z}{s:0320}{a:0000}, why are you refusing?!{g}{x:00}
+
+@50
+{z}{s:0320}...{g}{x:00}
+
+@51
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@52
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@53
+{z}Must we really fight? Can't we settle this by talking?{g}{x:00}
+
+@54
+{z}{s:0320}It was you who invaded us!{g}{x:00}
+
+@55
+{z}Talk, now? {w}Do you think I'd believe such words?!{g}{x:00}
+
+@56
+{z}{s:0320}You're known far and wide as a wilful prince!{g}{x:00}
+
+@57
+{z}We're both wilful, then... Let's settle this cleanly!{g}{x:00}
+
+@58
+{z}{s:0320}Heh... I think we'd get along...{g}{x:00}
+
+@59
+{z}A pity we must fight!{g}{x:00}
+
+@60
+{z}With a man like you, fighting will bring us closer than talking ever could...{g}{x:00}
+
+@61
+{z}{s:0320}Yes... exactly so... Let's go!{g}{x:00}
+
+@62
+{z}{s:0320}Come!{g}{x:00}
+
+@63
+{z}{s:0320}I understand how you value your country's honour...{g}{x:00}
+
+@64
+{z}But if you truly care for the people of Mylard, I beg you to surrender!{g}{x:00}
+
+@65
+{z}{s:0320}...{g}{x:00}
+
+@66
+{z}Imagine your own country being destroyed!{g}{x:00}
+
+@67
+{z}How can I call myself a prince if I abandon the people who trust me!{g}{x:00}
+
+@68
+{z}{s:0320}To restore peace to the continent, it must be united under one country...{g}{x:00}
+
+@69
+{z}{s:0320}Then we shall defeat you, and let our country take that role!{g}{x:00}
+
+@70
+{z}{s:0320}No offence to Mylard, but the task should fall to {p:01}.{g}{x:00}
+
+@71
+{z}It's the quickest road to peace...{g}{x:00}
+
+@72
+{z}{s:0320}So you are Prince {a:007e}...{g}{x:00}
+
+@73
+{z}{s:0320}I am!{g}{x:00}
+
+@74
+{z}{s:0320}The people of the whole continent long for peace...{g}{x:00}
+
+@75
+{z}What good will it do Mylard to keep resisting?{w} Please, surrender...{g}{x:00}
+
+@76
+{z}{s:0320}Heh...{g}{x:00}
+
+@77
+{z}If we surrender to you, is there any guarantee the people of Mylard will live in peace?{g}{x:00}
+
+@78
+{z}Who, then, will protect the people of Mylard?!{g}{x:00}
+
+@79
+{z}Sharing my people's fate to the very end... that is the duty of one born to a royal house!{g}{x:00}
+
+@80
+{z}{s:0320}...{g}{x:00}
+
+@81
+{z}If I can die for the Prince and for Mylard, I have nothing left to regret...{g}{x:00}
+
+@82
+{z}I am {a:0080} of the Wave Fang Knights! Sir {a:0000}, face me!{g}{x:00}
+
+@83
+{z}{s:0320}{a:0080} of the Wave Fang Knights! I, {a:0002}, challenge you!{g}{x:00}
+
+@84
+{z}{s:0320}Heh heh... Interesting!{g}{x:00}
+
+@85
+{z}I had quite forgotten what it is to compete in pure strength...{g}{x:00}
+
+@86
+{z}I'll give it everything I have!{g}{x:00}
+
+@87
+{z}{s:0320}Bring it on!{w}{w} Here I come!{g}{x:00}
+
+@88
+{z}{s:0320}Lady {a:0080}...{g}{x:00}
+
+@89
+{z}It is a great pity that I must fight a knight as fine as you...{g}{x:00}
+
+@90
+{z}{s:0320}So it must be...{w} Such is war...{g}{x:00}
+
+@91
+{z}{s:0320}If we both survive the war...{g}{x:00}
+
+@92
+{z}I should like to meet you someday and talk at leisure...{g}{x:00}
+
+@93
+{z}{s:0320}...{g}{x:00}
+
+@94
+{z}I only hope such a peaceful day comes again...{g}{x:00}
+
+@95
+{z}Now then...{w} here I come!{g}{x:00}
+
+@96
+{z}{s:0320}So you're {a:0080}... I've heard plenty about you...{g}{x:00}
+
+@97
+{z}{s:0320}That is an honour... But who are you?{g}{x:00}
+
+@98
+{z}{s:0320}I'm {a:0004}... Don't let my looks fool you, I'm a fine fighter.{g}{x:00}
+
+@99
+{z}{s:0320}I dislike men who talk big without the strength to back it up...{g}{x:00}
+
+@100
+{z}{s:0320}Then why not take my measure yourself?{g}{x:00}
+
+@101
+{z}{s:0320}Mylard is about to fall... Do you mean to share its fate?{g}{x:00}
+
+@102
+{z}{s:0320}I'm only a common soldier. I don't understand politics...{g}{x:00}
+
+@103
+{z}I merely follow orders as Lady {a:0080}'s subordinate... Now then,{w} fight me!{g}{x:00}
+
+@104
+{z}{s:0320}You seem to favour {p:01}...{g}{x:00}
+
+@105
+{z}What made you choose to serve {p:01}?{g}{x:00}
+
+@106
+{z}What difference is there between {p:01} and Mylard...{g}{x:00}
+
+@107
+{z}{s:0320}Old man! Sorry, but I'm taking you down...{g}{x:00}
+
+@108
+{z}{s:0320}I won't be beaten by a whelp like you!{g}{x:00}
+
+@109
+{z}{s:0320}Ha! Quit acting tough!{g}{x:00}
+
+@110
+{z}{s:0320}Grand Duke...{g}{x:00}
+
+@111
+{z}If you and Prince {a:007e} had joined forces, Mylard would never have been driven this far...{g}{x:00}
+
+@112
+{z}{s:0320}You are right...{g}{x:00}
+
+@113
+{z}Though it is too late to say so now...{g}{x:00}
+
+@114
+{z}{s:0320}Don't hold it against us... It's to bring peace to the continent...{g}{x:00}
+
+@115
+{z}{s:0320}If they'd just surrendered quietly, we wouldn't have had to fight!{g}{x:00}
+
+@116
+{z}{s:0320}The enemy will come ready to throw their lives away for their country!{g}{x:00}
+
+@117
+{z}We must fight just as desperately, so we don't lose in spirit!{g}{x:00}
+
+@118
+{z}{s:0320}So we are the ones to destroy a country...{w} huh...{g}{x:00}
+
+@119
+{z}That's the price of unifying the continent...{g}{x:00}
+
+@120
+{z}{s:0320}We bear the shame of destroying Mylard...{g}{x:00}
+
+@121
+{z}If peace comes to the continent, that is a small price to pay...{g}{x:00}
+
+@122
+{z}{s:0320}We will win...{g}{x:00}
+
+@123
+{z}I never want to see {a:00a8}'s lovely face wet with tears...{g}{x:00}
+
+@124
+{z}Let's go!{g}{x:00}
+
+@125
+{z}{s:0320}Protecting the Prince is my duty...{g}{x:00}
+
+@126
+{z}I must fulfil that duty even at the cost of my life...{g}{x:00}
+
+@127
+{z}{s:0320}You killed the Prince... I won't forgive you...{g}{x:00}
+
+@128
+{z}{s:0320}This country is ours! We won't hand it over to another nation!{g}{x:00}
+
+@129
+{z}{s:0320}Defend your homeland! Fight with all you have! Is that clear?{g}{x:00}
+
+@130
+{z}{s:0320}Eek! That's it...{w} I'm retreating!{g}{x:00}
+
+@131
+{z}{s:0320}I thought I'd grown stronger, too...{g}{x:00}
+
+@132
+{z}{s:0320}Foes with nothing to lose are formidable... We have no choice but to withdraw...{g}{x:00}
+
+@133
+{z}{s:0320}The capital's defences are tough, all right... Be careful, {a:0000}...{g}{x:00}
+
+@134
+{z}{s:0320}For the sake of Mylard's people, end this war quickly...{g}{x:00}
+
+@135
+{z}{s:0320}Your Highness... Please,{w} protect Mylard...{w}{w} without fail...{g}{x:00}
+
+@136
+{z}{s:0320}{a:0080}!{g}{x:00}
+
+@137
+{z}...{w}{w} Curse you, {p:01}...{g}{x:00}
+
+@138
+{z}{s:0320}Your Highness... I am sorry...{g}{x:00}
+
+@139
+{z}{s:0320}Heh... So this is the end...{g}{x:00}
+
+@140
+{z}{s:0320}Hmph... Indeed, our country is finished...{g}{x:00}
+
+@141
+{z}But...{w} I will say this... Even if you unite the continent by force... an age of division{w}{w} will surely come again...{g}{x:00}
+
+@142
+{z}{s:0320}Uncle...{g}{x:00}
+
+@143
+{z}{s:0320}Your Highness!!{g}{x:00}
+
+@144
+{z}{s:0320}{a:00a8}...{g}{x:00}
+
+@145
+{z}Even if I die...{w} don't grieve...{w} Be happy...{g}{x:00}
+
+@146
+{z}{s:0320}Prince {a:007e}...{g}{x:00}
+
+@147
+{z}{s:0320}...{g}{x:00}
+
+@148
+{z}{s:0320}Your Highness...{w} forgive me...{w}{w} I could not protect you{w} to the end...{g}{x:00}
+
+@149
+{z}{s:0320}{a:007f}!!{g}{x:00}
+
+@150
+{z}{s:0320}...{g}{x:00}
+
+@151
+{z}{a:007f}...{w}{w} Rest in peace...{g}{x:00}
+
+@152
+{z}{s:0320}To the Prince...{w} I go.{g}{x:00}
+
+@153
+{z}{s:0320}How could this happen...{g}{x:00}
+
+@154
+{z}The Prince, the Grand Duke, even Lady {a:0080}, all cut down...{g}{x:00}
+
+@155
+{z}Mylard is finished... Curse you, {p:01}... I will never forget this grudge...{g}{x:00}
+
+@156
+{z}{s:0320}Prince {a:007e} thought of {a:00a8} to the very end...{g}{x:00}
+
+@157
+{z}Unifying the continent or not, we killed the man she loved... She's sure to hate us...{g}{x:00}
+
+@158
+{z}If it were me... I surely would...{g}{x:00}
+
+@159
+{z}{a:0000}... I'm glad you survived...{g}{x:00}
+
+@160
+{z}{s:0320}...{g}{x:00}
+
+@161
+{z}{s:0320}Prince {a:007e}...{g}{x:00}
+
+@162
+{z}Staking his life for the woman he loved, and dying for her...{g}{x:00}
+
+@163
+{z}For a man, that's the finest death there is... He went out in style...{g}{x:00}
+
+@164
+{z}{s:0320}...{g}{x:00}
+
+@165
+{z}{s:0320}Phew... It's over...{g}{x:00}
+
+@166
+{z}The people of Mylard, whose royal house we destroyed,{w} must surely hate us...{g}{x:00}
+
+@167
+{z}{s:0320}...{g}{x:00}
+
+@168
+{z}{s:0320}...{w}{w} We destroyed Mylard, didn't we...{g}{x:00}
+
+@169
+{z}Will the children who lost their parents in this battle hate us, I wonder... As we hated {a:0028}...{g}{x:00}
+
+@170
+{z}{s:0320}...{g}{x:00}
+
+@171
+{z}{s:0320}...{g}{x:00}
+
+@172
+{z}It is always sad to watch a country fall...{g}{x:00}
+
+@173
+{z}{s:0320}...{g}{x:00}
+
+@174
+{z}{s:0320}To unite the continent, I will stake my life!{g}{x:00}
+
+@175
+{z}{s:0320}Prince {a:007e}! Here I come!{g}{x:00}
+
+@176
+{z}{s:0320}Here I'll defeat you{w} and defend {a:00a8} and my homeland!{g}{x:00}
+
+@177
+{z}{s:0320}Let's go!{w} Buster Sword!{g}{x:00}
+
+@178
+{z}{s:0320}Ray-{w}Blade!{g}{x:00}
+
+@179
+{z}{s:0320}Take this!{w}{w} Over-{w}drive!{g}{x:00}
+
+@180
+{z}{s:0320}Prince {a:007e} lives up to his name... At this rate{w} I'll be beaten...{g}{x:00}
+
+@181
+{z}{s:0320}Not yet!{w}{g}{x:00}
+
+@182
+{z}For Mylard... and for {a:00a8}... I cannot afford to lose!{g}{x:00}
+
+@183
+{z}{s:0320}Your Highness!{w} Prepare yourself!{g}{x:00}
+
+@184
+{z}{s:0320}Finish him, {a:0000}!{g}{x:00}
+
+@185
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@186
+{z}{s:0320}I'm glad...{g}{x:00}
+
+@187
+{z}Had the Prince listened to my counsel, the country would never have been driven this far...{g}{x:00}
+

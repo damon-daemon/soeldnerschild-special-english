@@ -1,0 +1,882 @@
+@0
+{z}{f}{l:005e}{s:005e}Your Majesty the Emperor! I have brought {a:0000}!{g}{x:00}
+
+@1
+{z}{f}{l:0000}{s:0000}I am {a:0000}. It is an honour to be granted an audience.{g}{x:00}
+
+@2
+{z}{f}{l:0090}{s:0090}So you are {a:0000}...{w} I am the Emperor, {a:0090}.{g}{x:00}
+
+@3
+{z}{f}{l:0090}Your aid to our nation has been great indeed. In recognition of your service, I appoint you a knight of the Holy Empire.{g}{j:0004}{x:00}
+
+@4
+{z}Under me, you shall fight to unite the continent!{g}{z}{f}{l:0000}It is a great honour.{g}{x:00}
+
+@5
+{z}{f}{l:0090}Good. Now I shall introduce the two vassals who serve as my right hands.{g}{x:00}
+
+@6
+{z}{f}{l:0090}You may know them already: {a:0091}, my Chancellor, and {a:005e}, the Vice-Chancellor.{g}{x:00}
+
+@7
+{z}{f}{l:005e}Let us fight together without sparing our lives!{g}{x:00}
+
+@8
+{z}{f}{l:0091}{s:0091}You are the man who once came to my manor. To think you would rise so high...{g}{x:00}
+
+@9
+{z}{f}{l:0091}{s:0091}I am {a:0091}, the Chancellor.{g}{x:00}
+
+@10
+{z}{f}{l:0091}I do not go to the battlefield myself, but for that I am entrusted with all domestic affairs.{g}{x:00}
+
+@11
+{z}{f}{l:0090}{a:0000}, from this moment you too may enter the audience chamber.{g}{z}You may also command those who were your subordinates until now.{g}{x:00}
+
+@12
+{z}{f}{l:0090}Yes, we need a name for the new order of knights...{g}{x:00}
+
+@13
+{z}{f}{l:005e}Your Majesty, how about the "Spring Thunder Knights"?{g}{x:00}
+
+@14
+{z}{f}{l:0090}Hm, youthful, and it suits {a:0000}...{w} Good, I name them the "Spring Thunder Knights"!{g}{j:000f}{x:00}
+
+@15
+{z}From now on you need not wander the continent. You may live in comfort here in Plauen.{g}{x:00}
+
+@16
+{z}{f}{l:0000}I am grateful for your consideration.{g}{x:00}
+
+@17
+{z}{f}{l:005e}From a mere mercenary to leading a knightly order...{w} An unprecedented rise.{g}{x:00}
+
+@18
+{z}{f}{l:0091}The world sees mercenaries and knights differently. Mind your conduct.{g}{x:00}
+
+@19
+{z}{f}{l:0090}Now then, for the victory and glory of Rana, you shall begin serving this very month.{g}{j:0014}{x:00}
+
+@20
+{z}I command you to break through the enemy's defensive line. A fitting first battle.{g}{x:00}
+
+@21
+{z}{f}{l:0090}Just in case, I have called for mercenaries at the Guild. With luck, some company will rush to your aid.{g}{j:0016}{x:00}
+
+@22
+{z}Now, I give you gold and soldiers. Use them as you see fit!{g}{x:00}
+
+@23
+{z}Berserker x50{n}Tercio x50{n}You received 20000 G.{g}{x:00}
+
+@24
+{z}{f}{l:005e}{a:0000}, prepare in town as you have always done. Come back here when that is done.{g}{x:00}
+
+@30
+{z}{f}{l:005e}{s:005e}Are you ready? Report to His Majesty the Emperor.{g}{x:00}
+
+@31
+{z}{f}{l:0091}{s:0091}Do you want something of me?{g}{x:00}
+
+@32
+{z}{f}{l:0090}{s:0090}You are back. Is your preparation finished?{y:0000210022}{x:00}
+
+@33
+{z}{f}{l:0090}Good, go and win a splendid first battle!{g}{x:00}
+
+@34
+{z}{f}{l:0090}What... Well, do not be late.{g}{x:00}
+
+@39
+{z}{f}{l:0090}{s:0090}Well done, {a:0000}! A magnificent performance!{g}{x:00}
+
+@40
+{z}{f}{l:005e}{s:005e}You bore a heavy duty to the end. Splendid!{g}{z}{f}{l:0091}{s:0091}For today, I shall commend you.{g}{x:00}
+
+@42
+{z}{f}{l:0091}But God's protection will not always be with you...{w} no, things will not always go well. Do not relax.{g}{x:00}
+
+@43
+{z}{f}{l:0090}At this rate, my long-cherished wish of uniting the continent may come sooner than expected.{g}{x:00}
+
+@44
+{z}{f}{l:0090}{a:005e}, explain to {a:0000} what comes next.{g}{x:00}
+
+@45
+{z}{f}{l:005e}As you command.{g}{x:00}
+
+@46
+{z}{f}{l:005e}Then, I shall explain.{g}{z}A room has been prepared for you in the castle.{j:002f}{x:00}
+
+@47
+ You will stay there from now on.{g}{z}Missions are received from His Majesty in the audience chamber.{g}{z}Equip yourself in town, return to the audience chamber{j:0030}{x:00}
+
+@48
+ and report before setting out to the battlefield.{g}{z}His Majesty will provide soldiers and gold, so do not worry.{g}{z}You may still hire more soldiers{j:0031}{x:00}
+
+@49
+ at the Guild as before.{g}{x:00}
+
+@50
+{z}{f}{l:005e}And one more thing... I know I repeat myself.{g}{z}While you serve a ruler, you are not allowed to leave the town except to fight.{g}{x:00}
+
+@51
+{z}{f}{l:0090}Then I count on you again next month.{g}{z}{a:0000}, withdraw and rest for today.{g}{x:00}
+
+@52
+{z}{f}{l:005e}{s:005e}What is it? Go and relax in your room.{g}{x:00}
+
+@55
+{z}{f}{l:0090}{s:0090}{a:0000}, let me introduce my only kin.{g}{z}My only daughter, {a:0092}.{g}{x:00}
+
+@56
+{z}{f}{l:0092}{s:0092}I am {a:0092}, Princess of the Holy Rana Empire.{g}{z}From now on, regard my orders as the Emperor's orders.{j:0039}{x:00}
+
+@57
+ Is that understood?{g}{x:00}
+
+@58
+{z}{f}{l:0090}She is young, but as dependable as I am... I look forward greatly to her future.{g}{j:003b}{x:00}
+
+@59
+{z}I even think she, rather than a son-in-law, would make the better heir.{g}{x:00}
+
+@60
+{z}{f}{l:0092}Your Majesty, enough of that. Please tell him the details of his mission.{g}{x:00}
+
+@61
+{z}{f}{l:0090}Hm. {a:0000}, your mission is to defend our fort on the border from the enemy.{g}{j:003e}{x:00}
+
+@62
+{z}The enemy, in some fit of madness, has hired the notorious Blood Mist Mercenaries.{g}{z}{f}{l:0000}{s:0000}The Blood Mist Mercenaries...?{g}{x:00}
+
+@64
+{z}{f}{l:0090}They are infamous for their cruelty, but they should be nothing to you. I await good news.{g}{x:00}
+
+@65
+{z}Dragoon x50{n}Sniper x50{n}You received 22000 G.{g}{x:00}
+
+@70
+{z}{f}{l:0092}{s:0092}Fight in a way worthy of Rana's name.{g}{x:00}
+
+@71
+{z}{f}{l:0090}{s:0090}Are you ready?{y:0000480049}{x:00}
+
+@72
+{z}{f}{l:0090}Good, go and fight!{g}{x:00}
+
+@73
+{z}{f}{l:0090}If you dawdle, the fort will be taken...{g}{x:00}
+
+@75
+{z}{f}{l:0000}{s:0000}Your Majesty, I have defeated the Blood Mist Mercenaries.{g}{x:00}
+
+@76
+{z}{f}{l:0090}{s:0090}Hm, splendid, {a:0000}!{g}{x:00}
+
+@77
+{z}{f}{l:0092}{s:0092}Rest well and ease your fatigue.{g}{x:00}
+
+@80
+{z}{f}{l:0090}{s:0090}{a:0000}, this month we fight an enemy order of knights that has invaded our domain.{g}{j:0051}{x:00}
+
+@81
+{z}This time I shall take the field myself. {a:0092} comes too.{g}{z}{f}{l:0092}{s:0092}...{g}{x:00}
+
+@82
+{z}{f}{l:0092}{s:0092}...{g}{x:00}
+
+@83
+{z}{f}{l:0000}{s:0000}Which nation is the enemy?{g}{x:00}
+
+@84
+{z}{f}{l:0090}You will see when you get there. Prepare to march at once.{g}{x:00}
+
+@85
+{z}Berserker x50{n}Dragoon x50{n}You received 20000 G.{g}{x:00}
+
+@90
+{z}{f}{l:0091}{s:0091}Is it wise...{w} to make them our enemy...{g}{x:00}
+
+@91
+{z}{f}{l:0090}{s:0090}Are you ready?{y:00005c005d}{x:00}
+
+@92
+{z}{f}{l:0090}We march!{g}{x:00}
+
+@93
+{z}{f}{l:0090}Hurry, do not delay.{g}{x:00}
+
+@100
+{z}{f}{l:0090}{s:0090}I thought hearing the foe was the Knights of St. Matthaus would dull your blades, but...{g}{j:0065}{x:00}
+
+@101
+{z}{a:0000} and your men fought remarkably well. I am impressed by your great loyalty.{g}{x:00}
+
+@102
+{z}{f}{l:0090}Even so, that {a:0091}...{w} Withdrawing his troops without a fight!{g}{z}As I suspected, he is surely hiding something...{g}{x:00}
+
+@103
+{z}{f}{l:0092}{s:0092}Well done...{w} You may withdraw now.{g}{x:00}
+
+@105
+{z}{f}{l:0090}{s:0090}{a:0000}... Did you lose your nerve on learning the enemy was the Knights of St. Matthaus?{g}{j:006a}{x:00}
+
+@106
+{z}In the end, neither you nor your men could make the Archbishop retreat.{g}{x:00}
+
+@107
+{z}{f}{l:0090}I had expected better of you...{g}{x:00}
+
+@108
+{z}{f}{l:0090}{s:0090}There is no more business for this month. Withdraw and rest.{g}{x:00}
+
+@110
+{z}{f}{l:005e}{s:005e}{a:0000}, this is serious.{g}{x:00}
+
+@111
+{z}{f}{l:0090}{s:0090}The enemy has hired the Funeral Mercenaries...{g}{z}They are marching on our territory even now.{g}{x:00}
+
+@112
+{z}{f}{l:0091}{s:0091}{a:0031}... They say he turns even on the nation that hires him if it shows weakness...{g}{j:0071}{x:00}
+
+@113
+{z}Using him means the enemy must be truly hard-pressed.{g}{z}{f}{l:0090}{a:0031} is our greatest enemy...{w}{j:0072}{x:00}
+
+@114
+ but if we are to secure our rule over the continent, we cannot leave him be forever.{g}{x:00}
+
+@115
+{z}{f}{l:0090}{a:0000}, I command you to wipe out the Funeral Mercenaries! Defend our land at all costs!{g}{x:00}
+
+@116
+{z}Tercio x50{n}Sniper x50{n}You received 24000 G.{g}{x:00}
+
+@117
+{z}{f}{l:0090}It is because I trust you that I give you this mission...{w} You have no objection?{g}{x:00}
+
+@120
+{z}{f}{l:0090}{s:0090}Is your preparation complete?{y:000079007a}{x:00}
+
+@121
+{z}{f}{l:0090}For our glory, defeat {a:0031} without fail!{g}{x:00}
+
+@122
+{z}{f}{l:0090}There is no time. Hurry.{g}{x:00}
+
+@125
+{z}{f}{l:0000}{s:0000}Your Majesty, I have defended Rana's domain from {a:0031}.{g}{x:00}
+
+@126
+{z}{f}{l:0090}{s:0090}I have heard the news...{w} Well done indeed!{g}{j:007f}{x:00}
+
+@127
+{z}To defeat that {a:0031}... Remarkable. My eye for talent did not fail me.{g}{x:00}
+
+@128
+{z}{f}{l:005e}{s:005e}Splendidly done, Sir {a:0000}.{g}{z}Though I confess it galls me to have the glory taken from me...{g}{x:00}
+
+@129
+{z}{f}{l:0091}{s:0091}Truly, it is a wonder you came back alive.{g}{x:00}
+
+@130
+{z}{f}{l:0090}You must be exhausted. Withdraw and rest well.{g}{x:00}
+
+@131
+{z}{f}{l:0092}{s:0092}You must be tired. Rest at your leisure in your own room.{g}{x:00}
+
+@135
+{z}{f}{l:0090}{s:0090}Ah, you have come, {a:0000}. Another important duty awaits you this month.{g}{x:00}
+
+@136
+{z}{f}{l:0090}Attack the Estanian capital and strike down every spineless noble...{w} Wipe the very idea of a republic from this world!{g}{x:00}
+
+@137
+{z}Dragoon x50{n}Sniper x50{n}You received 20000 G.{g}{x:00}
+
+@138
+{z}{f}{l:0091}{s:0091}Spineless they may be, but that nation has {a:0076}, a master of the two-sword style.{g}{z}Never let your guard down.{g}{x:00}
+
+@139
+{z}{f}{l:005e}{s:005e}I am counting on you, {a:0000}!{g}{x:00}
+
+@140
+{z}{f}{l:0091}{s:0091}Do not lose your focus.{g}{x:00}
+
+@141
+{z}{f}{l:0090}{s:0090}Are you prepared?{y:00008e008f}{x:00}
+
+@142
+{z}{f}{l:0090}Good! Go and bring back victory!{g}{x:00}
+
+@143
+{z}{f}{l:0090}Do not take too long about it.{g}{x:00}
+
+@145
+{z}{f}{l:0090}{s:0090}So Estania has fallen before us at last...{w} Well done.{g}{j:0092}{x:00}
+
+@146
+{z}With so little strength, it is a wonder it survived until now.{g}{x:00}
+
+@147
+{z}{f}{l:0091}{s:0091}How did {a:0076} meet his end?{g}{x:00}
+
+@148
+{z}{f}{l:0000}{a:0076} thought of the peasants to the very end.{g}{z}He seems to have fought for a nation where peasants could take part in government...{g}{x:00}
+
+@149
+{z}{f}{l:005e}{s:005e}{a:0076}...{w} A man who hated war and once cast away his sword...{g}{z}To be dragged into the fighting again must have been bitter indeed.{g}{x:00}
+
+@150
+{z}{f}{l:0090}Have no fear. I intend to treat the peasants well.{g}{z}I will simply not allow them to meddle in politics.{g}{x:00}
+
+@155
+{z}{f}{l:005e}Your Majesty, your long-cherished wish is finally fulfilled.{g}{x:00}
+
+@156
+{z}{f}{l:0090}At last I hold everything! You have all done well to bring me this far!{g}{j:009d}{x:00}
+
+@157
+{z}...No, wait.{g}{z}There is still one more who refuses to bow to me...{g}{z}{f}{l:0091}...{g}{x:00}
+
+@159
+{z}{f}{l:005e}Your Majesty, let us hold a grand festival to celebrate the unification of the continent!{g}{j:00a0}{x:00}
+
+@160
+{z}Then the people's reverence for Your Majesty's virtue will surely grow ever greater.{g}{x:00}
+
+@161
+{z}{f}{l:0090}Hm, a fine idea. Let us make it a lavish one.{g}{x:00}
+
+@162
+{z}{f}{l:0090}But first, I grant you leave. Rest and recover fully!{g}{x:00}
+
+@165
+{z}{f}{l:0090}{s:0090}{a:0000}, I charge you with another important mission.{g}{x:00}
+
+@166
+{z}{f}{l:0090}Attack the Mylardian capital and cut down their king and prince...{w} Sever the history of that island nation!{g}{x:00}
+
+@167
+{z}Berserker x50{n}Dragoon x50{n}You received 20000 G.{g}{x:00}
+
+@168
+{z}{f}{l:0091}{s:0091}The king is no match for you, but the prince will be rather troublesome.{g}{x:00}
+
+@169
+{z}{f}{l:005e}{s:005e}I hear the prince plunged into war only to win land for his fiancee...{g}{z}I should like to see what manner of man he is.{g}{x:00}
+
+@170
+{z}{f}{l:0090}{s:0090}Are you ready?{y:0000ab00ac}{x:00}
+
+@171
+{z}{f}{l:0090}Good. Make this battle the crowning end of my conquest!{g}{x:00}
+
+@172
+{z}{f}{l:0090}Do not falter.{g}{x:00}
+
+@175
+{z}{f}{l:0090}{s:0090}So that island nation is finally destroyed. You have served well.{g}{x:00}
+
+@176
+{z}{f}{l:005e}{s:005e}What manner of man was the prince of Mylard?{g}{x:00}
+
+@177
+{z}{f}{l:0000}{s:0000}Prince {a:007e} spoke his fiancee's name now and then.{g}{z}Even at his death...{g}{x:00}
+
+@180
+{z}{f}{l:0091}{s:0091}Yet to fight to impress a woman and die for it... He deserves no sympathy.{g}{x:00}
+
+@181
+{z}{f}{l:0090}Indeed. A realm whose ruler lets private feelings into its government deserves to fall.{g}{z}We must take heed ourselves.{g}{x:00}
+
+@183
+{z}{f}{l:0090}{s:0090}You are all here...{w} I have something important to tell you.{g}{x:00}
+
+@184
+{z}{f}{l:0090}The festival of unification is cancelled...{w} No, postponed. There is something that must be done first...{g}{j:00b9}{x:00}
+
+@185
+{z}The one land on the continent not yet mine: the Papal Domain of the Wigg Church. I shall take it!{g}{x:00}
+
+@186
+{z}{f}{l:0091}{s:0091}Please wait, Your Majesty!{w} Anything but that!{g}{j:00bb}{x:00}
+
+@187
+{z}The Wigg faith is devoutly held by the people across the whole continent!{g}{z}If you attack it,{j:00bc}{x:00}
+
+@188
+ the people's anger at Rana will surely explode.{g}{j:00bd}{x:00}
+
+@189
+{z}I beg you, abandon such a reckless act!{g}{x:00}
+
+@190
+{z}{f}{l:0090}...{g}{z}So you show your true colours at last. You swore deep loyalty to Rana, so I have overlooked your conduct until now...{g}{x:00}
+
+@191
+{z}{f}{l:0090}{a:0091}, I relieve you of your post as Chancellor. From this moment, {a:005e} is Chancellor.{g}{j:00c0}{x:00}
+
+@192
+{z}Defying me in open court is a grave crime...{w} Confine yourself to your home!{g}{x:00}
+
+@193
+{z}{f}{l:0091}So you will not understand, no matter what...{g}{x:00}
+
+@194
+{z}{f}{l:0090}{a:005e}, {a:0000}, you two shall march out together this time.{g}{z}None remain who oppose me, so there is no danger in both of you leaving the castle.{g}{j:00c3}{x:00}
+
+@195
+{z}Prepare yourselves and depart at once. I intend to take the field myself.{g}{x:00}
+
+@196
+{z}You received 20000 G.{g}{x:00}
+
+@197
+{z}{f}{l:0092}{s:0092}{a:005e}, {a:0000}... You are off to the final battle.{g}{z}I pray for your success.{g}{x:00}
+
+@198
+{z}{f}{l:005e}{s:005e}Leave it to us, Lady {a:0092}!{g}{x:00}
+
+@200
+{z}{f}{l:0090}{s:0090}{a:0091}...{w} Did you not understand that I told you to confine yourself?!{g}{x:00}
+
+@201
+{z}{f}{l:0091}{s:0091}You let your guard down...{w} Arrogant, foolish Emperor!{g}{j:00ca}{x:00}
+
+@202
+{z}{a:005e} and {a:0000} have both marched out. Only my private troops remain in this castle...{g}{x:00}
+
+@203
+{z}{f}{l:0091}You must die, to protect the Wigg faith!{g}{x:00}
+
+@204
+{z}{f}{l:0090}Curse you, traitor...{g}{x:00}
+
+@205
+{z}{f}{l:0092}{s:0092}{a:0091}!{w} How could you...{g}{x:00}
+
+@206
+{z}{f}{l:0091}It is too late for regrets! Apologise to God in the next world!{g}{x:00}
+
+@209
+{z}{f}{l:005e}{s:005e}Lady {a:0092}...{w} I understand how you must feel.{g}{x:00}
+
+@210
+{z}{f}{l:0092}{s:0092}I am all right. Everyone dies someday...{g}{z}There is no use drowning in tears.{g}{x:00}
+
+@211
+{z}{f}{l:0060}{s:0060}Well said, Lady {a:0092}! Now, please proceed to the throne.{g}{x:00}
+
+@212
+{z}{f}{l:005e}He left no will, but...{w} From this day, Lady {a:0092} is the new Emperor of the Holy Rana Empire!{g}{x:00}
+
+@213
+{z}{f}{l:0092}You three have done well to put down the traitor.{g}{j:00d6}{x:00}
+
+@214
+{z}{a:0000}, I appoint you Vice-Chancellor. Continue to serve this nation.{g}{x:00}
+
+@215
+{z}{f}{l:0000}{s:0000}As you command.{g}{x:00}
+
+@216
+{z}{f}{l:0092}I shall instruct you on the rest in due course. For now, you may all withdraw.{g}{x:00}
+
+@217
+{z}{f}{l:0060}With {a:005e} and {a:0000}, the new Emperor has all the support she needs.{g}{z}I wondered for a time how this would end, but Rana is secure now.{g}{x:00}
+
+@218
+{z}{f}{l:005e}Your Majesty...{w} What do you intend to do about the Pope from now on?{g}{x:00}
+
+@219
+{z}{f}{l:0092}My father was another matter, but I do not care for strife.{g}{j:00dc}{x:00}
+
+@220
+{z}Seeing the people rejoice that peace has come, I could never go on fighting...{g}{x:00}
+
+@221
+{z}{f}{l:005e}I see...{w} Hearing that sets my mind at ease, too...{g}{x:00}
+
+@223
+{z}{f}{l:0000}Your grief at losing your father...{w} I understand it. I can see how hard you are holding it back...{g}{x:00}
+
+@224
+{z}{f}{l:0092}If my vassals can read my sorrow, I am still not much of an Emperor.{g}{x:00}
+
+@225
+{z}{f}{l:0000}You need not force yourself...{w} Please, do not hide your feelings from us.{g}{x:00}
+
+@226
+{z}{f}{l:0092}...Thank you, {a:0000}.{g}{x:00}
+
+@230
+{z}{f}{l:0090}{s:0090}Are you ready?{y:0000e800e7}{x:00}
+
+@231
+{z}{f}{l:0090}Hurry. {a:005e} is waiting for you.{g}{x:00}
+
+@232
+{z}{f}{l:0090}Good! Go and compete with {a:005e} for glory!{g}{x:00}
+
+@233
+{z}{f}{l:005e}{s:005e}Sir {a:0000}, let us go!{g}{x:00}
+
+@234
+{z}{f}{l:0090}What is it, {a:0000}? Why do you not go?{g}{x:00}
+
+@235
+{z}{f}{l:0091}{s:0091}You let your guard down...{w} Arrogant, foolish Emperor!{g}{x:00}
+
+@236
+{z}{f}{l:0091}With {a:005e} gone, only my private troops and those of {a:0000} remain in this castle...{g}{x:00}
+
+@237
+{z}{f}{l:0090}{a:0000}, even you side with {a:0091}?! Curse you, disloyal wretches...{g}{x:00}
+
+@238
+{z}{f}{l:0092}{s:0092}{a:0091}!{w} How could you...{g}{x:00}
+
+@239
+{z}{f}{l:0092}{a:0000}, you are being deceived by {a:0091}. Wake up!{g}{x:00}
+
+@240
+{z}{f}{l:0000}{s:0000}Lady {a:0092}, I am sorry.{g}{x:00}
+
+@241
+{z}{f}{l:0000}But there is no other way!{g}{x:00}
+
+@242
+{z}{f}{l:005e}{s:005e}Do not fall behind me.{g}{x:00}
+
+@245
+{z}{f}{l:0091}{s:0091}Lord {a:0000}, from today you are Emperor.{g}{z}Please proceed to the throne.{g}{x:00}
+
+@246
+{z}{f}{l:0000}{s:0000}Like this...?{g}{x:00}
+
+@247
+{z}{f}{l:008e}{s:008e}You have done it, Lord {a:0091}!{g}{x:00}
+
+@248
+{z}{f}{l:0091}Well, well. You arrive early, I see.{g}{x:00}
+
+@249
+{z}{f}{l:008e}{a:0000}, when we crossed swords I thought you a truly hateful man...{g}{z}But your true heart lay elsewhere.{g}{x:00}
+
+@250
+{z}{f}{l:0091}Regarding that, Archbishop, I have one request concerning him.{g}{x:00}
+
+@251
+{z}{f}{l:0091}Could you see to it that he becomes Holy Emperor?{g}{x:00}
+
+@252
+{z}{f}{l:008e}His Holiness is greatly pleased with {a:0000}'s service. A favourable answer is certain.{g}{x:00}
+
+@253
+{z}{f}{l:008e}I must return at once, but when I next come, I shall bring a vast reward from His Holiness.{g}{j:00fe}{x:00}
+
+@254
+{z}Look forward to it, Lord {a:0000}.{w} And now, farewell!{g}{x:00}
+
+@255
+{z}{f}{l:0091}Now then, Your Majesty, let us turn to affairs of state at once.{g}{x:00}
+
+@256
+{z}{f}{l:0091}First, the disposition of {a:0092}. It must be either execution or exile from the realm, must it not?{g}{x:00}
+
+@257
+{z}{f}{l:0000}No, banishment from the castle will do. Provide her with plenty of money and clothing.{g}{x:00}
+
+@258
+{z}{f}{l:0091}How generous...{w} Of course, I shall follow Your Majesty's wishes.{g}{x:00}
+
+@259
+{z}{f}{l:0000}Chancellor...{w} No, {a:0091}. Please stop speaking to me like that.{g}{j:0104}{x:00}
+
+@260
+{z}And besides... why do you not become Emperor yourself?{g}{z}{f}{l:0091}Heh heh heh...{w}{j:0105}{x:00}
+
+@261
+ Scheming in the shadow of a great man suits my nature better.{g}{j:0106}{x:00}
+
+@262
+{z}Nor do I have a strong body like Your Majesty's...{w} But never mind that, Your Majesty.{g}{x:00}
+
+@263
+{z}{f}{l:0091}I would like you to leave all future negotiations with the Wigg Church to me. Is that acceptable?{g}{x:00}
+
+@264
+{z}{f}{l:0000}Ah, that is quite all ri...{w} No. Very well, I permit it.{g}{j:0109}{x:00}
+
+@265
+{z}I wish to go and see my comrades...{w} Is that all right?{g}{x:00}
+
+@266
+{z}{f}{l:0091}Of course... But do not stay out too long.{g}{x:00}
+
+@270
+{z}{f}{l:0090}{s:0090}At last...{w} At last, true unification of the continent...{g}{x:00}
+
+@271
+{z}{f}{l:0090}Are you ready?{y:0001100111}{x:00}
+
+@272
+{z}{f}{l:0090}It may be good sport to vie with {a:005e} for honours...{w} March out!{g}{x:00}
+
+@273
+{z}{f}{l:0090}Well, there is no need to rush this battle.{g}{x:00}
+
+@274
+{z}{f}{l:005e}{s:005e}Is this not the first time we march together?{g}{x:00}
+
+@275
+{z}{f}{l:0092}{s:0092}With {a:005e} and {a:0000}, there is not one chance in ten thousand of defeat.{g}{x:00}
+
+@280
+{z}{f}{l:0090}{s:0090}{a:0000}...{w} On this mission your true worth will be tested.{g}{x:00}
+
+@281
+{z}{f}{l:0090}Attack the Fenrir capital and destroy that nation...{g}{z}Make them realise there is no God in this world!{g}{x:00}
+
+@282
+{z}Tercio x50{n}Sniper x50{n}You received 20000 G.{g}{x:00}
+
+@283
+{z}{f}{l:0091}{s:0091}Though it is a land of many women, there are formidable foes. Fight with care.{g}{x:00}
+
+@284
+{z}{f}{l:005e}{s:005e}Show no mercy...{w} Do not let your guard down.{g}{x:00}
+
+@285
+{z}{f}{l:0090}{s:0090}Are you ready?{y:00011e011f}{x:00}
+
+@286
+{z}{f}{l:0090}Go, and carry out your mission well!{g}{x:00}
+
+@287
+{z}{f}{l:0090}Do not keep me waiting long.{g}{x:00}
+
+@290
+{z}{f}{l:0090}{s:0090}Splendid, {a:0000}.{g}{x:00}
+
+@291
+{z}{f}{l:0090}It is not God but men who rule the continent. The people of Fenrir must have realised it too.{g}{x:00}
+
+@292
+{z}{f}{l:005e}{s:005e}How was {a:0086}'s skill with the spear?{g}{x:00}
+
+@293
+{z}{f}{l:0000}{s:0000}{a:0086} seemed to be in poor health. She may have been with child.{g}{x:00}
+
+@295
+{z}{f}{l:0091}{s:0091}The child of {a:0086} and {a:0087}...{g}{z}Enemy or not, I almost wish I could have seen how it would grow.{g}{x:00}
+
+@296
+{z}{f}{l:0090}What are you saying? Such a child would surely be a calamity for our nation later. I would not even wish to see it!{g}{x:00}
+
+@297
+{z}{f}{l:0090}{a:0000}, my long-cherished wish is almost achieved. Keep working hard.{g}{x:00}
+
+@300
+{z}{f}{l:0090}{s:0090}This month brings another milestone...{w} The Duchy of Saxen shall be destroyed!{g}{x:00}
+
+@301
+{z}{f}{l:0090}{a:0000}, bring me, with all due courtesy, the head of the ambitious man who set us on the road to unifying the continent!{g}{x:00}
+
+@302
+{z}Tercio x50{n}Dragoon x50{n}You received 20000 G.{g}{x:00}
+
+@303
+{z}{f}{l:0091}{s:0091}Saxen's {a:0066} is a savage man... Do not let your guard down.{g}{x:00}
+
+@304
+{z}{f}{l:005e}{s:005e}The plain around the capital, Freiheit, is fertile...{w} I would dearly like to take it.{g}{x:00}
+
+@305
+{z}{f}{l:0090}{s:0090}Are you ready?{y:0001320133}{x:00}
+
+@306
+{z}{f}{l:0090}Go and strike down {a:00a1}!{g}{x:00}
+
+@307
+{z}{f}{l:0090}You are not afraid of {a:0066}, are you?{g}{x:00}
+
+@310
+{z}{f}{l:0090}{s:0090}So Saxen has fallen at last...{g}{z}It is as if that {a:00a1} rebelled only to hand me the lands of Ragail.{g}{x:00}
+
+@311
+{z}{f}{l:005e}{s:005e}How did he meet his end?{g}{x:00}
+
+@312
+{z}{f}{l:0000}{s:0000}Duke {a:00a1} was already dead by the time we closed in on the castle.{g}{x:00}
+
+@313
+{z}{f}{l:005e}Dead? Without even witnessing the end of the nation he founded?{g}{x:00}
+
+@314
+{z}{f}{l:0091}{s:0091}Might this be the work of {a:0066}...?{g}{j:013b}{x:00}
+
+@315
+{z}He joined {a:00a1}'s rebellion only for his own standing...{w} Cornered, he may well have killed his lord.{g}{x:00}
+
+@316
+{z}{f}{l:0090}Killed by his own vassal...{w} Was {a:00a1} no more than that?{g}{x:00}
+
+@317
+{z}{f}{l:0090}Either way, his ambitions have come to nothing.{g}{x:00}
+
+@320
+{z}{f}{l:0090}{s:0090}This month we deal the final blow to Grandcour...{w} I leave it to you, {a:0000}.{g}{x:00}
+
+@321
+{z}{f}{l:0090}Real power in that nation lies with the Regent, {a:0094}...{w} Attack the castle where he sits and finish him!{g}{x:00}
+
+@322
+{z}Berserker x50{n}Tercio x50{n}You received 20000 G.{g}{x:00}
+
+@323
+{z}{f}{l:0091}{s:0091}Show no leniency, {a:0000}.{g}{x:00}
+
+@324
+{z}{f}{l:005e}{s:005e}Do you know of {a:006e}?{g}{z}He is renowned as a handsome man, but his skill with the spear is said to be considerable too.{g}{x:00}
+
+@325
+{z}{f}{l:005e}{s:005e}Beware of {a:006e}.{g}{x:00}
+
+@326
+{z}{f}{l:0090}{s:0090}Are you prepared?{y:0001470148}{x:00}
+
+@327
+{z}{f}{l:0090}Bring down the curtain on the history of Grandcour!{g}{x:00}
+
+@328
+{z}{f}{l:0090}Do not try my patience.{g}{x:00}
+
+@330
+{z}{f}{l:0090}{s:0090}So even Ragail has vanished from this world at last...{g}{j:014b}{x:00}
+
+@331
+{z}Even renamed Grandcour, it was fated all the same to be swallowed by our nation.{g}{x:00}
+
+@332
+{z}{f}{l:005e}{s:005e}How did {a:006e} meet his end?{g}{x:00}
+
+@333
+{z}{f}{l:0000}{s:0000}He fought magnificently...{g}{z}"I wanted to see my brothers..." were his last words.{g}{x:00}
+
+@334
+{z}{f}{l:005e}I see. He was the younger brother of {a:0066} and {a:0068} of Saxen...{g}{x:00}
+
+@335
+{z}{f}{l:0091}{s:0091}Did you defeat the boy king, {a:00a4}?{g}{x:00}
+
+@336
+{z}{f}{l:0000}No, he was nowhere in the castle...{g}{x:00}
+
+@337
+{z}{f}{l:0090}Without {a:0094} and {a:006e}, Grandcour can never be restored. Forget the child king.{g}{x:00}
+
+@338
+{z}{f}{l:0090}At any rate, it was an excellent result. You have my praise.{g}{x:00}
+
+@350
+{z}{f}{l:0092}Welcome to Rana's domain.{w}{w}{x:00}
+
+@351
+{z}{f}{l:00a0}That I should come to this castle...{w} I could not have imagined it in my predecessor's time.{w}{w}{w}{x:00}
+
+@352
+{z}{f}{l:005e}Today's visit by His Holiness is deeply significant for our nation, and for the continent.{w}{w}{w}{j:0161}{x:00}
+
+@353
+{z}Today will mark the start of a new era.{w}{w}{x:00}
+
+@354
+New Emperor Margarete{x:00}
+
+@355
+sought true peace, and{x:00}
+
+@356
+strove to mend relations with{x:00}
+
+@357
+the Pope. The Pope accepted{x:00}
+
+@358
+this, and so all tension across{x:00}
+
+@359
+the continent was resolved.{x:00}
+
+@365
+{z}{f}{l:0091}We have been awaiting you, Holy Father! Now... please, come in.{w}{w}{w}{z}{f}{l:00a0}That I should come to this castle...{w}{j:016e}{x:00}
+
+@366
+ I could not have imagined it in my predecessor's time.{w}{w}{x:00}
+
+@367
+{z}{f}{l:008e}From this day, Rana and the Wigg Church will begin a new chapter together.{w}{w}{w}{x:00}
+
+@368
+{z}{f}{l:00a0}{a:0091}, you have worked hard for us.{w}{w}{x:00}
+
+@369
+{z}{f}{l:00a0}From now on, leave both state and faith to me and {a:008e}. Your meddling is not wanted.{w}{w}{w}{w}{w}{w}{z}{f}{l:0091}Y-Yes...{w}{j:0172}{x:00}
+
+@370
+ I... I see, Your Holiness...{w}{w}{w}{x:00}
+
+@371
+The rift between Rana and{x:00}
+
+@372
+the Pope healed, and true{x:00}
+
+@373
+peace came. But the Pope{x:00}
+
+@374
+meddled in Rana's affairs,{x:00}
+
+@375
+and Laszlo lost the real{x:00}
+
+@376
+power in Rana to him...{x:00}
+
+@380
+{z}{f}{l:0090}{a:005e}, {a:0091}, you have both served well.{w}{w}{w}{z}I count on you to make Rana ever more prosperous.{w}{w}{w}{x:00}
+
+@381
+{z}{f}{l:0091}Yet with no one left to defeat, I feel a certain lack...{w}{w}{w}{x:00}
+
+@382
+{z}{f}{l:005e}In peace, we have other duties. There will be plenty to keep us busy.{w}{w}{w}{x:00}
+
+@383
+{z}{f}{l:0090}Quite so. To make Rana a nation for all eternity, I shall keep working.{w}{w}{w}{x:00}
+
+@384
+Under Emperor Friedolm II,{x:00}
+
+@385
+the Ligurian continent at last{x:00}
+
+@386
+became one. And the tales of{x:00}
+
+@387
+the mercenaries who played{x:00}
+
+@388
+their part in its shadow are{x:00}
+
+@389
+told again and again among{x:00}
+
+@390
+the people...{x:00}
+

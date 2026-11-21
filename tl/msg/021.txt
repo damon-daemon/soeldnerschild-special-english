@@ -1,0 +1,255 @@
+@0
+{z}{s:0320}Ugh, I was too careless. I need more experience...{g}{x:00}
+
+@1
+{z}{s:0320}Hmm, my training wasn't enough...{g}{x:00}
+
+@2
+{z}{s:0320}Ugh, you're good... To wound me, of all people...{g}{x:00}
+
+@3
+{z}{s:0320}It galls me, but I'm pulling back.{g}{x:00}
+
+@4
+{z}{s:0320}S-sorry... I leave the rest to you...{g}{x:00}
+
+@5
+{z}{s:0320}Tch... I'm retreating.{g}{x:00}
+
+@6
+{z}{s:0320}D-damn it. How could I, of all people...{g}{x:00}
+
+@7
+{z}{s:0320}P-please let me retreat...{g}{x:00}
+
+@8
+{z}{s:0320}Hmph, you're quite something. Time to retreat.{g}{x:00}
+
+@9
+{z}{s:0320}Ugh... this looks like my limit.{g}{x:00}
+
+@10
+{z}{s:0320}Eek! Eeeek!{g}{x:00}
+
+@11
+{z}{s:0320}Ha, a scratch like this is nothing...{g}{x:00}
+
+@12
+{z}{s:0320}Ugh, I'm retreating.{g}{x:00}
+
+@13
+{z}{s:0320}I-I'm getting out of here!{g}{x:00}
+
+@14
+{z}{s:0320}Hmph, to drive me this far...{g}{x:00}
+
+@15
+{z}{s:0320}I-I'm retreating!{g}{x:00}
+
+@16
+{z}{s:0320}No choice... time to pull back.{g}{x:00}
+
+@17
+{z}{s:0320}D-damn, I botched it... Let's scarper...{g}{x:00}
+
+@18
+{z}{s:0320}Well, well, that's me beaten... The rest is up to you.{g}{x:00}
+
+@19
+{z}{s:0320}Ugh, is this the end...{g}{x:00}
+
+@20
+{z}{s:0320}R-run away!{g}{x:00}
+
+@21
+{z}{s:0320}To think you'd give me this much trouble...{g}{x:00}
+
+@22
+{z}{s:0320}Damn it, it wasn't supposed to go like this...{g}{x:00}
+
+@23
+{z}{s:0320}Next time, for sure...{g}{x:00}
+
+@24
+{z}{s:0320}You've done it now... You'll pay for this!{g}{x:00}
+
+@25
+{z}{s:0320}I-I can't go on!{g}{x:00}
+
+@26
+{z}{s:0320}Tch, I've been beaten.{g}{x:00}
+
+@27
+{z}{s:0320}I leave the rest to you...{g}{x:00}
+
+@28
+{z}{s:0320}I-I'm going to retreat...{g}{x:00}
+
+@29
+{z}{s:0320}I fall here, but never forget your sense of justice!{g}{x:00}
+
+@30
+{z}{s:0320}My life... did it do any good for the world?{g}{x:00}
+
+@31
+{z}{s:0320}Ha, so this is how my rampage ends...{g}{x:00}
+
+@32
+{z}{s:0320}I wanted to see the world at peace...{g}{x:00}
+
+@33
+{z}{s:0320}Farewell... Take care of your lives...{g}{x:00}
+
+@34
+{z}{s:0320}Glad I didn't end my days a bandit...{g}{x:00}
+
+@35
+{z}{s:0320}So the mercenary trade ends for me today...{g}{x:00}
+
+@36
+{z}{s:0320}Ugh, I don't want to die...{g}{x:00}
+
+@37
+{z}{s:0320}At last, the end has come for me...{g}{x:00}
+
+@38
+{z}{s:0320}Looks like I'm finished this time...{g}{x:00}
+
+@39
+{z}{s:0320}I should never have become a mercenary...{g}{x:00}
+
+@40
+{z}{s:0320}Captain {a:0000}... thanks for everything...{g}{x:00}
+
+@41
+{z}{s:0320}I should have walked an honest path...{g}{x:00}
+
+@42
+{z}{s:0320}Mother, I'm sorry...{g}{x:00}
+
+@43
+{z}{s:0320}...Am I dying...?{g}{x:00}
+
+@44
+{z}{s:0320}If I die... will I see my friends again...?{g}{x:00}
+
+@45
+{z}{s:0320}Damn, I blundered.{g}{x:00}
+
+@46
+{z}{s:0320}What rotten luck...{g}{x:00}
+
+@47
+{z}{s:0320}So this is as far as my life goes...{g}{x:00}
+
+@48
+{z}{s:0320}I'm a mercenary... Dying on the battlefield is what I wanted...{g}{x:00}
+
+@49
+{z}{s:0320}I-I'm... dying...?{g}{x:00}
+
+@50
+{z}{s:0320}Ugh, so I'm dying...{g}{x:00}
+
+@51
+{z}{s:0320}I don't want to die... Somebody help me...{g}{x:00}
+
+@52
+{z}{s:0320}No regrets...{g}{x:00}
+
+@53
+{z}{s:0320}Captain {a:0000}, sorry, but I'm going on ahead... urgh...{g}{x:00}
+
+@54
+{z}{s:0320}W-where is everyone...? I can't see anything...{g}{x:00}
+
+@55
+{z}{s:0320}F-farewell...{g}{x:00}
+
+@56
+{z}{s:0320}Ah, the blood... it won't stop...{g}{x:00}
+
+@57
+{z}{s:0320}Captain... I'm glad I got to fight alongside you...{g}{x:00}
+
+@58
+{z}{s:0320}Sorry... {a:0000}... I was only in the way...{g}{x:00}
+
+@59
+{z}{s:0320}Damn, I'm done for... Is this all I'm worth...?{g}{x:00}
+
+@60
+{z}Melee battles are {c:05}real-time{c:07}. Even if the player does nothing, the battle goes on as time passes.{g}{j:003d}{x:00}
+
+@61
+{z}The timing of your commands is very important.{g}{x:00}
+
+@62
+{z}Keep an eye on the {c:05}time remaining{c:07} and issue commands to suit the situation.{g}{x:00}
+
+@63
+{z}To issue a command, press the {c:05}Triangle button{c:07} during battle. You can choose an order or a spell.{g}{x:00}
+
+@64
+{z}To carry out an order or cast a spell, you need {c:05}Command Points{c:07}.{g}{x:00}
+
+@65
+{z}The {c:05}Command Gauge{c:07} shows how many Command Points you have stored.{g}{j:0042}{x:00}
+
+@66
+{z}You currently have {c:05}{p:00}{c:07} points stored.{g}{x:00}
+
+@67
+{z}There are five orders. Advance, Defend and Retreat cost {c:05}2{c:07} points. Swap and Bow Attack cost {c:05}4{c:07} points.{g}{j:0044}{x:00}
+
+@68
+{z}Bow Attack is shown only when your company has archers.{g}{x:00}
+
+@69
+{z}After choosing an order, you decide which {c:05}row{c:07} it is given to.{g}{j:0046}{x:00}
+
+@70
+{z}With two platoons in your company, you can choose from {c:05}All{c:07}, {c:05}Front{c:07} and {c:05}Rear{c:07}. With three platoons,{j:0047}{x:00}
+
+@71
+ you can choose {c:05}Middle{c:07} too.{g}{z}With only one platoon, there is no choice to make.{g}{x:00}
+
+@72
+{z}There are 65 spells, and which ones can be used depends on the commander. First, choose a commander.{g}{x:00}
+
+@73
+{z}Spells learned early on mostly cost {c:05}4{c:07} points.{g}{j:004a}{x:00}
+
+@74
+{z}Stronger effects may cost {c:05}6{c:07} or {c:05}8{c:07} points.{g}{j:004b}{x:00}
+
+@75
+{z}Decide which spell to use with your current Command Points in mind.{g}{x:00}
+
+@76
+{z}Infantry, pikemen and cavalry have {c:05}match-ups{c:07}. Infantry beat pikemen, pikemen beat cavalry, and cavalry beat infantry.{g}{x:00}
+
+@77
+{z}{a:0000}'s unit type is infantry. The enemy is infantry too, so the fight is even.{g}{x:00}
+
+@78
+{z}{a:0000}'s unit type is pikemen. Pikemen are weak against enemy infantry, so let Anastasia's infantry fight in the front row.{g}{x:00}
+
+@79
+{z}{a:0000}'s unit type is cavalry. Cavalry are strong against enemy infantry, so put them in the front row.{g}{x:00}
+
+@80
+{z}{a:0000}'s unit type is archers.{g}{z}Archers cannot fight at close quarters. Let Anastasia's infantry fight in the front row.{g}{x:00}
+
+@81
+{z}Press the {c:05}Square button{c:07} during battle to check both sides' unit types.{g}{x:00}
+
+@82
+{z}Watch the {c:05}minimap{c:07} in the centre. It shows the HP of the soldiers on both sides.{g}{j:0053}{x:00}
+
+@83
+{z}Green means high HP, red means low HP, and yellow means somewhere in between.{g}{j:0054}{x:00}
+
+@84
+{z}When a platoon's HP gets low, restore it with Anastasia's {c:05}healing magic{c:07}.{g}{x:00}
+

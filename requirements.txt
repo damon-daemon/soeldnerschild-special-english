@@ -1,0 +1,3 @@
+# tools/build.py and tools/setup.py need only the standard library
+# development helpers only (tools/dev/)
+capstone>=5

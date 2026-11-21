@@ -1,0 +1,381 @@
+@0
+{z}{s:0320}There it is. The brigands' hideout.{g}{x:00}
+
+@1
+{z}{s:0320}It'd be a nuisance if they ran.{g}{x:00}
+
+@2
+{z}{s:0320}Damn! Mercenaries!{g}{x:00}
+
+@3
+{z}Those {p:01} swine hired mercenaries to wipe us out, did they?{g}{x:00}
+
+@4
+{z}Hmm...{w}{w}...{w}{w} Let's try fighting, for now.{w}{w} If we can't win... then...{g}{x:00}
+
+@5
+{z}{s:0320}An ambush?{g}{x:00}
+
+@6
+{z}{s:0320}Don't let the enemy any closer!{g}{x:00}
+
+@7
+{z}{s:0320}They're right on top of us!{g}{x:00}
+
+@8
+{z}Hey now... they look stronger than I thought. No way we can stand up to them...{g}{x:00}
+
+@9
+{z}Hey! Handsome blond Captain! How much are you getting for this job?{g}{x:00}
+
+@10
+{z}We'll pay double. Will you let us go?{g}{x:00}
+
+@11
+{z}{s:0320}Well! What a thing to say!{g}{x:00}
+
+@12
+{z}{s:0320}No need to listen to this!{g}{x:00}
+
+@13
+{z}{s:0320}Think we'd fall for that? Right, Captain?{g}{x:00}
+
+@14
+{z}{s:0320}Turn them down at once!{g}{x:00}
+
+@15
+{z}{s:0320}Fools...{g}{x:00}
+
+@16
+{z}{s:0320}Money is what persuades mercenaries after all.{g}{x:00}
+
+@17
+{z}Here's the money we promised. Take it.{g}{x:00}
+
+@18
+{z}{s:0320}Weren't we supposed to crush them...{g}{x:00}
+
+@19
+{z}{s:0320}Is this really all right?{g}{x:00}
+
+@20
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}{c:07}No way...{g}{x:00}
+
+@21
+{z}{s:0320}Well, we do need money...{g}{x:00}
+
+@22
+{z}{s:0320}...{g}{x:00}
+
+@23
+{z}{s:0320}Hey, take the money and clear off quickly.{g}{x:00}
+
+@24
+{z}You received 5000 G.{g}{x:00}
+
+@25
+{z}{s:0320}Tch! What a thickhead. Then we've no choice but to fight.{g}{x:00}
+
+@26
+{z}{s:0320}Naturally.{g}{x:00}
+
+@27
+{z}{s:0320}Exactly! We'd never take such money!{g}{x:00}
+
+@28
+{z}{s:0320}Right. Thinking money settles it...{g}{x:00}
+
+@29
+{z}{s:0320}We won't take filthy money like that!{g}{x:00}
+
+@30
+{z}{s:0320}As it should be.{g}{x:00}
+
+@31
+{z}{s:0320}Up close, they look even stronger.{g}{x:00}
+
+@32
+{z}Let's ask once more. Maybe we offered too little before.{g}{x:00}
+
+@33
+{z}Say, Captain, we'll pay three times your fee for this job. Come on, let us go.{g}{x:00}
+
+@34
+{z}Three times, I tell you! You could stuff yourselves with good food!{g}{x:00}
+
+@35
+{z}{s:0320}Again... they never learn.{g}{x:00}
+
+@36
+{z}{s:0320}It doesn't matter how much you offer! Don't you get it?{g}{x:00}
+
+@37
+{z}{s:0320}Again... what a hopeless lot.{g}{x:00}
+
+@38
+{z}{s:0320}Give it up! We told you it's no use!{g}{x:00}
+
+@39
+{z}{s:0320}They never learn...{g}{x:00}
+
+@40
+{z}{s:0320}Really? Pays to ask, eh?{g}{x:00}
+
+@41
+{z}You received 7000 G.{g}{x:00}
+
+@42
+{z}{s:0320}Hey, clear off quick. We can't pay any more.{g}{x:00}
+
+@43
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}{c:07}No way...{g}{x:00}
+
+@44
+{z}{s:0320}Is this really all right?{g}{x:00}
+
+@45
+{z}{s:0320}Weren't we supposed to crush them...{g}{x:00}
+
+@46
+{z}{s:0320}Well, we do need money...{g}{x:00}
+
+@47
+{z}{s:0320}...{g}{x:00}
+
+@48
+{z}{s:0320}Three times, mind! What sort of mercenary isn't interested in money?{g}{x:00}
+
+@49
+{z}{s:0320}Don't lump us in with the average mercenary.{g}{x:00}
+
+@50
+{z}{s:0320}"What sort of mercenary"... Really!{g}{x:00}
+
+@51
+{z}{s:0320}We have things more important than money.{g}{x:00}
+
+@52
+{z}{s:0320}Don't lump us in with the average mercenary.{g}{x:00}
+
+@53
+{z}{s:0320}Don't think money solves everything.{g}{x:00}
+
+@54
+{z}{s:0320}Um...{w}{w} we'll pay four times...{w}{w} How about it?{g}{x:00}
+
+@55
+{z}Four times, I say! You could live it up for ages!{g}{x:00}
+
+@56
+{z}{s:0320}This lot are rotten to the core.{g}{x:00}
+
+@57
+{z}{s:0320}That's enough from you lot!{g}{x:00}
+
+@58
+{z}{s:0320}Honestly... how persistent.{g}{x:00}
+
+@59
+{z}{s:0320}They never learn. Turn them down at once.{g}{x:00}
+
+@60
+{z}{s:0320}...Honestly... I'm lost for words...{g}{x:00}
+
+@61
+{z}{s:0320}R-really?{w}{w}{w}{w} Will you really let us go?{g}{x:00}
+
+@62
+{z}Well, nobody can say no to four times, eh?{g}{x:00}
+
+@63
+{z}Here's the money we promised. We scrimped and saved for it, so spend it wisely.{g}{x:00}
+
+@64
+{z}You received 10000 G.{g}{x:00}
+
+@65
+{z}{s:0320}Hey, clear off quick. We can't pay any more.{g}{x:00}
+
+@66
+{z}{s:0320}Weren't we supposed to crush them...{g}{x:00}
+
+@67
+{z}{s:0320}Well, we do need money...{g}{x:00}
+
+@68
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}{c:07}Why...{g}{x:00}
+
+@69
+{z}{s:0320}Is this really all right?{g}{x:00}
+
+@70
+{z}{s:0320}...{g}{x:00}
+
+@71
+{z}{s:0320}Ugh... I'm done for...{g}{x:00}
+
+@72
+{z}{s:0320}Wiped out...{w}{w} a total defeat...{w}{w} Captain... you're quite a man...{g}{x:00}
+
+@73
+{z}{s:0320}The job's done. Well done, everyone.{g}{x:00}
+
+@74
+{z}{s:0320}Phew... it's over. The job's done.{g}{x:00}
+
+@75
+{z}{s:0320}Yes! The enemy's wiped out! We won!{g}{x:00}
+
+@76
+{z}{s:0320}Now the people around here can live in peace.{g}{x:00}
+
+@77
+{z}{s:0320}That's the end of it. Shall we go home?{g}{x:00}
+
+@78
+{z}{s:0320}I'm sorry... I'm pulling out.{g}{x:00}
+
+@79
+{z}{s:0320}Ugh... why me, against this lot... Pathetic...{g}{x:00}
+
+@80
+{z}{s:0320}Ugh... we have to retreat.{g}{x:00}
+
+@81
+{z}{s:0320}Ow, ow... Sorry, I'm pulling out.{g}{x:00}
+
+@82
+{z}{s:0320}I leave the rest to you...{g}{x:00}
+
+@83
+{z}{s:0320}Now, prepare yourselves!{g}{x:00}
+
+@84
+{z}{s:0320}I want to get this over with. Come on, hurry up.{g}{x:00}
+
+@85
+{z}{s:0320}Fine, then! We've nothing left to lose!{g}{x:00}
+
+@86
+{z}{s:0320}Yeah!{g}{x:00}
+
+@87
+{z}{s:0320}They don't seem to have noticed us yet.{g}{x:00}
+
+@88
+{z}{s:0320}If they run, let them. We won't have to fight.{g}{x:00}
+
+@89
+{z}{s:0320}That's if they reform and never do wrong again.{g}{x:00}
+
+@90
+{z}But what if we let off someone who only abandoned his hideout to save his skin?{g}{x:00}
+
+@91
+{z}{s:0320}I see...{g}{x:00}
+
+@92
+{z}{s:0320}They'd come back here, or set up again in some other hills...{g}{x:00}
+
+@93
+{z}{s:0320}And do the same evil all over again.{g}{x:00}
+
+@94
+{z}{s:0320}Phew... finally over. The job's done, at least.{g}{x:00}
+
+@95
+{z}If we'd let them go back there, it would have ended long ago. But we were right not to.{g}{x:00}
+
+@96
+{z}{s:0320}What a despicable lot. Feels good to have wiped them out.{g}{x:00}
+
+@97
+{z}{s:0320}They're all gone... We won.{g}{x:00}
+
+@98
+{z}I was impressed with you today, {a:0000}. You saw that letting those outlaws go would be pointless.{g}{x:00}
+
+@99
+{z}{s:0320}Wiped out... such a huge force...{g}{x:00}
+
+@100
+{z}Everyone is growing sturdier, in body and in spirit. Most dependable.{g}{x:00}
+
+@101
+{z}{s:0320}Facing me? Poor fool.{g}{x:00}
+
+@102
+{z}{s:0320}You'll regret attacking me! Come on!{g}{x:00}
+
+@103
+{z}{s:0320}I will not tolerate brigands! Never!{g}{x:00}
+
+@104
+{z}{s:0320}Come on, then.{g}{x:00}
+
+@105
+{z}{a:0001} now has 0 G!{g}{x:00}
+
+@106
+{z}{s:0320}Damn... they didn't have to take the money too...{g}{x:00}
+
+@107
+{z}{s:0320}Sorry... it seems we have to retreat...{g}{x:00}
+
+@108
+{z}{s:0320}I knew it... they took it.{g}{x:00}
+
+@109
+{z}{a:0004} now has 0 G!{g}{x:00}
+
+@110
+{z}{a:0002} now has 0 G!{g}{x:00}
+
+@111
+{z}{a:0003} now has 0 G!{g}{x:00}
+
+@112
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@113
+{z}{a:0005} now has 0 G!{g}{x:00}
+
+@114
+{z}{s:0320}Beaten again. Useless lot.{g}{x:00}
+
+@115
+{z}No choice... We fight.{g}{x:00}
+
+@116
+{z}{s:0320}You're a mercenary captain without confidence?{g}{x:00}
+
+@117
+{z}Stop treating war so lightly!{g}{x:00}
+
+@118
+{z}Enemy morale rose.{g}{x:00}
+
+@119
+{z}{s:0320}I'll beat you senseless!{g}{x:00}
+
+@120
+{z}{s:0320}The boss...{w}{w} You lot! I'll never forgive you!{g}{x:00}
+
+@121
+{z}{s:0320}They take it after all...{g}{x:00}
+
+@122
+{z}Let's get as close as we can now, then rush in all at once.{g}{x:00}
+
+@123
+{z}{s:0320}Tch... they noticed us.{g}{x:00}
+
+@124
+{z}Then here's the money we promised.{g}{x:00}
+
+@125
+{z}Let's go!{g}{x:00}
+
+@126
+{z}You lot... the rest...{w}{w} is up to...{w}{w} you.{g}{x:00}
+

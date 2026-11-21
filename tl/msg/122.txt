@@ -1,0 +1,321 @@
+@0
+{z}{s:0320}The enemy is beyond that forest, then.{g}{x:00}
+
+@1
+{z}{s:0320}A fight in the woods is bad for cavalry...{g}{x:00}
+
+@2
+{z}{s:0320}Across the river on the left there is a path round the forest.{g}{x:00}
+
+@3
+{z}If the cavalry go through that way, they can strike the enemy's rear.{g}{x:00}
+
+@4
+{z}{s:0320}Oh... A sound suggestion.{g}{x:00}
+
+@5
+{z}I didn't fancy fighting for no pay at first...{g}{x:00}
+
+@6
+{z}But with a beauty like you along, I feel a hundred times braver.{g}{x:00}
+
+@7
+{z}{s:0320}...{g}{x:00}
+
+@8
+{z}{s:0320}{a:0004}! This is no time to chat her up!{g}{x:00}
+
+@9
+{z}{s:0320}Yeah, yeah... An enemy unit has shown up, right?{g}{x:00}
+
+@10
+{z}{s:0320}Exactly! How did you know?{g}{x:00}
+
+@11
+{z}{s:0320}Call it a veteran's instinct...{g}{x:00}
+
+@12
+{z}{s:0320}Captain! The enemy is on the far side of the forest!{g}{x:00}
+
+@13
+{z}A mercenary company...{w} and a girl?{w}{w} ...No, that is the woman they call the Witch of Langres!{g}{x:00}
+
+@14
+{z}{s:0320}What... This just got interesting!{g}{x:00}
+
+@15
+{z}Catch her and sell her to {p:01}'s lot, and she'll fetch a fine price! All forces, go for that witch! Understood?{g}{x:00}
+
+@16
+{z}{s:0320}It seems the enemy is after {a:009f}...{g}{x:00}
+
+@17
+{z}{s:0320}I will not lose...{g}{x:00}
+
+@18
+{z}If I don't stand in front, everyone...{g}{x:00}
+
+@19
+{z}{s:0320}{a:009f}...{g}{x:00}
+
+@20
+{z}If you fall, the volunteer army collapses...{g}{x:00}
+
+@21
+{z}Stay at the rear and support the others. Got that?{g}{x:00}
+
+@22
+{z}{s:0320}No!{w}{w} I can't do that!{g}{x:00}
+
+@23
+{z}While everyone fights for their lives, how can I stay somewhere safe...{g}{x:00}
+
+@24
+{z}I cannot do it!{g}{x:00}
+
+@25
+{z}{s:0320}{a:009f}!{g}{x:00}
+
+@26
+{z}{s:0320}We must protect her! Or the volunteer army really will be crushed!{g}{x:00}
+
+@27
+{z}{s:0320}{a:009f} feels a lot like me. I want to do my best for her!{g}{x:00}
+
+@28
+{z}{s:0320}We must protect {a:009f}!{g}{x:00}
+
+@29
+{z}{s:0320}Heard the voice of God or whatever, to me she's just a slip of a girl...{g}{x:00}
+
+@30
+{z}I won't let a girl like that die in a battle!{g}{x:00}
+
+@31
+{z}{s:0320}By the Lord's command... I will strike you down!{g}{x:00}
+
+@32
+{z}{s:0320}If this job goes well, we can live it up for a good while!{g}{x:00}
+
+@33
+{z}{s:0320}Begin the attack!{g}{x:00}
+
+@34
+{z}{s:0320}I'm sorry, {a:009f}... I wasn't much help.{g}{x:00}
+
+@35
+{z}{s:0320}Damn! I let my guard down!{g}{x:00}
+
+@36
+{z}{s:0320}{a:0000}... Please protect {a:009f}...{g}{x:00}
+
+@37
+{z}{s:0320}Argh...{w}{w} {a:0000}, I leave {a:009f} to you.{g}{x:00}
+
+@38
+{z}{s:0320}My company ends here... Sorry, but I must retreat.{g}{x:00}
+
+@39
+{z}{s:0320}Aaargh! Lady {a:009f}...{g}{x:00}
+
+@40
+{z}{s:0320}Argh...{g}{x:00}
+
+@41
+{z}{s:0320}Now...{w}{w} will I get to Heaven...{w}{w} I wonder...{w}{w} Lady {a:009f}...{g}{x:00}
+
+@42
+{z}{s:0320}Argh... My unit is finished...{g}{x:00}
+
+@43
+{z}I leave the rest to you. Catch that witch and come back!{g}{x:00}
+
+@44
+{z}{s:0320}Right! Leave it to us!{g}{x:00}
+
+@45
+{z}{s:0320}Wiped out... And I thought it was a sweet job.{g}{x:00}
+
+@46
+{z}{s:0320}How strong they are... Damn! It's hopeless...{g}{x:00}
+
+@47
+{z}{s:0320}{a:009f}! Don't go so far forward!{g}{x:00}
+
+@48
+{z}{s:0320}I told you! I can't stay at the back!{g}{x:00}
+
+@49
+{z}{s:0320}Don't be so wilful!{g}{x:00}
+
+@50
+{z}{s:0320}What?{g}{x:00}
+
+@51
+{z}{s:0320}Look at the soldiers around you...{g}{x:00}
+
+@52
+{z}They're fighting desperately for the country...{w} for you...{g}{x:00}
+
+@53
+{z}Every time you push too hard, soldiers die!{g}{x:00}
+
+@54
+{z}{s:0320}!{g}{x:00}
+
+@55
+{z}{s:0320}Don't be swayed by passing feelings.{w} Value your own life first!{g}{x:00}
+
+@56
+{z}I understand... I will command from the rear.{g}{x:00}
+
+@57
+{z}In return...{w}{w} {a:0004}...{w}{w} please fight carefully yourself...{g}{x:00}
+
+@58
+{z}{s:0320}I know...{g}{x:00}
+
+@59
+{z}I make a point of never making a pretty girl sad.{g}{x:00}
+
+@60
+{z}{s:0320}{a:0004}...{g}{x:00}
+
+@61
+{z}{s:0320}You're the Tigre Mercenaries! Did you take a job helping the witch?{g}{x:00}
+
+@62
+{z}{s:0320}{a:009f} is no witch! And this is no Guild job either!{g}{x:00}
+
+@63
+{z}She is trying to protect the town of Langres from the flames of war... We are only helping her!{g}{x:00}
+
+@64
+{z}{s:0320}That girl is desperately trying to protect her town... her country!{g}{x:00}
+
+@65
+{z}Calling her a witch for it... I won't forgive that!{g}{x:00}
+
+@66
+{z}{s:0320}Witch or not, we don't care!{g}{x:00}
+
+@67
+{z}What matters is that bringing her back means money!{g}{x:00}
+
+@68
+{z}{s:0320}Money, money, always money... That's why mercenaries are despised!{g}{x:00}
+
+@69
+{z}{s:0320}I won't hand that girl over...{g}{x:00}
+
+@70
+{z}{s:0320}Heh, don't tell me you've fallen for the witch?{g}{x:00}
+
+@71
+{z}{s:0320}Not at all...{g}{x:00}
+
+@72
+{z}It's just that my conscience won't let me give a sweet girl like her to ugly brutes like you!{g}{x:00}
+
+@73
+{z}{s:0320}I am no witch... I only want to protect the land I was born in...{g}{x:00}
+
+@74
+{z}That wish reached Heaven, and God spoke to me!{g}{x:00}
+
+@75
+{z}{s:0320}Hmph,{w} not my concern.{w} This is about money, so we're taking you...{g}{x:00}
+
+@76
+{z}{s:0320}Ah...{g}{x:00}
+
+@77
+{z}{s:0320}{a:009f}!{g}{x:00}
+
+@78
+{z}{s:0320}Lord...{w}{w} my life ends here, then... But I have no regrets...{g}{x:00}
+
+@79
+{z}I believe someone will follow me and fight for our homeland...{g}{x:00}
+
+@80
+{z}I shall watch over it at the Lord's side...{g}{x:00}
+
+@81
+{z}Fighting on is pointless... Retreat!{g}{x:00}
+
+@82
+{z}{s:0320}We did it. The victory is ours...{g}{x:00}
+
+@83
+{z}{s:0320}Phew... It's over...{g}{x:00}
+
+@84
+{z}{a:0000}... {a:0004}... Thank you.{g}{x:00}
+
+@85
+{z}{s:0320}Don't mention it...{g}{x:00}
+
+@86
+{z}From now on, as a commander, you'll have to learn how to fight...{g}{x:00}
+
+@87
+{z}The volunteer army's soldiers rely on you. That much is your duty...{g}{x:00}
+
+@88
+{z}{s:0320}Yes...{w}{w} I'll do my best.{g}{x:00}
+
+@89
+{z}{s:0320}We did it. The victory is ours...{g}{x:00}
+
+@90
+{z}{s:0320}Phew... It's over...{g}{x:00}
+
+@91
+{z}{a:0000}... Thank you.{g}{x:00}
+
+@92
+{z}{s:0320}Not at all...{g}{x:00}
+
+@93
+{z}But if you mean to keep fighting, you had better learn some tactics.{g}{x:00}
+
+@94
+{z}{s:0320}Yes...{w}{w} I'll do my best.{g}{x:00}
+
+@95
+{z}{s:0320}Good thing we won... Now the people of Langres are saved.{g}{x:00}
+
+@96
+{z}{s:0320}Yes...{w}{w} Truly. It must be thanks to the Lord's protection.{g}{x:00}
+
+@97
+{z}{s:0320}Yes...{w}{w} God answered your love for your homeland...{w} surely.{g}{x:00}
+
+@98
+{z}{s:0320}Perhaps so...{g}{x:00}
+
+@99
+{z}{s:0320}Good thing we won... Now the people of Langres are saved.{g}{x:00}
+
+@100
+{z}{s:0320}Yes...{w}{w} Truly. It must be thanks to the Lord's protection.{g}{x:00}
+
+@101
+{z}{s:0320}Yes...{w}{w} God answered your love for your homeland...{w} surely.{g}{x:00}
+
+@102
+{z}{s:0320}Perhaps so...{g}{x:00}
+
+@103
+{z}{s:0320}{a:009f} has...{w}{w} fallen...{g}{x:00}
+
+@104
+{z}{s:0320}...{g}{x:00}
+
+@105
+{z}...{g}{x:00}
+
+@106
+{z}{s:0320}Nothing else for it... I'll see to {a:009f} myself...{g}{x:00}
+

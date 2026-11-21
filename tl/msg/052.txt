@@ -1,0 +1,477 @@
+@0
+{z}{s:0320}The deserters fled into this forest...{g}{x:00}
+
+@1
+{z}{s:0320}There's no doubt about it.{g}{x:00}
+
+@2
+{z}{s:0320}How many companies are hiding in this forest?{g}{x:00}
+
+@3
+{z}{s:0320}No idea.{g}{x:00}
+
+@4
+{z}{s:0320}Finding even one company is enough.{g}{x:00}
+
+@5
+{z}{s:0320}Why?{g}{x:00}
+
+@6
+{z}{s:0320}Because it's as good as finding them all.{g}{x:00}
+
+@7
+{z}{s:0320}But why is that?{g}{x:00}
+
+@8
+{z}{s:0320}They're being hunted, so they're very uneasy.{g}{x:00}
+
+@9
+{z}And in that state, what if you didn't know where your comrades were?{g}{x:00}
+
+@10
+{z}{s:0320}I'd be even more uneasy.{g}{x:00}
+
+@11
+{z}{s:0320}So they stay within sight of one another...{g}{x:00}
+
+@12
+{z}{s:0320}I see! The enemy is bunched up in one place... That's it!{g}{x:00}
+
+@13
+{z}{s:0320}Reading the enemy's state of mind is basic soldiering.{g}{x:00}
+
+@14
+{z}{s:0320}Right, lesson's over. Let's get to work.{g}{x:00}
+
+@15
+{z}{s:0320}There they are! Over there!{g}{x:00}
+
+@16
+{z}{s:0320}Found you!{g}{x:00}
+
+@17
+{z}{s:0320}Show yourselves! We know you're in there!{g}{x:00}
+
+@18
+{z}{s:0320}How long will you hide? We know you're in there.{g}{x:00}
+
+@19
+{z}{s:0320}So that's where they were...{g}{x:00}
+
+@20
+{z}{s:0320}Show yourselves! We know you're in there!{g}{x:00}
+
+@21
+{z}{s:0320}Damn... we've been found...{g}{x:00}
+
+@22
+{z}{s:0320}Do we fight?{g}{x:00}
+
+@23
+{z}{s:0320}No, let's run for it.{g}{x:00}
+
+@24
+{z}There's no need to fight out of stubbornness.{g}{x:00}
+
+@25
+{z}Right! We run! Head south, into {p:01}!{g}{x:00}
+
+@26
+{z}{s:0320}Will there be any support from {p:01}?{g}{x:00}
+
+@27
+{z}{s:0320}Hmm... {w}{w}Doesn't look like it.{g}{x:00}
+
+@28
+{z}{s:0320}Right. They're just running into {p:01} uninvited.{g}{x:00}
+
+@29
+{z}{s:0320}Nobody wants them badly enough to send reinforcements...{g}{x:00}
+
+@30
+{z}{s:0320}Exactly.{g}{x:00}
+
+@31
+{z}{s:0320}If no reinforcements are coming, this should be easy to finish.{g}{x:00}
+
+@32
+{z}{s:0320}Don't take them lightly. You never know what may happen in this world.{g}{x:00}
+
+@33
+{z}{s:0320}Now then... where shall I go today...{g}{x:00}
+
+@34
+{z}{s:0320}Boss! Over there!{g}{x:00}
+
+@35
+{z}{s:0320}Hm? Mercenaries and a regular army? {w}{w}Are they in the middle of a battle?{g}{x:00}
+
+@36
+{z}{s:0320}...It seems so.{g}{x:00}
+
+@37
+{z}{s:0320}This is bad... we might get dragged into it.{g}{x:00}
+
+@38
+{z}{s:0320}I absolutely don't want that!{g}{x:00}
+
+@39
+{z}{s:0320}Neither do I.{g}{x:00}
+
+@40
+{z}{s:0320}Let's turn back before they notice us.{g}{x:00}
+
+@41
+{z}{s:0320}Motion carried! All right, we turn back!{g}{x:00}
+
+@42
+{z}{s:0320}Hey, you there! Brigands!{g}{x:00}
+
+@43
+{z}{s:0320}Y-{w}{w}Yes...? {w}{w}What can I do for you?{g}{x:00}
+
+@44
+{z}{s:0320}Hm... brigands turning up here...{g}{x:00}
+
+@45
+{z}{s:0320}What? Brigands? Why are they in a place like this?{g}{x:00}
+
+@46
+{z}{s:0320}Brigands? What are they doing here?{g}{x:00}
+
+@47
+{z}{s:0320}Hm... brigands. Unexpected guests.{g}{x:00}
+
+@48
+{z}{s:0320}Why would brigands be in a place like this?{g}{x:00}
+
+@49
+{z}{s:0320}We have a favour to ask of you.{g}{x:00}
+
+@50
+{z}{s:0320}A favour...? {w}{w}What kind?{g}{x:00}
+
+@51
+{z}{s:0320}Hold the mercenaries off until we have escaped south.{g}{x:00}
+
+@52
+{z}{s:0320}South? South is {p:01}. Don't you mean west?{g}{x:00}
+
+@53
+{z}But you're {p:01}'s knights, aren't you...?{g}{x:00}
+
+@54
+{z}{s:0320}We are fleeing.{g}{x:00}
+
+@55
+{z}{s:0320}You're... {w}{w}being hunted by your own country?{g}{x:00}
+
+@56
+{z}{s:0320}They're asking brigands for help?{g}{x:00}
+
+@57
+{z}{s:0320}You're asking brigands for help?{g}{x:00}
+
+@58
+{z}{s:0320}Well, it's only natural to ask for help here.{g}{x:00}
+
+@59
+{z}{s:0320}I thought so...{g}{x:00}
+
+@60
+{z}{s:0320}If even more enemies join in here...{g}{x:00}
+
+@61
+{z}{s:0320}What now? Will you take it?{g}{x:00}
+
+@62
+{z}{s:0320}They're a regular army, so their strength won't be a problem...{g}{x:00}
+
+@63
+{z}And they must be carrying a fair amount of gold... {w}{w}...which means...{g}{x:00}
+
+@64
+{z}{s:0320}...We have no choice but to accept.{g}{x:00}
+
+@65
+{z}{s:0320}Right? It's a pretty sweet deal.{g}{x:00}
+
+@66
+{z}{s:0320}Well?{g}{x:00}
+
+@67
+{z}{s:0320}We'll help! We'll gladly help!{g}{x:00}
+
+@68
+{z}{s:0320}Good, it's settled.{g}{x:00}
+
+@69
+{z}{s:0320}They've joined forces, have they... Tch, this won't end easily.{g}{x:00}
+
+@70
+{z}Well, it's still better than having {p:01}'s regular army show up.{g}{x:00}
+
+@71
+{z}{s:0320}A few brigands joining in makes no difference.{g}{x:00}
+
+@72
+{z}{s:0320}There are more enemies now... {a:0000}, are you all right?{g}{x:00}
+
+@73
+{z}{s:0320}They may only be brigands, but more enemies are never welcome.{g}{x:00}
+
+@74
+{z}{s:0320}Only a pack of brigands joining them? You and I will be enough.{g}{x:00}
+
+@75
+{z}{s:0320}We've entered {p:01}!{g}{x:00}
+
+@76
+{z}{s:0320}Good! We've entered {p:01}! The castle shouldn't be far from here...{g}{x:00}
+
+@77
+{z}{s:0320}Keep heading for the castle! Don't mind us!{g}{x:00}
+
+@78
+{z}Hurry! Quickly!{g}{x:00}
+
+@79
+{z}{s:0320}Understood!{g}{x:00}
+
+@80
+{z}{s:0320}They got away... We weren't thorough enough.{g}{x:00}
+
+@81
+{z}Oh well... Let's go home.{g}{x:00}
+
+@82
+{z}{s:0320}They got away... We were so close.{g}{x:00}
+
+@83
+{z}No help for it... Let's pull out.{g}{x:00}
+
+@84
+{z}{s:0320}They escaped... And only that lot were left...{g}{x:00}
+
+@85
+{z}Nothing for it... Pull out.{g}{x:00}
+
+@86
+{z}{s:0320}Damn... they got away... Only that lot was left...{g}{x:00}
+
+@87
+{z}Can't be helped... Let's go home.{g}{x:00}
+
+@88
+{z}{s:0320}They escaped... Only those people were left...{g}{x:00}
+
+@89
+{z}Oh well... Let's go home...{g}{x:00}
+
+@90
+{z}{s:0320}We weren't to let even one company escape... Oh no...{g}{x:00}
+
+@91
+{z}It's galling, but the mission is a failure. ...Let's go home.{g}{x:00}
+
+@92
+{z}{s:0320}They escaped...{g}{x:00}
+
+@93
+{z}Nothing for it... The mission has failed. ...Let's go home.{g}{x:00}
+
+@94
+{z}{s:0320}Not even one company was to escape...{g}{x:00}
+
+@95
+{z}A failure. ...Let's pull out.{g}{x:00}
+
+@96
+{z}{s:0320}Not even one company was to escape... Damn, it's a failure.{g}{x:00}
+
+@97
+{z}...Let's go home.{g}{x:00}
+
+@98
+{z}{s:0320}Not even one company was to escape... Oh no...{g}{x:00}
+
+@99
+{z}We failed the mission... Let's go home...{g}{x:00}
+
+@100
+{z}{s:0320}So they got away safely...{g}{x:00}
+
+@101
+{z}...{w}{w}! {w}{w}Huh? Where's the money we were promised? We haven't been paid yet!{g}{x:00}
+
+@102
+{z}Oh no...{g}{x:00}
+
+@103
+{z}{s:0320}The enemy's gone! We did it! We're saved!{g}{x:00}
+
+@104
+{z}Good! We'll go after them too!{g}{x:00}
+
+@105
+{z}{s:0320}Give... {w}{w}give that back...{g}{x:00}
+
+@106
+{z}Obtained {p:01}'s important documents.{g}{x:00}
+
+@107
+{z}{s:0320}Damn! They've been wiped out! What a feeble bunch!{g}{x:00}
+
+@108
+{z}I won't get dragged down with them! Run!{g}{x:00}
+
+@109
+{z}{s:0320}Where are the ones who fled?{g}{x:00}
+
+@110
+{z}{s:0320}Yes, it just ended.{g}{x:00}
+
+@111
+{z}{s:0320}It just ended.{g}{x:00}
+
+@112
+{z}{s:0320}It just ended.{g}{x:00}
+
+@113
+{z}{s:0320}Yes, just now.{g}{x:00}
+
+@114
+{z}{s:0320}It was settled just now.{g}{x:00}
+
+@115
+{z}{s:0320}Yes, it just ended.{g}{x:00}
+
+@116
+{z}{s:0320}We've come to collect the important documents they took.{g}{x:00}
+
+@117
+{z}We didn't want to trouble you with bringing them to us.{g}{x:00}
+
+@118
+{z}Now, hand over the documents.{g}{x:00}
+
+@119
+{z}Handed over {p:01}'s important documents.{g}{x:00}
+
+@120
+{z}{s:0320}Hm... {w}{w}These are the right documents. Well done.{g}{x:00}
+
+@121
+{z}Now, if you'll excuse us!{g}{x:00}
+
+@122
+{z}{s:0320}It ended safely. Thank goodness...{g}{x:00}
+
+@123
+{z}{s:0320}So the mission is accomplished. Good, it ended safely.{g}{x:00}
+
+@124
+{z}{s:0320}Our job here is done. Let's get out of here.{g}{x:00}
+
+@125
+{z}{s:0320}It ended safely. I'm so glad...{g}{x:00}
+
+@126
+{z}{s:0320}Our job here is done. Phew...{g}{x:00}
+
+@127
+{z}{s:0320}I'm sorry... for being no use...{g}{x:00}
+
+@128
+{z}{s:0320}To lose to the likes of you... Me...{g}{x:00}
+
+@129
+{z}{s:0320}Why... why did I lose to this lot... I'm sorry...{g}{x:00}
+
+@130
+{z}{s:0320}Ow, ow... I can't go on any more...{g}{x:00}
+
+@131
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@132
+{z}{s:0320}Make sure they escape... Understand?{g}{x:00}
+
+@133
+{z}And... don't forget to collect the money...{g}{x:00}
+
+@134
+{z}{s:0320}I was some use, surely... Hurry... hand over the money...{g}{x:00}
+
+@135
+{z}{s:0320}Useless wretches... I won't pay gold to the likes of you.{g}{x:00}
+
+@136
+{z}{s:0320}All that's left is to go straight south along this road...{g}{x:00}
+
+@137
+{z}{s:0320}We're still part of the regular army... {w}{w}We'll show you our pride!{g}{x:00}
+
+@138
+{z}{s:0320}Out of our way!{g}{x:00}
+
+@139
+{z}{s:0320}Which country we go to is none of your business!{g}{x:00}
+
+@140
+{z}{s:0320}We won't lose to mercenaries!{g}{x:00}
+
+@141
+{z}{s:0320}Charge!{g}{x:00}
+
+@142
+{z}{s:0320}I'm {a:0002} of the Tigre! Prepare yourselves!{g}{x:00}
+
+@143
+{z}{s:0320}Mere brigands... Be gone!{g}{x:00}
+
+@144
+{z}{s:0320}Too bad... {w}{w}Someone else... {w}{w}has the documents...{g}{x:00}
+
+@145
+{z}{s:0320}Damn... {w}{w}After running this far...{g}{x:00}
+
+@146
+{z}{s:0320}I- {w}{w}I don't regret... {w}{w}deserting... {w}{w}not at all...{g}{x:00}
+
+@147
+{z}{s:0320}Then how do you always know where your comrades are?{g}{x:00}
+
+@148
+{z}...{w}{w} Hm? {w}{w}Your pursuers are mercenaries...?{g}{x:00}
+
+@149
+{z}Of course, we will pay you handsomely. Not a bad offer, I think...{g}{x:00}
+
+@150
+{z}Now we just go to the castle and hand over these papers!{g}{x:00}
+
+@151
+{z}Phew... {w}{w}So helping paid off.{g}{x:00}
+
+@152
+{z}They're nowhere to be seen... Maybe it's already over?{g}{x:00}
+
+@153
+{z}What brings the regular army here?{g}{x:00}
+
+@154
+{z}So what do you want, exactly?{g}{x:00}
+
+@155
+{z}What brings the regular army here?{g}{x:00}
+
+@156
+{z}So why are you lot here?{g}{x:00}
+
+@157
+{z}By the way, what is it you want?{g}{x:00}
+
+@158
+{z}What brings the regular army here?{g}{x:00}
+

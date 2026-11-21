@@ -1,0 +1,390 @@
+@0
+{z}{s:0320}Look! The Prince is over there!{g}{x:00}
+
+@1
+{z}{s:0320}Hurry! My brother's knights are after him!{g}{x:00}
+
+@2
+{z}{s:0320}Come, Your Highness! Quietly, this way...{g}{x:00}
+
+@3
+{z}{s:0320}No!{g}{x:00}
+
+@4
+{z}I don't care about the throne! Why won't they leave me alone...{g}{x:00}
+
+@5
+{z}{s:0320}You shall not escape! Now, come along!{g}{x:00}
+
+@6
+{z}{s:0320}Aaagh!{g}{x:00}
+
+@7
+{z}{a:0000}...{w}{w} I... {w}I wish I had never been born a prince...{g}{x:00}
+
+@8
+{z}{s:0320}Your Highness!{g}{x:00}
+
+@9
+{z}{s:0320}Prince!{g}{x:00}
+
+@10
+{z}{s:0320}Ha ha ha ha ha... Well done!{g}{x:00}
+
+@11
+{z}With this, the royal house of Saxen is finished. I am this country's new king!{g}{x:00}
+
+@12
+{z}{s:0320}How dare you! You traitor, you murdered the Prince!{g}{x:00}
+
+@13
+{z}You are no brother of mine! I will strike you down myself!{g}{x:00}
+
+@14
+{z}{s:0320}Heh...{w}{w} You dare defy me? I am the new king! It is you who are the traitors!{g}{x:00}
+
+@15
+{z}All forces, hear me! Cut down the traitors {a:0000} and {a:0068}!{g}{x:00}
+
+@16
+{z}{s:0320}Look who is calling us traitors, after what he did!{g}{x:00}
+
+@17
+{z}{s:0320}The winner decides what is just. Lose here, and we stay traitors even in death.{g}{x:00}
+
+@18
+{z}{s:0320}I won't lose to a man like that!{g}{x:00}
+
+@19
+{z}{s:0320}{a:0000}! Defeat {a:0066} and the enemy will fall apart!{g}{x:00}
+
+@20
+{z}We'll fight our way to the castle and defeat {a:0066}!{g}{x:00}
+
+@21
+{z}{s:0320}Company 3, hold the bridge! The rest of the companies, pin down the enemy!{g}{x:00}
+
+@22
+{z}Heh...{w} Will anyone even make it to me?{g}{x:00}
+
+@23
+{z}{s:0320}We are so close to peace returning.{g}{x:00}
+
+@24
+{z}Until that day comes, I have to keep fighting!{g}{x:00}
+
+@25
+{z}{s:0320}If we lose here, all our fighting so far will have been for nothing!{g}{x:00}
+
+@26
+{z}{s:0320}This battle decides the future of Saxen,{w}{w} and of the whole continent!{g}{x:00}
+
+@27
+{z}We can't lose!{g}{x:00}
+
+@28
+{z}{s:0320}I'm sick of fighting. I'd like to be done with it...{g}{x:00}
+
+@29
+{z}I've saved up plenty for a good time, too...{g}{x:00}
+
+@30
+{z}{s:0320}So {a:0066} finally shows his fangs. But I will not let the world fall back into chaos!{g}{x:00}
+
+@31
+{z}{s:0320}I will avenge the Prince!{g}{x:00}
+
+@32
+{z}{s:0320}For Lady {a:0068}'s sake, we cannot lose this battle!{g}{x:00}
+
+@33
+{z}{s:0320}Sorry...{w} {a:0000}. Keep fighting to the end...{g}{x:00}
+
+@34
+{z}{s:0320}Damn! My whole company wiped out!{g}{x:00}
+
+@35
+{z}{s:0320}To retreat in a battle this important...{g}{x:00}
+
+@36
+{z}{s:0320}I'm pulling out... {a:0000}...{w}{w} Win this, you hear!{g}{x:00}
+
+@37
+{z}{s:0320}Forgive me...{w}{w} {a:0000}. This is as far as I can go...{g}{x:00}
+
+@38
+{z}{s:0320}My unit is at its limit! Regrettably, we withdraw...{g}{x:00}
+
+@39
+{z}{a:0000}... Be sure to avenge the Prince...{g}{x:00}
+
+@40
+{z}{s:0320}Ngh, this is the end... My unit withdraws! Don't fall behind!{g}{x:00}
+
+@41
+{z}{s:0320}{a:0000}... So you made it this far after all...{g}{x:00}
+
+@42
+{z}{s:0320}Lord {a:0066}...{g}{x:00}
+
+@43
+{z}Your way will throw the world, just now growing peaceful, back into chaos.{g}{x:00}
+
+@44
+{z}{s:0320}Heh heh. And what of it?{g}{x:00}
+
+@45
+{z}Then I shall be the conqueror of an age of chaos and reign over this continent!{g}{x:00}
+
+@46
+{z}And when my strength fails, I don't mind perishing just as Saxen did! That is the way of chaos!{g}{x:00}
+
+@47
+{z}{s:0320}The people long for peace! And yet you...{g}{x:00}
+
+@48
+{z}{s:0320}I live by the sword...{w}{w} and die by the sword. That is my way!{g}{x:00}
+
+@49
+{z}Draw your sword, {a:0000}! We settle this in a duel, you and I!{g}{x:00}
+
+@50
+{z}{s:0320}Heh...{w}{w} Have you lost your nerve, {a:0000}?{g}{x:00}
+
+@51
+{z}Is that all you are?{g}{x:00}
+
+@52
+{z}Our morale fell.{g}{x:00}
+
+@53
+{z}{s:0320}You killed the Prince for your own ambition... I can't forgive that!{g}{x:00}
+
+@54
+{z}{s:0320}A weakling prince like that could never hold this great realm together!{g}{x:00}
+
+@55
+{z}The weak perish. That is the law of this world!{g}{x:00}
+
+@56
+{z}{s:0320}How can you say that?!{g}{x:00}
+
+@57
+{z}The continent was finally united, and everyone longed for a kind man like the Prince!{g}{x:00}
+
+@58
+{z}With your methods, the wars will never end!{g}{x:00}
+
+@59
+{z}{s:0320}Heh...{w}{w} What would a little girl like you know of politics?{g}{x:00}
+
+@60
+{z}{s:0320}I've wanted to cross swords with you for a long time!{g}{x:00}
+
+@61
+{z}{s:0320}Oh? I am honoured...{g}{x:00}
+
+@62
+{z}I'll test whether you have the strength for it!{g}{x:00}
+
+@63
+{z}{s:0320}All right, here I come, {a:0066}!{g}{x:00}
+
+@64
+{z}{s:0320}You were never worthy of the name of knight...{g}{x:00}
+
+@65
+{z}If men like you are called knights, I will give up my dream...{g}{x:00}
+
+@66
+{z}{s:0320}Heh...{w}{w} The stifling rank of knight was only ever a shackle to me...{g}{x:00}
+
+@67
+{z}But that no longer matters... Come, girl!{g}{x:00}
+
+@68
+{z}{s:0320}It was a long road to this castle...{g}{x:00}
+
+@69
+{z}{s:0320}It's not too late. Why not fight under me?{g}{x:00}
+
+@70
+{z}{s:0320}I only just got back to Tigre. I've no mind to go elsewhere now...{g}{x:00}
+
+@71
+{z}This is your last stronghold, isn't it? I'm not fool enough to switch to the losing side!{g}{x:00}
+
+@72
+{z}{s:0320}Heh...{g}{x:00}
+
+@73
+{z}Then let your corpse lie in that last stronghold!{g}{x:00}
+
+@74
+{z}{s:0320}So you too, like {a:0031}, have lost your soul to power...{g}{x:00}
+
+@75
+{z}{s:0320}Like {a:0031}, you say...{g}{x:00}
+
+@76
+{z}Hmph... Don't lump me in with that loser!{g}{x:00}
+
+@77
+{z}{s:0320}So you are another man who must be brought down...{g}{x:00}
+
+@78
+{z}{s:0320}Nonsense!{g}{x:00}
+
+@79
+{z}Very well! Let's see what an old relic can do!{g}{x:00}
+
+@80
+{z}{s:0320}{a:0066}... For the Prince! Prepare yourself!{g}{x:00}
+
+@81
+{z}{s:0320}{a:0068}... Will you really turn your blade on your own brother?{g}{x:00}
+
+@82
+{z}{s:0320}Ngh...{w}{w} I told you! You are no brother of mine!{g}{x:00}
+
+@83
+{z}From the moment you laid hands on the Prince, it was bound to come to this...{g}{x:00}
+
+@84
+{z}{s:0320}Yes...{w} I knew. And...{w} I had made up my mind...{g}{x:00}
+
+@85
+{z}That if you insisted on defying me, I would cut you down, sister or not...{g}{x:00}
+
+@86
+{z}{a:0068}... Here I come!{g}{x:00}
+
+@87
+{z}{s:0320}So you can press me this hard! I'll hold nothing back now!{g}{x:00}
+
+@88
+{z}Ferdinand's morale has risen.{g}{x:00}
+
+@89
+{z}{s:0320}Impossible... I, of all men...{g}{x:00}
+
+@90
+{z}I am this country's king...{w} ...{w}{w} and the conqueror of this continent...{g}{x:00}
+
+@91
+{z}{s:0320}Lord {a:0066} has fallen! Fall back... Fall back!{g}{x:00}
+
+@92
+{z}{s:0320}Lord {a:0066}...{g}{x:00}
+
+@93
+{z}{s:0320}{a:0000}... Take a good look, you too. This is how a man drowned in power ends...{g}{x:00}
+
+@94
+{z}...{g}{x:00}
+
+@95
+{z}Come...{w} Let us return to the castle with the Prince's body...{g}{x:00}
+
+@96
+{z}{s:0320}...{w}{w} Lord {a:0066}...{g}{x:00}
+
+@97
+{z}{s:0320}However a person lived, the end is always sad...{g}{x:00}
+
+@98
+{z}{s:0320}Yes... It is.{g}{x:00}
+
+@99
+{z}{s:0320}...{w}{w} Lord {a:0066}...{g}{x:00}
+
+@100
+{z}{s:0320}He was just like {a:0031}... Those who drown in power are destroyed by it.{g}{x:00}
+
+@101
+{z}Everyone is drawn to power. Once you become its slave, there is no escaping it...{g}{x:00}
+
+@102
+{z}I trust you will be all right... {a:0000}...{g}{x:00}
+
+@103
+{z}{s:0320}...{g}{x:00}
+
+@104
+{z}{s:0320}...{w}{w} Lord {a:0066}...{g}{x:00}
+
+@105
+{z}{s:0320}However a person lived, the end is always sad...{g}{x:00}
+
+@106
+{z}{s:0320}...{g}{x:00}
+
+@107
+{z}{s:0320}Some conqueror... You're all talk.{g}{x:00}
+
+@108
+{z}If strength is all it takes, I could be king too...{g}{x:00}
+
+@109
+{z}{s:0320}{a:0002}...{g}{x:00}
+
+@110
+{z}{s:0320}...{g}{x:00}
+
+@111
+{z}Thrones and the rest... People are all the same once power gets its hooks in.{g}{x:00}
+
+@112
+{z}{a:0000}... Will you be all right?{g}{x:00}
+
+@113
+{z}Even if you become king, you won't change, will you?{g}{x:00}
+
+@114
+{z}{s:0320}... Lord {a:0066}...{g}{x:00}
+
+@115
+{z}{s:0320}To keep the losses to a minimum, we have to bring you down now!{g}{x:00}
+
+@116
+{z}{s:0320}Unless we defeat you, true peace will never come to the continent!{g}{x:00}
+
+@117
+{z}{s:0320}Right from our first meeting I felt you were different from the others...{g}{x:00}
+
+@118
+{z}But...{w} I never thought you would get this far!{g}{x:00}
+
+@119
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@120
+{z}{s:0320}Hmph!{w} Axe Express!{g}{x:00}
+
+@121
+{z}{s:0320}Spiral Axe!{g}{x:00}
+
+@122
+{z}{s:0320}Ha{w} ah{w} aaah...!{g}{x:00}
+
+@123
+{z}{w}Final Burn!{g}{x:00}
+
+@124
+{z}{s:0320}What's wrong, {a:0000}? Is that all you've got?!{g}{x:00}
+
+@125
+{z}{s:0320}Ngh...{g}{x:00}
+
+@126
+{z}{s:0320}For the Prince! This blow avenges him!{g}{x:00}
+
+@127
+{z}{s:0320}A man like you was never a match for me!{g}{x:00}
+
+@128
+{z}{s:0320}!{g}{x:00}
+
+@129
+{z}What...!?{g}{x:00}
+

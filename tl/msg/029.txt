@@ -1,0 +1,387 @@
+@0
+{z}{s:0320}We've finally made it this far...{g}{x:00}
+
+@1
+{z}{s:0320}Yes. Nearly there now. We'll be home soon.{g}{x:00}
+
+@2
+{z}{s:0320}But will there even be a place for us when we get back?{g}{x:00}
+
+@3
+{z}{s:0320}{p:01} is our homeland. They're bound to welcome us.{g}{x:00}
+
+@4
+{z}{s:0320}Hey! Over there!{g}{x:00}
+
+@5
+{z}{s:0320}Mercenaries?{g}{x:00}
+
+@6
+{z}{s:0320}Damn... and the border so close...{g}{x:00}
+
+@7
+{z}{s:0320}Don't worry! We're on your side!{g}{x:00}
+
+@8
+{z}{s:0320}So {p:01} hasn't abandoned us after all...{g}{x:00}
+
+@9
+{z}{s:0320}We mean to cross the forest to the north-west. Once we're in, the pursuers will give up.{g}{x:00}
+
+@10
+{z}{s:0320}Understood.{g}{x:00}
+
+@11
+{z}{s:0320}How close are the pursuers?{g}{x:00}
+
+@12
+{z}{s:0320}They're already lying in wait.{g}{x:00}
+
+@13
+{z}{s:0320}Those bastards... when did they get here?{g}{x:00}
+
+@14
+{z}{s:0320}They must have laid an ambush.{g}{x:00}
+
+@15
+{z}{s:0320}Exactly! We waited in ambush before the bridge...{g}{x:00}
+
+@16
+{z}{s:0320}What do we do? They'll kill us...{g}{x:00}
+
+@17
+{z}{s:0320}We have allies here too. Trust them and run.{g}{x:00}
+
+@18
+{z}{s:0320}Was it really necessary to show ourselves?{g}{x:00}
+
+@19
+{z}{s:0320}It's fine. We have a trump card.{g}{x:00}
+
+@20
+{z}{s:0320}An ambush, here!{g}{x:00}
+
+@21
+{z}{s:0320}So that you'd be caught whichever way you went, we waited in two places!{g}{x:00}
+
+@22
+{z}{s:0320}H-help us!{g}{x:00}
+
+@23
+{z}{s:0320}Go round to the east, quickly! Hurry!{g}{x:00}
+
+@24
+{z}{s:0320}Go round to the east, quickly! Hurry!{g}{x:00}
+
+@25
+{z}{s:0320}Please go round to the east! Hurry!{g}{x:00}
+
+@26
+{z}{s:0320}Go east, or you'll be cut down.{g}{x:00}
+
+@27
+{z}{s:0320}R-right. East! Run east!{g}{x:00}
+
+@28
+{z}The victory condition is now: "The villagers enter the north-east forest."{g}{x:00}
+
+@29
+{z}{s:0320}We finally made it... I thought I was dead.{g}{x:00}
+
+@30
+{z}Sorry, but I'm going on ahead! You lot make sure you get away too!{g}{x:00}
+
+@31
+{z}{s:0320}We should be safe now that we've got this far...{g}{x:00}
+
+@32
+{z}The enemy is coming, so we must hurry on! We'll never forget your kindness!{g}{x:00}
+
+@33
+{z}{s:0320}They got away... damn it.{g}{x:00}
+
+@34
+{z}It was a perfect plan... Blasted Tigre!{g}{x:00}
+
+@35
+{z}{s:0320}The enemy's gone... We're saved...{g}{x:00}
+
+@36
+{z}{s:0320}Phew... it's over. Not a bad result.{g}{x:00}
+
+@37
+{z}This new Tigre isn't bad. They're all young and unreliable, but I look forward to what comes next.{g}{x:00}
+
+@38
+{z}{s:0320}We got them away safely. The job's done.{g}{x:00}
+
+@39
+{z}Anyway... {a:0004} let us down, as I expected.{g}{x:00}
+
+@40
+{z}{s:0320}Keep going and stay safe!{g}{x:00}
+
+@41
+{z}{s:0320}Thank goodness... they'll all get home.{g}{x:00}
+
+@42
+{z}An ambush, and everyone retreating... I thought it was hopeless.{g}{x:00}
+
+@43
+{z}{s:0320}Phew... it's over. We just about scraped through.{g}{x:00}
+
+@44
+{z}{s:0320}It's over... We just about scraped through.{g}{x:00}
+
+@45
+{z}Anyway... {a:0004} let us down, as I expected.{g}{x:00}
+
+@46
+{z}{s:0320}We couldn't save everyone... We have to get stronger.{g}{x:00}
+
+@47
+{z}{s:0320}Finished... that took a long time.{g}{x:00}
+
+@48
+{z}Your command is only half-baked, so you get cornered like this. Try harder.{g}{x:00}
+
+@49
+{z}{s:0320}Ugh... why did this happen to us...{g}{x:00}
+
+@50
+{z}{s:0320}Heh heh heh! That's the lot of them! Our job is done!{g}{x:00}
+
+@51
+{z}{s:0320}We couldn't protect them... and we were right there...{g}{x:00}
+
+@52
+{z}Innocent people, treated so cruelly...{w}{w} Why?{g}{x:00}
+
+@53
+{z}{s:0320}We couldn't protect them... and we were right there...{g}{x:00}
+
+@54
+{z}If we'd been stronger, this wouldn't have happened. If only we were stronger...{g}{x:00}
+
+@55
+{z}{s:0320}We couldn't protect them... Why did we come here?{g}{x:00}
+
+@56
+{z}If only we'd had more strength, this wouldn't have happened... more strength...{g}{x:00}
+
+@57
+{z}{s:0320}We couldn't protect them... and we were right there...{g}{x:00}
+
+@58
+{z}The Tigre I knew wasn't this weak.{g}{x:00}
+
+@59
+{z}{s:0320}Ugh... Sorry. Retreat!{g}{x:00}
+
+@60
+{z}{s:0320}Impossible...{g}{x:00}
+
+@61
+{z}{s:0320}Sorry... we're pulling out...{g}{x:00}
+
+@62
+{z}{s:0320}You lot... you're pretty strong.{g}{x:00}
+
+@63
+{z}{s:0320}The enemy's gone. We're safe now.{g}{x:00}
+
+@64
+{z}{s:0320}Phew...{w}{w} it's over. Winning feels good.{g}{x:00}
+
+@65
+{z}Maybe now you'll give me some credit?{g}{x:00}
+
+@66
+{z}{s:0320}It's good it ended safely, but {a:0004} let us down, as I expected.{g}{x:00}
+
+@67
+{z}{s:0320}Look! The enemy's wiped out! That feels good...{g}{x:00}
+
+@68
+{z}But {a:0004} was a disappointment. I'd hoped for a bit more...{g}{x:00}
+
+@69
+{z}{s:0320}We won... thank goodness...{g}{x:00}
+
+@70
+{z}An ambush, and everyone retreating... I thought it was hopeless.{g}{x:00}
+
+@71
+{z}{s:0320}The enemy's gone... We can go back to {p:01} now.{g}{x:00}
+
+@72
+{z}{s:0320}We held them off, but that was close.{g}{x:00}
+
+@73
+{z}Anyway... {a:0004} let us down, as I expected.{g}{x:00}
+
+@74
+{z}You need to recover your feel for real combat soon, or you'll just be a burden.{g}{x:00}
+
+@75
+{z}{s:0320}We did it! Get home safely!{g}{x:00}
+
+@76
+{z}{s:0320}Haah... it's over.{g}{x:00}
+
+@77
+{z}The villagers cut down, everyone retreating... I thought it was hopeless.{g}{x:00}
+
+@78
+{z}{s:0320}Everyone... I'm so sorry...{g}{x:00}
+
+@79
+{z}{s:0320}Ugh... How could I slip up like this...{g}{x:00}
+
+@80
+{z}{s:0320}I'm supposed to be the strong one...{g}{x:00}
+
+@81
+{z}{s:0320}And I haven't even shown them my best yet...{g}{x:00}
+
+@82
+{z}{s:0320}Right then! Here I come!{g}{x:00}
+
+@83
+{z}{s:0320}Ready yourselves! Here I come!{g}{x:00}
+
+@84
+{z}{s:0320}Right, time to cut loose again today.{g}{x:00}
+
+@85
+{z}{s:0320}Come on, then!{g}{x:00}
+
+@86
+{z}{s:0320}Come and get me! Come on!{g}{x:00}
+
+@87
+{z}{s:0320}If you're so eager to die, I'll grant your wish!{g}{x:00}
+
+@88
+{z}{s:0320}It's been a while... this feeling...{g}{x:00}
+
+@89
+{z}{s:0320}Underestimate me for being a woman and you'll regret it!{g}{x:00}
+
+@90
+{z}{s:0320}Why must this happen to us...{w}{w} It's all the war's fault...{g}{x:00}
+
+@91
+{z}{s:0320}At least let me die once we've reached {p:01}.{g}{x:00}
+
+@92
+{z}{s:0320}What did we ever do to you...{g}{x:00}
+
+@93
+{z}{s:0320}Stop! Please stop!{g}{x:00}
+
+@94
+{z}{s:0320}S-stop it!{g}{x:00}
+
+@95
+{z}{s:0320}Please! Help us!{g}{x:00}
+
+@96
+{z}{s:0320}It's a long way to the north-east forest... Can we make it?{g}{x:00}
+
+@97
+{z}{s:0320}First job in a long while.{g}{x:00}
+
+@98
+{z}{s:0320}Just don't get in everyone's way.{g}{x:00}
+
+@99
+{z}{s:0320}As unfriendly as ever. Such a waste of a pretty face.{g}{x:00}
+
+@100
+{z}{s:0320}Mind your own business!{g}{x:00}
+
+@101
+{z}{s:0320}Everyone! Let's go! The enemy's waiting!{g}{x:00}
+
+@102
+{z}{s:0320}A trump card?{g}{x:00}
+
+@103
+{z}Ah! That's what you meant!{g}{x:00}
+
+@104
+{z}I thought we'd escaped... the enemy outsmarted us...{g}{x:00}
+
+@105
+{z}We're going home! Home to {p:01}!{g}{x:00}
+
+@106
+{z}{s:0320}They got away... damn. We nearly wiped them out.{g}{x:00}
+
+@107
+{z}Today was my first time fighting under your command. Let me tell you what I thought.{g}{x:00}
+
+@108
+{z}In a word, you're still rough around the edges. Natural, with so little combat experience.{g}{x:00}
+
+@109
+{z}We're going home!{g}{x:00}
+
+@110
+{z}You need to recover your feel for real combat soon, or you'll just be a burden.{g}{x:00}
+
+@111
+{z}You need to recover your feel for real combat soon, or you'll just be a burden.{g}{x:00}
+
+@112
+{z}You need to recover your feel for real combat soon, or you'll just be a burden.{g}{x:00}
+
+@113
+{z}Well, perhaps it's too early to judge.{g}{x:00}
+
+@114
+{z}We did it! We're going home! Home to {p:01}!{g}{x:00}
+
+@115
+{z}{s:0320}Phew... they're finally wiped out. The job's done.{g}{x:00}
+
+@116
+{z}Today was my first time fighting under your command. Let me tell you what I thought.{g}{x:00}
+
+@117
+{z}In a word, you're still rough around the edges. Natural, with so little combat experience.{g}{x:00}
+
+@118
+{z}But I sense talent. You remind me of {a:0023} when he was young. All you need now is experience.{g}{x:00}
+
+@119
+{z}But I sense talent. You remind me of {a:0023} when he was young. All you need now is experience.{g}{x:00}
+
+@120
+{z}The victory condition has changed.{g}{x:00}
+
+@121
+{z}We came to cover you, so that you reach {p:01} safely.{g}{x:00}
+
+@122
+{z}Please lend us your strength until we reach the north-west forest!{g}{x:00}
+
+@123
+{z}That was the plan: not one of you left breathing! Never thought anyone would interfere...{g}{x:00}
+
+@124
+{z}{s:0320}Exactly. Leave them to us and run for the forest.{g}{x:00}
+
+@125
+{z}Captain, we fight to keep the enemy away from the villagers.{g}{x:00}
+
+@126
+{z}{s:0320}Right. They could never fight mercenaries.{g}{x:00}
+
+@127
+{z}{s:0320}Understood.{g}{x:00}
+
+@128
+{z}We can go home to {p:01}! Thank you! Truly, thank you so much!{g}{x:00}
+

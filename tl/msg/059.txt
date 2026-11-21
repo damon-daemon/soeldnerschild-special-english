@@ -1,0 +1,339 @@
+@0
+{z}{s:0320}That's the detached force coming from over there...{g}{x:00}
+
+@1
+{z}{s:0320}Isn't that a lot for a detached force? There are mercenaries too...{g}{x:00}
+
+@2
+{z}{s:0320}It really is a lot...{g}{x:00}
+
+@3
+{z}{s:0320}The enemy is only mercenaries... They think very little of us.{g}{x:00}
+
+@4
+{z}And here we've come with such a huge army...{g}{x:00}
+
+@5
+{z}{s:0320}Once we win here and enter enemy lands, let's rampage to our hearts' content.{g}{x:00}
+
+@6
+{z}Let's make them regret sending only mercenaries to meet us.{g}{x:00}
+
+@7
+{z}{s:0320}I'll teach them what happens when you scorn {p:01}...{g}{x:00}
+
+@8
+{z}{s:0320}Is that all the enemy has? Heh, we'll finish them quickly.{g}{x:00}
+
+@9
+{z}{s:0320}We're bound to win anyway. Let's finish up and go home.{g}{x:00}
+
+@10
+{z}{s:0320}Hey! Let's get started!{g}{x:00}
+
+@11
+{z}{s:0320}Here they come... Everyone, be careful.{g}{x:00}
+
+@12
+{z}{s:0320}Don't let yourselves get isolated. If the enemy surrounds you, it's over.{g}{x:00}
+
+@13
+{z}{s:0320}The enemy has the clear advantage in numbers.{g}{x:00}
+
+@14
+{z}Whether we win or lose depends on the captain's command. Keep that in mind.{g}{x:00}
+
+@15
+{z}{s:0320}With {a:0000} leading us, we'll be fine.{g}{x:00}
+
+@16
+{z}{s:0320}Hey! How are we supposed to fight?{g}{x:00}
+
+@17
+{z}{s:0320}Can we just run wild however we like?{g}{x:00}
+
+@18
+{z}{s:0320}Go for the captain! Destroy the captain's company first!{g}{x:00}
+
+@19
+{z}{s:0320}Get rid of the one making the plans, quickly... Is that it?{g}{x:00}
+
+@20
+{z}{s:0320}The captain's company first, then... Understood.{g}{x:00}
+
+@21
+{z}{s:0320}Right, go!{g}{x:00}
+
+@22
+{z}{s:0320}So you're the Tigre captain... {a:0000}?{g}{x:00}
+
+@23
+{z}A captain at such a young age... You must be quite something.{g}{x:00}
+
+@24
+{z}How about it? Want to test your strength? Not in a melee... {w}{w}but in a duel.{g}{x:00}
+
+@25
+{z}{s:0320}That's the spirit! Spoken like a man!{g}{x:00}
+
+@26
+{z}I'm a captain of {p:01} too... I won't lose that easily!{g}{x:00}
+
+@27
+{z}{s:0320}Acting on their own... This is why I can't stand mercenaries.{g}{x:00}
+
+@28
+{z}{s:0320}A duel between captains... I wonder how it will go...{g}{x:00}
+
+@29
+{z}{s:0320}Please... don't lose...{g}{x:00}
+
+@30
+{z}{s:0320}{a:0000}! Don't you dare lose! You'll regret it if you do!{g}{x:00}
+
+@31
+{z}{s:0320}You'll be fine... You can definitely win...{g}{x:00}
+
+@32
+{z}{s:0320}He's our captain. There's no way he loses...{g}{x:00}
+
+@33
+{z}{s:0320}Don't lose...{g}{x:00}
+
+@34
+{z}{s:0320}Heh, so he was just a man put on a pedestal after all...{g}{x:00}
+
+@35
+{z}A company led by a man like that is no enemy to me! Let's go!{g}{x:00}
+
+@36
+{z}{s:0320}With a coward for a captain, his men can't be much either.{g}{x:00}
+
+@37
+{z}This battle... is ours...{g}{x:00}
+
+@38
+{z}Enemy morale rose.{g}{x:00}
+
+@39
+{z}{s:0320}A captain mustn't act weak in front of his men... How many times must I tell you!{g}{x:00}
+
+@40
+{z}{s:0320}Hey, hey... Why refuse? You'd have beaten him for sure...{g}{x:00}
+
+@41
+{z}{s:0320}Why did you refuse? Call yourself a captain?{g}{x:00}
+
+@42
+{z}{s:0320}Don't act weak... It makes me anxious too...{g}{x:00}
+
+@43
+{z}{s:0320}What's the matter? Are you afraid of him? You're still green...{g}{x:00}
+
+@44
+{z}{s:0320}Beaten in the duel... beaten in the battle... a complete defeat.{g}{x:00}
+
+@45
+{z}{s:0320}So young... {w}{w}and so strong... {w}{w}What will he become in time...{g}{x:00}
+
+@46
+{z}{s:0320}Acting on their own... and wiped out...{g}{x:00}
+
+@47
+{z}It seems we hired the worst mercenaries...{g}{x:00}
+
+@48
+{z}{s:0320}Strong... His strength is the real thing... You can't beat him...{g}{x:00}
+
+@49
+{z}{s:0320}We can't win? That's what the captain said, didn't he?{g}{x:00}
+
+@50
+{z}Only a fool keeps fighting when he knows he can't win... {w}{w}...{w}{w} Time to pull out, I think...{g}{x:00}
+
+@51
+{z}Hey! We're pulling out! We've no time to waste on a fight we can't win!{g}{x:00}
+
+@52
+{z}Sorry about that!{g}{x:00}
+
+@53
+{z}{s:0320}Hey! Wait! Don't pull out on your own!{g}{x:00}
+
+@54
+{z}They're gone... Damn! Cowards! This is why you can't trust mercenaries!{g}{x:00}
+
+@55
+{z}{s:0320}Right! Only the knights are left! We can win! We'll definitely win!{g}{x:00}
+
+@56
+{z}{s:0320}Only the knights are left... That's a lot easier.{g}{x:00}
+
+@57
+{z}{s:0320}Everyone! Only the knights remain! Just a little more, hang in there!{g}{x:00}
+
+@58
+{z}{s:0320}Only the knights are left now... We can manage this.{g}{x:00}
+
+@59
+{z}{s:0320}We just have to wipe out the knights... We should manage.{g}{x:00}
+
+@60
+{z}{s:0320}Wiped out by a mere six mercenary companies... {w}{w}Gah!{g}{x:00}
+
+@61
+{z}{s:0320}Damn... I never should have challenged him to a duel...{g}{x:00}
+
+@62
+{z}{s:0320}The captain, in a duel... Is he really that strong?{g}{x:00}
+
+@63
+{z}But a battle isn't decided by a duel alone! I'm not giving up yet!{g}{x:00}
+
+@64
+{z}{s:0320}Phew... It's over. We've won.{g}{x:00}
+
+@65
+{z}But that much strength in a mere detached force... That was a brutal fight.{g}{x:00}
+
+@66
+{z}Yeah... I'm exhausted...{g}{x:00}
+
+@67
+{z}{s:0320}The enemy is wiped out. It seems we've won.{g}{x:00}
+
+@68
+{z}Detached force or not, they were a powerful foe. I'm worn out. I want to get back to town and rest.{g}{x:00}
+
+@69
+{z}{s:0320}The enemy's gone... We won, didn't we...{g}{x:00}
+
+@70
+{z}Today's enemy was a detached force, right? If that was a detached force, what's the main army...{w}{w} I'd rather not think about it.{g}{x:00}
+
+@71
+{z}{s:0320}Yes! The enemy's wiped out! Mission accomplished!{g}{x:00}
+
+@72
+{z}Perhaps because there were so many of them, it was a bit of a struggle. Let's win more easily next time.{g}{x:00}
+
+@73
+{z}{s:0320}The enemy seems to be wiped out. Well done, everyone... Mission accomplished.{g}{x:00}
+
+@74
+{z}Even as a detached force, they were a huge army, so it was a struggle.{g}{x:00}
+
+@75
+{z}Well, we tried to wipe them out with mercenaries alone, so it's only natural.{g}{x:00}
+
+@76
+{z}{s:0320}I'm sorry... I can't go on...{g}{x:00}
+
+@77
+{z}{s:0320}Damn it... Why... why me...{g}{x:00}
+
+@78
+{z}{s:0320}I thought we could win even outnumbered... but...{g}{x:00}
+
+@79
+{z}{s:0320}You're good... Making me withdraw...{g}{x:00}
+
+@80
+{z}{s:0320}...Forgive me. It seems I must pull out.{g}{x:00}
+
+@81
+{z}{s:0320}Ugh... My {p:01}, wiped out by mercenaries...{g}{x:00}
+
+@82
+{z}{s:0320}The knights are wiped out? Pathetic, for knights.{g}{x:00}
+
+@83
+{z}{s:0320}D-{w}{w}damn... {w}{w}Make sure you wipe them out...{g}{x:00}
+
+@84
+{z}{s:0320}Damn... to mere mercenaries... Why did my company...{g}{x:00}
+
+@85
+{z}{s:0320}Knights and mercenaries on our side, only mercenaries on theirs... So why...{g}{x:00}
+
+@86
+{z}{s:0320}Tch... the mercenaries are wiped out...{g}{x:00}
+
+@87
+{z}{s:0320}These men... are strong...{g}{x:00}
+
+@88
+{z}{s:0320}I-I'm withdrawing... Sorry.{g}{x:00}
+
+@89
+{z}{s:0320}I can't fight any more... I'm pulling out...{g}{x:00}
+
+@90
+{z}{s:0320}Meeting such a huge army with mercenaries alone? You must be utter fools.{g}{x:00}
+
+@91
+{z}{s:0320}Whether we're fools or not, you'll only find out by fighting!{g}{x:00}
+
+@92
+{z}Stop yapping and come at us!{g}{x:00}
+
+@93
+{z}{s:0320}Insolent whelp! Let's go!{g}{x:00}
+
+@94
+{z}{s:0320}Well, well... You're a company captain? Captains aren't what they used to be.{g}{x:00}
+
+@95
+{z}{s:0320}Underestimate me and you'll get hurt!{g}{x:00}
+
+@96
+{z}{s:0320}Ooh... I'm so scared...{g}{x:00}
+
+@97
+{z}{s:0320}He's completely looking down on us... I won't forgive him! Never!{g}{x:00}
+
+@98
+{z}{s:0320}Won't forgive me? What do you plan to do?{g}{x:00}
+
+@99
+{z}{s:0320}I'll crush your company!{g}{x:00}
+
+@100
+{z}{s:0320}Try it if you can!{g}{x:00}
+
+@101
+{z}{s:0320}We vastly outnumber them... There's no way we can lose!{g}{x:00}
+
+@102
+{z}{s:0320}Battles aren't won by numbers. Don't you know that?{g}{x:00}
+
+@103
+{z}Sigh... poor fellow. Men like you die young.{g}{x:00}
+
+@104
+{z}{s:0320}Let's go! Prepare yourself!{g}{x:00}
+
+@105
+{z}{s:0320}There's no way we'll lose this battle! Attack!{g}{x:00}
+
+@106
+{z}{s:0320}We are {p:01}! Don't turn tail in fear!{g}{x:00}
+
+@107
+{z}{s:0320}We have knights on our side too... There's no way we lose!{g}{x:00}
+
+@108
+{z}{s:0320}Then, let's go.{g}{x:00}
+
+@109
+{z}{s:0320}Go easy on me. I don't like pain.{g}{x:00}
+
+@110
+{z}{s:0320}I won't lose! I've grown stronger too!{g}{x:00}
+
+@111
+{z}{s:0320}As captain, I can't put up a shameful fight... I'll win, I swear it!{g}{x:00}
+
+@112
+{z}{s:0320}I won't lose to a whelp like you!{g}{x:00}
+

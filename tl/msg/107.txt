@@ -1,0 +1,294 @@
+@0
+{z}{s:0320}The enemy fort is right before us, and yet... *cough*...{w}{w} *cough cough*!{g}{x:00}
+
+@1
+{z}To come this far, and then my body... my body won't obey me...{g}{x:00}
+
+@2
+{z}{s:0320}Even {a:0087}, vice-commander of the Rime Knights, cannot beat illness...{g}{x:00}
+
+@3
+{z}And our reinforcements will arrive any moment!{g}{x:00}
+
+@4
+{z}{s:0320}Sorry we're late. Is that knightly order the enemy?{g}{x:00}
+
+@5
+{z}{s:0320}Speak of the devil...{w}{w} They finally arrived...{g}{x:00}
+
+@6
+{z}The enemy commander is sick and cannot move. We can scatter them easily!{g}{x:00}
+
+@7
+{z}{s:0320}Preying on a sick man! Call yourself a knight?!{g}{x:00}
+
+@8
+{z}{s:0320}Lord {a:0087} has someone waiting for him at home...{g}{x:00}
+
+@9
+{z}Could you not spare his life, somehow?{g}{x:00}
+
+@10
+{z}{s:0320}Fool! What are you saying?!{g}{x:00}
+
+@11
+{z}What knight forgets his duty and begs for mercy?!{g}{x:00}
+
+@12
+{z}{s:0320}But...{g}{x:00}
+
+@13
+{z}{s:0320}Pitiful, {a:0087}... You have no escape now...{g}{x:00}
+
+@14
+{z}You will never see your beloved wife again...{g}{x:00}
+
+@15
+{z}{s:0320}!{g}{x:00}
+
+@16
+{z}To the northwest! Enemy reinforcements!{g}{x:00}
+
+@17
+{z}{s:0320}What?!{g}{x:00}
+
+@18
+{z}{s:0320}Ah...! A knightly order over there!{g}{x:00}
+
+@19
+{z}{s:0320}Lord {a:0087}! Are you unharmed?{g}{x:00}
+
+@20
+{z}{s:0320}We'll break the encirclement at once! Hold on until then!{g}{x:00}
+
+@21
+{z}{s:0320}Heh...{w}{w} They say Fenrir favours women over men...{g}{x:00}
+
+@22
+{z}But they're not so bad...{w}{w} They sent reinforcements for the likes of me...{g}{x:00}
+
+@23
+{z}I must hold out a little longer...{g}{x:00}
+
+@24
+{z}{s:0320}We were supposed to save {a:0087}...{g}{x:00}
+
+@25
+{z}{s:0320}Damn! The rescuer goes down first?!{g}{x:00}
+
+@26
+{z}{s:0320}Lord {a:0087}, I am sorry!{g}{x:00}
+
+@27
+{z}{s:0320}Ugh... So this is what "the rescuer becomes the victim" means.{g}{x:00}
+
+@28
+{z}{s:0320}Beaten before I could save {a:0087}...{g}{x:00}
+
+@29
+{z}{s:0320}Gah... Hit in the gut...{g}{x:00}
+
+@30
+{z}And my men too...{w}{w} Again I have let many soldiers die for my sake...{g}{x:00}
+
+@31
+{z}{s:0320}Gah... Hit in the gut...{g}{x:00}
+
+@32
+{z}And my men too...{w}{w} Again I have let many soldiers die for my sake...{g}{x:00}
+
+@33
+{z}{s:0320}Lord {a:0087}!{g}{x:00}
+
+@34
+{z}Everyone! Take Lord {a:0087} back to Fenrir! Whatever it takes...{w}{w} cut a path out!{g}{x:00}
+
+@35
+{z}{s:0320}We must save {a:0087}!{g}{x:00}
+
+@36
+{z}{s:0320}We'll protect Lord {a:0087}!{g}{x:00}
+
+@37
+{z}{s:0320}We can't let the great {a:0087} die in a place like this!{g}{x:00}
+
+@38
+{z}{s:0320}I'll repay Lord {a:0087}'s kindness here!{g}{x:00}
+
+@39
+{z}{s:0320}I'll protect Lord {a:0087} with my life!{g}{x:00}
+
+@40
+{z}{s:0320}Here we come! Brace yourselves!{g}{x:00}
+
+@41
+{z}{s:0320}Reinforcements have come at last... I can't end here...{g}{x:00}
+
+@42
+{z}{s:0320}*Cough*...{w}{w} *cough cough cough*! Just a little longer...{w}{w} I must hold out a little longer...{g}{x:00}
+
+@43
+{z}{s:0320}Ugh... So this is where my life ends...?{g}{x:00}
+
+@44
+{z}{s:0320}Heh! Reinforcements now...{w}{w} Too late!{g}{x:00}
+
+@45
+{z}{s:0320}Sir {a:0087}! Are you all right?{g}{x:00}
+
+@46
+{z}{s:0320}You are Sir {a:0000} of the Tigre...{g}{x:00}
+
+@47
+{z}You came all this way to save me... Thank you...{w}{w} *cough*...{g}{x:00}
+
+@48
+{z}{s:0320}You should not speak...{g}{x:00}
+
+@49
+{z}{s:0320}Come to think of it, you are a mercenary. I had taken you for a knight...{g}{x:00}
+
+@50
+{z}{s:0320}Please wait a little longer while we clear the enemy.{g}{x:00}
+
+@51
+{z}I will see Sir {a:0087} safely to Fenrir.{g}{x:00}
+
+@52
+{z}{s:0320}Yes...{w}{w} I am counting on you...{g}{x:00}
+
+@53
+{z}{s:0320}We're here now, so you're safe...{g}{x:00}
+
+@54
+{z}Please hold on just a little longer.{g}{x:00}
+
+@55
+{z}{s:0320}Thank you...{g}{x:00}
+
+@56
+{z}{s:0320}Lord {a:0087}, are you unharmed?{g}{x:00}
+
+@57
+{z}{s:0320}Just about...{g}{x:00}
+
+@58
+{z}{s:0320}We'll sweep the enemy away at once. Bear with us here a while...{g}{x:00}
+
+@59
+{z}{s:0320}Yes... I am counting on you...{g}{x:00}
+
+@60
+{z}{s:0320}Nobody said the enemy had reinforcements! This job isn't worth it...{g}{x:00}
+
+@61
+{z}Sorry! We're pulling out!{g}{x:00}
+
+@62
+{z}{s:0320}Hmph! If you don't want your pay, do as you please!{g}{x:00}
+
+@63
+{z}{s:0320}To lose this place to the enemy... The Tigre Mercenaries...{w}{w} are strong!{g}{x:00}
+
+@64
+{z}{s:0320}The knights are running?! Is that allowed? Oh well... we're pulling out too!{g}{x:00}
+
+@65
+{z}{s:0320}To lose this place to the enemy... The Tigre Mercenaries...{w}{w} are strong!{g}{x:00}
+
+@66
+{z}{s:0320}! Has Sir {a:0087}'s unit been beaten...{g}{x:00}
+
+@67
+{z}Damn! The mission has failed... All forces withdraw!{g}{x:00}
+
+@68
+{z}{s:0320}{a:0087}... I hope at least his life is spared...{g}{x:00}
+
+@69
+{z}{s:0320}Mission failed... That was a blunder...{g}{x:00}
+
+@70
+{z}{s:0320}I could not protect Lord {a:0087}... Shameful of me...{g}{x:00}
+
+@71
+{z}{s:0320}Damn it! Are you saying we weren't strong enough?!{g}{x:00}
+
+@72
+{z}{s:0320}No... Why did it come to this...{g}{x:00}
+
+@73
+{z}{s:0320}It's finally settled... And Sir {a:0087}...{g}{x:00}
+
+@74
+{z}{s:0320}Sir {a:0000}... As you see, I am safe...{g}{x:00}
+
+@75
+{z}It is all thanks to you... I thank you.{g}{x:00}
+
+@76
+{z}{s:0320}I'm glad... But how is your illness?{g}{x:00}
+
+@77
+{z}{s:0320}I have worried you... But it seems to have settled{w} for now.{g}{x:00}
+
+@78
+{z}{s:0320}Even so... a sick man should not overdo it.{g}{x:00}
+
+@79
+{z}{s:0320}True...{w}{w} you are right. Perhaps I pushed myself too hard...{g}{x:00}
+
+@80
+{z}{s:0320}Rest well in your own castle. Rest is what matters most now.{g}{x:00}
+
+@81
+{z}{s:0320}Yes...{w}{w} You have driven off the enemy, so I can rest my bones for a while...{g}{x:00}
+
+@82
+{z}Sir {a:0000}... You truly did well.{g}{x:00}
+
+@83
+{z}{s:0320}Not at all... We will escort you as far as Fenrir.{g}{x:00}
+
+@84
+{z}{s:0320}Yes...{g}{x:00}
+
+@85
+{z}{s:0320}All forces! Return to Fenrir!{g}{x:00}
+
+@86
+{z}{s:0320}Honestly... the old man overdoing it...{g}{x:00}
+
+@87
+{z}Still, with a woman waiting at home, he can't afford to croak here.{g}{x:00}
+
+@88
+{z}{s:0320}Well, either way, I'm glad...{g}{x:00}
+
+@89
+{z}{s:0320}{a:0087}, huh...{g}{x:00}
+
+@90
+{z}That man would die for his homeland, I suppose...{g}{x:00}
+
+@91
+{z}What about me?{w} Could I stake my life on something?{g}{x:00}
+
+@92
+{z}Your life hangs by a thread!{g}{x:00}
+
+@93
+{z}To be beaten in a place like this...{w}{w} Ugh!{g}{x:00}
+
+@94
+{z}Besides, this is our job... No thanks are needed...{g}{x:00}
+
+@95
+{z}We managed to keep a man like {a:0087} alive...{g}{x:00}
+
+@96
+{z}{s:0320}Those are the Rime Knights... Led by {a:0086} and {a:0087}, if I recall...{g}{x:00}
+
+@97
+{z}{s:0320}Looks like only {a:0087} is there.{g}{x:00}
+

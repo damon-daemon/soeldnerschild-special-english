@@ -1,0 +1,612 @@
+@0
+{z}{s:0320}We should be nearing the brigands' hideout.{g}{x:00}
+
+@1
+{z}{s:0320}The brigands' hideout should be somewhere around here...{g}{x:00}
+
+@2
+{z}{a:0024}, {a:0003}, {a:0000}.{g}{x:00}
+
+@3
+{z}Don't let your guard down just because they're brigands!{g}{x:00}
+
+@4
+{z}{s:0320}You don't need to tell me every time! I know!{g}{x:00}
+
+@5
+{z}Brigands! Where are you hiding?{g}{x:00}
+
+@6
+{z}{s:0320}Look! Something is coming this way!{g}{x:00}
+
+@7
+{z}{s:0320}That must be our opponent this time.{g}{x:00}
+
+@8
+{z}{s:0320}Mercenaries... Rana must have hired them.{g}{x:00}
+
+@9
+{z}Men! In the name of {a:009a}, don't let them leave alive!{g}{x:00}
+
+@10
+{z}{s:0320}Yeah!{g}{x:00}
+
+@11
+{z}{s:0320}Listen, go for the enemy leader!{g}{x:00}
+
+@12
+{z}Outlaws scatter once their leader falls.{g}{x:00}
+
+@13
+{z}{s:0320}Hey, {a:0002}! Don't you screw up!{g}{x:00}
+
+@14
+{z}If you botch anything, I'm the one who answers for it. I'm your company captain.{g}{x:00}
+
+@15
+{z}{s:0320}Same to you... Just don't drag your own men down.{g}{x:00}
+
+@16
+{z}{s:0320}I'm retreating...{g}{x:00}
+
+@17
+{z}The rest of you must fight on alone. Believe in your own strength.{g}{x:00}
+
+@18
+{z}{s:0320}Ugh...{w} I hate it, but retreat seems to be all that's left.{g}{x:00}
+
+@19
+{z}{s:0320}Damn! You saw me at my worst...{g}{x:00}
+
+@20
+{z}{s:0320}Tch...{w} And I was so close!{g}{x:00}
+
+@21
+{z}{s:0320}If it comes to this, I'll get away even if it's on my own!{g}{x:00}
+
+@22
+{z}{s:0320}With the boss down, all we can do is run.{g}{x:00}
+
+@23
+{z}{s:0320}Somehow I got away...{g}{x:00}
+
+@24
+{z}{s:0320}Live as a brigand... and you know... it'll end like this one day...{g}{x:00}
+
+@25
+{z}{s:0320}Live as a brigand... and you know... it'll end like this one day...{g}{x:00}
+
+@26
+{z}{s:0320}Good...{w}{w} Their leader is down.{g}{x:00}
+
+@27
+{z}There's no need to chase them any more. All forces, cease the attack!{g}{x:00}
+
+@28
+{z}{f}{l:0001}{s:0001}Those people...{w} They'll give up brigandry now, won't they?{g}{x:00}
+
+@29
+{z}{a:0000}, let's stop attacking now.{g}{x:00}
+
+@30
+{z}{s:0320}{a:0002}, stop this pointless pursuit!{g}{x:00}
+
+@31
+{z}{f}{l:00e9}{s:0002}Pointless? Hardly!{g}{x:00}
+
+@32
+{z}If we leave them alive, they'll do the same thing again, I know it!{g}{x:00}
+
+@33
+{z}{s:0320}{a:0002}!{g}{x:00}
+
+@34
+{z}{s:0320}I won't stop you! Do as you wish.{g}{x:00}
+
+@35
+{z}In this world, power is everything.{g}{x:00}
+
+@36
+{z}{f}{l:00e9}{s:0002}Yeah, they won't get away!{g}{x:00}
+
+@37
+{z}{f}{l:0001}{s:0001}{a:0002}! You still mean to attack?{g}{x:00}
+
+@38
+{z}Stop it! Those people say they'll give up brigandry!{g}{x:00}
+
+@39
+{z}{f}{l:00e9}{s:0002}I won't be fooled!{g}{x:00}
+
+@40
+{z}If we leave them alive, they'll do the same thing again, I know it!{g}{x:00}
+
+@41
+{z}{s:0320}{a:0002}...{g}{x:00}
+
+@42
+{z}{s:0320}Are you the leader?{g}{x:00}
+
+@43
+{z}{s:0320}Yeah! I'm {a:009a}.{g}{x:00}
+
+@44
+{z}{s:0320}Why do you keep plundering?{g}{x:00}
+
+@45
+{z}{s:0320}For the same reason as you lot.{g}{x:00}
+
+@46
+{z}{s:0320}What?{g}{x:00}
+
+@47
+{z}{s:0320}Money! Money!{g}{x:00}
+
+@48
+{z}You'll kill us and line your pockets too, won't you!{g}{x:00}
+
+@49
+{z}{s:0320}We don't fight for money!{g}{x:00}
+
+@50
+{z}{s:0320}Ha ha ha ha... That's a surprise.{g}{x:00}
+
+@51
+{z}I've never heard of a mercenary fighting for anything but money.{g}{x:00}
+
+@52
+{z}If you kill us, Rana pays you a reward, doesn't it?{g}{x:00}
+
+@53
+{z}In the end it's just killing for profit!{g}{x:00}
+
+@54
+{z}{f}{l:00e7}{s:0001}That's not true!{g}{x:00}
+
+@55
+{z}We fight to make a world without war, so that everyone can live in peace...{g}{x:00}
+
+@56
+{z}Yet you kill innocent people for money...{g}{x:00}
+
+@57
+{z}Have you ever thought how many people you've made unhappy?{g}{x:00}
+
+@58
+{z}{s:0320}...!{g}{x:00}
+
+@59
+{z}Don't lecture me like you know anything! I'll kill you!{g}{x:00}
+
+@60
+{z}{f}{l:00e7}{s:0001}Eeek!!{g}{x:00}
+
+@61
+{z}{s:0320}Hold it! I'll be your opponent!{g}{x:00}
+
+@62
+{z}{s:0320}We don't fight for money!{g}{x:00}
+
+@63
+{z}{s:0320}Ha ha ha ha... That's a surprise.{g}{x:00}
+
+@64
+{z}If you kill us, Rana pays you a reward, doesn't it?{g}{x:00}
+
+@65
+{z}I've never heard of a mercenary fighting for anything but money.{g}{x:00}
+
+@66
+{z}In the end it's just killing for profit!{g}{x:00}
+
+@67
+{z}{f}{l:00e7}{s:0001}That's not true!{g}{x:00}
+
+@68
+{z}We fight to make a world without war, so that everyone can live in peace...{g}{x:00}
+
+@69
+{z}Yet you kill innocent people for money...{g}{x:00}
+
+@70
+{z}Have you ever thought how many people you've made unhappy?{g}{x:00}
+
+@71
+{z}{s:0320}...!{g}{x:00}
+
+@72
+{z}Don't lecture me like you know anything! I'll kill you!{g}{x:00}
+
+@73
+{z}{f}{l:00e7}{s:0001}Eeek!!{g}{x:00}
+
+@74
+{z}{s:0320}Hold it! I'll be your opponent!{g}{x:00}
+
+@75
+{z}{f}{l:00e7}{s:0001}So you're the leader.{g}{x:00}
+
+@76
+{z}Do you know how many people suffer because of you?{g}{x:00}
+
+@77
+{z}{s:0320}What's this? Who is this woman?{g}{x:00}
+
+@78
+{z}{f}{l:00e7}{s:0001}Killing innocent people for money is unforgivable!{g}{x:00}
+
+@79
+{z}{s:0320}Ha ha ha ha... You mercenaries are no different.{g}{x:00}
+
+@80
+{z}{s:0320}...{g}{x:00}
+
+@81
+{z}{s:0320}How much do you get for killing us? Say it!{g}{x:00}
+
+@82
+{z}In the end it's just killing for profit!{g}{x:00}
+
+@83
+{z}{f}{l:00e7}{s:0001}That's not true! We...{g}{x:00}
+
+@84
+{z}We fight so that everyone can live in peace!{g}{x:00}
+
+@85
+{z}Yet you kill innocent people for money...{g}{x:00}
+
+@86
+{z}That's just...{w} too selfish!{g}{x:00}
+
+@87
+{z}{s:0320}...!{g}{x:00}
+
+@88
+{z}Sh-shut up... Talking like you know anything... I'll kill you!{g}{x:00}
+
+@89
+{z}{f}{l:00e7}{s:0001}Eeek!!{g}{x:00}
+
+@90
+{z}{s:0320}Hold it! I'll be your opponent!{g}{x:00}
+
+@91
+{z}{f}{l:00e7}{s:0001}So you're the leader.{g}{x:00}
+
+@92
+{z}Do you know how many people suffer because of you?{g}{x:00}
+
+@93
+{z}{s:0320}What? Who's this woman?{g}{x:00}
+
+@94
+{z}{f}{l:00e7}{s:0001}Killing innocent people for money is unforgivable!{g}{x:00}
+
+@95
+{z}{s:0320}Ha ha ha ha... You mercenaries are no different.{g}{x:00}
+
+@96
+{z}{s:0320}...{g}{x:00}
+
+@97
+{z}{s:0320}How much do you get for killing us? Say it!{g}{x:00}
+
+@98
+{z}In the end it's just killing for profit!{g}{x:00}
+
+@99
+{z}{f}{l:00e7}{s:0001}That's not true! We...{g}{x:00}
+
+@100
+{z}We fight so that everyone can live in peace!{g}{x:00}
+
+@101
+{z}Yet you kill innocent people for money...{g}{x:00}
+
+@102
+{z}That's just...{w} too selfish!{g}{x:00}
+
+@103
+{z}{s:0320}...!{g}{x:00}
+
+@104
+{z}Sh-shut up... Talking like you know anything... I'll kill you!{g}{x:00}
+
+@105
+{z}{f}{l:00e7}{s:0001}Eeek!!{g}{x:00}
+
+@106
+{z}{s:0320}Hold it! I'll be your opponent!{g}{x:00}
+
+@107
+{z}It's over... {w}{w}Is everyone safe?{g}{x:00}
+
+@108
+{z}{s:0320}Yes.{g}{x:00}
+
+@109
+{z}{s:0320}We'd never botch it against mere brigands.{g}{x:00}
+
+@110
+{z}{s:0320}Hm... {w}{w}What of the platoon leaders?{g}{x:00}
+
+@111
+{z}{f}{l:0002}{s:0002}An easy win...{g}{x:00}
+
+@112
+{z}{f}{l:00e7}{s:0001}But those men... they didn't become brigands by choice.{g}{x:00}
+
+@113
+{z}{s:0320}... {w}{w}You're right...{g}{x:00}
+
+@114
+{z}Anyway, the mission is done... Let's return to the inn and rest.{g}{x:00}
+
+@115
+{z}{s:0320}It's over...{g}{x:00}
+
+@116
+{z}{f}{l:00e7}{s:0001}But those men... they didn't become brigands by choice.{g}{x:00}
+
+@117
+{z}{s:0320}... {w}{w}You're right...{g}{x:00}
+
+@118
+{z}Anyway, the job is done... Let's return to the inn and rest.{g}{x:00}
+
+@119
+{z}{f}{l:00e7}{s:0001}It's over...{g}{x:00}
+
+@120
+{z}{f}{l:00e7}{s:0001}But those men... they didn't become brigands by choice.{g}{x:00}
+
+@121
+{z}{s:0320}Yes... But never mind that...{g}{x:00}
+
+@122
+{z}{f}{l:0001}{s:0001}I'm sorry...{g}{x:00}
+
+@123
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@124
+{z}First, check the enemy's unit types and strength! Then you can fight the battle to your advantage.{g}{x:00}
+
+@125
+{z}{s:0320}Look, {a:0002}! Your partner is already a company captain!{g}{x:00}
+
+@126
+{z}If you've time to mouth off, work on your skills instead.{g}{x:00}
+
+@127
+{z}{s:0320}{a:0000}, my partner? I'll overtake him in no time!{g}{x:00}
+
+@128
+{z}{f}{l:00e7}{s:0001}{a:0000}! Why attack even those who were fleeing?{g}{x:00}
+
+@129
+{z}Why did you attack even those who tried to flee?{g}{x:00}
+
+@130
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@131
+{z}{s:0320}...{g}{x:00}
+
+@132
+{z}{s:0320}You too, {a:0002}!{g}{x:00}
+
+@133
+{z}With their leader gone, some would have given up brigandry and gone back to ordinary lives... And you...{g}{x:00}
+
+@134
+{z}{f}{l:0002}{s:0002}...They'd only do the same thing again.{g}{x:00}
+
+@135
+{z}{s:0320}...{g}{x:00}
+
+@136
+{z}Anyway... I'll not permit you to disobey orders again... Understood?{g}{x:00}
+
+@137
+{z}{s:0320}Yes...{g}{x:00}
+
+@138
+{z}{s:0320}Now, back to town! All units, move out!{g}{x:00}
+
+@139
+{z}{s:0320}{a:0002}!{g}{x:00}
+
+@140
+{z}Why did you attack even those who tried to flee?{g}{x:00}
+
+@141
+{z}With their leader gone, some would have given up brigandry and gone back to ordinary lives... And you...{g}{x:00}
+
+@142
+{z}{f}{l:0002}{s:0002}...They'd only do the same thing again.{g}{x:00}
+
+@143
+{z}{s:0320}Not all of them, surely...{g}{x:00}
+
+@144
+{z}If any cause trouble again, we can cut them down then.{g}{x:00}
+
+@145
+{z}{f}{l:0002}{s:0002}...{g}{x:00}
+
+@146
+{z}Anyway... I'll not permit you to disobey orders again... Understood?{g}{x:00}
+
+@147
+{z}Now, back to town! All units, move out!{g}{x:00}
+
+@148
+{z}{f}{l:00e7}{s:0001}Why? {w}{w}{w}Attacking even those who were running away...{g}{x:00}
+
+@149
+{z}{a:0000}... You've changed since becoming a mercenary...{g}{x:00}
+
+@150
+{z}{s:0320}...{w} But never mind that...{g}{x:00}
+
+@151
+{z}{f}{l:0001}{s:0001}I'm sorry.{g}{x:00}
+
+@152
+{z}{s:0320}Hey, hey! Mercenary!{g}{x:00}
+
+@153
+{z}You think you can beat me with a handful of men like this? Don't make me laugh!{g}{x:00}
+
+@154
+{z}{s:0320}...{g}{x:00}
+
+@155
+{z}{a:0000} didn't defeat a single enemy unit...{g}{x:00}
+
+@156
+{z}{a:0000} defeated one unit... A fair record...{g}{x:00}
+
+@157
+{z}{s:0320}...{g}{x:00}
+
+@158
+{z}{s:0320}...{g}{x:00}
+
+@159
+{z}Two units defeated... {a:0000}... Impressive indeed...{g}{x:00}
+
+@160
+{z}{s:0320}...{g}{x:00}
+
+@161
+{z}{a:0000}...{w} That man... When did he gain such strength?{g}{x:00}
+
+@162
+{z}He may be more of a man than I thought...{g}{x:00}
+
+@163
+{z}{s:0320}We won...{g}{x:00}
+
+@164
+{z}He gave no ground even in a duel...{g}{x:00}
+
+@165
+{z}I wasn't wrong about him.{g}{x:00}
+
+@166
+{z}{s:0320}...{w} {a:0000}...{w} That man...{g}{x:00}
+
+@167
+{z}{s:0320}...{g}{x:00}
+
+@168
+{z}{s:0320}Somehow... {w}we won...{g}{x:00}
+
+@169
+{z}{s:0320}...{g}{x:00}
+
+@170
+{z}{s:0320}So... {w}{w}this is your first duel!{g}{x:00}
+
+@171
+{z}I'll finish you in one blow! {w}{w}Come on!{g}{x:00}
+
+@172
+{z}{s:0320}If it comes to this... I have to fight!{g}{x:00}
+
+@173
+{z}{s:0320}A greenhorn like you can't withstand my attacks!{g}{x:00}
+
+@174
+{z}{s:0320}Axe Express!{g}{x:00}
+
+@175
+{z}{s:0320}I'll try out my new special move here...{w} Here goes!{g}{x:00}
+
+@176
+{z}{s:0320}Not here... {w}{w}I won't lose in a place like this!{g}{x:00}
+
+@177
+{z}{s:0320}Phew... That was close...{g}{x:00}
+
+@178
+{z}{s:0320}Die in a place like this? Not on your life!{g}{x:00}
+
+@179
+{z}{s:0320}Maybe I'll give up being a brigand after this...{g}{x:00}
+
+@180
+{z}{s:0320}My men... {w}Damn it! What a disaster!{g}{x:00}
+
+@181
+{z}{s:0320}Mercenaries really are strong...{g}{x:00}
+
+@182
+{z}{s:0320}Tch... We're no match for them...{g}{x:00}
+
+@183
+{z}{s:0320}Tch... {w}Not bad... Interesting!{g}{x:00}
+
+@184
+{z}{s:0320}Damn...{w} Why{w} are they so strong...{g}{x:00}
+
+@185
+{z}{s:0320}It's hopeless... Run for it!{g}{x:00}
+
+@186
+{z}{s:0320}Boss! Sorry I'm late!{g}{x:00}
+
+@187
+{z}{s:0320}Ah! Been waiting for you! Hit them from behind!{g}{x:00}
+
+@188
+{z}{s:0320}Leave it to us!{g}{x:00}
+
+@189
+{z}{s:0320}Not good. We'll be caught in a pincer...{g}{x:00}
+
+@190
+{z}{a:0000}! I'll deal with the enemy at our back!{g}{x:00}
+
+@191
+{z}You lot think only of defeating their leader! Understood?{g}{x:00}
+
+@192
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@193
+{z}With this, the brigands should disband...{g}{x:00}
+
+@194
+{z}{s:0320}The boss... The boss has fallen...{g}{x:00}
+
+@195
+{z}I'm done with being a brigand! Run!{g}{x:00}
+
+@196
+{z}{s:0320}Better to live to fight another day! Time to run!{g}{x:00}
+
+@197
+{z}{s:0320}Being a brigand's not for me after all...{g}{x:00}
+
+@198
+{z}But... {w}{w}I've no regrets... It was the only way to feed my brother...{g}{x:00}
+
+@199
+{z}But... {w}{w}I've no regrets... It was the only way to feed my brother...{g}{x:00}
+
+@200
+{z}We're fighting to bring this war to a quick end!{g}{x:00}
+
+@201
+{z}We're fighting to bring this war to a quick end!{g}{x:00}
+
+@202
+{z}Don't do anything reckless like bargaining with the brigand boss in person.{g}{x:00}
+
+@203
+{z}Don't do anything reckless like bargaining with the brigand boss in person.{g}{x:00}
+

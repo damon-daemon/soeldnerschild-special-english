@@ -1,0 +1,387 @@
+@0
+{z}{s:0320}So that's the enemy this time...{w}{w} How many?{w}{w} Five companies. That's big for mere bandits...{g}{x:00}
+
+@1
+{z}{s:0320}But they're only bandits. None of them is much of a fighter.{g}{x:00}
+
+@2
+{z}{s:0320}Talking like that before the fight... Don't come crying if it goes badly.{g}{x:00}
+
+@3
+{z}{s:0320}Damn you, {p:01}! You hired a mercenary company to wipe us out?{g}{x:00}
+
+@4
+{z}Then we'll cut them down and strip them of everything!{g}{x:00}
+
+@5
+{z}{s:0320}The enemy is coming! Nobody let their guard down!{g}{x:00}
+
+@6
+{z}{s:0320}{a:0000}... We've been beaten...{g}{x:00}
+
+@7
+{z}{s:0320}Damn it! Beaten by the likes of these...{g}{x:00}
+
+@8
+{z}{s:0320}The losses are heavy...{w}{w} I'm sorry... I'm retreating.{g}{x:00}
+
+@9
+{z}{s:0320}Tch...{w} Not my day. Sorry, but I'm pulling out.{g}{x:00}
+
+@10
+{z}{s:0320}My body can take no more...{g}{x:00}
+
+@11
+{z}{s:0320}Is this where my life ends?{w}{w} Was this really the right way...{w}{w}?{g}{x:00}
+
+@12
+{z}{s:0320}Attack! Don't fall behind, everyone!{g}{x:00}
+
+@13
+{z}{s:0320}Bandits are no match for us!{g}{x:00}
+
+@14
+{z}{s:0320}Fighting is our trade. The outcome is plain to see.{g}{x:00}
+
+@15
+{z}{s:0320}Hounds of {p:01}!{g}{x:00}
+
+@16
+{z}{s:0320}I won't be dragged into your fight. Get out of here, quickly!{g}{x:00}
+
+@17
+{z}{s:0320}Are you the boss?{g}{x:00}
+
+@18
+{z}{s:0320}I am! And you must be the captain!{g}{x:00}
+
+@19
+{z}{s:0320}Stop tormenting innocent people!{g}{x:00}
+
+@20
+{z}{s:0320}Ha! Don't make me laugh! This is the only way to survive.{g}{x:00}
+
+@21
+{z}Besides, the merchants we rob are all fattening their purses off these troubled times!{g}{x:00}
+
+@22
+{z}I won't be lectured by the likes of you!{g}{x:00}
+
+@23
+{z}{s:0320}Not all of them are like that!{g}{x:00}
+
+@24
+{z}{s:0320}Shut up! I'm sick of talking!{w}{w} Draw your sword...{w}{w} We settle this in a duel!{g}{x:00}
+
+@25
+{z}...{w}{w} That young man... He seems different from the usual mercenary captain...{g}{x:00}
+
+@26
+{z}{s:0320}We did it! That's our {a:0000}!{g}{x:00}
+
+@27
+{z}{s:0320}Ha, he's strong! That's our captain for you!{g}{x:00}
+
+@28
+{z}{s:0320}Not bad at all, {a:0000}!{g}{x:00}
+
+@29
+{z}{s:0320}He's good, I'll give him that... I can't let him outdo me.{g}{x:00}
+
+@30
+{z}{s:0320}That was close, but victory is ours.{g}{x:00}
+
+@31
+{z}{s:0320}Why did you refuse? It's only polite to accept!{g}{x:00}
+
+@32
+{z}{s:0320}What are you saying, {a:0000}? You'll ruin our morale!{g}{x:00}
+
+@33
+{z}{s:0320}Hey, Captain... What's got into you?{g}{x:00}
+
+@34
+{z}{s:0320}Why did you refuse? {a:0000} would have won for sure!{g}{x:00}
+
+@35
+{z}{s:0320}It was our chance to win it all at once... Still, no need to force it, I suppose.{g}{x:00}
+
+@36
+{z}Our morale fell.{g}{x:00}
+
+@37
+{z}{s:0320}Ugh...{w}{w} Mercenaries really are tough... So this...{w}{w} is the end for me...{g}{x:00}
+
+@38
+{z}{s:0320}Ugh...{w}{w} Mercenaries really are tough... So this...{w}{w} is the end for me...{g}{x:00}
+
+@39
+{z}{s:0320}The boss is down! It's no use! Run!{g}{x:00}
+
+@40
+{z}{s:0320}You lot! Get out of this forest!{g}{x:00}
+
+@41
+{z}If you won't leave, I'll drive you out by force!{g}{x:00}
+
+@42
+{z}{s:0320}Who's that? Never mind! Get him!{g}{x:00}
+
+@43
+{z}{s:0320}No choice then... Feel our wrath!{g}{x:00}
+
+@44
+{z}{s:0320}Who is that? He's dressed like a hunter...{g}{x:00}
+
+@45
+{z}{s:0320}A hunter? He doesn't look like an ordinary one.{g}{x:00}
+
+@46
+{z}{s:0320}Another mystery man turns up.{g}{x:00}
+
+@47
+{z}{s:0320}Who on earth is he...{w}{w} He's no ordinary hunter...{g}{x:00}
+
+@48
+{z}{s:0320}What is that...{w}{g}{x:00}
+
+@49
+{z}He doesn't seem to be taking our side either...{g}{x:00}
+
+@50
+{z}{s:0320}You are... I take it you are a mercenary company?{g}{x:00}
+
+@51
+{z}{s:0320}We are the Tigre Mercenaries.{g}{x:00}
+
+@52
+{z}{s:0320}Ah! {a:0023}'s men! No wonder you're unlike the usual mercenaries...{g}{x:00}
+
+@53
+{z}What became of him? Isn't he with you?{g}{x:00}
+
+@54
+{z}{s:0320}Sadly, he fell in the midst of battle.{g}{x:00}
+
+@55
+{z}{s:0320}{w}{w}{w}I see...{w}{w}{w} We have lost a fine man.{g}{x:00}
+
+@56
+{z}Are you the captain now?{g}{x:00}
+
+@57
+{z}{s:0320}Yes... I am {a:0000}. You knew {a:0023}?{g}{x:00}
+
+@58
+{z}{s:0320}Yes...{w}{w} I met him once. He had the same clear, fine eyes as you.{g}{x:00}
+
+@59
+{z}Would you let me join you?{g}{x:00}
+
+@60
+{z}Watching you, I have become ashamed of myself for running from battle.{g}{x:00}
+
+@61
+{z}I no longer want to look away from this troubled world. I want to work to win back peace... With you, I feel I could.{g}{x:00}
+
+@62
+{z}{s:0320}Please, lend us your strength.{g}{x:00}
+
+@63
+{z}{a:0023} would surely be glad too.{g}{x:00}
+
+@64
+{z}{a:0006} has joined you!{g}{x:00}
+
+@65
+{z}{s:0320}Perhaps this too is {a:0023}'s guidance...{g}{x:00}
+
+@66
+{z}{s:0320}{a:0006}, was it? Our company has a new comrade.{g}{x:00}
+
+@67
+{z}{s:0320}A master like that joining us... Tigre grows ever stronger.{g}{x:00}
+
+@68
+{z}{s:0320}We need all the strength we can get right now. We have to keep adding to our ranks like this.{g}{x:00}
+
+@69
+{z}{s:0320}So he wasn't an ordinary hunter after all...{g}{x:00}
+
+@70
+{z}But to think he knew {a:0023}...{g}{x:00}
+
+@71
+{z}{s:0320}We won...{w}{w} But who was that man in the forest?{g}{x:00}
+
+@72
+{z}{s:0320}I believe he must be a man called {a:0006}.{g}{x:00}
+
+@73
+{z}{s:0320}{a:0006}?{g}{x:00}
+
+@74
+{z}{s:0320}Yes... A famous outlaw of the forest, known throughout the land.{g}{x:00}
+
+@75
+{z}I had heard he lived in seclusion, shunning battle... So he was here all along.{g}{x:00}
+
+@76
+{z}{s:0320}It seems he has fallen...{g}{x:00}
+
+@77
+{z}{s:0320}Mm...{w}{w} A pity.{g}{x:00}
+
+@78
+{z}{s:0320}So that hunter was beaten after all... Why was he in this forest? It bothers me.{g}{x:00}
+
+@79
+{z}{s:0320}Whatever he came out for, it was all for nothing once he got beaten...{g}{x:00}
+
+@80
+{z}{s:0320}Whatever he came out for, it was all for nothing once he got beaten...{g}{x:00}
+
+@81
+{z}{s:0320}That man said something about leaving the forest... about protecting it...{g}{x:00}
+
+@82
+{z}{s:0320}Keep away from this forest! Whoever comes near will be food for my arrows!{g}{x:00}
+
+@83
+{z}{s:0320}Who is this man...{g}{x:00}
+
+@84
+{z}{s:0320}Mister hunter! Don't get in our way!{g}{x:00}
+
+@85
+{z}{s:0320}You are the ones in the way!{g}{x:00}
+
+@86
+{z}{s:0320}I don't know who you are, but fight me!{g}{x:00}
+
+@87
+{z}{s:0320}Who on earth are you?{g}{x:00}
+
+@88
+{z}{s:0320}That doesn't matter! Just get out of this forest!{g}{x:00}
+
+@89
+{z}{s:0320}Who are you? Are you going to get in our way?{g}{x:00}
+
+@90
+{z}{s:0320}I would rather not fight, if I can help it... Forgive me.{g}{x:00}
+
+@91
+{z}{s:0320}?{g}{x:00}
+
+@92
+{z}{s:0320}The bandits are wiped out...{g}{x:00}
+
+@93
+{z}The mercenaries don't seem to want a fight. I may have wronged them.{g}{x:00}
+
+@94
+{z}Hey, you there. I'm sorry I attacked you without warning...{g}{x:00}
+
+@95
+{z}{s:0320}No...{g}{x:00}
+
+@96
+{z}My name is {a:0006}... I'm confident that no one can best me with a bow.{g}{x:00}
+
+@97
+{z}{s:0320}The bandits are wiped out... That leaves the mercenaries.{g}{x:00}
+
+@98
+{z}You lot! Get out of this forest at once!{g}{x:00}
+
+@99
+{z}{s:0320}Wait! Who are you...{g}{x:00}
+
+@100
+{z}{s:0320}I said, get out!{g}{x:00}
+
+@101
+{z}{s:0320}Very well... This seems to be your land...{g}{x:00}
+
+@102
+{z}We shall be on our way...{g}{x:00}
+
+@103
+{z}{s:0320}I want to talk with you a little longer! We would never...{g}{x:00}
+
+@104
+{z}{s:0320}I'm afraid I have nothing to say to you.{g}{x:00}
+
+@105
+{z}If you won't leave, I will have to hide myself away.{g}{x:00}
+
+@106
+{z}{s:0320}Wait!{g}{x:00}
+
+@107
+{z}{s:0320}Farewell...{g}{x:00}
+
+@108
+{z}{s:0320}That's for the best...{g}{x:00}
+
+@109
+{z}I'm going back to my lair. You lot, hurry up and leave too.{g}{x:00}
+
+@110
+{z}{s:0320}Even so, that hunter... Who could he have been?{g}{x:00}
+
+@111
+{z}{s:0320}So we never found out in the end...{g}{x:00}
+
+@112
+{z}{s:0320}Who was that fellow, anyway? Dressed up like a hunter...{g}{x:00}
+
+@113
+{z}{s:0320}That hunter-like man... Who could he really have been?{g}{x:00}
+
+@114
+{z}{s:0320}Who was that fellow, anyway? Dressed up like a hunter...{g}{x:00}
+
+@115
+{z}{s:0320}Still... who was that man who looked like a hunter?{g}{x:00}
+
+@116
+{z}{s:0320}Why can't you understand?!{g}{x:00}
+
+@117
+{z}If you carry on like this, the fighting will never end!{g}{x:00}
+
+@118
+{z}{s:0320}Shut up already!{g}{x:00}
+
+@119
+{z}{s:0320}Damn... Is there no choice{w} but to cut you down...{g}{x:00}
+
+@120
+{z}{s:0320}Yaaah!{g}{x:00}
+
+@121
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@122
+{z}{s:0320}Take this! {p:01}!!{g}{x:00}
+
+@123
+{z}{s:0320}Take that! {p:01}!{g}{x:00}
+
+@124
+{z}{s:0320}There!{g}{x:00}
+
+@125
+{z}{s:0320}This finishes it!{g}{x:00}
+
+@126
+{z}{s:0320}We mustn't let this battle go on forever...{g}{x:00}
+
+@127
+{z}{s:0320}At this rate... we'll be the ones beaten...{g}{x:00}
+
+@128
+{z}You came to destroy my quiet life, didn't you!{g}{x:00}
+

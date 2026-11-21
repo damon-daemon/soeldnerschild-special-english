@@ -1,0 +1,351 @@
+@0
+{z}{s:0320}Your Highness! Are you unharmed?{g}{x:00}
+
+@1
+{z}{s:0320}Thank you, {a:0068}... You came to rescue me.{g}{x:00}
+
+@2
+{z}{s:0320}The throne of Saxen should pass to you, Your Highness!{g}{x:00}
+
+@3
+{z}Come, let us return to the castle and drive out {a:0066} and his lot!{g}{x:00}
+
+@4
+{z}{s:0320}{a:0068}...{g}{x:00}
+
+@5
+{z}You would even strike down your own brother to make me king...{g}{x:00}
+
+@6
+{z}I understand! I will fight with all I have!{g}{x:00}
+
+@7
+{z}{s:0320}Your Highness... That's the spirit.{g}{x:00}
+
+@8
+{z}Let us end this war!{g}{x:00}
+
+@9
+{z}{s:0320}Yes!{g}{x:00}
+
+@10
+{z}{s:0320}Heh... This is certainly the final battle...{g}{x:00}
+
+@11
+{z}{s:0320}!{g}{x:00}
+
+@12
+{z}{s:0320}{a:0066}!{g}{x:00}
+
+@13
+{z}{s:0320}But it is you who will die!{g}{x:00}
+
+@14
+{z}{a:0000}! Dispose of those traitors with your own hand!{g}{x:00}
+
+@15
+{z}{s:0320}...{g}{x:00}
+
+@16
+{z}{s:0320}{a:0000}... You too...{g}{x:00}
+
+@17
+{z}{s:0320}Do you mean to side with {a:0066} as well?{g}{x:00}
+
+@18
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@19
+{z}{s:0320}It is a pity we stand on opposite sides, but that is the way of an age of chaos...{g}{x:00}
+
+@20
+{z}{s:0320}...{g}{x:00}
+
+@21
+{z}{s:0320}Your Highness... There is no other way...{g}{x:00}
+
+@22
+{z}First {a:0000}, then {a:0066} in the castle. Let us strike them down!{g}{x:00}
+
+@23
+{z}{s:0320}...{w}{w} Yes...{g}{x:00}
+
+@24
+{z}{s:0320}Ha ha ha ha ha!{g}{x:00}
+
+@25
+{z}Can you really defeat {a:0000}?{g}{x:00}
+
+@26
+{z}Go, {a:0000}! Cut down {a:0093} and {a:0068}!{g}{x:00}
+
+@27
+{z}{s:0320}{a:0000} and the others are very strong, but I...{g}{x:00}
+
+@28
+{z}{s:0320}It is a sad battle...{w}{w} We must make it the last one...{g}{x:00}
+
+@29
+{z}{s:0320}If we lose here, all our fighting so far will have been for nothing!{g}{x:00}
+
+@30
+{z}{s:0320}This battle decides the future of Saxen...{w} and of the whole continent...{g}{x:00}
+
+@31
+{z}We can't lose either!{g}{x:00}
+
+@32
+{z}{s:0320}I'm sick of fighting. I'd like to be done with it...{g}{x:00}
+
+@33
+{z}I've saved up plenty for a good time, too.{g}{x:00}
+
+@34
+{z}{s:0320}...{g}{x:00}
+
+@35
+{z}{s:0320}{a:0000}! What are you doing!{g}{x:00}
+
+@36
+{z}Do not let them into the castle!{g}{x:00}
+
+@37
+{z}{s:0320}If we fail to hold here, Lord {a:0066} in the castle will be in danger.{g}{x:00}
+
+@38
+{z}Keep the enemy away from the castle!{g}{x:00}
+
+@39
+{z}{s:0320}Traitors who defy the Prince! Here I come!{g}{x:00}
+
+@40
+{z}{s:0320}For the Prince... and for Lady {a:0068}...{g}{x:00}
+
+@41
+{z}I give my life for them!{g}{x:00}
+
+@42
+{z}{s:0320}Here I come!{g}{x:00}
+
+@43
+{z}{s:0320}Sorry...{w} {a:0000}. Keep fighting to the end...{g}{x:00}
+
+@44
+{z}{s:0320}Damn! My whole company wiped out!{g}{x:00}
+
+@45
+{z}{s:0320}To retreat in a battle this important...{g}{x:00}
+
+@46
+{z}{s:0320}I'm pulling out... {a:0000}...{w}{w} Win this, you hear!{g}{x:00}
+
+@47
+{z}{s:0320}Forgive me...{w}{w} {a:0000}. This is as far as I can go...{g}{x:00}
+
+@48
+{z}{s:0320}Impossible... That I should fall here...{g}{x:00}
+
+@49
+{z}Blast! I'm falling back into the castle! {a:0000}! Make sure you beat them!{g}{x:00}
+
+@50
+{z}{s:0320}Ngh, this is the end... No choice! We withdraw into the castle!{g}{x:00}
+
+@51
+{z}{s:0320}Your Highness... I am sorry...{g}{x:00}
+
+@52
+{z}I can go no further...{g}{x:00}
+
+@53
+{z}{s:0320}{a:0068}!{g}{x:00}
+
+@54
+{z}I'm sorry... If only I had more strength...{g}{x:00}
+
+@55
+{z}{s:0320}Br-Brother...{g}{x:00}
+
+@56
+{z}Please... {w}{w}let the fighting... {w}{w}end... {w}{w}with this...{g}{x:00}
+
+@57
+{z}{s:0320}So I too... end here...{g}{x:00}
+
+@58
+{z}Lady {a:0068}... I am sorry...{g}{x:00}
+
+@59
+{z}{s:0320}{a:0069}! You too...{g}{x:00}
+
+@60
+{z}{s:0320}Aaagh!{g}{x:00}
+
+@61
+{z}{a:0068}...{w}{w} I suppose I just... wasn't cut out to be king after all...{g}{x:00}
+
+@62
+{z}All this time...{w}{w} you worked so hard for me...{w}{w} Thank...{w}{w}{w} you...{w}{g}{x:00}
+
+@63
+{z}{s:0320}Your Highness!{w}{w} Your Highnessss!{g}{x:00}
+
+@64
+{z}...{g}{x:00}
+
+@65
+{z}If I had not dragged the Prince into this war, it would never have come to this...{g}{x:00}
+
+@66
+{z}I will avenge the Prince myself!{g}{x:00}
+
+@67
+{z}{s:0320}Aaagh!{g}{x:00}
+
+@68
+{z}{a:0068}...{w}{w} I suppose I just wasn't cut out to be king after all, was I...{g}{x:00}
+
+@69
+{z}Instead of...{w}{w} being born{w} a prince...{w}{w} I wish I could...{w}{w} have lived...{w}{w} in peace...{w}{w} I really do...{g}{x:00}
+
+@70
+{z}{s:0320}{a:0000}!{g}{x:00}
+
+@71
+{z}I thought you would help the Prince!{g}{x:00}
+
+@72
+{z}{s:0320}...{g}{x:00}
+
+@73
+{z}{s:0320}Heh... Have you nothing to say?{g}{x:00}
+
+@74
+{z}I must defeat {a:0066}... and anyone who stands in my way.{g}{x:00}
+
+@75
+{z}Here I come, {a:0000}!{g}{x:00}
+
+@76
+{z}{s:0320}{a:0068}... So you made it this far after all...{g}{x:00}
+
+@77
+{z}{s:0320}{a:0066}...{g}{x:00}
+
+@78
+{z}The world is just starting to find peace, yet your way will throw it back into chaos...{g}{x:00}
+
+@79
+{z}{s:0320}Heh heh. And what of it?{g}{x:00}
+
+@80
+{z}Then I shall be the conqueror of an age of chaos and reign over this continent!{g}{x:00}
+
+@81
+{z}And when my strength fails, let another destroy me! That is what an age of chaos means!{g}{x:00}
+
+@82
+{z}{s:0320}The people long for peace! Why can't you see that?{g}{x:00}
+
+@83
+{z}{s:0320}I live by the sword...{w}{w} and die by the sword. That is my way!{g}{x:00}
+
+@84
+{z}{a:0068}... Surely you, of all people, understand!{g}{x:00}
+
+@85
+{z}{s:0320}To have to fight a good person like you...{g}{x:00}
+
+@86
+{z}{s:0320}Hold nothing back. That is what battle is...{g}{x:00}
+
+@87
+{z}And you are fighting to put an end to sad battles like this one, aren't you?{g}{x:00}
+
+@88
+{z}{s:0320}Your Highness...{g}{x:00}
+
+@89
+{z}{s:0320}I've no grudge against you, but if I go easy, I'm the one who gets killed.{g}{x:00}
+
+@90
+{z}I'll give it everything I've got!{g}{x:00}
+
+@91
+{z}{s:0320}I am in a hurry as well... I shall give it everything too!{g}{x:00}
+
+@92
+{z}{s:0320}Great sorcerer {a:0005}... To think I would end up fighting you like this...{g}{x:00}
+
+@93
+{z}{s:0320}It pains my heart too, to fight a patriot such as you...{g}{x:00}
+
+@94
+{z}{s:0320}Show no mercy. Now that it has come to this, we can only fight with all our strength!{g}{x:00}
+
+@95
+{z}{s:0320}Hm...{g}{x:00}
+
+@96
+{z}{s:0320}Your Highness... I must strike you down...{g}{x:00}
+
+@97
+{z}{s:0320}You are {a:0003}, aren't you? Before we fight, I want you to promise me one thing...{g}{x:00}
+
+@98
+{z}{s:0320}Yes?{g}{x:00}
+
+@99
+{z}{s:0320}That if your side wins, you will make a world free of war...{g}{x:00}
+
+@100
+{z}{s:0320}...{g}{x:00}
+
+@101
+{z}Of course. That is what we have been fighting for all this time...{g}{x:00}
+
+@102
+{z}{s:0320}Hearing that puts my mind at rest. Now I can fight without regret...{g}{x:00}
+
+@103
+{z}{s:0320}...{w} Then, Your Highness, here I come!{g}{x:00}
+
+@104
+{z}{s:0320}Everyone hesitates to strike down the Prince, so...{g}{x:00}
+
+@105
+{z}I'll take on the dirty work myself.{g}{x:00}
+
+@106
+{z}{s:0320}Strong, just as I thought... But...{w}{w} I'm not beaten yet!{g}{x:00}
+
+@107
+{z}{s:0320}The Prince has fallen...{w}{w} and so has Lady {a:0068}...{g}{x:00}
+
+@108
+{z}We should surrender with honour...{g}{x:00}
+
+@109
+{z}{s:0320}Ha ha ha ha ha...{g}{x:00}
+
+@110
+{z}The royal house of Saxen is finished. I am this country's new king!{g}{x:00}
+
+@111
+{z}{a:0000}... You have served me well, too...{g}{x:00}
+
+@112
+{z}The fighting ends here. Return to the castle...{g}{x:00}
+
+@113
+{z}{s:0320}...{g}{x:00}
+
+@114
+{z}{s:0320}It's over...{g}{x:00}
+
+@115
+{z}...{w} ...{w} ...{w} ...{w} {g}{x:00}
+
+@116
+{z}All that is left is to return to the castle and report our victory to Lord {a:0066}...{g}{x:00}
+

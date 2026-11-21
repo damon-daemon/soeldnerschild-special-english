@@ -1,0 +1,420 @@
+@0
+{z}{s:0320}If we get through this forest safely, the mission is done.{g}{x:00}
+
+@1
+{z}{s:0320}Follow the road... Beyond the eastern forest is the front.{g}{x:00}
+
+@2
+{z}{s:0320}Escort us at least as far as the eastern forest, will you?{g}{x:00}
+
+@3
+{z}Once we're there, we should manage on our own the rest of the way.{g}{x:00}
+
+@4
+{z}{s:0320}Isn't following the road the long way round?{g}{x:00}
+
+@5
+{z}Let's cut straight through the forest. It's the shortcut.{g}{x:00}
+
+@6
+{z}{s:0320}The cavalry we lead are slow in forests.{g}{x:00}
+
+@7
+{z}I wouldn't say cutting through is faster.{g}{x:00}
+
+@8
+{z}{s:0320}Now you mention it... true.{g}{x:00}
+
+@9
+{z}{s:0320}Everyone, there!{g}{x:00}
+
+@10
+{z}{s:0320}Here comes the enemy...{g}{x:00}
+
+@11
+{z}{s:0320}Hey, you lot! This is our forest!{g}{x:00}
+
+@12
+{z}Thinking of passing through without paying a toll?{g}{x:00}
+
+@13
+{z}{s:0320}Brigands... aren't they...{g}{x:00}
+
+@14
+{z}{s:0320}You there... you've got something tasty there.{g}{x:00}
+
+@15
+{z}Hand it over if you want to pass.{g}{x:00}
+
+@16
+{z}{s:0320}This is food for the front... I won't give it to scum like you!{g}{x:00}
+
+@17
+{z}{s:0320}You mean to resist? Fool...{g}{x:00}
+
+@18
+{z}Fine, we'll take it by force.{g}{x:00}
+
+@19
+{z}Men! Charge! Go only for the ones carrying the food! Understood?{g}{x:00}
+
+@20
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@21
+{z}{s:0320}Brigands... I never expected that.{g}{x:00}
+
+@22
+{z}{s:0320}We certainly didn't reckon on that.{g}{x:00}
+
+@23
+{z}{s:0320}And they're after the supply train... I wish they'd come for us instead.{g}{x:00}
+
+@24
+{z}{s:0320}Whatever happens, keep the enemy away from the supply train.{g}{x:00}
+
+@25
+{z}{s:0320}We follow the road east.{g}{x:00}
+
+@26
+{z}It's the long way round, but with enemies there, we've no choice.{g}{x:00}
+
+@27
+{z}{s:0320}Either way makes little difference.{g}{x:00}
+
+@28
+{z}Best to take the safe road.{g}{x:00}
+
+@29
+{z}{s:0320}Now then! Let's go!{g}{x:00}
+
+@30
+{z}{s:0320}Loads of food for the taking. Let's go all out.{g}{x:00}
+
+@31
+{z}{s:0320}Who goes there!{g}{x:00}
+
+@32
+{z}{s:0320}What? Someone's in the way... Brigands?{g}{x:00}
+
+@33
+{z}{s:0320}Now from the front... and mercenaries, too...{g}{x:00}
+
+@34
+{z}Hired by {p:01}, I'd guess. I had a feeling mercenaries would turn up...{g}{x:00}
+
+@35
+{z}{s:0320}Brigands and mercenaries... I hope they wipe each other out.{g}{x:00}
+
+@36
+{z}{s:0320}Brigands and mercenaries... I hope they wipe each other out.{g}{x:00}
+
+@37
+{z}{s:0320}Brigands and mercenaries... I hope they destroy each other.{g}{x:00}
+
+@38
+{z}{s:0320}If the brigands and mercenaries wiped each other out, it'd be easier...{g}{x:00}
+
+@39
+{z}{s:0320}If those two join hands, we're in trouble...{g}{x:00}
+
+@40
+{z}{s:0320}Ignore the brigands and go for the supply train! Go...{g}{x:00}
+
+@41
+{z}{s:0320}Wait!{g}{x:00}
+
+@42
+{z}{s:0320}What is it?{g}{x:00}
+
+@43
+{z}{s:0320}Let's borrow the brigands' strength. We'll join forces with them.{g}{x:00}
+
+@44
+{z}{s:0320}What do you mean?{g}{x:00}
+
+@45
+{z}{s:0320}I have a good idea. Leave it to me...{g}{x:00}
+
+@46
+{z}Hey, brigands! Hear us out for a moment!{g}{x:00}
+
+@47
+{z}{s:0320}I don't mind listening, but be quick.{g}{x:00}
+
+@48
+{z}Or the food will get away.{g}{x:00}
+
+@49
+{z}{s:0320}What are you after? That food they carry, right?{g}{x:00}
+
+@50
+{z}{s:0320}Yes.{g}{x:00}
+
+@51
+{z}{s:0320}We've no interest in food. We just want that supply train gone.{g}{x:00}
+
+@52
+{z}So we attack the supply train together. Once it's beaten, you take the food...{g}{x:00}
+
+@53
+{z}{s:0320}We get the food and we're happy... You beat the supply train and you're happy...{g}{x:00}
+
+@54
+{z}{s:0320}Exactly.{g}{x:00}
+
+@55
+{z}{s:0320}Not a bad deal...{g}{x:00}
+
+@56
+{z}{s:0320}Then we're allies from now on. Don't betray us.{g}{x:00}
+
+@57
+{z}{s:0320}You just make sure you hand over the food.{g}{x:00}
+
+@58
+{z}{s:0320}You're a clever one.{g}{x:00}
+
+@59
+{z}{s:0320}Even I'm impressed.{g}{x:00}
+
+@60
+{z}{s:0320}Naturally.{g}{x:00}
+
+@61
+{z}{s:0320}What? Brigands and mercenaries joining forces? Ridiculous...{g}{x:00}
+
+@62
+{z}Can we really reach the front...? With so many more in the way...{g}{x:00}
+
+@63
+{z}{s:0320}Don't worry! We'll get you to the front, I promise!{g}{x:00}
+
+@64
+{z}{s:0320}Don't worry! Believe in us!{g}{x:00}
+
+@65
+{z}{s:0320}Believe in us! We'll deliver you to the front without fail!{g}{x:00}
+
+@66
+{z}{s:0320}We're here. Of course you'll be fine.{g}{x:00}
+
+@67
+{z}{s:0320}What I feared... This is bad. Very bad...{g}{x:00}
+
+@68
+{z}{s:0320}With other mercenaries...{w}{w} this wouldn't have happened...{w}{w} perhaps...{g}{x:00}
+
+@69
+{z}Useless mercenaries...{w}{w} damn them...{g}{x:00}
+
+@70
+{z}{s:0320}Right, the supply train is beaten. Our job here is done.{g}{x:00}
+
+@71
+{z}Hey, brigands! As promised, the food is yours. Take as much as you like.{g}{x:00}
+
+@72
+{z}{s:0320}Right, we'll take it.{g}{x:00}
+
+@73
+{z}{s:0320}Well, we'll be pulling out. No point lingering here.{g}{x:00}
+
+@74
+{z}{s:0320}Let's go home too. I want my dinner.{g}{x:00}
+
+@75
+{z}{s:0320}Right, the supply train is beaten. Our job here is done.{g}{x:00}
+
+@76
+{z}Sorry, brigands, but we'll keep this food. Their own fault for getting wiped out.{g}{x:00}
+
+@77
+{z}Tonight, when we're back in town, we feast!{g}{x:00}
+
+@78
+{z}{s:0320}Heh heh... We got the food. And so much of it...{g}{x:00}
+
+@79
+{z}I thought of sharing with the mercenaries, but they got wiped out. It's all ours.{g}{x:00}
+
+@80
+{z}{s:0320}The supply train's been beaten... Damn. And with us there...{g}{x:00}
+
+@81
+{z}{s:0320}What were we hired for...? How pathetic.{g}{x:00}
+
+@82
+{z}{s:0320}We couldn't protect it... I'm sorry. And we were right there...{g}{x:00}
+
+@83
+{z}{s:0320}We failed to protect it... A sorry business.{g}{x:00}
+
+@84
+{z}{s:0320}So close to the front, too... What a shameful result.{g}{x:00}
+
+@85
+{z}{s:0320}We'll be fine on our own from here. We're going ahead.{g}{x:00}
+
+@86
+{z}{s:0320}The food got away... And there was so much...{g}{x:00}
+
+@87
+{z}{s:0320}What's gone is gone. Can't be helped...{g}{x:00}
+
+@88
+{z}{s:0320}No way...{g}{x:00}
+
+@89
+{z}{s:0320}We're going home. Nothing more for us here.{g}{x:00}
+
+@90
+{z}{s:0320}I thought we'd be set for a while... Damn it...{g}{x:00}
+
+@91
+{z}{s:0320}It got away... Even allying with the brigands wasn't enough?{g}{x:00}
+
+@92
+{z}No supply train, no reason to stay here. Let's head home.{g}{x:00}
+
+@93
+{z}{s:0320}The food got away... And there was so much...{g}{x:00}
+
+@94
+{z}I thought we'd be set for a while... Ah...{g}{x:00}
+
+@95
+{z}{s:0320}Looks like we got them to the front safely. I'm glad we did our duty.{g}{x:00}
+
+@96
+{z}{s:0320}We got the supply train to the front safely... I'm so glad.{g}{x:00}
+
+@97
+{z}{s:0320}All right! We protected the supply train! Mission accomplished!{g}{x:00}
+
+@98
+{z}{s:0320}Our part is done. Good that we did our duty.{g}{x:00}
+
+@99
+{z}{s:0320}Got them to the front safely... Phew. Our part is done.{g}{x:00}
+
+@100
+{z}{s:0320}Them... and us... everyone lost.{g}{x:00}
+
+@101
+{z}{s:0320}Brigands and mercenaries both gone... The obstacles are cleared away.{g}{x:00}
+
+@102
+{z}Right, hurry on! Many comrades at the front are waiting for us to arrive!{g}{x:00}
+
+@103
+{z}{s:0320}Hey, hey! Wait! Don't rush so!{g}{x:00}
+
+@104
+{z}{s:0320}Don't rush so! We can't keep up!{g}{x:00}
+
+@105
+{z}{s:0320}No need to rush so... we'll be left behind.{g}{x:00}
+
+@106
+{z}{s:0320}Well, we'd better go too. They'll need an escort to the end.{g}{x:00}
+
+@107
+{z}{s:0320}Hey, hey... don't rush so... We can't keep up.{g}{x:00}
+
+@108
+{z}{s:0320}I'm sorry... I was no use...{g}{x:00}
+
+@109
+{z}{s:0320}Why... why did I lose to the likes of them... It can't be...{g}{x:00}
+
+@110
+{z}{s:0320}My company...{g}{x:00}
+
+@111
+{z}{s:0320}I can't go on...{g}{x:00}
+
+@112
+{z}{s:0320}I'm pulling out...{g}{x:00}
+
+@113
+{z}{s:0320}Even allied with the brigands... it wasn't enough?{g}{x:00}
+
+@114
+{z}{s:0320}What! The mercenaries wiped out? Pathetic!{g}{x:00}
+
+@115
+{z}We won't lose! We'll get that food, whatever it takes!{g}{x:00}
+
+@116
+{z}{s:0320}Never give up, to the end... It's only one platoon...{g}{x:00}
+
+@117
+{z}{s:0320}Me... beaten by the likes of them... Damn...{g}{x:00}
+
+@118
+{z}{s:0320}This lot are strong... Ridiculously strong...{g}{x:00}
+
+@119
+{z}{s:0320}All that food... Damn...{g}{x:00}
+
+@120
+{z}{s:0320}The brigands wiped out... They were nothing much after all.{g}{x:00}
+
+@121
+{z}{s:0320}Get that food, whatever happens... I'm counting on you...{g}{x:00}
+
+@122
+{z}{s:0320}Out of my way! I've no business with you!{g}{x:00}
+
+@123
+{z}{s:0320}Of course we'll get in your way! It's our job!{g}{x:00}
+
+@124
+{z}{s:0320}Cheeky woman... I'll thrash you! Let's go!{g}{x:00}
+
+@125
+{z}{s:0320}Try it if you can!{g}{x:00}
+
+@126
+{z}{s:0320}So your company's my opponent... You'd better give me some sport.{g}{x:00}
+
+@127
+{z}{s:0320}You're no match for me! I'll finish this in a moment!{g}{x:00}
+
+@128
+{z}{s:0320}Go! Charge! Cut down every last one!{g}{x:00}
+
+@129
+{z}{s:0320}Damn them... What did we ever do to them?{g}{x:00}
+
+@130
+{z}{s:0320}Hand over the food! Do you really want to get hurt?{g}{x:00}
+
+@131
+{z}{s:0320}You're the one who'll be hurt. I won't lose.{g}{x:00}
+
+@132
+{z}{s:0320}Just a youngster, and such a mouth on you...{g}{x:00}
+
+@133
+{z}You'll regret what you just said. You've angered me. Now you've made me get serious!{g}{x:00}
+
+@134
+{z}{s:0320}Get as serious as you like. That'll be more fun.{g}{x:00}
+
+@135
+{z}{s:0320}Getting cocky... Let's go, youngster!{g}{x:00}
+
+@136
+{z}{s:0320}The food's at stake. I can't lose!{g}{x:00}
+
+@137
+{z}{s:0320}Now, to work... First I'll clear away your company.{g}{x:00}
+
+@138
+{z}{s:0320}I'm a company captain too. I won't lose so easily!{g}{x:00}
+
+@139
+{z}I'm in! I'll take that deal!{g}{x:00}
+

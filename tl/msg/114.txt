@@ -1,0 +1,279 @@
+@0
+{z}{s:0320}{a:0000}! Look!{g}{x:00}
+
+@1
+{z}A fleet on the horizon. Those must be the pirates.{g}{x:00}
+
+@2
+{z}{s:0320}Yes... {w}{w}Remember the plan. We persuade them and avoid a fight.{g}{x:00}
+
+@3
+{z}Whatever happens, no one lifts a hand while {a:0000} is talking to them!{g}{x:00}
+
+@4
+{z}{s:0320}Don't think you can beat us at sea! All ships, battle stations!{g}{x:00}
+
+@5
+{z}Hm?! {w}{w}Who is that...?{g}{x:00}
+
+@6
+{z}{s:0320}I am {a:0000} of the Tigre Mercenaries.{g}{x:00}
+
+@7
+{z}{s:0320}...? {w}{w}A mercenary wants to talk to me? {w}{w}A trap...?{g}{x:00}
+
+@8
+{z}{s:0320}I'm {a:009b}! What do mercenaries want with us?{g}{x:00}
+
+@9
+{z}{s:0320}We came to drive you out. However...{g}{x:00}
+
+@10
+{z}{s:0320}Hahaha... {w}I won't fall for that!{g}{x:00}
+
+@11
+{z}{s:0320}You once worked honestly, didn't you?{g}{x:00}
+
+@12
+{z}Don't you long for those peaceful voyages?{g}{x:00}
+
+@13
+{z}{s:0320}Hmph! I do... but these days, everywhere you go there's only war!{g}{x:00}
+
+@14
+{z}This is the only way left to protect ourselves.{g}{x:00}
+
+@15
+{z}{s:0320}We fight to change a world like that!{g}{x:00}
+
+@16
+{z}{s:0320}What transparent lies!{g}{x:00}
+
+@17
+{z}You can't live without war. That's what mercenaries are!{g}{x:00}
+
+@18
+{z}{s:0320}True... some are like that.{g}{x:00}
+
+@19
+{z}But we chose the mercenary's path to end this age of war.{g}{x:00}
+
+@20
+{z}Fighting may be necessary at times... but there must be no pointless battles.{g}{x:00}
+
+@21
+{z}If you are willing to give up piracy and return to an honest life...{g}{x:00}
+
+@22
+{z}{s:0320}...{g}{x:00}
+
+@23
+{z}This one... is he serious? Does he truly believe that?{g}{x:00}
+
+@24
+{z}If so...{g}{x:00}
+
+@25
+{z}{s:0320}Enough dithering!{g}{x:00}
+
+@26
+{z}I'll scatter a few pirates myself!{g}{x:00}
+
+@27
+{z}{f}{l:00e9}{s:0002}{a:0024}! Stop!{g}{x:00}
+
+@28
+{z}{s:0320}What?!{g}{x:00}
+
+@29
+{z}Tch... A sneak attack, was it? I almost fell for it...{g}{x:00}
+
+@30
+{z}All ships, open fire! Cut down that swindling whelp!{g}{x:00}
+
+@31
+{z}{s:0320}{a:0024}, you fool... It was so close to working...{g}{x:00}
+
+@32
+{z}Now we have no choice but to fight! A sea battle is to our disadvantage. Lure the enemy ashore!{g}{x:00}
+
+@33
+{z}{s:0320}I'm withdrawing. {a:0000}, I leave the rest to you!{g}{x:00}
+
+@34
+{z}{s:0320}So pirates have the edge at sea... {w}Naturally.{g}{x:00}
+
+@35
+{z}No choice, then. Retreat!{g}{x:00}
+
+@36
+{z}{s:0320}They're strong... {w}I can't go on.{g}{x:00}
+
+@37
+{z}{s:0320}We nearly avoided a fight... Now there's no other way.{g}{x:00}
+
+@38
+{z}{f}{l:00e9}{s:0002}Why did you get in {a:0000}'s way? He was so close to succeeding!{g}{x:00}
+
+@39
+{z}{s:0320}Persuasion is for fools! Attack!{g}{x:00}
+
+@40
+{z}{f}{l:00e9}{s:0002}Damn it! Why does it always end like this?!{g}{x:00}
+
+@41
+{z}{f}{l:00ea}{s:0003}How many will die because of {a:0024}...{g}{x:00}
+
+@42
+{z}{s:0320}Mercenaries' words are nothing but lies!{g}{x:00}
+
+@43
+{z}Now we fight to the bitter end! Men, don't you dare lose!{g}{x:00}
+
+@44
+{z}{f}{l:00ea}{s:0003}There was nothing we could do...{g}{x:00}
+
+@45
+{z}{f}{l:00e7}{s:0001}Hey, {a:0000}!{g}{x:00}
+
+@46
+{z}Why... {w}{w}do we have to fight these people?{g}{x:00}
+
+@47
+{z}It's not right!{g}{x:00}
+
+@48
+{z}{s:0320}{a:009b}! I never meant to deceive you! It's the truth!{g}{x:00}
+
+@49
+{z}{s:0320}Now you say that! Liar! {w}{w}I'll kill you!{g}{x:00}
+
+@50
+{z}{s:0320}Tch... {w}I can't blame you for thinking that...{g}{x:00}
+
+@51
+{z}{s:0320}Fighting is our trade. Give it up.{g}{x:00}
+
+@52
+{z}{s:0320}I won't lose to such cowards!{g}{x:00}
+
+@53
+{z}{s:0320}Lull us, then strike by surprise... Typical mercenaries, filthy tricks!{g}{x:00}
+
+@54
+{z}We'll retreat for now, but one day we'll pay you back for this. Remember that!{g}{x:00}
+
+@55
+{z}Men! Pull out!{g}{x:00}
+
+@56
+{z}{s:0320}Tch... Is this the end...{g}{x:00}
+
+@57
+{z}{s:0320}Damn... Losing to mere mercenaries...{g}{x:00}
+
+@58
+{z}{s:0320}These mercenaries... they're strong.{g}{x:00}
+
+@59
+{z}{s:0320}Damn...{g}{x:00}
+
+@60
+{z}{s:0320}We nearly avoided a fight...{g}{x:00}
+
+@61
+{z}{f}{l:00e7}{s:0001}{a:0000}'s persuasion went to waste.{g}{x:00}
+
+@62
+{z}{s:0320}{a:0024}! Why did you act on your own?{g}{x:00}
+
+@63
+{z}Do you still call yourself one of the Tigre?{g}{x:00}
+
+@64
+{z}{s:0320}Why waste effort on pirates? Scattering them is quickest.{g}{x:00}
+
+@65
+{z}{s:0320}What are you saying! It was nearly working!{g}{x:00}
+
+@66
+{z}{s:0320}Exactly... {a:0024}, why did you strike?{g}{x:00}
+
+@67
+{z}{a:009b} was starting to open his heart... If the persuasion had worked, many men would have been spared.{g}{x:00}
+
+@68
+{z}{s:0320}... The weak die. That's all there is to it.{g}{x:00}
+
+@69
+{z}{s:0320}If you mean that, I can't entrust a company to you.{g}{x:00}
+
+@70
+{z}Disobey orders again, and there'll be no place for you in the Tigre. Mark my words!{g}{x:00}
+
+@71
+{z}{s:0320}Hmph!{g}{x:00}
+
+@72
+{z}{f}{l:00e9}{s:0002}{a:0024}!{g}{x:00}
+
+@73
+{z}Did you forget the plan? Why couldn't you wait a little longer?!{g}{x:00}
+
+@74
+{z}{s:0320}Why waste effort on pirates? Scattering them is quickest.{g}{x:00}
+
+@75
+{z}We won in the end, didn't we! That's all that matters.{g}{x:00}
+
+@76
+{z}{f}{l:00ea}{s:0003}If {a:0024} hadn't attacked then, it would have worked out...{g}{x:00}
+
+@77
+{z}We needn't have lost any men. {w}And yet...{g}{x:00}
+
+@78
+{z}{s:0320}...{g}{x:00}
+
+@79
+{z}{s:0320}We'll have to talk to him when we return to town...{g}{x:00}
+
+@80
+{z}{s:0320}... {w}{w}Not a good result, but the mission is done.{g}{x:00}
+
+@81
+{z}Each of you will have thoughts about today's battle.{g}{x:00}
+
+@82
+{z}Go back to the inn and think it over... {w}{w}Now, back to town!{g}{x:00}
+
+@83
+{z}{s:0320}No use staying here forever. Let's go back.{g}{x:00}
+
+@84
+{z}{f}{l:00e7}{s:0001}Yes...{g}{x:00}
+
+@85
+{z}{s:0320}{a:009b}... {w}I wonder how well you fight on land...{g}{x:00}
+
+@86
+{z}{s:0320}Come on, catch us if you can!{g}{x:00}
+
+@87
+{z}{s:0320}Damn mercenaries... They've fled ashore.{g}{x:00}
+
+@88
+{z}No matter! Show them we fight just as well away from the sea!{g}{x:00}
+
+@89
+{z}I wish to speak with your leader, {a:009b}.{g}{x:00}
+
+@90
+{z}{s:0320}{a:009b}! Are you there?{g}{x:00}
+
+@91
+{z}If you say you'll give up piracy... we will never attack you.{g}{x:00}
+
+@92
+{z}We will never attack! Believe me!{g}{x:00}
+

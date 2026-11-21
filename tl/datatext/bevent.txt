@@ -1,0 +1,159 @@
+# KEY|English (tools/datatext.py; Japanese: datatext.py show bevent)
+00852|Defeat all enemies
+008d6|The hero falls
+02907|Messenger escapes west
+0298b|Messenger is lost
+02bfd|Head west on your own
+02c1e|Follow Anastasia
+02c3f|Follow Ryuk
+02c60|Follow Luisa
+03903|Defeat the captors
+03987|Prisoners at the fort are taken
+039a8|Captors escape south
+0496f|2 relief companies cross NE hill
+049f3|2 relief companies are defeated
+05947|Villagers enter the NW forest
+05968|Villagers enter the NE forest
+059cb|All villagers fall
+06b88|Accept
+06ba9|Refuse
+07c3f|I can do it
+07c60|I can't do it
+08017|Stop attacking
+08038|Keep attacking
+08c70|Let them go
+08c91|Don't let them go
+0993f|Defeat the enemy commander
+099c3|Enemy commander escapes north
+0d977|Enemy enters the village
+0e9b3|Allied regulars enter NW forest
+0ea37|Allied regular army is wiped out
+0f98b|Retreating army crosses river
+0fa0f|Retreating army is wiped out
+10957|Seize the fort
+109db|17 turns pass
+11933|Noble reaches the SW fort
+119b7|The noble falls
+11d82|Let him pay them off
+11da3|Keep fighting
+129de|4 enemy companies cross bridge
+129ff|Defeat 4 enemy companies
+12a83|20 turns pass
+12ca5|Yes
+12cc6|No
+12d1e|Anastasia
+12d3f|Luisa
+12d60|Antonio
+12d81|Guilford
+141d3|Villagers enter the SE forest
+14471|Our dreams
+14492|The mission
+151a7|Retreating army reaches W fort
+16137|Medics enter the SW forest
+161bb|Medics are lost
+163eb|Through the forest
+1640c|Straight west
+1712b|Noble escapes southwest
+1714c|Noble escapes northwest
+171af|The noble is abducted
+17552|Advance northwest
+17573|Turn southwest
+182a7|The wounded escape north
+1832b|All the wounded fall
+199a7|Regulars reach the south fort
+19a2b|Regular army is wiped out
+1a953|Supply train escapes west
+1a9d7|Supply train is lost
+1b93f|Retreating army escapes NE
+1ca1f|15 turns pass
+1d972|Defeat all deserters
+1da17|Deserters escape south
+1e8f2|Defeat 3 regular companies
+1e997|2 regular cos. reach the NW fort
+1f916|Defeat the noble
+1f9bb|Noble gets past the NW forest
+1fdce|Accept
+1fdef|Refuse
+208ca|Defeat the supply train
+2096f|Supply train escapes SE
+21a07|Escape SE with the treasure
+21a8b|The treasure is retaken
+259df|Enemy exits east by the road
+25a00|Enemy knights exit east by road
+26a3b|The fort's supply depot is taken
+27a2b|The west fort is taken
+29a23|The castle is taken
+2a937|Supply train enters E forest
+2a9bb|Supply train is defeated
+2b983|Letter-bearers escape north
+2ba07|The secret letter is taken
+2bbb0|I'll carry it
+2bbd1|Give it to Anastasia
+2bbf2|Give it to Ryuk
+2bc13|Give it to Luisa
+2ca07|Capture noble and escape NW
+2ca8b|Noble crosses the NE bridge
+2caac|Noble's abductors retreat
+2cdf8|Listen
+2ce19|Don't listen
+2e217|Take documents to NE forest
+2e29b|Knight Commander enters NW wood
+2e2bc|Mercenary captain enters NW wood
+2e2dd|The documents are retaken
+319ff|Break defence line, repel enemy
+331e7|The supply depot is taken
+34113|Capture the fort
+360f7|Allied knights enter NW forest
+3617b|Enemy knights cross NE bridge
+3619c|Allied knights are wiped out
+3720b|The wounded escape south
+38197|Retreating army escapes west
+391ef|Capture the castle
+3a9d3|The fort is taken
+3ba0f|Regulars enter the SE forest
+3bd02|Go east
+3bd23|Go south
+4709e|Defeat the Knight Commander
+47334|Watch the knights from the rear
+47355|Go forward and help the knights
+49977|Enemy company escapes west
+4a94b|Gustav's force is wiped out
+4b39f|Accept the duel
+4b3c0|Refuse the duel
+4ca1a|Leave the forest as told
+4ca3b|Keep trying to talk
+4d0f6|Defeat the supply train
+4d19b|Supply train reaches south edge
+4e0bf|Orhan falls
+4e122|The supply depot is seized
+4e8fa|Repel the enemy
+4f8f6|Enemy retreats
+5087a|Repel Hawkins
+518ba|Defeat the enemy leader
+520c6|Defeat Cortes
+5309a|Defeat Smiley
+54943|All but the hero's company fall
+5591b|Jeanne falls
+560c6|Rottweil falls
+57096|Defeat Ignatius
+578b6|Laszlo falls
+5994b|Manfried is defeated
+5a0ba|Ferdinand falls
+5b096|Manfried and Theresia fall
+5c10b|Sword-bearers escape NE
+5c18f|Sword-bearers are defeated
+5c1b0|Enemy knights arrive
+5d0c2|Wayne falls
+5e13e|Clovis falls
+5f12b|Villagers are defeated
+600e6|Defeat Giovanni and Lorenzo
+61182|Tyler and Alberto fall
+62177|Enemy force escapes to east edge
+623b8|She fears for her own men
+623d9|She thinks the plan is futile
+630d2|Ethelbald falls
+640ea|Defeat Willem
+65092|Defeat Hawkins
+6594a|Defeat Caterina II
+668c6|Defeat Christina IV
+6f8a6|Capture an enemy fort

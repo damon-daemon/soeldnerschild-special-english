@@ -1,0 +1,693 @@
+@0
+{z}{s:0320}We just take the cultural treasure from that fort, right?{g}{x:00}
+
+@1
+{z}{s:0320}The enemy still hasn't noticed us.{g}{x:00}
+
+@2
+{z}{s:0320}But there are an awful lot of guards.{g}{x:00}
+
+@3
+{z}{s:0320}So what do we do?{g}{x:00}
+
+@4
+{z}{s:0320}One company heads for the fort... and the other companies cover it.{g}{x:00}
+
+@5
+{z}Once it has the treasure, that company makes straight for this spot, with the others covering it.{g}{x:00}
+
+@6
+{z}That's all there is to it.{g}{x:00}
+
+@7
+{z}{s:0320}Cover it?... You mean draw the enemy off?{g}{x:00}
+
+@8
+{z}{s:0320}Defeating the enemy is cover enough, too.{g}{x:00}
+
+@9
+{z}{s:0320}I see...{g}{x:00}
+
+@10
+{z}{s:0320}Well then, time we were going.{g}{x:00}
+
+@11
+{z}{s:0320}Hey! Anything unusual?{g}{x:00}
+
+@12
+{z}{s:0320}Nothing so far!{g}{x:00}
+
+@13
+{z}{s:0320}Nothing unusual, then...{w}{w} Ah... what a bore...{g}{x:00}
+
+@14
+{z}{s:0320}It is rather dull.{g}{x:00}
+
+@15
+{z}{s:0320}Why must I, a Knight Commander, do a job like this... Mercenaries would do well enough...{g}{x:00}
+
+@16
+{z}{s:0320}If an enemy appears, just let the mercenaries deal with them.{g}{x:00}
+
+@17
+{z}{s:0320}Of course, that's the plan. I've no intention of fighting.{g}{x:00}
+
+@18
+{z}{s:0320}All these troops prepared... What on earth is in that fort?{g}{x:00}
+
+@19
+{z}{s:0320}Who knows... I haven't a clue.{g}{x:00}
+
+@20
+{z}{s:0320}Will the enemy really come?{g}{x:00}
+
+@21
+{z}{s:0320}Who knows... I haven't a clue.{g}{x:00}
+
+@22
+{z}{s:0320}Hey...{w}{w} Those are mercenaries, aren't they?{g}{x:00}
+
+@23
+{z}{s:0320}No doubt about it...{g}{x:00}
+
+@24
+{z}{s:0320}Enemy! The enemy has appeared!{g}{x:00}
+
+@25
+{z}{s:0320}What? The enemy?{g}{x:00}
+
+@26
+{z}{s:0320}They've finally shown up. Let's order the mercenaries to charge.{g}{x:00}
+
+@27
+{z}{s:0320}Hey! Charge! Don't let them anywhere near this fort!{g}{x:00}
+
+@28
+{z}{s:0320}Charge, he says...{g}{x:00}
+
+@29
+{z}{s:0320}At last it's our turn.{g}{x:00}
+
+@30
+{z}{s:0320}Let's go!{g}{x:00}
+
+@31
+{z}{s:0320}The enemy seems to be charging us.{g}{x:00}
+
+@32
+{z}{s:0320}Only now they notice us? What a slow lot.{g}{x:00}
+
+@33
+{z}{s:0320}The battle begins at last. Fight carefully, everyone.{g}{x:00}
+
+@34
+{z}{s:0320}Mercenaries alone aren't reliable after all... Ah... so we have to fight...{g}{x:00}
+
+@35
+{z}{s:0320}We did it! We've reached the fort!... Not that we've time to celebrate.{g}{x:00}
+
+@36
+{z}The cultural treasure is...{w}{w} Let's see...{w}{w} Is this it?...{g}{x:00}
+
+@37
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@38
+{z}{s:0320}Now we take this and flee south, right?{g}{x:00}
+
+@39
+{z}{s:0320}Everyone! We've reached the fort! Now, which one is the cultural treasure...{g}{x:00}
+
+@40
+{z}{w}{w}...{w}{w} Found it! This is it!{g}{x:00}
+
+@41
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@42
+{z}{s:0320}Now we only have to take this and flee south.{g}{x:00}
+
+@43
+{z}{s:0320}We've finally reached the fort... Now, where is the treasure?...{g}{x:00}
+
+@44
+{z}{w}{w}...{w}{w} Found it! This is definitely it!{g}{x:00}
+
+@45
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@46
+{z}{s:0320}Now we only have to head south with this.{g}{x:00}
+
+@47
+{z}{s:0320}Phew... at last, the fort. Now, where's this treasure?...{g}{x:00}
+
+@48
+{z}...{w}{w} Hm? This must be it.{g}{x:00}
+
+@49
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@50
+{z}{s:0320}Well, we have what we came for. All that's left is to go back.{g}{x:00}
+
+@51
+{z}{s:0320}So this is the fort... Now, where is the treasure?...{g}{x:00}
+
+@52
+{z}...{w}{w} Hm? This must be it.{g}{x:00}
+
+@53
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@54
+{z}{s:0320}Now we only have to take this and head south.{g}{x:00}
+
+@55
+{z}{s:0320}Right! We're at the fort! Where's the treasure?...{g}{x:00}
+
+@56
+{z}...{w}{w} Found it! This is it!{g}{x:00}
+
+@57
+{z}Obtained {p:01}'s important cultural treasure.{g}{x:00}
+
+@58
+{z}{s:0320}Now we just go back the way we came. Hurry!{g}{x:00}
+
+@59
+{z}{s:0320}Damn! It's been stolen! And with so many guarding it...{g}{x:00}
+
+@60
+{z}{s:0320}Hey! If you've time to mope, go after them!{g}{x:00}
+
+@61
+{z}Are you going to let them get away?!{g}{x:00}
+
+@62
+{z}{s:0320}Of course not! After them! Chase them!{g}{x:00}
+
+@63
+{z}Only the company that took the treasure matters! Don't let it escape!{g}{x:00}
+
+@64
+{z}{s:0320}It's been stolen... despite so many guarding it...{g}{x:00}
+
+@65
+{z}All forces! Pursue! Chase the company that took the treasure! Don't let it escape!{g}{x:00}
+
+@66
+{z}{s:0320}Damn! They took it! And we had so many guarding it...{g}{x:00}
+
+@67
+{z}Chase the company that took the treasure! Don't you dare let it get away!{g}{x:00}
+
+@68
+{z}{s:0320}After we went to all that trouble to take it... I'm sorry...{g}{x:00}
+
+@69
+{z}{s:0320}After we went to all the trouble of taking it... Damn...{g}{x:00}
+
+@70
+{z}{s:0320}After we finally got it... How shameful...{g}{x:00}
+
+@71
+{z}{s:0320}Tch... after all the trouble of taking it...{g}{x:00}
+
+@72
+{z}{s:0320}After we finally got it... Forgive me.{g}{x:00}
+
+@73
+{z}{s:0320}We took it back! We took the cultural treasure back!{g}{x:00}
+
+@74
+{z}Hm? Is somebody over there?{g}{x:00}
+
+@75
+{z}{s:0320}So it was taken back... What a pity.{g}{x:00}
+
+@76
+{z}I thought it was about time they brought the treasure, so I came to see... I never expected it to have been taken back...{g}{x:00}
+
+@77
+{z}{s:0320}Commander, the time for the conference is near. We should return.{g}{x:00}
+
+@78
+{z}{s:0320}Is it that time already?... I suppose we must go back.{g}{x:00}
+
+@79
+{z}In truth, I meant to propose a certain plan at today's conference, to throw {p:01} into confusion...{g}{x:00}
+
+@80
+{z}That treasure was essential to the plan. But it seems we'll not make it in time...{g}{x:00}
+
+@81
+{z}{s:0320}Commander! There's no time!{g}{x:00}
+
+@82
+{z}{s:0320}No help for it... We must give up...{g}{x:00}
+
+@83
+{z}You too, withdraw. There is no point in fighting any more. We would only lose troops needlessly.{g}{x:00}
+
+@84
+{z}Farewell!{g}{x:00}
+
+@85
+{z}{s:0320}If the Knight Commander says so... we have no choice but to pull out.{g}{x:00}
+
+@86
+{z}{s:0320}Let's pull out... I don't want a pointless fight.{g}{x:00}
+
+@87
+{z}{s:0320}Oh well, we failed... Let's go home...{g}{x:00}
+
+@88
+{z}{s:0320}So we failed the mission... Damn...{g}{x:00}
+
+@89
+{z}{s:0320}There's no need for a futile fight. Let's go home.{g}{x:00}
+
+@90
+{z}{s:0320}No choice... Retreat.{g}{x:00}
+
+@91
+{z}{s:0320}The enemy is pulling out! Victory is ours!{g}{x:00}
+
+@92
+{z}We protected the cultural treasure to the end!{g}{x:00}
+
+@93
+{z}{s:0320}We've finally got this far... Just one more push...{g}{x:00}
+
+@94
+{z}{s:0320}We've finally got this far... Almost there...{g}{x:00}
+
+@95
+{z}{s:0320}We've finally got this far... Just one more push...{g}{x:00}
+
+@96
+{z}{s:0320}We've finally got this far... Just a little more...{g}{x:00}
+
+@97
+{z}{s:0320}We've finally got this far... Just one more push...{g}{x:00}
+
+@98
+{z}{s:0320}We've finally got this far... Just one more push...{g}{x:00}
+
+@99
+{z}{s:0320}They've got all the way over there...{g}{x:00}
+
+@100
+{z}Hm?{w}{w} Who's that there...{n}{w}{w} Reinforcements?{g}{x:00}
+
+@101
+{z}{s:0320}We are not reinforcements. We have come to receive the cultural treasure from you.{g}{x:00}
+
+@102
+{z}Well, did you get the treasure? I heard the guard was tight...{g}{x:00}
+
+@103
+{z}{s:0320}Of course I got it! This is right, isn't it?{g}{x:00}
+
+@104
+{z}{s:0320}Of course I got it! Who do you think I am?!{g}{x:00}
+
+@105
+{z}{s:0320}Yes, I certainly seized it. Is this the right one?{g}{x:00}
+
+@106
+{z}{s:0320}Of course. This is the one, isn't it?{g}{x:00}
+
+@107
+{z}{s:0320}I have it. This is the right one, isn't it?{g}{x:00}
+
+@108
+{z}{s:0320}Yes, I got it. Is this the right one?{g}{x:00}
+
+@109
+{z}{s:0320}Ah! That's certainly it! Then we shall take charge of it.{g}{x:00}
+
+@110
+{z}Handed over {p:01}'s important cultural treasure.{g}{x:00}
+
+@111
+{z}{s:0320}Commander, the time for the conference is near.{g}{x:00}
+
+@112
+{z}{s:0320}Is it that time already?... We must hurry.{g}{x:00}
+
+@113
+{z}We have certainly received the treasure. You have our thanks for your hard work.{g}{x:00}
+
+@114
+{z}Now, we are short of time, so if you'll excuse us.{g}{x:00}
+
+@115
+{z}{s:0320}It's in the regular army's hands now... We can't take it back...{g}{x:00}
+
+@116
+{z}The guard should have been perfect...{g}{x:00}
+
+@117
+{z}{s:0320}At least I didn't let everyone down... Thank goodness.{g}{x:00}
+
+@118
+{z}{s:0320}The key to victory was letting me take the treasure. Nobody could take it back from me.{g}{x:00}
+
+@119
+{z}{s:0320}That completes the mission. Come on, let's go home.{g}{x:00}
+
+@120
+{z}{s:0320}That's our part done. Right, let's go home.{g}{x:00}
+
+@121
+{z}{s:0320}The mission seems to have gone well. Then let us go home.{g}{x:00}
+
+@122
+{z}{s:0320}The enemy is wiped out... All that's left is to take the treasure.{g}{x:00}
+
+@123
+{z}Huh?{w}{w} What's that...{w}{w} Reinforcements?{g}{x:00}
+
+@124
+{z}{s:0320}All right! The enemy is wiped out! All that's left is to fetch the treasure from the fort.{g}{x:00}
+
+@125
+{z}What's that?... {w}{w}Reinforcements?{g}{x:00}
+
+@126
+{z}{s:0320}The enemy seems to be wiped out. Take the treasure and the mission is done.{g}{x:00}
+
+@127
+{z}Who's that over there...{w}{w} Reinforcements?{g}{x:00}
+
+@128
+{z}{s:0320}That wipes out the enemy. Now we just take this treasure.{g}{x:00}
+
+@129
+{z}Hm? What's that...{w}{w} Are they reinforcements?{g}{x:00}
+
+@130
+{z}{s:0320}That wipes out the enemy. Now we only have to take the treasure.{g}{x:00}
+
+@131
+{z}...{w}{w} Oh?{n}What's that...{w}{w} Reinforcements?{g}{x:00}
+
+@132
+{z}{s:0320}Good, the enemy is wiped out. Take the treasure and the mission is done.{g}{x:00}
+
+@133
+{z}...{w}{w} What is that?... {w}{w}Reinforcements?{g}{x:00}
+
+@134
+{z}{s:0320}The enemy is wiped out... Now we can advance in peace...{g}{x:00}
+
+@135
+{z}...{w}{w} Who are they...{w}{w} Reinforcements?{g}{x:00}
+
+@136
+{z}{s:0320}All right! The enemy is wiped out! Now we can proceed in peace...{g}{x:00}
+
+@137
+{z}...{w}{w} Oh? Who's that...{w}{w} Reinforcements?{g}{x:00}
+
+@138
+{z}{s:0320}The enemy seems to be wiped out. At last we can advance in peace.{g}{x:00}
+
+@139
+{z}...{w}{w} Who's that over there...{w}{w} Reinforcements?{g}{x:00}
+
+@140
+{z}{s:0320}That wipes out the enemy. Phew... no more being chased.{g}{x:00}
+
+@141
+{z}...{w}{w} Hm? Who's that...{w}{w} Are they reinforcements?{g}{x:00}
+
+@142
+{z}{s:0320}That wipes out the enemy. At last we can head south in peace...{g}{x:00}
+
+@143
+{z}...{w}{w} Oh? Who's that...{w}{w} Reinforcements?{g}{x:00}
+
+@144
+{z}{s:0320}Good, the enemy is wiped out. Nobody is left to chase us...{g}{x:00}
+
+@145
+{z}...{w}{w} Hm? Who's that...{w}{w} Are they reinforcements?{g}{x:00}
+
+@146
+{z}{s:0320}We are not reinforcements. We came to receive the cultural treasure.{g}{x:00}
+
+@147
+{z}Did you get the treasure?{g}{x:00}
+
+@148
+{z}...{w}{w} The enemy is wiped out...{n}I heard security here was perfect...{g}{x:00}
+
+@149
+{z}{s:0320}We wiped out the enemy, but... the treasure isn't...{g}{x:00}
+
+@150
+{z}{s:0320}We wiped out the enemy, but... well... the treasure isn't...{g}{x:00}
+
+@151
+{z}{s:0320}We wiped out the enemy, but... as for the treasure...{g}{x:00}
+
+@152
+{z}{s:0320}We wiped out the enemy, but we haven't got the treasure yet.{g}{x:00}
+
+@153
+{z}{s:0320}We wiped out the enemy, but we haven't got the treasure yet.{g}{x:00}
+
+@154
+{z}{s:0320}We wiped out the enemy, but... I'm sorry... the treasure isn't...{g}{x:00}
+
+@155
+{z}{s:0320}We got the treasure too. This is right, isn't it?{g}{x:00}
+
+@156
+{z}{s:0320}Don't be amazed at that alone! We got the treasure too...{w}{w} Look!{g}{x:00}
+
+@157
+{z}{s:0320}Don't be amazed at that alone... We have the treasure too.{g}{x:00}
+
+@158
+{z}{s:0320}We didn't just wipe them out. We got the treasure too.{g}{x:00}
+
+@159
+{z}{s:0320}We did not just wipe them out. We have the treasure too.{g}{x:00}
+
+@160
+{z}{s:0320}Of course we got the treasure. We did more than wipe out the enemy.{g}{x:00}
+
+@161
+{z}{s:0320}Never mind the treasure. Wiping out the enemy is quite enough.{g}{x:00}
+
+@162
+{z}Leave the rest to us. We shall obtain the treasure ourselves. Thank you for all your trouble.{g}{x:00}
+
+@163
+{z}{s:0320}Ah! That's certainly it! Splendid work!{g}{x:00}
+
+@164
+{z}Then we shall take charge of it.{g}{x:00}
+
+@165
+{z}Handed over {p:01}'s important cultural treasure.{g}{x:00}
+
+@166
+{z}{s:0320}Commander, the time for the conference is near.{g}{x:00}
+
+@167
+{z}{s:0320}Is it that time already?... We must hurry.{g}{x:00}
+
+@168
+{z}We have certainly received the treasure. You have our thanks for your hard work.{g}{x:00}
+
+@169
+{z}Now, we must hurry on, so if you'll excuse us.{g}{x:00}
+
+@170
+{z}{s:0320}Well, we leave the rest to them. Let's go back to town.{g}{x:00}
+
+@171
+{z}{s:0320}Right, we leave the rest to them... Let's go home.{g}{x:00}
+
+@172
+{z}{s:0320}Well, we leave the rest to them. Let's go back to town.{g}{x:00}
+
+@173
+{z}{s:0320}Now, we leave the rest to the regular army. Let's go home.{g}{x:00}
+
+@174
+{z}{s:0320}Well then, we leave the rest to the regular army. Let us go back to town.{g}{x:00}
+
+@175
+{z}{s:0320}Thank goodness they never took it back... I was tense the whole time.{g}{x:00}
+
+@176
+{z}{s:0320}The key to victory was letting me take the treasure. Nobody could take it back from me.{g}{x:00}
+
+@177
+{z}{s:0320}Thank goodness they never took it back... Really, thank goodness...{g}{x:00}
+
+@178
+{z}{s:0320}Phew... it's finally over... Ah...{w}{w} I'm tired...{w}{w} I want to get back to town.{g}{x:00}
+
+@179
+{z}{s:0320}That completes the mission. We've no more business here, let's go.{g}{x:00}
+
+@180
+{z}{s:0320}Everyone... I'm sorry...{g}{x:00}
+
+@181
+{z}{s:0320}You must get away... You must...{g}{x:00}
+
+@182
+{z}{s:0320}I was no use...{g}{x:00}
+
+@183
+{z}{s:0320}Damn... I can't go on...{g}{x:00}
+
+@184
+{z}{s:0320}My company can fight no more... Forgive me.{g}{x:00}
+
+@185
+{z}{s:0320}Somehow, you must manage the rest... I'm sorry...{g}{x:00}
+
+@186
+{z}{s:0320}Tch! Pathetic, for a knightly order!{g}{x:00}
+
+@187
+{z}{s:0320}I...{w}{w} I lose?{n}{w}{w} Can that really be...{g}{x:00}
+
+@188
+{z}{s:0320}These guys... mere mercenaries, yet...{n}{w}{w} they're strong.{g}{x:00}
+
+@189
+{z}{s:0320}Damn... how could I...{n}{w}{w} Curse it...{g}{x:00}
+
+@190
+{z}{s:0320}I was sure we couldn't lose against the Tigre...{g}{x:00}
+
+@191
+{z}{s:0320}You... you're good...{g}{x:00}
+
+@192
+{z}{s:0320}Sorry... we're wiped out...{g}{x:00}
+
+@193
+{z}{s:0320}What useless mercenaries... Hire better ones next time...{g}{x:00}
+
+@194
+{z}{s:0320}Get out of my way!{g}{x:00}
+
+@195
+{z}{s:0320}Damn it! Get out of my way! Or I'll get really angry!{g}{x:00}
+
+@196
+{z}{s:0320}Get out of my way! Please!{g}{x:00}
+
+@197
+{z}{s:0320}So you came after me, after all... Well, that's only natural...{g}{x:00}
+
+@198
+{z}{s:0320}All that's left is to flee. Don't get in my way.{g}{x:00}
+
+@199
+{z}{s:0320}I am a Knight Commander of {p:01}... The likes of you are nothing to me!{g}{x:00}
+
+@200
+{z}{s:0320}I won't lose to mercenaries! I can't afford to lose!{g}{x:00}
+
+@201
+{z}{s:0320}You won't get past me! I'll crush you here!{g}{x:00}
+
+@202
+{z}{s:0320}Here I come! Yaaah!{g}{x:00}
+
+@203
+{z}{s:0320}Don't think you can pass here. My company is in the way.{g}{x:00}
+
+@204
+{z}{s:0320}Mercenaries daring to attack me... Don't underestimate me!{g}{x:00}
+
+@205
+{z}{s:0320}Come on, then!{g}{x:00}
+
+@206
+{z}{s:0320}Out of the way! Clear the road!{g}{x:00}
+
+@207
+{z}{s:0320}You... are you really a match for me?{g}{x:00}
+
+@208
+{z}{s:0320}They've gone a long way south... That's bad.{g}{x:00}
+
+@209
+{z}{s:0320}After them! Chase them!{g}{x:00}
+
+@210
+{z}{s:0320}Hey...{n}{w}{w} Those are mercenaries, aren't they?{g}{x:00}
+
+@211
+{z}{s:0320}No doubt about it...{g}{x:00}
+
+@212
+{z}{s:0320}Enemy! The enemy has appeared!{g}{x:00}
+
+@213
+{z}{s:0320}What? The enemy?{g}{x:00}
+
+@214
+{z}{s:0320}Hey! You lot! Meet the enemy head on!{g}{x:00}
+
+@215
+{z}Don't let the enemy anywhere near this fort!{g}{x:00}
+
+@216
+{z}{s:0320}Meet them head on, he says...{g}{x:00}
+
+@217
+{z}{s:0320}Let's get to it, then...{g}{x:00}
+
+@218
+{z}{s:0320}No choice, I suppose.{g}{x:00}
+
+@219
+{z}{s:0320}It's true...{n}{w}{w} They had split into two groups...{g}{x:00}
+
+@220
+{z}{s:0320}Return to your original positions! Don't let the enemy near the fort!{g}{x:00}
+
+@221
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@222
+{z}{s:0320}It's true...{g}{x:00}
+
+@223
+{z}{s:0320}Hey! There are enemies to the south too!{g}{x:00}
+
+@224
+{z}{s:0320}Hey! There are enemies to the west too!{g}{x:00}
+
+@225
+{z}{s:0320}It's true...{n}{w}{w} They had split into two groups...{g}{x:00}
+
+@226
+{z}{s:0320}Return to your original positions! Don't let the enemy near the fort!{g}{x:00}
+
+@227
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@228
+{z}If they get any further, we'll never catch them...{g}{x:00}
+
+@229
+{z}{s:0320}Ugh... a complete defeat.{g}{x:00}
+
+@230
+{z}{s:0320}Damn... there are no more troops to chase them...{g}{x:00}
+

@@ -1,0 +1,894 @@
+@0
+{z}{f}{l:0086}{s:0086}Your Majesty, Mother, I have brought {a:0000}!{g}{x:00}
+
+@1
+{z}{f}{l:0000}{s:0000}I am {a:0000}. I am glad to meet you.{g}{x:00}
+
+@2
+{z}{f}{l:0098}{s:0098}Welcome to Fenrir. I am the Queen, {a:0098}.{g}{z}Thanks to you, Fenrir's power has grown.{j:0003}{x:00}
+
+@3
+ Thank you.{g}{x:00}
+
+@4
+{z}{f}{l:0098}In honour of your splendid service and your faith, in the name of God I hereby{j:0005}{x:00}
+
+@5
+ dub you a knight of the Kingdom of Fenrir.{g}{z}{f}{l:0000}Such an honour is beyond my worth.{g}{x:00}
+
+@6
+{z}{f}{l:0098}Now then, let me introduce you properly.{g}{j:0007}{x:00}
+
+@7
+{z}The one who brought you is our State Advisor, {a:0086}. The other is my mother, the former queen, {a:0099}.{g}{x:00}
+
+@8
+{z}{f}{l:0086}From now on, let us work together.{g}{x:00}
+
+@9
+{z}{f}{l:0099}{s:0099}There are many women in Fenrir, but do not worry.{g}{j:000a}{x:00}
+
+@10
+{z}It is only that our rulers have been women for generations. We expect much of you.{g}{x:00}
+
+@11
+{z}{f}{l:0098}{a:0000}, from this month you may enter the audience chamber. Your men stay under your command.{g}{j:000c}{x:00}
+
+@12
+{z}But we need a name for your new order...{w} How about "the Ice and Snow Knights"?{g}{x:00}
+
+@13
+{z}{f}{l:0086}I think it a fitting name for our new order.{g}{x:00}
+
+@14
+{z}{f}{l:0099}If {a:0086} says so, it must be fine.{g}{x:00}
+
+@15
+{z}{f}{l:0099}{a:0000}, no more wandering the continent. You can settle down here in Tornio.{g}{z}{f}{l:0000}Thank you.{g}{x:00}
+
+@17
+{z}{f}{l:0086}A mercenary made a knight...{w} I could not have imagined it when we first met.{g}{x:00}
+
+@18
+{z}{f}{l:0098}Now, to work. Your first task is already decided.{g}{j:0013}{x:00}
+
+@19
+{z}Your task: break through the enemy defence line. I posted a call for mercenaries at the Guild; I hope strong ones come.{g}{j:0014}{x:00}
+
+@20
+{z}We have prepared money and soldiers. Use them freely.{g}{x:00}
+
+@21
+{z}Berserker x50{n}Tercio x50{n}You received 17000 G.{g}{x:00}
+
+@22
+{z}{f}{l:0099}You serve Fenrir now, so God's blessing is surely upon you.{g}{x:00}
+
+@23
+{z}{f}{l:0086}If you want more troops, you may hire them at the Guild.{g}{z}But be sure to come back afterwards.{g}{x:00}
+
+@24
+{z}{f}{l:00a9}{s:00a9}Oh, you've left me out again!{g}{j:0019}{x:00}
+
+@25
+{z}I hurried here when {a:0088} told me. Why did nobody let me know?{g}{x:00}
+
+@26
+{z}{f}{l:0098}I meant to introduce you later. Wait outside a little longer.{g}{x:00}
+
+@27
+{z}{f}{l:00a9}Just let me introduce myself. Please?{g}{z}I am Her Majesty's sister, {a:00a9}. I am waiting for a wonderful lover to appear.{g}{x:00}
+
+@28
+{z}{f}{l:0098}That will do...{w} {a:0000}, go and prepare for your task at once.{g}{x:00}
+
+@29
+{z}{f}{l:00a9}Honestly!{g}{z}I wanted to tell you not to do anything reckless!{g}{j:001e}{x:00}
+
+@30
+{z}I won't have this be the first and last time I see you, {a:0000}!{g}{x:00}
+
+@31
+{z}{f}{l:0000}...Thank you. I will fight with all my strength.{g}{x:00}
+
+@32
+{z}{f}{l:00a9}{s:00a9}Come back safe! We'll have a long chat again.{g}{x:00}
+
+@33
+{z}{f}{l:0086}{s:0086}Show us what you can do.{g}{x:00}
+
+@34
+{z}{f}{l:0098}{s:0098}Are you ready?{y:0000230024}{x:00}
+
+@35
+{z}{f}{l:0098}Then win a splendid first battle!{g}{x:00}
+
+@36
+{z}{f}{l:0098}There is no hurry.{g}{x:00}
+
+@40
+{z}{f}{l:0098}{s:0098}You won! Magnificent, {a:0000}.{g}{z}It must be God's reward for choosing Fenrir.{g}{x:00}
+
+@41
+{z}{f}{l:00a9}{s:00a9}You're just what I hoped...{g}{x:00}
+
+@42
+{z}{f}{l:0086}{s:0086}You will not hold me back, it seems...{g}{z}{f}{l:0098}Keep it up until the continent is united.{g}{x:00}
+
+@44
+{z}{f}{l:0098}{a:0086}, tell him about life in the castle.{g}{x:00}
+
+@46
+{z}{f}{l:0086}Then I shall explain. Remember it well.{g}{z}We have prepared a room for you in the castle.{j:002f}{x:00}
+
+@47
+ Rest there.{g}{z}Once the Queen sets your task, prepare for battle,{j:0030}{x:00}
+
+@48
+ greet her and set out.{g}{z}The Queen provides soldiers, so do not worry.{g}{j:0031}{x:00}
+
+@49
+{z}As I said before, now that you serve a sovereign, you may not leave this city except on a task.{g}{x:00}
+
+@50
+{z}{f}{l:0086}Let me add something of my own...{g}{z}You once helped my husband {a:0087}...{w}{j:0033}{x:00}
+
+@51
+ I am late in saying it, but thank you.{g}{x:00}
+
+@52
+{z}{f}{l:0098}I count on you from next month on. Fight in a way worthy of a knight.{g}{x:00}
+
+@53
+{z}{f}{l:00a9}{s:00a9}I'd get shy if we were left alone... Hurry back to your room!{g}{x:00}
+
+@55
+{z}{f}{l:0098}{s:0098}{a:0000}, let me introduce the Commander of the Ice Fog Knights.{g}{x:00}
+
+@56
+{z}{f}{l:0088}{s:0088}I am {a:0088}, Ice Fog Knight Commander.{g}{z}I hear you were raised up from the mercenaries, but knights have a pecking order too.{j:0039}{x:00}
+
+@57
+ Mind your manners with me.{g}{x:00}
+
+@58
+{z}{f}{l:0098}Now, now, you needn't greet him so fiercely from the start...{g}{x:00}
+
+@59
+{z}{f}{l:0088}No, no, the first impression matters.{g}{x:00}
+
+@60
+{z}{f}{l:0086}{s:0086}Your Majesty, enough chatter. Tell him his task.{g}{z}{f}{l:0098}Yes, quite.{g}{x:00}
+
+@62
+{z}{f}{l:0098}This month's task is to defend the border fort from the enemy.{g}{z}The enemy has hired the notorious Blood Mist Mercenaries.{g}{z}{f}{l:0000}{s:0000}Blood Mist Mercenaries...?{g}{x:00}
+
+@64
+{z}{f}{l:0098}They are known for their cruelty, but I trust you can deal with them now.{g}{x:00}
+
+@65
+{z}Dragoon x50{n}Sniper x50{n}You received 18000 G.{g}{x:00}
+
+@66
+{z}{f}{l:0086}{s:0086}Be sure to cut down {a:0028}.{g}{x:00}
+
+@67
+{z}{f}{l:0088}{s:0088}Don't come running home.{g}{x:00}
+
+@68
+{z}{f}{l:0098}{s:0098}Are you ready?{y:0000450046}{x:00}
+
+@69
+{z}{f}{l:0098}Do not lose.{g}{x:00}
+
+@70
+{z}{f}{l:0098}Do not dawdle, or the fort may be taken...{g}{x:00}
+
+@75
+{z}{f}{l:0098}{s:0098}Well done, {a:0000}!{g}{x:00}
+
+@76
+{z}{f}{l:0086}{s:0086}So {a:0028} is gone from this world...{g}{x:00}
+
+@77
+{z}{f}{l:0088}{s:0088}Well, flukes do happen in this world...{g}{x:00}
+
+@78
+{z}{f}{l:0098}You have done well. Rest and recover from your fatigue.{g}{x:00}
+
+@80
+{z}{f}{l:0099}{s:0099}Go back to your room now.{g}{x:00}
+
+@81
+{z}{f}{l:00a9}{s:00a9}Everyone seems to be off this month. There is nobody here.{g}{x:00}
+
+@82
+{z}{f}{l:00a9}Actually... I have a favour to ask that I can't ask of my mother or my sister...{g}{z}{f}{l:0000}{s:0000}A favour...?{g}{x:00}
+
+@84
+{z}{f}{l:00a9}You'll listen! Then let's talk in your room.{g}{z}Come along!{g}{z}{f}{l:0000}...Yes.{g}{x:00}
+
+@86
+{z}{f}{l:0098}{s:0098}I have nothing to ask of you this month. Until next month, then.{g}{x:00}
+
+@89
+{z}{f}{l:0098}{s:0098}You came at just the right time.{g}{x:00}
+
+@90
+{z}{f}{l:0098}One of my men has caught a pirate, and he was carrying a letter addressed to my mother!{g}{z}{f}{l:0000}{s:0000}A letter addressed to Lady Caterina{j:005b}{x:00}
+
+@91
+...!?{g}{x:00}
+
+@92
+{z}{f}{l:0099}{s:0099}Most of the resources coming into this country are carried by pirates.{g}{z}It is nothing to be so surprised about.{g}{x:00}
+
+@93
+{z}{f}{l:0098}Building the economy on pirates...{w} Is that really acceptable?{g}{x:00}
+
+@94
+{z}{f}{l:0099}Fenrir has grown this far precisely because we did so.{g}{j:005f}{x:00}
+
+@95
+{z}You already depend on the pirates yourself. Acceptable or not hardly comes into it.{g}{x:00}
+
+@96
+{z}{f}{l:0098}Even so, if the people learned of it, the dignity of a nation of faith...{g}{x:00}
+
+@97
+{z}{f}{l:0099}They are content with their present wealth...{g}{z}They never wonder how it has been kept up.{g}{x:00}
+
+@98
+{z}{f}{l:0098}...And if the Pope found out?{g}{x:00}
+
+@99
+{z}{f}{l:0099}If that happens, I have a plan. You need not worry.{g}{z}{a:0000} is waiting. Tell him his task, quickly.{g}{x:00}
+
+@100
+{z}{f}{l:0098}That the kingdom prospered thanks to pirates...{g}{z}I told Mother firmly to cut ties with them, but{j:0065}{x:00}
+
+@101
+ she will not listen at all.{g}{z}You oppose such a policy too, do you not?{y:0000660068}{x:00}
+
+@102
+{z}{f}{l:0098}It is a great comfort to hear you say so...{g}{z}Somehow I must change Mother's mind...{w} As queen, I must{j:0067}{x:00}
+
+@103
+ be strong.{g}{x:00}
+
+@104
+{z}{f}{l:0000}To stand against the great powers, it was probably unavoidable.{g}{x:00}
+
+@105
+{z}{f}{l:0098}But as the one entrusted with the realm, it sets the people a poor example.{g}{j:006a}{x:00}
+
+@106
+{z}I cannot agree with the way you and Mother think.{g}{x:00}
+
+@109
+{z}{f}{l:0098}We will speak of this again...{g}{z}More importantly, {a:0000}, I must ask a hard task of you.{g}{x:00}
+
+@110
+{z}{f}{l:0088}{s:0088}The enemy has hired the Funeral Mercenaries...{g}{z}They are marching on our territory now.{g}{x:00}
+
+@111
+{z}{f}{l:0098}{a:0031} is rumoured to ruin even those who hire him...{g}{z}That they hired him means{j:0070}{x:00}
+
+@112
+ the enemy must be truly desperate.{g}{j:0071}{x:00}
+
+@113
+{z}{a:0031} is our greatest foe...{w} To secure our hold on the continent, we cannot leave him be!{g}{x:00}
+
+@114
+{z}{f}{l:0098}{a:0000}, I order you to wipe out the Funeral Mercenaries. Protect Fenrir!{g}{x:00}
+
+@115
+{z}Dragoon x50{n}Sniper x50{n}You received 25000 G.{g}{x:00}
+
+@117
+{z}{f}{l:0088}{s:0088}You're fighting {a:0031}...{w} This may be the last time I speak with you.{g}{x:00}
+
+@118
+{z}{f}{l:0098}{s:0098}Are you ready? Do not let your guard down.{y:0000770078}{x:00}
+
+@119
+{z}{f}{l:0098}For the glory of Fenrir, defeat {a:0031} without fail!{g}{x:00}
+
+@120
+{z}{f}{l:0098}Given the enemy, prepare thoroughly.{g}{x:00}
+
+@125
+{z}{f}{l:0098}{s:0098}You truly defeated {a:0031}! Splendid work!{g}{x:00}
+
+@126
+{z}{f}{l:0088}{s:0088}Honestly, you did well to come back alive.{g}{x:00}
+
+@127
+{z}{f}{l:0098}You have worked so hard. Rest well in your room.{g}{x:00}
+
+@129
+{z}{f}{l:0088}{s:0088}You...{w} Lay a finger on Lady {a:00a9} and you'll pay.{g}{x:00}
+
+@130
+{z}{f}{l:0098}{s:0098}The time has come to destroy the Rana Empire!{g}{x:00}
+
+@131
+{z}{f}{l:0098}When Ragail split, they bared their ambition and dragged the continent into war. Their sin is grave.{g}{z}We shall deliver heaven's punishment in God's stead!{g}{x:00}
+
+@132
+{z}Berserker x50{n}Sniper x50{n}You received 20000 G.{g}{x:00}
+
+@133
+{z}{f}{l:0086}{s:0086}{a:005e} is highly skilled. Do not let him cut you down instead.{g}{x:00}
+
+@134
+{z}{f}{l:0099}{s:0099}I await good news, {a:0000}.{g}{x:00}
+
+@135
+{z}{f}{l:0086}{s:0086}Take the utmost care.{g}{x:00}
+
+@136
+{z}{f}{l:0098}{s:0098}Are you ready?{y:000089008a}{x:00}
+
+@137
+{z}{f}{l:0098}Show the Emperor God's wrath!{g}{x:00}
+
+@138
+{z}{f}{l:0098}Not yet... No need to hurry.{g}{x:00}
+
+@140
+{z}{f}{l:0098}{s:0098}So great Rana has fallen at last...{g}{z}Even a nation with so long a history falls easily before God's might...{g}{x:00}
+
+@149
+{z}{f}{l:0098}{s:0098}{a:0000}, at last we destroy the Duchy of Saxen...{g}{x:00}
+
+@150
+{z}{f}{l:0098}Defeat King {a:00a1}, who caused the continent's turmoil. Do not fail!{g}{x:00}
+
+@152
+{z}Tercio x50{n}Dragoon x50{n}You received 20000 G.{g}{x:00}
+
+@153
+{z}{f}{l:0086}{s:0086}I hear {a:0066} is a very violent man...{g}{x:00}
+
+@154
+{z}{f}{l:0099}{s:0099}The plains around the capital, Freiheit, are fertile...{w} I would very much like to have them.{g}{x:00}
+
+@155
+{z}{f}{l:0086}{s:0086}Beware of {a:0066}.{g}{x:00}
+
+@156
+{z}{f}{l:0098}{s:0098}Are you ready?{y:00009d009e}{x:00}
+
+@157
+{z}{f}{l:0098}Show them our strength!{g}{x:00}
+
+@158
+{z}{f}{l:0098}There is no need to rush.{g}{x:00}
+
+@160
+{z}{f}{l:0098}{s:0098}So Saxen has fallen at last...{g}{x:00}
+
+@161
+{z}{f}{l:0098}Ambitious {a:00a1} could never have imagined that we, once a small nation, would destroy him...{g}{x:00}
+
+@162
+{z}{f}{l:0099}{s:0099}How did he die?{g}{x:00}
+
+@163
+{z}{f}{l:0000}{s:0000}By the time we reached {a:00a1}'s castle, he was already dead.{g}{z}{f}{l:0099}Already dead?{g}{x:00}
+
+@165
+{z}{f}{l:0086}{s:0086}It may be {a:0066}'s doing...{g}{j:00a6}{x:00}
+
+@166
+{z}He joined {a:00a1}'s rebellion to advance himself.{g}{z}Cornered, he might even kill the king...{g}{x:00}
+
+@167
+{z}{f}{l:0099}A man like {a:00a1}... A pitiful end.{g}{x:00}
+
+@168
+{z}{f}{l:0098}Well, either way, his ambition has vanished like dew.{g}{x:00}
+
+@170
+{z}{f}{l:0086}Your Majesty, at last the continent is united, as you wished.{g}{x:00}
+
+@171
+{z}{f}{l:0098}Yes. Now the wars will end and the people can live in peace.{g}{x:00}
+
+@172
+{z}{f}{l:0099}Christina, let us hold a grand festival to celebrate.{g}{j:00ad}{x:00}
+
+@173
+{z}Then the people will know that peace has truly come and be reassured, will they not?{g}{x:00}
+
+@174
+{z}{f}{l:0086}An excellent idea. By all means.{g}{x:00}
+
+@175
+{z}{f}{l:0098}Yes, the people will surely be glad...{w} {a:0086}, go and announce the festival preparations in the town.{g}{x:00}
+
+@176
+{z}{f}{l:0099}Fetch {a:00a9} too. If she isn't told of decisions at once, she sulks.{g}{z}{f}{l:0086}Understood.{g}{x:00}
+
+@178
+{z}{f}{l:0098}Mother, even with the continent united, one more matter still troubles me.{g}{j:00b3}{x:00}
+
+@179
+{z}That business with the pirates... I want you to reconsider. I can never accept it.{g}{x:00}
+
+@180
+{z}{f}{l:0099}Still on about that...{w} You never grow up.{g}{x:00}
+
+@181
+{z}{f}{l:0099}We need only think of the kingdom's wealth. Politics cannot be run on fine words alone.{g}{x:00}
+
+@182
+{z}{f}{l:0098}But it goes against God's teachings!{g}{x:00}
+
+@183
+{z}{f}{l:00a9}{s:00a9}Mother, Sister, I hear we are holding a festival!{g}{z}{f}{l:00a9}...Sister, weren't you shouting just now?{g}{x:00}
+
+@185
+{z}{f}{l:0099}You've finally come, {a:00a9}.{g}{z}We were only discussing the festival details. It's settled.{g}{x:00}
+
+@186
+{z}{f}{l:00a9}Sister, another secret talk without me?{g}{x:00}
+
+@187
+{z}{f}{l:0098}No, it is as Mother said.{g}{z}Look forward to the festival.{g}{x:00}
+
+@188
+{z}{f}{l:00a9}I feel like I'm being fooled...{g}{x:00}
+
+@190
+{z}{f}{l:0098}{s:0098}This month I mean to deal Grandcour the final blow...{g}{z}I leave it to you, {a:0000}.{g}{x:00}
+
+@191
+{z}{f}{l:0099}{s:0099}Regent {a:0094} holds the real power there...{g}{z}Attack the castle where he sits and finish him!{g}{x:00}
+
+@192
+{z}Berserker x50{n}Tercio x50{n}You received 20000 G.{g}{x:00}
+
+@193
+{z}{f}{l:0086}{s:0086}Do you know {a:006e}? Handsome, but quite a spearman too.{g}{x:00}
+
+@194
+{z}{f}{l:0099}{s:0099}Show no mercy, {a:0000}.{g}{x:00}
+
+@195
+{z}{f}{l:0086}{s:0086}Beware of {a:006e}.{g}{x:00}
+
+@196
+{z}{f}{l:0098}{s:0098}Are you fully prepared?{y:0000c500c6}{x:00}
+
+@197
+{z}{f}{l:0098}Go and put an end to them!{g}{x:00}
+
+@198
+{z}{f}{l:0098}Do not take too long.{g}{x:00}
+
+@200
+{z}{f}{l:0098}{s:0098}The royal house of Ragail has ended.{g}{j:00c9}{x:00}
+
+@201
+{z}Even renamed Grandcour, it could not escape its fate...{g}{x:00}
+
+@202
+{z}{f}{l:0086}{s:0086}How was {a:006e}?{g}{x:00}
+
+@203
+{z}{f}{l:0000}{s:0000}He fought magnificently...{g}{z}"I wanted to see my brothers..." he said, and died.{g}{x:00}
+
+@204
+{z}{f}{l:0086}I see. He was the younger brother of {a:0066} and {a:0068} of Saxen...{g}{x:00}
+
+@208
+{z}{f}{l:0098}Excellent results, {a:0000}. Rest well.{g}{x:00}
+
+@210
+{z}{f}{l:0098}{s:0098}You are here, {a:0000}.{g}{x:00}
+
+@211
+{z}{f}{l:0099}{s:0099}Attack Estania's capital and cut down every cowardly noble...{g}{x:00}
+
+@213
+{z}Dragoon x50{n}Sniper x50{n}You received 20000 G.{g}{x:00}
+
+@214
+{z}{f}{l:0086}{s:0086}If I recall, that country has a master of the two-sword style, {a:0076}.{g}{z}We must not lower our guard.{g}{x:00}
+
+@215
+{z}{f}{l:0099}{s:0099}I'm counting on you, {a:0000}!{g}{x:00}
+
+@216
+{z}{f}{l:0086}{s:0086}Do not relax.{g}{x:00}
+
+@217
+{z}{f}{l:0098}{s:0098}Are you ready already?{y:0000da00db}{x:00}
+
+@218
+{z}{f}{l:0098}Bring back victory without fail!{g}{x:00}
+
+@219
+{z}{f}{l:0098}Try not to take too long...{g}{x:00}
+
+@220
+{z}{f}{l:0098}{s:0098}So Estania is finally destroyed... Well done.{g}{x:00}
+
+@221
+{z}{f}{l:0099}{s:0099}They never had much strength; it's a wonder they survived this long.{g}{j:00de}{x:00}
+
+@222
+{z}By the way, what sort of man was {a:0076}?{g}{x:00}
+
+@223
+{z}{f}{l:0000}{s:0000}Lord {a:0076} put the farmers' lives first.{g}{z}He seems to have fought for a land where farmers take part in government.{g}{x:00}
+
+@225
+{z}{f}{l:0098}...As {a:0076} wished, I shall cherish the farmers too.{g}{x:00}
+
+@230
+{z}{f}{l:0098}{s:0098}{a:0000}, I have an important task for you.{g}{x:00}
+
+@231
+{z}{f}{l:0098}Attack Mylard's capital and strike down the king and prince... End the island nation's history!{g}{x:00}
+
+@232
+{z}Berserker x50{n}Dragoon x50{n}You received 20000 G.{g}{x:00}
+
+@233
+{z}{f}{l:0086}{s:0086}The Mylard king is no match for you, but do not underestimate the prince.{g}{x:00}
+
+@234
+{z}{f}{l:0099}{s:0099}They say the prince plunged into war to win land for his fiancee.{g}{z}I am a little curious what kind of man he is.{g}{x:00}
+
+@235
+{z}{f}{l:0086}{s:0086}Beware of the prince.{g}{x:00}
+
+@236
+{z}{f}{l:0099}{s:0099}I wonder what the prince is like.{g}{x:00}
+
+@237
+{z}{f}{l:0098}{s:0098}Are you ready?{y:0000ee00ef}{x:00}
+
+@238
+{z}{f}{l:0098}This battle concludes all that came before. Steel yourself.{g}{x:00}
+
+@239
+{z}{f}{l:0098}Do not lose heart.{g}{x:00}
+
+@240
+{z}{f}{l:0098}{s:0098}At last that island nation is destroyed. Well done.{g}{x:00}
+
+@241
+{z}{f}{l:0086}{s:0086}How was the Mylard prince?{g}{x:00}
+
+@242
+{z}{f}{l:0000}{s:0000}He spoke his fiancee's name, even at the point of death...{g}{x:00}
+
+@245
+{z}{f}{l:0099}{s:0099}Dying while still putting on a show for his fiancee...{g}{z}He was only a fool, after all.{g}{x:00}
+
+@246
+{z}{f}{l:0098}A fine example: one who cannot separate state affairs from private feelings ruins his country...{g}{j:00f7}{x:00}
+
+@247
+{z}We must take care too.{g}{x:00}
+
+@250
+{z}{f}{l:008e}{s:008e}...What is the meaning of this? I want a clear answer.{g}{z}{f}{l:0098}{s:0098}...{g}{x:00}
+
+@252
+{z}{f}{l:008e}His Holiness is furious...{w} An apology will no longer suffice...{g}{j:00fd}{x:00}
+
+@253
+{z}If you wish to keep our friendship, show your sincerity as soon as possible. Do you take my meaning?{g}{x:00}
+
+@254
+{z}{f}{l:0098}Yes, I promise...{g}{x:00}
+
+@256
+{z}{f}{l:0000}{s:0000}What is the matter, Your Majesty?{g}{x:00}
+
+@257
+{z}{f}{l:0098}A ship carrying tribute for the Pope was attacked by pirates...{g}{z}And it came out that Fenrir gave the order...{g}{j:0102}{x:00}
+
+@258
+{z}This is exactly why I was so against it...{g}{x:00}
+
+@259
+{z}{f}{l:0098}{a:0086}, {a:0000}, go at once and subdue the pirates. I shall come too!{g}{x:00}
+
+@260
+{z}{f}{l:0099}{s:0099}That is not necessary, Christina.{g}{x:00}
+
+@261
+{z}{f}{l:0099}Fenrir, poor in resources, has come this far only thanks to the pirates.{g}{j:0106}{x:00}
+
+@262
+{z}To strike down such a benefactor with our own hands...{g}{x:00}
+
+@263
+{z}{f}{l:0098}But His Holiness is furious!{g}{x:00}
+
+@264
+{z}{f}{l:0099}The Pope...{w} What of him?{g}{z}We need not fear his forces in the least.{g}{x:00}
+
+@265
+{z}{f}{l:0098}Mother... Are you in your right mind!?{g}{x:00}
+
+@266
+{z}{f}{l:0099}Of course. Obeying the Pope brings us no profit.{g}{x:00}
+
+@267
+{z}{f}{l:0099}Do you not agree, {a:0086}?{g}{x:00}
+
+@268
+{z}{f}{l:0086}{s:0086}As for the Pope, with my spear...{g}{x:00}
+
+@269
+{z}{f}{l:0098}{a:0086}, even you!{g}{x:00}
+
+@270
+{z}{f}{l:0099}{a:0086} has known about the pirates far longer than you.{g}{z}{f}{l:0098}...{g}{z}{f}{l:0099}Now that you understand, never speak of defeating the pirates{j:010f}{x:00}
+
+@271
+ again. Just leave the Pope be.{g}{x:00}
+
+@273
+{z}{f}{l:0098}{a:0000}...{w} For the first time in my life, I shall defy my mother.{g}{z}Whatever she says, I cannot ruin the relations{j:0112}{x:00}
+
+@274
+ between His Holiness and Fenrir.{g}{j:0113}{x:00}
+
+@275
+{z}Prepare to subdue the pirates at once, {a:0000}. You are my only hope now!{g}{x:00}
+
+@276
+{z}You received 24000 G.{g}{x:00}
+
+@277
+{z}{f}{l:0000}Understood.{g}{x:00}
+
+@278
+{z}{f}{l:0098}Prepare at once. I shall wait here.{g}{x:00}
+
+@279
+{z}{f}{l:0098}{s:0098}O God, I fight to make Fenrir a pure land!{g}{x:00}
+
+@280
+{z}{f}{l:0098}{s:0098}Are the preparations complete?{y:000119011a}{x:00}
+
+@281
+{z}{f}{l:0098}Come, let us show the Pope our sincerity!{g}{x:00}
+
+@282
+{z}{f}{l:0098}Quickly, before Mother notices...{g}{x:00}
+
+@285
+{z}{f}{l:0098}{s:0098}Mother...{w} I had no other choice...{g}{x:00}
+
+@286
+{z}{f}{l:0099}{s:0099}I never thought you would hold to your will this far...{g}{j:011f}{x:00}
+
+@287
+{z}There is no place for me now. The pirates, the Pope... I leave it all to you.{g}{x:00}
+
+@291
+{z}{f}{l:0098}...Mother, I cannot condemn your sins. Go back to your room and rest.{g}{x:00}
+
+@292
+{z}{f}{l:0099}Christina...{w} Become a fine queen.{g}{x:00}
+
+@293
+{z}{f}{l:00a9}Neither {a:0086} nor {a:0087} is here any more. We must rely on {a:0000} now.{g}{x:00}
+
+@294
+{z}{f}{l:0098}{a:0000}, I appoint you State Advisor in place of {a:0086}. Will you accept?{g}{x:00}
+
+@295
+{z}{f}{l:0000}{s:0000}Certainly. I shall devote myself to affairs of state.{g}{x:00}
+
+@297
+{z}{f}{l:0098}That reminds me, I hear a woman among your men served splendidly.{g}{z}{f}{l:0000}Yes, her name is {a:0003}.{j:012a}{x:00}
+
+@298
+ She fulfilled her duty admirably for the sake of peace.{g}{x:00}
+
+@299
+{z}{f}{l:0098}I see... Then to honour {a:0003}'s service, I shall make her a knight.{g}{x:00}
+
+@300
+{z}{f}{l:0000}Thank you! She will surely be delighted.{g}{x:00}
+
+@301
+{z}{f}{l:00a9}How wonderful, {a:0000}.{g}{x:00}
+
+@302
+{z}{f}{l:00a9}Sister, I'll go and cheer Mother up.{g}{x:00}
+
+@303
+{z}{f}{l:0000}Your Majesty... will this soothe the Pope's anger?{g}{x:00}
+
+@304
+{z}{f}{l:0098}We defeated the pirates, so surely it will.{g}{z}{a:0000}, thank you truly for all your help.{g}{j:0131}{x:00}
+
+@305
+{z}Go to your comrades quickly and tell them the news.{g}{x:00}
+
+@310
+{z}{f}{l:0098}...Everyone, leave.{g}{j:0137}{x:00}
+
+@311
+{z}I will defeat the pirates. Even without your understanding...{w} Even if I must defy you, Mother!{g}{x:00}
+
+@312
+{z}{f}{l:0099}W-wait, Christina.{g}{z}The pirates...{w} {a:009b} is indispensable to Fenrir!{g}{j:0139}{x:00}
+
+@313
+{z}If you defeat them, Fenrir's economy will not last a single day...{w} Reconsider, Christina!{g}{x:00}
+
+@314
+{z}{f}{l:0098}You kept it secret from me...{g}{z}I march out this very moment.{j:013b}{x:00}
+
+@315
+ Everyone else, leave quickly. This is the Queen's order!{g}{x:00}
+
+@320
+{z}{f}{l:0099}{s:0099}Christina... You will not change your mind?{g}{x:00}
+
+@321
+{z}{f}{l:0098}{s:0098}As queen, I cannot issue orders defying the Pope.{g}{z}If you say I am unfit to be queen,{j:0142}{x:00}
+
+@322
+ then let me abdicate...{g}{x:00}
+
+@323
+{z}{f}{l:0099}Well said...{w} Then you shall abdicate.{g}{z}{a:00a9} will succeed you...{g}{z}{f}{l:0098}Whether this outcome truly serves{j:0144}{x:00}
+
+@324
+ the people, time will tell.{g}{x:00}
+
+@326
+{z}{f}{l:0099}Someday she will surely understand...{g}{x:00}
+
+@327
+{z}{f}{l:0086}{s:0086}And the date of Lady {a:00a9}'s accession...?{g}{x:00}
+
+@328
+{z}{f}{l:0099}First there is something I want settled...{g}{x:00}
+
+@329
+{z}{f}{l:0099}{a:0000}, marry {a:00a9}.{g}{z}{f}{l:0000}{s:0000}What!?{g}{x:00}
+
+@330
+{z}{f}{l:0099}She seems fond of you. Agreed?{g}{j:014b}{x:00}
+
+@331
+{z}I want someone near her who will be on her side.{g}{x:00}
+
+@332
+{z}{f}{l:0086}A commoner joining the royal family has no precedent in Fenrir's history.{g}{z}A great honour...{g}{z}{f}{l:0000}...{g}{x:00}
+
+@334
+{z}{f}{l:0099}{a:0086}, fetch {a:00a9}. I must tell her too.{g}{z}{f}{l:0086}Understood.{g}{x:00}
+
+@336
+{z}{f}{l:0000}Lady Caterina, I would like to go and thank the comrades who have fought beside me until today.{g}{x:00}
+
+@337
+{z}{f}{l:0099}Oh, are you shy of facing {a:00a9}?{g}{z}...A joke. Go. But come back soon.{g}{x:00}
+
+@345
+{z}{f}{l:0098}{a:00a9}, how is Mother these days?{w}{w}{x:00}
+
+@346
+{z}{f}{l:00a9}She is quite well again.{w}{w}{z}She says she can rest easy now that you're a proper queen.{w}{w}{w}{x:00}
+
+@347
+{z}{f}{l:0098}I see, that is good...{w}{w}{z}I want to see her, but after what happened, I cannot meet her openly for a while...{j:015c}{x:00}
+
+@348
+{w}{w}{w}{w}{z}Give her my regards.{w}{w}{x:00}
+
+@349
+{z}{f}{l:00a9}Don't worry, the Pope will forgive Mother someday!{w}{w}{w}{x:00}
+
+@350
+By Christina's wise decision,{x:00}
+
+@351
+the clash between Fenrir and{x:00}
+
+@352
+the Pope was averted.{x:00}
+
+@353
+Later Caterina too gained the{x:00}
+
+@354
+Pope's forgiveness, and the{x:00}
+
+@355
+three of them lived together{x:00}
+
+@356
+happily as before...{x:00}
+
+@360
+{z}{f}{l:0099}{a:00a9}, you seem low lately. Are you unwell?{w}{w}{w}{x:00}
+
+@361
+{z}{f}{l:00a9}No, it's not that.{w}{w}{z}Mother, aren't you worried about Sister?{w}{w}{w}{x:00}
+
+@362
+{z}{f}{l:0099}Do not speak of her...{w} There was no other way... Pretend she never existed and forget her.{w}{w}{w}{w}{x:00}
+
+@363
+{z}{f}{l:0099}Now, {a:00a9}, please marry {a:0000}.{w}{w}{w}{x:00}
+
+@364
+{z}{f}{l:00a9}{a:0000}? But... doesn't {a:0000} have a sweetheart...?{w}{w}{w}{x:00}
+
+@365
+{z}{f}{l:0099}He has agreed to it. If you two marry, the kingdom's future will be bright.{w}{w}{w}{w}{x:00}
+
+@366
+Fenrir, with Sophia as its new{x:00}
+
+@367
+queen, bent to Caterina's will{x:00}
+
+@368
+and at last seized the Papal{x:00}
+
+@369
+Domain.{x:00}
+
+@370
+It still turned a blind eye to{x:00}
+
+@371
+the pirates and, as if it had{x:00}
+
+@372
+never been poor, grew into a{x:00}
+
+@373
+trading nation...{x:00}
+
+@380
+{z}{f}{l:0098}{a:0086}, how is the town?{w}{w}{x:00}
+
+@381
+{z}{f}{l:0086}It bustles as we could not have imagined during the wars.{w}{w}{w}{z}This too is the fruit of peace.{w}{w}{x:00}
+
+@382
+{z}{f}{l:0099}Yes... For one who rules a nation, nothing is happier than seeing the people's glad faces.{w}{w}{w}{w}{w}{x:00}
+
+@383
+{z}{f}{l:0098}Our prayers have reached heaven.{w}{w}{w}{x:00}
+
+@384
+Fenrir, a land of faith, now{x:00}
+
+@385
+also prospered as a trading{x:00}
+
+@386
+nation as never before.{x:00}
+
+@387
+The tale of the mercenary{x:00}
+
+@388
+who quietly helped unite the{x:00}
+
+@389
+land was handed down for{x:00}
+
+@390
+ages...{x:00}
+

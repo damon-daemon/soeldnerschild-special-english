@@ -1,0 +1,64 @@
+# companies, orders, factions (0x80018b8c; SCENARIO): KEY|English, at most 16 letters (see tools/tables.py; Japanese: tables.py show companies)
+00|Tigre
+01|Crotoi
+02|Blood Mist
+03|Medusa
+04|White Rose
+05|Funeral
+06|Fost
+07|Rearing Horse
+08|Treue
+09|Silver Wolf
+0a|Unicorn
+0b|Swallow
+0c|Red Helm
+0d|Darkness
+0e|Gold
+0f|Woge
+10|Fire Wheel
+11|Gewalt
+12|Amour
+13|Wandering Crow
+14|Holy Lightning
+15|Thunder
+16|Thunderfire
+17|Swift Thunder
+18|Twin Dragon
+19|Rising Dragon
+1a|Fire Dragon
+1b|Wyvern
+1c|Sun
+1d|Moonlight
+1e|Comet
+1f|Meteor
+20|Purple Cloud
+21|Heat Haze
+22|Firelight
+23|Phantasm
+24|White Whale
+25|Wave Fang
+26|Sea Tiger
+27|Whirlpool
+28|Rime
+29|Ice Fog
+2a|Ice Ring
+2b|Ice Blade
+2c|St. Matthaus
+2d|Holy Rana Empire
+2e|Duchy of Saxen
+2f|K. of Grandcour
+30|Rep. of Estania
+31|K. of Mylard
+32|K. of Fenrir
+33|Wigg Church
+34|Bandits
+35|Brigands
+36|Pirates
+37|Tribal Army
+38|Revolutionaries
+39|Peasant Rebels
+3a|Peasant Militia
+3b|Unaffiliated
+3c|Standby
+3d|None
+3e|???

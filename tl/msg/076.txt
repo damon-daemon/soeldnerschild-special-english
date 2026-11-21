@@ -1,0 +1,351 @@
+@0
+{z}{s:0320}At this rate we'll be surrounded...{g}{x:00}
+
+@1
+{z}{s:0320}Commander, let us fall back. It's dangerous to keep fighting.{g}{x:00}
+
+@2
+{z}{s:0320}If we're to lose this land anyway...{g}{x:00}
+
+@3
+{z}Let's fight to the last with all we have. Everyone, fight so you have no regrets.{g}{x:00}
+
+@4
+{z}{s:0320}If you say so, we shall do all we can.{g}{x:00}
+
+@5
+{z}{s:0320}Cornered this far, and still they won't give up?{g}{x:00}
+
+@6
+{z}{s:0320}They seem ready to fight until they perish.{g}{x:00}
+
+@7
+{z}{s:0320}Then we'll grant their wish and destroy them.{g}{x:00}
+
+@8
+{z}{s:0320}Commander! Please wait!{g}{x:00}
+
+@9
+{z}{s:0320}What is it?{g}{x:00}
+
+@10
+{z}{s:0320}The mercenaries we hired have arrived.{g}{x:00}
+
+@11
+{z}{s:0320}Hey there! Sorry to keep you waiting!{g}{x:00}
+
+@12
+{z}{s:0320}Huh? Looks like it's nearly over. Did we get here too late?{g}{x:00}
+
+@13
+{z}{s:0320}Even so, we won't send you home yet.{g}{x:00}
+
+@14
+{z}You never know what will happen on a battlefield.{g}{x:00}
+
+@15
+{z}{s:0320}Then let's finish this quick, before anything happens.{g}{x:00}
+
+@16
+{z}{s:0320}Right.{g}{x:00}
+
+@17
+{z}{s:0320}Mercenaries have joined the enemy... It couldn't be worse. We've nothing left to try.{g}{x:00}
+
+@18
+{z}... {w}{w}Hm? What's that?{g}{x:00}
+
+@19
+{z}{s:0320}Ah! The regular army is in danger! We must hurry!{g}{x:00}
+
+@20
+{z}{s:0320}Who are you? Our mercenaries?{g}{x:00}
+
+@21
+{z}{s:0320}That's right, we were hired by {p:01}.{g}{x:00}
+
+@22
+{z}{s:0320}We'll go at once!{g}{x:00}
+
+@23
+{z}{s:0320}So something did happen after all...{g}{x:00}
+
+@24
+{z}{s:0320}It's nothing much. Just a few mercenaries joining in.{g}{x:00}
+
+@25
+{z}Our aim is to wipe out the regular army. They're nearly dead already.{g}{x:00}
+
+@26
+{z}{s:0320}True enough.{g}{x:00}
+
+@27
+{z}{s:0320}We're to stop the regular army being wiped out, right?{g}{x:00}
+
+@28
+{z}{s:0320}If {p:01}'s soldiers leave this place, then...{g}{x:00}
+
+@29
+{z}{s:0320}But in this situation, what do you mean to do?{g}{x:00}
+
+@30
+{z}{s:0320}All we can do is trust the Captain.{g}{x:00}
+
+@31
+{z}{s:0320}Think hard, {a:0000}.{g}{x:00}
+
+@32
+{z}{s:0320}Send some companies to hold the mercenaries. Don't let them interfere.{g}{x:00}
+
+@33
+{z}{s:0320}Then leave it to us!{g}{x:00}
+
+@34
+{z}{s:0320}Very well, it's yours.{g}{x:00}
+
+@35
+{z}{s:0320}We attack the regular army, right?{g}{x:00}
+
+@36
+{z}{s:0320}Yes, I'm counting on you.{g}{x:00}
+
+@37
+{z}{s:0320}Cornered like that... nothing could be done after all...{g}{x:00}
+
+@38
+{z}{s:0320}We have completely driven {p:01}'s troops out of this territory.{g}{x:00}
+
+@39
+{z}{s:0320}Looks like our job is done. We'll be going home.{g}{x:00}
+
+@40
+{z}{s:0320}Thank you for all your work today.{g}{x:00}
+
+@41
+{z}{s:0320}Don't mention it! See you!{g}{x:00}
+
+@42
+{z}{s:0320}We have completely driven {p:01}'s troops out of this territory.{g}{x:00}
+
+@43
+{z}This territory is ours!{g}{x:00}
+
+@44
+{z}This territory is ours!{g}{x:00}
+
+@45
+{z}{s:0320}Now that it's come to this, there's nothing we can do...{g}{x:00}
+
+@46
+{z}Let's pull out... We have failed the mission.{g}{x:00}
+
+@47
+{z}{s:0320}Now that it's come to this, nothing can be done... We've lost.{g}{x:00}
+
+@48
+{z}We pull out. We failed in our mission.{g}{x:00}
+
+@49
+{z}{s:0320}Now that it's come to this, there's nothing we can do...{g}{x:00}
+
+@50
+{z}We pull out. We have failed our mission, after all.{g}{x:00}
+
+@51
+{z}{s:0320}The regular army is wiped out... Damn, mission failed.{g}{x:00}
+
+@52
+{z}...No choice but to go home.{g}{x:00}
+
+@53
+{z}{s:0320}The regular army wiped out... Ah, mission failed.{g}{x:00}
+
+@54
+{z}There's nothing more we can do, is there... Let's go home.{g}{x:00}
+
+@55
+{z}{s:0320}Now that it's come to this, there's nothing more to be done...{g}{x:00}
+
+@56
+{z}Bitter as it is, we withdraw...{g}{x:00}
+
+@57
+{z}{s:0320}Not only did we fail to gain land, we've lost even this...{g}{x:00}
+
+@58
+{z}Pathetic...{g}{x:00}
+
+@59
+{z}{s:0320}Damn... the regular army wiped out, when we had the enemy so cornered...{g}{x:00}
+
+@60
+{z}We've no move left now.{g}{x:00}
+
+@61
+{z}{s:0320}Everyone, well done! {p:01}'s regular army is destroyed!{g}{x:00}
+
+@62
+{z}We held our territory and won new land besides!{g}{x:00}
+
+@63
+{z}{s:0320}They're so happy... Isn't it lovely, {a:0000}?{g}{x:00}
+
+@64
+{z}Well then, let's go home.{g}{x:00}
+
+@65
+{z}{s:0320}Right! Mission accomplished!{g}{x:00}
+
+@66
+{z}Hey! We're heading home! See you!{g}{x:00}
+
+@67
+{z}{s:0320}So we completed the mission...{g}{x:00}
+
+@68
+{z}Then let's go home. Our job is done...{g}{x:00}
+
+@69
+{z}We're pulling out! Goodbye, then!{g}{x:00}
+
+@70
+{z}{s:0320}Haah... we somehow won. Mission complete.{g}{x:00}
+
+@71
+{z}Well, time to go home. Our job is done.{g}{x:00}
+
+@72
+{z}Hey, we'll take our leave now.{g}{x:00}
+
+@73
+{z}{s:0320}Phew... at last they're wiped out. The mission is done.{g}{x:00}
+
+@74
+{z}Right, let's go home. Nothing more for us here.{g}{x:00}
+
+@75
+{z}Hey, we're going home. See you.{g}{x:00}
+
+@76
+{z}{s:0320}Is it over...? We only just won.{g}{x:00}
+
+@77
+{z}Then let us pull out. Our task is done.{g}{x:00}
+
+@78
+{z}Then I'll take my leave!{g}{x:00}
+
+@79
+{z}{s:0320}I wasn't any use... I'm sorry...{g}{x:00}
+
+@80
+{z}{s:0320}Damn... my company... Everyone... sorry...{g}{x:00}
+
+@81
+{z}{s:0320}I'm sorry... {a:0000}... I'm pulling out...{g}{x:00}
+
+@82
+{z}{s:0320}Ow, ow, ow... I can't go on... Sorry...{g}{x:00}
+
+@83
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@84
+{z}{s:0320}This territory is ours... Never let them have it...{g}{x:00}
+
+@85
+{z}Is that clear...?{g}{x:00}
+
+@86
+{z}{s:0320}Yes!{g}{x:00}
+
+@87
+{z}{s:0320}I can do no more... I am sorry...{g}{x:00}
+
+@88
+{z}{s:0320}Defend our territory...{g}{x:00}
+
+@89
+{z}I'm counting... {w}{w}on you...{g}{x:00}
+
+@90
+{z}{s:0320}Yes!{g}{x:00}
+
+@91
+{z}{s:0320}At all costs... take this territory...{g}{x:00}
+
+@92
+{z}Without fail...{g}{x:00}
+
+@93
+{z}{s:0320}Commander... {w}{w}leave it to me.{g}{x:00}
+
+@94
+{z}{s:0320}How could I... I am sorry...{g}{x:00}
+
+@95
+{z}{s:0320}Not only the Commander... but me too... {w}{w}Everyone... sorry...{g}{x:00}
+
+@96
+{z}{s:0320}Sorry... I was hardly any use...{g}{x:00}
+
+@97
+{z}{s:0320}Damn... the mercenaries are wiped out...{g}{x:00}
+
+@98
+{z}{s:0320}W-{w}{w}why...{g}{x:00}
+
+@99
+{z}{s:0320}I lost...? It's a lie... {w}{w}A mistake...{g}{x:00}
+
+@100
+{z}{s:0320}Forced to retreat by the likes of them...{g}{x:00}
+
+@101
+{z}{s:0320}This territory is ours... We won't give it to you!{g}{x:00}
+
+@102
+{z}{s:0320}I won't give up this territory!{g}{x:00}
+
+@103
+{z}{s:0320}Come on... if you don't fear being cut down!{g}{x:00}
+
+@104
+{z}{s:0320}Whatever happens... I can't lose here...{g}{x:00}
+
+@105
+{z}{s:0320}In the name of {p:01}, this territory will be ours!{g}{x:00}
+
+@106
+{z}{s:0320}I'll never fall in a place like this!{g}{x:00}
+
+@107
+{z}{s:0320}I'll smash you! Here I come!{g}{x:00}
+
+@108
+{z}{s:0320}Go! Go! Show them how strong we are!{g}{x:00}
+
+@109
+{z}{s:0320}Right, let's get to work.{g}{x:00}
+
+@110
+{z}{s:0320}Whoever wants to die first, come on! I'll grant your wish!{g}{x:00}
+
+@111
+{z}{s:0320}You don't know how strong we are yet, do you!{g}{x:00}
+
+@112
+{z}{s:0320}...I'm going all out.{g}{x:00}
+
+@113
+{z}{s:0320}Come on! I'll cut you down!{g}{x:00}
+
+@114
+{z}{s:0320}Any time. Come at me.{g}{x:00}
+
+@115
+{z}It means {p:01} loses this land...{g}{x:00}
+
+@116
+{z}All forces! Finish them!{g}{x:00}
+

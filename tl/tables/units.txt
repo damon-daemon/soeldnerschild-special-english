@@ -1,0 +1,22 @@
+# unit types, half-width (0x800194a4): KEY|English, at most 9 letters (see tools/tables.py; Japanese: tables.py show units)
+00|Fighter
+01|Pike
+02|Trooper
+03|Shortbow
+04|Guardian
+05|Phalanx
+06|Hussar
+07|Longbow
+08|Berserker
+09|Tercio
+0a|Dragoon
+0b|Sniper
+0c|Earth Glm
+0d|Stone Glm
+0e|Zombie
+0f|Skeleton
+10|Thief
+11|Bandit
+12|Viking
+13|Assassin
+14|Civilian

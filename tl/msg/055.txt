@@ -1,0 +1,402 @@
+@0
+{z}{s:0320}Follow this road straight on and we reach the front. Hurry!{g}{x:00}
+
+@1
+{z}{s:0320}Wait! Don't run on ahead on your own!{g}{x:00}
+
+@2
+{z}{s:0320}Huh?{g}{x:00}
+
+@3
+{z}{s:0320}We've come this far safely, but we can't tell what lies ahead.{g}{x:00}
+
+@4
+{z}There could be troops hiding nearby, waiting for you to get cut off...{g}{x:00}
+
+@5
+{z}{s:0320}...Sorry.{g}{x:00}
+
+@6
+{z}{s:0320}If you want to reach the destination alive, don't act on your own.{g}{x:00}
+
+@7
+{z}{s:0320}...Understood.{g}{x:00}
+
+@8
+{z}{s:0320}Then we advance...{w}{w}...{w}{w} Hm? {w}{w}What's that?{g}{x:00}
+
+@9
+{z}{s:0320}Found you at last!{g}{x:00}
+
+@10
+{z}{s:0320}Don't celebrate yet. The hard part starts now.{g}{x:00}
+
+@11
+{z}{s:0320}I know that!{g}{x:00}
+
+@12
+{z}{s:0320}Let's go.{g}{x:00}
+
+@13
+{z}{s:0320}Tch! So they showed up after all...{g}{x:00}
+
+@14
+{z}{s:0320}It happened just as you said.{g}{x:00}
+
+@15
+{z}{s:0320}Don't worry, leave it to us.{g}{x:00}
+
+@16
+{z}{s:0320}The enemy outnumbers us... Are you really that strong?{g}{x:00}
+
+@17
+{z}{s:0320}However strong you are, that many must give you trouble.{g}{x:00}
+
+@18
+{z}Truth is, we have friends coming here by a different route.{g}{x:00}
+
+@19
+{z}{s:0320}A detached force...{g}{x:00}
+
+@20
+{z}{s:0320}Right. Once we join them, we've nothing to fear.{g}{x:00}
+
+@21
+{z}{s:0320}To keep the enemy from the front, we only need to hold that road, right?{g}{x:00}
+
+@22
+{z}{s:0320}They won't necessarily use that road. It won't be so easy.{g}{x:00}
+
+@23
+{z}{s:0320}I see...{g}{x:00}
+
+@24
+{z}{s:0320}It's very dangerous to assume the enemy will move a certain way.{g}{x:00}
+
+@25
+{z}{s:0320}There are no fixed rules in battle.{g}{x:00}
+
+@26
+{z}{s:0320}I see...{g}{x:00}
+
+@27
+{z}{s:0320}Advancing along this road is dangerous. We'd run straight into the enemy.{g}{x:00}
+
+@28
+{z}{s:0320}Then which way should we go?{g}{x:00}
+
+@29
+{z}{s:0320}Go round by the north.{g}{x:00}
+
+@30
+{z}{s:0320}So for now we just keep away from the enemy...{w}{w} Understood.{g}{x:00}
+
+@31
+{z}{s:0320}What about us?{g}{x:00}
+
+@32
+{z}{s:0320}We charge the enemy.{g}{x:00}
+
+@33
+{z}{s:0320}Wouldn't it be better to defeat them one by one than to charge? We're outnumbered anyway...{g}{x:00}
+
+@34
+{z}{s:0320}True... I think so too.{g}{x:00}
+
+@35
+{z}{s:0320}Right, we defeat them one by one. We go for the enemy captain's company first.{g}{x:00}
+
+@36
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@37
+{z}{s:0320}Hey, what about us? You just told us not to get isolated...{g}{x:00}
+
+@38
+{z}{s:0320}The enemy has shown itself. There's no more fear of an ambush.{g}{x:00}
+
+@39
+{z}{s:0320}So now we're to keep away from the enemy...{g}{x:00}
+
+@40
+{z}{s:0320}Exactly.{g}{x:00}
+
+@41
+{z}{s:0320}That was quicker than I thought...{g}{x:00}
+
+@42
+{z}{s:0320}So something did get in their way after all...{g}{x:00}
+
+@43
+{z}{s:0320}Get over here quickly!{g}{x:00}
+
+@44
+{z}{s:0320}What about the supply train?{g}{x:00}
+
+@45
+{z}{s:0320}The supply train goes ahead, and we concentrate on holding the enemy.{g}{x:00}
+
+@46
+{z}Our target is the enemy captain's company.{g}{x:00}
+
+@47
+{z}{s:0320}Right!{g}{x:00}
+
+@48
+{z}{s:0320}Were there really that few? I thought there were more...{g}{x:00}
+
+@49
+{z}{s:0320}A detached force? Or...{w}{w} reinforcements?{g}{x:00}
+
+@50
+{z}{s:0320}What does it matter?! Anyway, it means more enemies!{g}{x:00}
+
+@51
+{z}{s:0320}I suppose the enemy aims to defeat us one by one.{g}{x:00}
+
+@52
+{z}{s:0320}I think so too.{g}{x:00}
+
+@53
+{z}Avoiding a reckless head-on clash and beating one company at a time buys them more time.{g}{x:00}
+
+@54
+{z}And their target is {a:0000}'s company...{g}{x:00}
+
+@55
+{z}{s:0320}Hey, {a:0000}, the enemy is after you.{g}{x:00}
+
+@56
+{z}{s:0320}Yes, I know.{g}{x:00}
+
+@57
+{z}{s:0320}No doubt about it.{g}{x:00}
+
+@58
+{z}{s:0320}Let's be a wall and protect {a:0000}!{g}{x:00}
+
+@59
+{z}{s:0320}We came to destroy the supply train, not to protect the captain.{g}{x:00}
+
+@60
+{z}{s:0320}Huh? Another detached force?{g}{x:00}
+
+@61
+{z}{s:0320}Sorry we're late! We got separated on the way...{g}{x:00}
+
+@62
+{z}{s:0320}If you've time to apologise, get over here quickly!{g}{x:00}
+
+@63
+{z}The supply train can act on its own. Join the battle quickly!{g}{x:00}
+
+@64
+{z}{s:0320}What should we do?{g}{x:00}
+
+@65
+{z}{s:0320}Go for the enemy captain's company first! The captain's company, understood?!{g}{x:00}
+
+@66
+{z}{s:0320}Understood!{g}{x:00}
+
+@67
+{z}{s:0320}We just keep advancing, is that right?{g}{x:00}
+
+@68
+{z}{s:0320}Don't mind us, press forward!{g}{x:00}
+
+@69
+{z}{s:0320}More enemies have appeared! {a:0000}, be careful!{g}{x:00}
+
+@70
+{z}{s:0320}There are still more... Be careful, Captain.{g}{x:00}
+
+@71
+{z}{s:0320}{a:0000}, be careful! More enemies have turned up!{g}{x:00}
+
+@72
+{z}{s:0320}Again... Watch yourself, {a:0000}.{g}{x:00}
+
+@73
+{z}{s:0320}They've shown up again... {a:0000}, are you all right?{g}{x:00}
+
+@74
+{z}{s:0320}Through this forest and we reach the front... We can relax now we've come this far.{g}{x:00}
+
+@75
+{z}The front is right ahead! Push through in one go!{g}{x:00}
+
+@76
+{z}{s:0320}Through this forest and we reach the front. We're as good as saved...{g}{x:00}
+
+@77
+{z}{s:0320}Can you make it to the front from there on your own?{g}{x:00}
+
+@78
+{z}{s:0320}I think we can manage on our own...{g}{x:00}
+
+@79
+{z}{s:0320}Then go on without us! Your comrades must be tired of waiting at the front!{g}{x:00}
+
+@80
+{z}{s:0320}Then we'll hurry on ahead. Thank you!{g}{x:00}
+
+@81
+{z}{s:0320}Spare me the pleasantries and get going!{g}{x:00}
+
+@82
+{z}{s:0320}Then we take our leave!{g}{x:00}
+
+@83
+{z}{s:0320}Well, time for us to head back too. Our work here is done.{g}{x:00}
+
+@84
+{z}Pull out!{g}{x:00}
+
+@85
+{z}{s:0320}All we had to do was wipe out one company, and we couldn't even manage that...{g}{x:00}
+
+@86
+{z}...How pathetic.{g}{x:00}
+
+@87
+{z}{s:0320}All we had to do was wipe out one measly company, and we couldn't even do that...{g}{x:00}
+
+@88
+{z}Pathetic...{g}{x:00}
+
+@89
+{z}{s:0320}All we had to do was destroy the supply train... and we couldn't even do that...{g}{x:00}
+
+@90
+{z}How frustrating...{g}{x:00}
+
+@91
+{z}{s:0320}If we'd only destroyed the supply train, it would have been over... So why...{g}{x:00}
+
+@92
+{z}How frustrating...{g}{x:00}
+
+@93
+{z}{s:0320}So they got away... We have lost.{g}{x:00}
+
+@94
+{z}...Let's go home.{g}{x:00}
+
+@95
+{z}{s:0320}Ugh...{w}{w} My comrades at the front...{n}{w}{w} are waiting...{g}{x:00}
+
+@96
+{z}{s:0320}Damn! The supply train has been wiped out... So we've lost...{g}{x:00}
+
+@97
+{z}I never thought we could lose to the likes of the Tigre...{n}{w}{w} Strange...{g}{x:00}
+
+@98
+{z}{s:0320}The supply train seems to be wiped out. Good work, the mission is accomplished.{g}{x:00}
+
+@99
+{z}Now, let's go back to town. We must rest properly there, or it will affect next month's work.{g}{x:00}
+
+@100
+{z}{s:0320}The supply train is wiped out... That ends our part, then.{g}{x:00}
+
+@101
+{z}Well, let's go back to town. If we don't rest properly, it will hamper next month's work.{g}{x:00}
+
+@102
+{z}{s:0320}The supply train is gone... We won, didn't we?{g}{x:00}
+
+@103
+{z}Good... we completed the mission. The people of {p:01} will surely be glad.{g}{x:00}
+
+@104
+{z}{s:0320}We did it! We destroyed the supply train! Victory is ours!{g}{x:00}
+
+@105
+{z}Hey, {a:0000}, haven't you got a more challenging job? It's boring when they're all this easy.{g}{x:00}
+
+@106
+{z}{s:0320}The supply train is wiped out. Phew... that's the end of it.{g}{x:00}
+
+@107
+{z}Well then, let's go back to town. We should rest properly, or it will affect the next job.{g}{x:00}
+
+@108
+{z}{s:0320}We... have to get stronger.{g}{x:00}
+
+@109
+{z}{s:0320}My company, beaten by the likes of these... I can't believe it.{g}{x:00}
+
+@110
+{z}{s:0320}I can't fight any more... I'm sorry...{g}{x:00}
+
+@111
+{z}{s:0320}Sorry... I'm pulling out.{g}{x:00}
+
+@112
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@113
+{z}{s:0320}Ugh... sorry... Run... on your own...{g}{x:00}
+
+@114
+{z}{s:0320}On our own? But... we can't possibly...{g}{x:00}
+
+@115
+{z}{s:0320}So you... {w}{w}really were strong...{g}{x:00}
+
+@116
+{z}{s:0320}How could we lose to the likes of these... It can't be...{g}{x:00}
+
+@117
+{z}{s:0320}These guys...{w}{w} Even without {a:0023}...{n}{w}{w} they're strong enough...{g}{x:00}
+
+@118
+{z}{s:0320}Will we really be all right acting on our own?{g}{x:00}
+
+@119
+{z}{s:0320}We've finally reached the shore...{g}{x:00}
+
+@120
+{z}{s:0320}You're no match for me! Here I come!{g}{x:00}
+
+@121
+{z}{s:0320}You won't get near the supply train, not if it kills me! Never!{g}{x:00}
+
+@122
+{z}{s:0320}{a:0023} was strong... But what about you?{g}{x:00}
+
+@123
+{z}{s:0320}He may be the captain, but I'm the strongest.{g}{x:00}
+
+@124
+{z}{s:0320}Come on! Here I come! Prepare yourselves!{g}{x:00}
+
+@125
+{z}{s:0320}So you mean to destroy my company? Bring it on!{g}{x:00}
+
+@126
+{z}{s:0320}Is it wise to attack me? The supply train will get away.{g}{x:00}
+
+@127
+{z}{s:0320}I'll cut you down! Come at me!{g}{x:00}
+
+@128
+{z}{s:0320}I'm a company captain too... I won't lose that easily!{g}{x:00}
+
+@129
+{z}{s:0320}They've finally caught up with us...{n}{w}{w} Damn...{g}{x:00}
+
+@130
+{z}{s:0320}A little further... if we advance just a little further...{g}{x:00}
+
+@131
+{z}Not targeting me? What fools.{g}{x:00}
+
+@132
+{z}Be careful.{g}{x:00}
+
+@133
+{z}{s:0320}...I'm sorry.{g}{x:00}
+

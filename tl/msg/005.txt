@@ -1,0 +1,652 @@
+@0
+{z}{f}{l:0023}{s:0023}You all fought well, the three of you.{n}
+Go and get some rest.{g}{x:00}
+
+@1
+{z}{f}{l:0024}{s:0024}Fighting's all well and good, but we never get any thanks for it, do we?{g}{x:00}
+
+@2
+{z}{f}{l:0003}{s:0003}That again?{g}{x:00}
+
+@3
+{z}{f}{l:0000}{s:0000}We drove the enemy off without bringing war to the town...{g}{z}Isn't that enough?{g}{z}{f}{l:0024}Those townsfolk don't{j:0004}{x:00}
+
+@4
+ even realise it was us who stopped the bandits looting the place...{w} It's just not worth the trouble!{g}{x:00}
+
+@5
+{z}{f}{l:0000}But there's no end to the bandits and ruthless mercenary companies...{g}{x:00}
+
+@6
+{z}{f}{l:0023}Putting an end to them is our job, and I need {a:0000} to realise that too.{g}{x:00}
+
+@7
+{z}{f}{l:0023}{a:0003}, what do you make of {a:0000}?{g}{x:00}
+
+@8
+{z}{f}{l:0003}I think he's doing well.{g}{z}He was an amateur when he joined this company, and I never imagined{j:0009}{x:00}
+
+@9
+ he would grow enough to serve as company captain...{g}{z}You think highly of him, don't you, Captain?{g}{z}{f}{l:0023}His strong sense of responsibility,{j:000a}{x:00}
+
+@10
+ his devotion to his duty... I have great hopes for him.{g}{j:000b}{x:00}
+
+@11
+{z}What remains is how much of his true ability we can draw out!{g}{x:00}
+
+@12
+{z}{f}{l:0003}True... but at times he doesn't seem quite dependable.{g}{x:00}
+
+@13
+{z}{f}{l:0023}Yes, I suppose he still blames himself. His foster father was killed before his very eyes...{g}{j:000e}{x:00}
+
+@14
+{z}He regrets that he could not save him.{g}{z}But he will overcome it. No... he had better.{g}{x:00}
+
+@15
+{z}{f}{l:0023}{a:0003}, I want you to support him as well.{g}{z}And teach him as much as you can.{g}{z}{f}{l:0003}Understood. But...{g}{j:0010}{x:00}
+
+@16
+{z}Why are you in such a hurry?{g}{x:00}
+
+@17
+{z}{f}{l:0023}...I am in no hurry...{w} Anyway, I'm counting on you.{g}{x:00}
+
+@20
+{z}{f}{l:0024}{s:0024}Hey, they're back.{g}{x:00}
+
+@21
+{z}{f}{l:0003}{s:0003}Captain, have you settled on our next job?{g}{x:00}
+
+@22
+{z}{f}{l:0023}{s:0023}We're to attack a brigands' lair. Our employer is Rana, of course.{g}{x:00}
+
+@23
+{z}{f}{l:0024}What?! Outlaws again?{g}{x:00}
+
+@24
+{z}{f}{l:0023}{a:0024}...{w} How many times must I tell you?{g}{z}We don't fight for money alone.{g}{x:00}
+
+@25
+{z}{f}{l:0003}Mercenaries we may be, but Tigre is different from the other companies.{g}{j:001a}{x:00}
+
+@26
+{z}If you can't follow the captain's thinking, why not move to another company?{g}{x:00}
+
+@27
+{z}{f}{l:0024}...Nag, nag, nag. Damn woman.{g}{x:00}
+
+@28
+{z}{f}{l:0023}I lead this company to bring peace back as soon as possible. To that end...{g}{z}we must see for ourselves which nation can be trusted and{j:0020}{x:00}
+
+@29
+{z}{f}{l:0023}...Do you have a problem with that?{g}{x:00}
+
+@30
+{z}{f}{l:0024}...Forget it.{g}{x:00}
+
+@31
+{z}{f}{l:0023}Then let's go!{g}{x:00}
+
+@32
+ help it unify the continent.{g}{x:00}
+
+@35
+{z}{f}{l:0023}{s:0023}Well done, everyone.{g}{x:00}
+
+@36
+{z}{f}{l:0024}{s:0024}Hey, you. Don't get too flashy.{g}{z}You're years away from outshining me.{g}{x:00}
+
+@37
+{z}{f}{l:0003}{s:0003}{a:0024}! Why must you be like this?{g}{z}Standing out, not standing out...{w} How petty!{g}{x:00}
+
+@38
+{z}{f}{l:0024}What did you say?!{g}{x:00}
+
+@39
+{z}{f}{l:0023}That's enough! I know tempers run short after so much fighting, but...{g}{z}This month's work is done. Rest well.{w} Dismissed.{g}{x:00}
+
+@45
+{z}{f}{l:0024}{s:0024}This month it's pirate-hunting, I hear. Easy pickings.{g}{x:00}
+
+@46
+{z}{f}{l:0003}{s:0003}What sort of man is the pirate chief, {a:009b}?{g}{z}{f}{l:0023}{s:0023}He apparently fell to piracy once the wars spread.{g}{x:00}
+
+@48
+{z}{f}{l:0024}Not much of a past for a pirate.{g}{x:00}
+
+@49
+{z}{f}{l:0003}If he once held an honest job, he might yet reform.{g}{z}Don't you think so too?{y:0000320033}{x:00}
+
+@50
+{z}{f}{l:0000}Yes. I think he's worth trying to persuade.{g}{x:00}
+
+@51
+{z}{f}{l:0000}I wonder. He's a man who sank to piracy, after all.{g}{x:00}
+
+@52
+{z}{f}{l:0024}No way! He's not the kind you can reason with.{g}{x:00}
+
+@53
+{z}{f}{l:0023}No, it's an interesting idea. {a:0000}, go and persuade him.{g}{x:00}
+
+@54
+{z}{f}{l:0000}Understood.{g}{x:00}
+
+@55
+{z}{f}{l:0003}I doubt it will be easy. Good luck.{g}{x:00}
+
+@56
+{z}{f}{l:0024}That's right... Not everyone in this world can be talked round!{g}{x:00}
+
+@57
+{z}{f}{l:0003}We won't know until we try. I'm serious. Captain! Let me go and persuade him!{g}{x:00}
+
+@58
+{z}{f}{l:0023}Persuasion is an interesting idea. But... sending {a:0003} might do more harm than good.{g}{x:00}
+
+@59
+{z}{f}{l:0024}You're too righteous. The best you'd manage is a shouting match.{g}{x:00}
+
+@60
+{z}{f}{l:0023}{a:0000}, you go.{g}{x:00}
+
+@61
+{z}{f}{l:0000}Me...? Understood. I'll try.{g}{x:00}
+
+@62
+{z}{f}{l:0003}If that's what the captain says... Good luck, {a:0000}.{g}{x:00}
+
+@63
+{z}{f}{l:0023}It's settled.{g}{j:0040}{x:00}
+
+@64
+{z}I think it's time we had {a:0001} summon holy soldiers. What do you say?{g}{x:00}
+
+@65
+{z}{f}{l:0003}Having a commander who can lead holy soldiers would certainly be reassuring...{w} But can she do it?{g}{x:00}
+
+@66
+{z}{f}{l:0023}Her father {a:00aa} tells me she has the talent. I would very much like to put her to the test.{g}{x:00}
+
+@67
+{z}{f}{l:0024}So that's why you made that slip of a girl a platoon leader.{g}{x:00}
+
+@68
+{z}{f}{l:0003}She has so little battle experience. Isn't it a little early to have her summon...?{g}{x:00}
+
+@69
+{z}{f}{l:0023}I see... Then we'll wait until she is used to real combat...{g}{z}Now then, everyone, let's go! Move out!{g}{x:00}
+
+@75
+{z}{f}{l:0003}{s:0003}What were you thinking? You disobeyed orders!{g}{x:00}
+
+@76
+{z}{f}{l:0024}{s:0024}I thought it was a joke.{g}{z}Who'd have thought you really meant to talk pirates round...{g}{j:004d}{x:00}
+
+@77
+{z}Wiping out the enemy is a mercenary's job, isn't it?!{g}{x:00}
+
+@78
+{z}{f}{l:0023}{s:0023}{a:0024}... On the battlefield my orders are absolute.{g}{z}If you pull a stunt like today's again, you're expelled. Remember that.{g}{x:00}
+
+@79
+{z}{f}{l:0023}{a:0003}, {a:0000}. We failed to persuade him this time. But there is conscience in everyone.{g}{z}Keep believing in that from now on.{g}{x:00}
+
+@80
+{z}{f}{l:0000}Still... brigands last time, pirates this time... Is this really right?{g}{x:00}
+
+@81
+{z}{f}{l:0000}I think we're helping to protect the people... But unless the wars end, peace won't return to the continent.{g}{x:00}
+
+@82
+{z}{f}{l:0023}{a:0000}... you're right. I want to identify the nation worthy of ruling the continent and support it soon.{g}{x:00}
+
+@83
+{z}{f}{l:0023}But I cannot afford to misjudge. It is hard to decide at this stage...{g}{x:00}
+
+@84
+{z}{f}{l:0000}So the captain has his doubts too...{g}{x:00}
+
+@85
+{z}{f}{l:0003}Even so, to let {a:0024} get away with ignoring orders... The captain is too kind.{g}{z}He ought to have been expelled at once.{g}{x:00}
+
+@86
+{z}{f}{l:0024}I can't keep working with people who truly believe in all this persuasion and conscience nonsense...{g}{x:00}
+
+@90
+{z}{f}{l:0003}{s:0003}Captain, {a:0024} hasn't come back.{g}{x:00}
+
+@91
+{z}{f}{l:0000}{s:0000}I saw {a:0024} in the tavern, though.{g}{x:00}
+
+@92
+{z}{f}{l:0023}{s:0023}We have no time to wait for him...{g}{z}We'll finish the job first and deal with him afterwards.{g}{x:00}
+
+@93
+{z}{f}{l:0003}What job is so urgent?{g}{z}{f}{l:0023}Scattering an ambush. They seem to be lurking in the desert nearby.{g}{x:00}
+
+@94
+{z}{f}{l:0002}{s:0002}{a:0024}'s gone?! What am I supposed to do?{g}{x:00}
+
+@95
+{z}{f}{l:0023}Good timing... {a:0002}, I appoint you acting company captain. Go as wild as you please.{g}{x:00}
+
+@96
+{z}{f}{l:0002}Me, company captain...{w} Yes!{g}{x:00}
+
+@97
+{z}{f}{l:0002}Watch me in action, {a:0000}!{g}{x:00}
+
+@98
+{z}{f}{l:0023}Then show us what you can do. Now, move out!{g}{x:00}
+
+@100
+{z}{f}{l:00ea}{s:0003}Captain {a:0023} is gone...{w} We can never rely on him again...{g}{j:0065}{x:00}
+
+@101
+{z}But... I can't grieve forever.{g}{z}{a:0000}, from next month you must choose the jobs yourself and take them on.{g}{x:00}
+
+@103
+{z}{f}{l:0003}Directing us in how to fight on the battlefield is your duty too... Everything will be left to you.{g}{z}It's a heavy responsibility.{g}{x:00}
+
+@106
+{z}{f}{l:0000}{s:0000}Yes...{g}{x:00}
+
+@107
+{z}{f}{l:0003}But... frankly, I'm uneasy. Will you really be all right?{g}{z}{f}{l:0000}...{g}{j:006c}{x:00}
+
+@108
+{z}While fighting as a mercenary, I was made painfully aware of the state the continent is in...{g}{j:006d}{x:00}
+
+@109
+{z}And after losing Captain {a:0023}, I understood clearly...{w} what I must do!{g}{x:00}
+
+@110
+{z}{f}{l:0000}There's not a moment to lose! We must not create any more victims of war like ourselves!{g}{x:00}
+
+@111
+{z}{f}{l:0001}I...{w} I'll follow {a:0000}.{g}{z}I believe in {a:0000}!{g}{x:00}
+
+@112
+{z}{f}{l:0001}And besides...{w} I don't want anyone else to cry any more...{w} the way I did...{g}{x:00}
+
+@113
+{z}{f}{l:0000}{a:0002}, what about you?{g}{x:00}
+
+@114
+{z}{f}{l:0002}{s:0002}Fight under you? No way!{g}{z}But, well... {a:0023} asked me to.{g}{z}Until I've avenged my family,{j:0073}{x:00}
+
+@115
+ I'll fight alongside you.{g}{x:00}
+
+@116
+{z}{f}{l:0002}Besides, with you as captain, somebody has to keep an eye on you.{g}{z}{f}{l:0000}Thank you...{g}{x:00}
+
+@117
+{z}{f}{l:0000}Captain {a:0023} is gone...{w} But I know what I must do from now on!{g}{x:00}
+
+@118
+{z}{f}{l:0000}To realise {a:0023}'s ideal, everyone, lend me your strength!{g}{x:00}
+
+@120
+{z}{f}{l:0004}{s:0004}I haven't introduced myself. The name's {a:0004}. Good to know you.{g}{x:00}
+
+@121
+{z}{f}{l:0000}{s:0000}{a:0003}... tell me who he is.{g}{x:00}
+
+@122
+{z}{f}{l:0003}He was expelled before you joined the Tigre Mercenaries... a former company captain.{g}{z}Our work takes us to all sorts of cities, you see...{j:007b}{x:00}
+
+@123
+ This playboy would make passes at women in every town.{g}{z}Because it harmed the company's reputation, {a:0023} warned him again and again,{j:007c}{x:00}
+
+@124
+ but he wouldn't listen.{g}{z}In the end, short of money for wooing women, he threatened a nobleman in some city and robbed him...{g}{x:00}
+
+@125
+{z}{f}{l:0004}Hey now, I told you it wasn't me, it was {a:0024}!{g}{x:00}
+
+@126
+{z}{f}{l:0003}That's right...{w} The real robber was {a:0024}.{g}{z}But back then {a:0023} misunderstood and expelled you.{g}{x:00}
+
+@127
+{z}{f}{l:0004}Say, Captain... I don't hold a grudge against {a:0023}... I wanted to repay him.{g}{z}But he's dead.{g}{j:0080}{x:00}
+
+@128
+{z}If you're taking up where he left off, I'll repay him by backing you.{g}{x:00}
+
+@129
+{z}{f}{l:0000}Understood... From next month you'll work as a company captain again, as before.{g}{x:00}
+
+@130
+{z}{f}{l:0004}Leave it to me.{g}{x:00}
+
+@131
+{z}{a:0004} has joined you!{g}{x:00}
+
+@132
+{z}{f}{l:0003}I hope he's cured of his old bad habits...{g}{x:00}
+
+@140
+{z}{f}{l:0002}{s:0002}Old man, what exactly are you after?{g}{x:00}
+
+@141
+{z}{f}{l:0005}{s:0005}{a:0031}... his ambition must be crushed at all costs.{g}{z}To that end, I will gladly lend my aid.{g}{x:00}
+
+@142
+{z}{f}{l:0001}{s:0001}{a:0031}'s ambition? How do you know about that?{g}{x:00}
+
+@143
+{z}{f}{l:0005}He means to seize this entire continent.{g}{z}When the present nations are exhausted from destroying one another,{j:0090}{x:00}
+
+@144
+ he will found a new state and style himself emperor.{g}{z}Once the continent is unified, he is finished... {a:0023}, who wished for unification,{j:0091}{x:00}
+
+@145
+ was a thorn in his side, and so...{g}{z}I was nearly killed by him once too... I can say no more.{g}{z}{f}{l:0002}Why did {a:0031}{j:0092}{x:00}
+
+@146
+retreat the moment he saw you, old man?{g}{x:00}
+
+@147
+{z}{f}{l:0005}I expect he remembered when {a:0023} and I fought him together.{g}{x:00}
+
+@148
+{z}{f}{l:0001}What do you mean?{g}{x:00}
+
+@149
+{z}{f}{l:0005}Once, the two of us drove him almost to the brink.{g}{z}{f}{l:0002}Huh... that's news to me.{j:0096}{x:00}
+
+@150
+ Why couldn't you finish him off then?{g}{x:00}
+
+@151
+{z}{f}{l:0005}Because I let my guard down...{w} I do not wish to speak of it now.{g}{j:0098}{x:00}
+
+@152
+{z}Anyway... if you wish for peace on the continent, he must be defeated.{g}{z}And to that end I wish to lend you my strength.{g}{j:00a1}{x:00}
+
+@153
+{z}{f}{l:0001}If you were {a:0023}'s ally, you're as good as ours. Right?{g}{x:00}
+
+@154
+{z}{f}{l:0002}I wonder...{w} This old man seems to have a past.{g}{x:00}
+
+@155
+{z}{f}{l:0000}No... I think we share the same ideal of ending the wars.{g}{x:00}
+
+@156
+{z}{f}{l:0000}From next month, I want you to work as a company captain. I'm counting on you.{g}{x:00}
+
+@157
+{z}{a:0005} has joined you!{g}{x:00}
+
+@158
+{z}{f}{l:0005}If you keep growing like this, you will surely realise your ideal.{g}{x:00}
+
+@159
+{z}{f}{l:0001}I wonder how strong {a:0005}'s magic is? I can't wait!{g}{x:00}
+
+@161
+{z}My magic should prove useful...{w} Let me go with you.{g}{x:00}
+
+@169
+{z}{f}{l:00e7}{s:0001}But... when we first ran into {a:0028}, all we could do was flee.{g}{z}Compared with those days, we...{g}{x:00}
+
+@170
+{z}{f}{l:0002}{s:0002}Damn it! And after we'd cornered him like that!{g}{x:00}
+
+@171
+{z}{f}{l:0004}{s:0004}Yeah, you've all got stronger.{g}{z}Far stronger than when I rejoined{j:00ac}{x:00}
+
+@172
+ the Tigre Mercenaries.{g}{x:00}
+
+@173
+{z}{f}{l:0004}Next time we meet, you'll definitely beat him. Have some confidence.{g}{x:00}
+
+@174
+{z}{f}{l:0004}You too, little lady!{g}{x:00}
+
+@177
+{z}{f}{l:0002}But there's no guarantee we'll ever meet him again.{g}{x:00}
+
+@178
+{z}{f}{l:0000}No, I won't leave it like this. As long as men like {a:0028} exist, there will be no peace.{g}{j:00b3}{x:00}
+
+@179
+{z}One day I'll settle this, I swear.{g}{x:00}
+
+@180
+{z}{f}{l:0002}I'll hold you to those words.{g}{x:00}
+
+@181
+{z}{f}{l:0001}I believe in {a:0000}...{g}{x:00}
+
+@189
+ finally realised the mistake I had made...{g}{x:00}
+
+@190
+{z}{f}{l:00ea}{s:0003}{a:0005}... now tell us everything.{g}{z}Your connection to {a:0031}...{g}{x:00}
+
+@191
+{z}{f}{l:0005}{s:0005}There is no point hiding it any more...{w} {a:0031} is my son.{g}{x:00}
+
+@192
+{z}{f}{l:00e7}{s:0001}It can't be...{g}{x:00}
+
+@193
+{z}{f}{l:0005}{a:0031} had the brains and strength to become the strongest man on the continent...{g}{z}I had hopes for my son's future and gave him all the knowledge I possessed,{j:00c2}{x:00}
+
+@194
+ and trained him as a warrior besides.{g}{z}He did become the strongest man...{g}{z}But the immense ambition growing in his heart{j:00c3}{x:00}
+
+@195
+ escaped me.{g}{z}In time he used his position as a mercenary to remove, one after another, anyone who stood in the way of his ambitions.{g}{z}I...{w}{j:00bd}{x:00}
+
+@197
+{z}{f}{l:0005}There is only one way to atone: to wipe him from this world.{g}{j:00c6}{x:00}
+
+@198
+{z}{a:0031} intends to bring still more war to this continent,{g}{z}and once every nation is weakened, to rule all of it.{j:00c7}{x:00}
+
+@199
+ That I must stop at all costs!{g}{x:00}
+
+@200
+{z}{f}{l:0005}Now that {a:0023} is gone, only you, whom he trusted, can defeat him!{g}{x:00}
+
+@201
+{z}{f}{l:00e7}But... he's your own flesh and blood, isn't he?{g}{x:00}
+
+@202
+{z}{f}{l:0005}I no longer think of him as my son... not since the day he drew his sword on me.{g}{z}{a:0001}, {a:0003}, I am counting on you both.{g}{x:00}
+
+@203
+{z}{f}{l:00e7}...So you've been hiding this pain all along.{g}{x:00}
+
+@204
+{z}{f}{l:00ea}But... why is {a:0005} leaving Smiley's defeat to us, I wonder?{g}{j:00cd}{x:00}
+
+@205
+{z}Trusting {a:0000}'s ability is probably one reason, but...{g}{z}there seems to be a past between {a:0023} and {a:0005} that we don't know about...{g}{x:00}
+
+@210
+{z}{f}{l:0002}{s:0002}Well, well, here comes the knight!{g}{x:00}
+
+@211
+{z}{f}{l:0003}{s:0003}Congratulations! I'm a little annoyed you beat us to it, though...{g}{x:00}
+
+@212
+{z}{f}{l:0002}Me, serving a country? It just doesn't feel right.{g}{x:00}
+
+@213
+{z}{f}{l:0003}Our fighting for the people has finally been recognised.{g}{x:00}
+
+@214
+{z}{f}{l:0001}Hey, {a:0000}. I don't really understand...{g}{z}How is it different from before?{g}{x:00}
+
+@215
+{z}{f}{l:0000}Until now we picked jobs at the Guild, but from now on we fight on a nation's orders. That's the biggest difference.{g}{j:00d8}{x:00}
+
+@216
+{z}But we're still fighting to end the wars. That hasn't changed.{g}{x:00}
+
+@218
+{z}{f}{l:0002}Come to think of it, where did {a:0004} and {a:0005} go? Time to deploy, isn't it?{g}{z}{f}{l:0003}They'll be back soon.{g}{x:00}
+
+@219
+{z}{f}{l:0003}More to the point, {a:0000}, shouldn't you go back to the castle soon?{g}{x:00}
+
+@221
+{z}{f}{l:0000}Yes. I'll prepare for battle and return to the castle.{g}{z}Everyone, keep lending me your strength as before. I'm counting on you!{g}{x:00}
+
+@222
+{z}{f}{l:0002}What kind of talk is that? Just trust us!{g}{x:00}
+
+@230
+{z}{f}{l:00eb}{s:0004}Captain, which country do you intend to side with, anyway?{g}{x:00}
+
+@231
+{z}{f}{l:00ea}{s:0003}We resolved to fight to end the wars and save the people...{g}{j:00e8}{x:00}
+
+@232
+{z}Have you forgotten that?{g}{x:00}
+
+@233
+{z}{f}{l:00eb}At this rate the wars will only drag on. Back one country and lead the continent to unity...{g}{j:00ea}{x:00}
+
+@234
+{z}You haven't forgotten {a:0023}'s will, have you?{g}{x:00}
+
+@235
+{z}{f}{l:0002}{s:0002}{a:0001} said so too.{g}{z}She was wondering if {a:0000} had forgotten the ideals he had when he became a mercenary.{g}{j:00ec}{x:00}
+
+@236
+{z}It's not like me to say this, but{g}{z}don't worry her so much. She's truly troubled, and{j:00ed}{x:00}
+
+@237
+ she'll make herself ill if you leave her be.{g}{x:00}
+
+@238
+{z}{f}{l:00ea}Anyway, unless you decide on our course as soon as possible...{g}{z}we won't be able to follow you.{g}{z}Remember that.{g}{x:00}
+
+@240
+{z}{f}{l:0002}{s:0002}We...{w} We've finally done it!{g}{z}At last, revenge for our families...{w} It's been so long!{g}{x:00}
+
+@241
+{z}{f}{l:00e7}{s:0001}{a:0000}, we've finally avenged our father...{g}{z}I could never forgive {a:0028}...{w}{j:00f2}{x:00}
+
+@242
+ Living with hatred was hard...{w} But that's all over now!{g}{x:00}
+
+@243
+{z}{f}{l:0000}{a:0002}, you...{w} You've been fighting for revenge, haven't you?{g}{z}What will you do now...?{g}{x:00}
+
+@244
+{z}{f}{l:0002}You! Are you serious?!{g}{z}Did you think I was still fighting only for revenge?{g}{x:00}
+
+@245
+{z}{f}{l:0002}That's cold! If you want...{w} I can clear off right here and now!{g}{x:00}
+
+@246
+{z}{f}{l:0000}Sorry, {a:0002}. You'll keep fighting with us, won't you?{g}{z}{f}{l:0002}Course I will!{g}{x:00}
+
+@247
+{z}{f}{l:0001}Come on, let's go!{g}{x:00}
+
+@248
+{z}{f}{l:0002}It's not all over yet. One last push, {a:0000}!{g}{x:00}
+
+@260
+{z}{f}{l:0005}{s:0005}At last the great task is done...{w} That's lifted a weight from my shoulders.{g}{x:00}
+
+@261
+{z}{f}{l:0000}{s:0000}But to kill your own son...{g}{x:00}
+
+@262
+{z}{f}{l:0005}I no longer think of him as my son...{g}{z}It is {a:0000} I think of as my son now.{g}{x:00}
+
+@264
+{z}{f}{l:0003}{s:0003}With {a:0023} avenged, there's no one left to disturb the peace of the continent.{g}{x:00}
+
+@265
+{z}{f}{l:0005}Now then, I have done my duty.{g}{z}You have all been a great help to me.{g}{x:00}
+
+@266
+{z}{f}{l:0004}{s:0004}No need to be so formal now...{w} We've fought together all the way here.{g}{x:00}
+
+@268
+{z}{f}{l:0005}Well, I think I'll go out for some fresh air.{g}{x:00}
+
+@270
+{z}{f}{l:0003}Isn't our work done now?{g}{z}The unification of the continent is certain.{g}{x:00}
+
+@271
+{z}{f}{l:0004}I suppose so... I think I'll go and drink a toast.{g}{x:00}
+
+@272
+{z}{f}{l:0003}I wonder what everyone will do now...{g}{x:00}
+
+@280
+{z}{f}{l:00eb}{s:0004}Captain, one question...{g}{z}Do you think our fighting is achieving results?{g}{x:00}
+
+@281
+{z}{f}{l:00ea}{s:0003}I have my doubts...{g}{z}When will {a:0023}'s dream of backing a nation fit to rule the continent and ending the wars{j:011a}{x:00}
+
+@282
+ ever come true?{g}{z}{f}{l:00eb}At this rate, who knows when it will end...{g}{x:00}
+
+@283
+{z}{f}{l:00eb}{a:0023} chose you to take over, didn't he? Then do it properly.{g}{x:00}
+
+@285
+{z}{f}{l:0002}{s:0002}It's {a:0001} I want to talk about.{g}{z}It's not like me to say this, but{g}{z}she...{w} thinks it's her fault that Tigre{j:011e}{x:00}
+
+@286
+ isn't getting results, and it's eating at her.{g}{z}She puts on a brave face in front of you, but at this rate she'll crack.{g}{x:00}
+
+@287
+{z}{f}{l:00eb}A man's no man if he makes a lovely girl like that cry.{g}{x:00}
+
+@288
+{z}{f}{l:00ea}You're the captain; I can't say more than this.{g}{z}Let's do all we can to see the wars{j:0121}{x:00}
+
+@289
+ settled as soon as possible.{g}{x:00}
+
+@300
+{z}{f}{l:007e}{s:007e}Oh, it's {a:0000}.{g}{z}There was no one here but this lady.{g}{x:00}
+
+@301
+{z}{f}{l:0003}{s:0003}...My apologies, Your Highness.{g}{z}{a:0001} should be along sometime, I think...{g}{x:00}
+
+@302
+{z}{f}{l:0001}{s:0001}Terrible news, {a:0003}! Something awful has happened at the castle!{g}{z}Oh, the Prince and {a:0000} are here too. Good timing.{g}{x:00}
+
+@303
+{z}{f}{l:0001}The Grand Duke has staged a coup and taken the King hostage!{g}{x:00}
+
+@304
+{z}{f}{l:007e}What?! Is that true?!{g}{z}Uncle, how could you...{w} I must save Father and {a:00a8}!{g}{x:00}
+
+@305
+{z}{f}{l:0000}{s:0000}Please wait, Your Highness!{g}{z}We should make proper preparations before we go.{g}{x:00}
+
+@308
+{z}{f}{l:007e}True enough...{g}{z}Right, {a:0000}, I'll hand over all the money I have. Lend me your strength!{g}{x:00}
+
+@309
+{z}You received 17250 G.{g}{x:00}
+
+@310
+{z}{f}{l:007e}Once you're ready, gather on the ground floor here. Hurry!{g}{x:00}
+
+@320
+{z}{f}{l:0003}I'm relieved to hear that. I think we can fight alongside you now.{g}{z}I'm counting on you, {a:0000}.{g}{x:00}
+
+@321
+{z}{f}{l:0000}Yes... Today is the day the Tigre Mercenaries set out anew.{g}{z}Everyone... I'm counting on you!{g}{x:00}
+

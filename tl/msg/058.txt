@@ -1,0 +1,297 @@
+@0
+{z}{s:0320}No one here...{g}{x:00}
+
+@1
+{z}{s:0320}The calm before the storm, eh?{g}{x:00}
+
+@2
+{z}{s:0320}The fighting starts here, any moment now...{g}{x:00}
+
+@3
+{z}{s:0320}We're fighting to defend our territory. If we lose, it's a disaster...{g}{x:00}
+
+@4
+{z}{s:0320}Don't say things like that... You'll make me nervous.{g}{x:00}
+
+@5
+{z}{s:0320}Looks like today's a clash of pure strength, no tricks.{g}{x:00}
+
+@6
+{z}{s:0320}Strength against strength... I can't wait.{g}{x:00}
+
+@7
+{z}{s:0320}A role this important... Can we really handle it?{g}{x:00}
+
+@8
+{z}{s:0320}Don't be so faint-hearted! Have some confidence!{g}{x:00}
+
+@9
+{z}We've definitely grown stronger. Right, {a:0004}?{g}{x:00}
+
+@10
+{z}{s:0320}Yes, I think so. Everyone's really grown tougher.{g}{x:00}
+
+@11
+{z}{s:0320}I can't tell that for myself...{g}{x:00}
+
+@12
+{z}{s:0320}That's fine. It's far better than overrating yourself.{g}{x:00}
+
+@13
+{z}{s:0320}Beware of conceit... conceit... It can be a man's undoing.{g}{x:00}
+
+@14
+{z}{s:0320}Hey! They're coming!{g}{x:00}
+
+@15
+{z}{s:0320}So they've shown up...{g}{x:00}
+
+@16
+{z}{s:0320}What... mercenaries? They mean to meet us with mercenaries alone?{g}{x:00}
+
+@17
+{z}Ha ha ha! {p:01}'s men have a cruel sense of humour!{g}{x:00}
+
+@18
+{z}{s:0320}Damn it... They're making fools of us...{g}{x:00}
+
+@19
+{z}{s:0320}Where is the regular army hiding? Show yourselves!{g}{x:00}
+
+@20
+{z}{s:0320}We're your opponents. There is no regular army.{g}{x:00}
+
+@21
+{z}{s:0320}No regular army in a battle this important...{g}{x:00}
+
+@22
+{z}{p:01}'s military might not be at full strength...{g}{x:00}
+
+@23
+{z}{s:0320}That's quite possible.{g}{x:00}
+
+@24
+{z}{s:0320}We must win and earn glory. Victory will make us one of the top knightly orders.{g}{x:00}
+
+@25
+{z}{s:0320}Men! Our order's future rides on today's battle!{g}{x:00}
+
+@26
+{z}Keep that in mind as you fight! Understood?{g}{x:00}
+
+@27
+{z}Attack...{w}{w} Hm?{g}{x:00}
+
+@28
+{z}{s:0320}Have you forgotten about us?{g}{x:00}
+
+@29
+{z}{s:0320}Oh! I had! Sorry! Sorry!{g}{x:00}
+
+@30
+{z}{s:0320}You don't need our strength, then?{g}{x:00}
+
+@31
+{z}{s:0320}No, not at all. We need your strength.{g}{x:00}
+
+@32
+{z}{s:0320}More enemies...{g}{x:00}
+
+@33
+{z}{s:0320}So it wasn't only knights after all...{g}{x:00}
+
+@34
+{z}{s:0320}I did think they were too few to invade {p:01}.{g}{x:00}
+
+@35
+{z}{s:0320}Many or few, we have to fight! Let's go!{g}{x:00}
+
+@36
+{z}{s:0320}Right. We've no choice.{g}{x:00}
+
+@37
+{z}{s:0320}The enemy has knights and mercenaries... and we've only got mercenaries...{g}{x:00}
+
+@38
+{z}However strong we've become, they still have the advantage...{g}{x:00}
+
+@39
+{z}{s:0320}A disadvantage like this is where our true worth is tested.{g}{x:00}
+
+@40
+{z}{s:0320}My knights will go for the enemy captain. Mercenaries, charge!{g}{x:00}
+
+@41
+{z}{s:0320}Right you are.{g}{x:00}
+
+@42
+{z}{s:0320}We can attack the captain too, can't we?{g}{x:00}
+
+@43
+{z}{s:0320}Any enemy will do. Just attack!{g}{x:00}
+
+@44
+{z}{s:0320}Our aim is to wipe them out...{g}{x:00}
+
+@45
+{z}{s:0320}Of course, that's the idea.{g}{x:00}
+
+@46
+{z}{s:0320}Just six mercenary companies... and we had them completely outnumbered...{g}{x:00}
+
+@47
+{z}These men... {w}{w}are strong...{g}{x:00}
+
+@48
+{z}{s:0320}We won... against such a huge army... and head-on, too...{g}{x:00}
+
+@49
+{z}We held our territory, and beat a huge army. I feel wonderful right now.{g}{x:00}
+
+@50
+{z}{s:0320}Phew... It's over. I'm worn out today.{g}{x:00}
+
+@51
+{z}But I feel great. We wiped out that huge army and completed the mission.{g}{x:00}
+
+@52
+{z}{s:0320}The enemy is wiped out. Mission accomplished, then.{g}{x:00}
+
+@53
+{z}To think we could defend the territory on our own... You've all truly grown.{g}{x:00}
+
+@54
+{z}{s:0320}Look! The enemy's wiped out! We won!{g}{x:00}
+
+@55
+{z}We beat such a huge army by ourselves... Unbelievable!{g}{x:00}
+
+@56
+{z}{s:0320}We really wiped out the knights and the mercenaries on our own...{g}{x:00}
+
+@57
+{z}{s:0320}I'm sorry... I'm still not good enough...{g}{x:00}
+
+@58
+{z}{s:0320}Damn it... How could this happen to me...{g}{x:00}
+
+@59
+{z}{s:0320}Today of all days, I didn't want to retreat... I'm so frustrated...{g}{x:00}
+
+@60
+{z}{s:0320}Strange... This shouldn't be happening...{g}{x:00}
+
+@61
+{z}{s:0320}I'm withdrawing... Forgive me.{g}{x:00}
+
+@62
+{z}{s:0320}My knights, beaten by mercenaries... Impossible...{g}{x:00}
+
+@63
+{z}{s:0320}The knights are wiped out? In the end only we mercenaries are left...{g}{x:00}
+
+@64
+{z}Well, we mercenaries are the stars of any war, so it's only natural.{g}{x:00}
+
+@65
+{z}{s:0320}Win this... please... Our order's future depends on it...{g}{x:00}
+
+@66
+{z}I'm counting... on you...{g}{x:00}
+
+@67
+{z}{s:0320}M-my company... to the likes of these... It can't be...{g}{x:00}
+
+@68
+{z}{s:0320}Sorry... The rest is up to you... Find a way...{g}{x:00}
+
+@69
+{z}{s:0320}Our mercenaries are wiped out... Tch, useless wretches.{g}{x:00}
+
+@70
+{z}If they were going to hire anyone, I wish they'd hired mercenaries like the ones fighting now...{g}{x:00}
+
+@71
+{z}{s:0320}Damn... I have to retreat. Sorry...{g}{x:00}
+
+@72
+{z}{s:0320}Not bad...{g}{x:00}
+
+@73
+{z}{s:0320}These men... are strong... Ugh... Retreat...{g}{x:00}
+
+@74
+{z}{s:0320}You're the Knight Commander! I'm {a:0002} of the Tigre Mercenaries!{g}{x:00}
+
+@75
+{z}I'll wipe out your company myself! Here I come!{g}{x:00}
+
+@76
+{z}{s:0320}Cheeky whelp! Try it if you dare!{g}{x:00}
+
+@77
+{z}{s:0320}A woman? Heh, an easy win.{g}{x:00}
+
+@78
+{z}{s:0320}Think again! I'm stronger than you, at least!{g}{x:00}
+
+@79
+{z}{s:0320}What did you say?{g}{x:00}
+
+@80
+{z}{s:0320}Meeting us with mercenaries alone? You're far too naive!{g}{x:00}
+
+@81
+{z}{s:0320}Poor things... taking on a job like this...{g}{x:00}
+
+@82
+{z}{s:0320}There's no way we'll lose this battle!{g}{x:00}
+
+@83
+{z}{s:0320}I'll beat you to a pulp! Let's go!{g}{x:00}
+
+@84
+{z}{s:0320}We are {p:01}! Feel our strength!{g}{x:00}
+
+@85
+{z}{s:0320}They're good... But we haven't lost yet.{g}{x:00}
+
+@86
+{z}Don't flinch! Fight! We can't lose to mere mercenaries!{g}{x:00}
+
+@87
+{z}{s:0320}They're good... But we haven't lost yet.{g}{x:00}
+
+@88
+{z}Men! Don't flinch! There's no way we can lose!{g}{x:00}
+
+@89
+{z}{s:0320}Irritating pests! Get lost!{g}{x:00}
+
+@90
+{z}{s:0320}You want to fight my company? Fool...{g}{x:00}
+
+@91
+{z}{s:0320}You think you can beat me? Don't make me laugh!{g}{x:00}
+
+@92
+{z}{s:0320}You're nothing to me! I'll cut you down!{g}{x:00}
+
+@93
+{z}{s:0320}Come on, then!{g}{x:00}
+
+@94
+{z}{s:0320}What's the matter... Have you made your peace?{g}{x:00}
+
+@95
+{z}{s:0320}I've grown stronger... so I won't lose to you!{g}{x:00}
+
+@96
+{z}{s:0320}With numbers this uneven, we'd better get serious...{g}{x:00}
+
+@97
+{z}In that case, this battle is the perfect chance to strike a blow at {p:01}... and to make a name for ourselves.{g}{x:00}
+
+@98
+{z}{s:0320}I'll show you my strength!{g}{x:00}
+

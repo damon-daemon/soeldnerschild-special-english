@@ -1,0 +1,288 @@
+@0
+{z}{s:0320}That river looks like the enemy's defence line. Cross it and the mission's done...{g}{x:00}
+
+@1
+{z}{s:0320}The two forts, east and west, seem to be backing each other up.{g}{x:00}
+
+@2
+{z}If we can take one fort, the other probably can't hold out either, but on our own we'd come under attack from both.{g}{x:00}
+
+@3
+{z}{s:0320}Knights hold the east, mercenaries the west. Can we really win on our own?{g}{x:00}
+
+@4
+{z}{s:0320}But it's {a:0000}'s first mission as a knight, so we absolutely have to win!{g}{x:00}
+
+@5
+{z}{s:0320}Then allow me to lend a hand too...{g}{x:00}
+
+@6
+{z}{s:0320}Mr {a:0025}!{g}{x:00}
+
+@7
+{z}{s:0320}It's been a while, {a:0000}...{g}{x:00}
+
+@8
+{z}{s:0320}You'll fight on our side!?{g}{x:00}
+
+@9
+{z}{s:0320}I heard you were making your debut as a knight and thought I'd lend a hand...{g}{x:00}
+
+@10
+{z}Was that presumptuous of me?{g}{x:00}
+
+@11
+{z}{s:0320}Not at all! It's a great comfort to have you.{g}{x:00}
+
+@12
+{z}{s:0320}Good... I'll attack the east fort...{g}{x:00}
+
+@13
+{z}{a:0000}, you make for the west fort.{g}{x:00}
+
+@14
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@15
+{z}{s:0320}Now, {a:0000}! Show me a fight worthy of a knight!{g}{x:00}
+
+@16
+{z}{s:0320}Knights of {p:01} have come to attack... We must hold the defence line at all costs.{g}{x:00}
+
+@17
+{z}All units, hold the ground before the fort and keep the enemy away from the bridge!{g}{x:00}
+
+@18
+{z}{s:0320}Hey, Sir Knight Commander, the Crotoi Mercenaries are on the enemy side.{g}{x:00}
+
+@19
+{z}That's not quite what we were told, is it?{g}{x:00}
+
+@20
+{z}{s:0320}You'll get extra pay for that... You can have no complaint then.{g}{x:00}
+
+@21
+{z}{s:0320}Yeah, yeah...{w}{w} Understood.{g}{x:00}
+
+@22
+{z}All we have to do is hold this fort, right? We'll make sure we earn our pay!{g}{x:00}
+
+@23
+{z}{s:0320}{a:0000} a knight... I'd better do my best too!{g}{x:00}
+
+@24
+{z}{s:0320}Him a knight or not, it makes no difference to me! I'll carry on as I always have!{g}{x:00}
+
+@25
+{z}{s:0320}I want to be a knight myself some day, so I can't fight a sorry battle!{g}{x:00}
+
+@26
+{z}{s:0320}{a:0023}, rejoice...{g}{x:00}
+
+@27
+{z}{a:0000} has splendidly carried on your will...{g}{x:00}
+
+@28
+{z}{s:0320}We'll show them how strong the Crotoi Mercenaries are!{g}{x:00}
+
+@29
+{z}{s:0320}The man {a:0023} had such hopes for... He's growing stronger and stronger...{g}{x:00}
+
+@30
+{z}{s:0320}If we take this fort, we win!{g}{x:00}
+
+@31
+{z}{s:0320}I'll be first in, mark my words!{g}{x:00}
+
+@32
+{z}{s:0320}Take just one of the forts and the other can't hold out either.{g}{x:00}
+
+@33
+{z}Break through here and settle this in one stroke!{g}{x:00}
+
+@34
+{z}{s:0320}We can't be struggling with a puny fort like this.{g}{x:00}
+
+@35
+{z}{s:0320}...Let's go!{g}{x:00}
+
+@36
+{z}{s:0320}Let's take this fort and celebrate {a:0000}'s investiture as a knight!{g}{x:00}
+
+@37
+{z}{s:0320}This fort must not fall! Hold them off at all costs!{g}{x:00}
+
+@38
+{z}{s:0320}If this place falls, we don't get paid. We'll hold it if it kills us!{g}{x:00}
+
+@39
+{z}{s:0320}Your first battle since becoming a knight, {a:0000}...{w}{w} I'm sorry.{g}{x:00}
+
+@40
+{z}{s:0320}Damn... To fall in a place like this...{g}{x:00}
+
+@41
+{z}{s:0320}I wanted to fight to the end, but... it's no good now.{g}{x:00}
+
+@42
+{z}{s:0320}Looks like this is where it ends... I leave the rest to you.{g}{x:00}
+
+@43
+{z}{s:0320}Ngh... That stings...{g}{x:00}
+
+@44
+{z}{s:0320}I came to cheer you on, and I'm the first to fall...{g}{x:00}
+
+@45
+{z}{a:0000}, forgive me...{g}{x:00}
+
+@46
+{z}{s:0320}Please don't worry. We'll manage the rest ourselves!{g}{x:00}
+
+@47
+{z}{s:0320}Yes... You've grown...{w}{w} {a:0000}...{g}{x:00}
+
+@48
+{z}We'll withdraw, then!{g}{x:00}
+
+@49
+{z}{s:0320}Captain, Sir {a:0000}... Sorry...{w}{w} We're withdrawing!{g}{x:00}
+
+@50
+{z}{s:0320}Don't overdo it! Fall back!{g}{x:00}
+
+@51
+{z}{s:0320}Yes...{g}{x:00}
+
+@52
+{z}{s:0320}{a:0027}! Are you all right?!{g}{x:00}
+
+@53
+{z}{s:0320}I'm all right... but my unit seems finished...{g}{x:00}
+
+@54
+{z}Captain... {a:0000}...{w}{w} Good luck to you both...{g}{x:00}
+
+@55
+{z}{s:0320}Hmm... To think this fort has been breached...{g}{x:00}
+
+@56
+{z}We must fall back and build a new defence line...{g}{x:00}
+
+@57
+{z}All units, fall back!{g}{x:00}
+
+@58
+{z}{s:0320}Tch...{w}{w} You're abandoning this place?!{g}{x:00}
+
+@59
+{z}No choice...{w}{w} We withdraw too!{g}{x:00}
+
+@60
+{z}{s:0320}Ngh...{w}{w} Damn...{g}{x:00}
+
+@61
+{z}{s:0320}A pity, but this is the end... Let's forget the pay...{g}{x:00}
+
+@62
+{z}Men! Fall back!{g}{x:00}
+
+@63
+{z}{s:0320}Tch! Mercenaries... Utterly unreliable...{g}{x:00}
+
+@64
+{z}The west fort has fallen...{w} No choice. Withdraw!{g}{x:00}
+
+@65
+{z}{s:0320}I'm done for... Captain...{w}{w} sorry.{g}{x:00}
+
+@66
+{z}{s:0320}No good... I'm no match for them...{g}{x:00}
+
+@67
+{z}{s:0320}It's finally over...{g}{x:00}
+
+@68
+{z}{s:0320}It's all thanks to you, Mr {a:0025}.{g}{x:00}
+
+@69
+{z}{s:0320}You've improved a great deal. You may even be better than me now...{g}{x:00}
+
+@70
+{z}{a:0023} must be delighted that you've become a fine knight...{g}{x:00}
+
+@71
+{z}{s:0320}Mr {a:0025} fell, but we broke the defence line...{g}{x:00}
+
+@72
+{z}Mr {a:0025} said I'd grown... Is it really true?{g}{x:00}
+
+@73
+{z}{s:0320}You've grown strong... You just don't notice it yourself.{g}{x:00}
+
+@74
+{z}But is Mr {a:0025} all right? I hope he's safe...{g}{x:00}
+
+@75
+{z}{s:0320}He'll be fine, I'm sure... I'll vouch for that myself.{g}{x:00}
+
+@76
+{z}{s:0320}Yes...{w}{w} Then I can rest easy.{g}{x:00}
+
+@77
+{z}{s:0320}You have... I can vouch for that.{g}{x:00}
+
+@78
+{z}Since the day we met, I thought you'd make a fine knight, but you've done even better than I expected.{g}{x:00}
+
+@79
+{z}{s:0320}{a:0003}...{g}{x:00}
+
+@80
+{z}{s:0320}Nobody can say for sure...{g}{x:00}
+
+@81
+{z}But I reckon {a:0023} judged you right.{g}{x:00}
+
+@82
+{z}{s:0320}{a:0004}...{g}{x:00}
+
+@83
+{z}{s:0320}Ask yourself that.{g}{x:00}
+
+@84
+{z}I will say just one thing... Had you not grown...{g}{x:00}
+
+@85
+{z}I doubt I would still be here.{g}{x:00}
+
+@86
+{z}{s:0320}{a:0005}...{g}{x:00}
+
+@87
+{z}{s:0320}Of course you have!{g}{x:00}
+
+@88
+{z}Otherwise, would I follow the likes of you?!{g}{x:00}
+
+@89
+{z}{s:0320}{a:0002}...{g}{x:00}
+
+@90
+{z}{s:0320}The enemy's strength is massed against us...{w} At this rate they'll break through...{g}{x:00}
+
+@91
+{z}No choice...{w} Signal the west fort!{g}{x:00}
+
+@92
+{z}{s:0320}Captain! A signal from the east fort!{g}{x:00}
+
+@93
+{z}{s:0320}They want us to come and help...{g}{x:00}
+
+@94
+{z}No choice... If their fort falls, we don't get paid.{g}{x:00}
+
+@95
+{z}There are no enemies on our side, so let's send over a few companies.{g}{x:00}
+

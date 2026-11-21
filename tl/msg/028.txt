@@ -1,0 +1,381 @@
+@0
+{z}{s:0320}Ah! There!{g}{x:00}
+
+@1
+{z}{s:0320}We've finally caught up.{g}{x:00}
+
+@2
+{z}{s:0320}Oh! You've come! It's dangerous from here on.{g}{x:00}
+
+@3
+{z}{s:0320}True... It's a perfect spot for an ambush.{g}{x:00}
+
+@4
+{z}{s:0320}But now we're here, no need to worry. Let's push on.{g}{x:00}
+
+@5
+{z}{s:0320}What if enemies appear ahead? We should join up first, then advance.{g}{x:00}
+
+@6
+{z}{s:0320}There they are. We just wipe them out, right?{g}{x:00}
+
+@7
+{z}{s:0320}Damn! Mercenaries...{g}{x:00}
+
+@8
+{z}{s:0320}Looks like it's our turn.{g}{x:00}
+
+@9
+{z}{s:0320}Don't go trying to wipe out the enemy. Got it?{g}{x:00}
+
+@10
+{z}{s:0320}Don't move a step until you join up with them.{g}{x:00}
+
+@11
+{z}{s:0320}Ignore the mercenaries! Aim for the regular army!{g}{x:00}
+
+@12
+{z}{s:0320}Right!{g}{x:00}
+
+@13
+{z}{s:0320}Hm?{g}{x:00}
+
+@14
+{z}{s:0320}Phew, that was close. We nearly didn't make it.{g}{x:00}
+
+@15
+{z}{s:0320}Enemy reinforcements...{g}{x:00}
+
+@16
+{z}{s:0320}They've come from the front... This is bad...{g}{x:00}
+
+@17
+{z}{s:0320}Being attacked from the front is tough.{g}{x:00}
+
+@18
+{z}{s:0320}Tch... they came from the front.{g}{x:00}
+
+@19
+{z}{s:0320}Coming from the front... What do we do?{g}{x:00}
+
+@20
+{z}{s:0320}I can't fall in a place like this...{g}{x:00}
+
+@21
+{z}{s:0320}Forgive me...{g}{x:00}
+
+@22
+{z}{s:0320}And my comrades are waiting...{g}{x:00}
+
+@23
+{z}{s:0320}That's two companies beaten! How about that!{g}{x:00}
+
+@24
+{z}{s:0320}My comrades wait at the front, and yet... in a place like this...{g}{x:00}
+
+@25
+{z}{s:0320}Beating two companies is enough.{g}{x:00}
+
+@26
+{z}{s:0320}We couldn't take them to the front... It's our fault...{g}{x:00}
+
+@27
+{z}{s:0320}We failed to protect the regular army... Damn!{g}{x:00}
+
+@28
+{z}{s:0320}A failure... no excuses.{g}{x:00}
+
+@29
+{z}{s:0320}A failure... My skills shouldn't have dulled...{g}{x:00}
+
+@30
+{z}{s:0320}Only I am left... That's no fighting force.{g}{x:00}
+
+@31
+{z}My apologies to my comrades at the front, but I'll turn back. In this state I'd only be a burden.{g}{x:00}
+
+@32
+{z}{s:0320}Argh... beaten by the likes of you...{g}{x:00}
+
+@33
+{z}{s:0320}Are you really Tigre?{g}{x:00}
+
+@34
+{z}{s:0320}Retreat...{g}{x:00}
+
+@35
+{z}{s:0320}You lot... you were supposed to have gone soft after {a:0023} died...{g}{x:00}
+
+@36
+{z}{s:0320}Good! The pests are gone. Let's hurry on.{g}{x:00}
+
+@37
+{z}Thank you for today's work, all of you. We are grateful.{g}{x:00}
+
+@38
+{z}{s:0320}We swept the enemy away... Excellent.{g}{x:00}
+
+@39
+{z}I can't say we won because {a:0004} came back... but still...{g}{x:00}
+
+@40
+{z}{s:0320}Phew... we got through it somehow.{g}{x:00}
+
+@41
+{z}{s:0320}We did it, {a:0000}!{g}{x:00}
+
+@42
+{z}But {a:0004} retreated, didn't he? I was rather counting on him...{g}{x:00}
+
+@43
+{z}{s:0320}Look! The enemy is wiped out! Victory is ours!{g}{x:00}
+
+@44
+{z}{s:0320}The enemy is wiped out... Now we're safe.{g}{x:00}
+
+@45
+{z}Then we shall hurry on.{g}{x:00}
+
+@46
+{z}{s:0320}Mission complete. It was a bit risky, though...{g}{x:00}
+
+@47
+{z}{s:0320}Phew... that was pretty dicey, but the mission is done.{g}{x:00}
+
+@48
+{z}{s:0320}Phew... that was hard. I want a good rest today.{g}{x:00}
+
+@49
+{z}{s:0320}We were hard pressed, but at least we didn't fail.{g}{x:00}
+
+@50
+{z}{s:0320}The regular army is gone... It's over.{g}{x:00}
+
+@51
+{z}{s:0320}Oh no... A failure...{g}{x:00}
+
+@52
+{z}{s:0320}Mission failed...{w}{w} huh...{w}{w} How pathetic...{g}{x:00}
+
+@53
+{z}{s:0320}We failed... didn't we...{g}{x:00}
+
+@54
+{z}{s:0320}Damn... why does it end like this...{w}{w} Curse it!{g}{x:00}
+
+@55
+{z}{s:0320}We're safe now that we've got this far.{g}{x:00}
+
+@56
+{z}{s:0320}Once he's that far, we'll never catch him... Stop chasing him!{g}{x:00}
+
+@57
+{z}Two companies remain! Take them all out! It's too early to give up!{g}{x:00}
+
+@58
+{z}{s:0320}Quick on his feet, that one. Stop chasing him!{g}{x:00}
+
+@59
+{z}Take out the last company! It's too early to give up!{g}{x:00}
+
+@60
+{z}{s:0320}The enemy hasn't given up... We can't just wait here...{g}{x:00}
+
+@61
+{z}I'm going ahead! Follow me later! We'll meet at the front!{g}{x:00}
+
+@62
+{z}{s:0320}It isn't over yet. Don't let your guard down.{g}{x:00}
+
+@63
+{z}{s:0320}We did it! Let's keep this up.{g}{x:00}
+
+@64
+{z}{s:0320}One more company? We'll get it through in no time.{g}{x:00}
+
+@65
+{z}{s:0320}You and I alone have to get one more company through...{g}{x:00}
+
+@66
+{z}{s:0320}I must hurry to the front too! Farewell!{g}{x:00}
+
+@67
+{z}{s:0320}Another one got away... Damn!{g}{x:00}
+
+@68
+{z}{s:0320}From now on, don't you dare mock Tigre!{g}{x:00}
+
+@69
+{z}{s:0320}The enemy is pulling back... Mission complete.{g}{x:00}
+
+@70
+{z}{s:0320}Phew... it seems to be over.{g}{x:00}
+
+@71
+{z}{s:0320}The enemy is pulling back... It's over.{g}{x:00}
+
+@72
+{z}{s:0320}Argh... that one escaped too. No choice... Retreat.{g}{x:00}
+
+@73
+{z}{s:0320}Yes! Mission accomplished!{g}{x:00}
+
+@74
+{z}{s:0320}The mission is done. Well done, everyone.{g}{x:00}
+
+@75
+{z}{s:0320}Phew... it's over. Nothing beats the feeling of a job done.{g}{x:00}
+
+@76
+{z}{s:0320}Thank goodness... I thought it was hopeless...{g}{x:00}
+
+@77
+{z}{s:0320}I'm sorry...{g}{x:00}
+
+@78
+{z}{s:0320}Damn... How could I slip up like this...{g}{x:00}
+
+@79
+{z}{s:0320}Sorry, but... it seems I have to retreat...{g}{x:00}
+
+@80
+{z}{s:0320}And I haven't even shown my best yet...{g}{x:00}
+
+@81
+{z}{s:0320}Die, you rabble!{g}{x:00}
+
+@82
+{z}{s:0320}Attacking me? You've got nerve.{g}{x:00}
+
+@83
+{z}{s:0320}I hope you're ready to pay for it!{g}{x:00}
+
+@84
+{z}{s:0320}It's been a while... this feeling...{g}{x:00}
+
+@85
+{z}{s:0320}Come on, then! I'll cut you down!{g}{x:00}
+
+@86
+{z}{s:0320}Out of my way!{g}{x:00}
+
+@87
+{z}{s:0320}Move! Clear the road!{g}{x:00}
+
+@88
+{z}{s:0320}I'm a knight too... I won't lose so easily!{g}{x:00}
+
+@89
+{z}{s:0320}Spoken like a veteran. Years beat youth, eh?{g}{x:00}
+
+@90
+{z}{s:0320}Then we'll wait here until you arrive. Once we join up, we'll head for the front.{g}{x:00}
+
+@91
+{z}{s:0320}Right! All forces, advance!{g}{x:00}
+
+@92
+{z}{s:0320}Wait.{g}{x:00}
+
+@93
+{z}{s:0320}Only the regular army is the target. Leave the mercenaries around them alone.{g}{x:00}
+
+@94
+{z}{s:0320}Mercenaries? Ha, I see... Tigre. Even if we leave them be, they'll get themselves wiped out.{g}{x:00}
+
+@95
+{z}{s:0320}Ha ha ha ha! They must be awfully weak.{g}{x:00}
+
+@96
+{z}Take the regular army to the front... that is our mission.{g}{x:00}
+
+@97
+{z}{s:0320}Is the front far away?{g}{x:00}
+
+@98
+{z}{s:0320}To the north-east.{g}{x:00}
+
+@99
+{z}{s:0320}So we just clear the road so they can get away to the north-east?{g}{x:00}
+
+@100
+{z}{s:0320}Exactly.{g}{x:00}
+
+@101
+{z}{s:0320}That should do. Now, we advance.{g}{x:00}
+
+@102
+{z}{s:0320}Right.{g}{x:00}
+
+@103
+{z}{s:0320}Hurry and lend a hand! It's already begun!{g}{x:00}
+
+@104
+{z}{s:0320}Yes, I know!{g}{x:00}
+
+@105
+{z}{s:0320}First job in a while.{g}{x:00}
+
+@106
+{z}{s:0320}Just don't get in everyone's way.{g}{x:00}
+
+@107
+{z}{s:0320}As unfriendly as ever. Such a waste of a beauty.{g}{x:00}
+
+@108
+{z}{s:0320}Mind your own business.{g}{x:00}
+
+@109
+{z}{s:0320}Everyone! Let's go! The enemy awaits!{g}{x:00}
+
+@110
+{z}{s:0320}Now nothing will hinder us... Let's hurry after our comrades.{g}{x:00}
+
+@111
+{z}Thank you for today's work, all of you.{g}{x:00}
+
+@112
+{z}Now maybe you'll give me a little credit?{g}{x:00}
+
+@113
+{z}But everyone retreated, didn't they... Was it your orders... or are they weak?{g}{x:00}
+
+@114
+{z}Now maybe you'll give me a little credit?{g}{x:00}
+
+@115
+{z}But we didn't protect them all, so... I don't feel too good. You too, {a:0000}?{g}{x:00}
+
+@116
+{z}...I can't call it a success. We couldn't protect them all.{g}{x:00}
+
+@117
+{z}I'd have liked to get all three companies to the front together. Don't you think?{g}{x:00}
+
+@118
+{z}Everyone retreated, and the regular army was beaten... I thought it was hopeless...{g}{x:00}
+
+@119
+{z}Good thing we made it in time.{g}{x:00}
+
+@120
+{z}Oh, pardon me.{g}{x:00}
+
+@121
+{z}{s:0320}One company escaped, but I suppose that's acceptable.{g}{x:00}
+
+@122
+{z}Well then... time to go home.{g}{x:00}
+
+@123
+{z}Two companies left is enough. You did well. Thank you.{g}{x:00}
+
+@124
+{z}Only one company wiped out... A failure...{w}{w} Retreat!{g}{x:00}
+
+@125
+{z}Here comes the enemy.{g}{x:00}
+
+@126
+{z}Understood!{g}{x:00}
+

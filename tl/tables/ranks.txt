@@ -1,0 +1,26 @@
+# ranks / titles (accessor 0x800175b0): KEY|English, at most 8 letters (see tools/tables.py; Japanese: tables.py show ranks)
+00|Leader
+01|Captain
+02|Merc Cpt
+03|Knight
+04|Baron
+05|Viscount
+06|Count
+07|Marquis
+08|Duke
+09|Gr. Duke
+0a|King
+0b|Emperor
+0c|Chairman
+0d|Noble
+0e|Royal
+0f|Peasant
+10|Citizen
+11|Priest
+12|Bishop
+13|Archbshp
+14|Pope
+15|Pirate
+16|Brigand
+17|Bandit
+18|Tribal

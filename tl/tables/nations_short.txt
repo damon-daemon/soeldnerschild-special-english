@@ -1,0 +1,8 @@
+# nation short names (SCENARIO): KEY|English, at most 12 letters (see tools/tables.py; Japanese: tables.py show nations_short)
+00|Rana
+01|Saxen
+02|Grandcour
+03|Estania
+04|Mylard
+05|Fenrir
+06|Wigg Church

@@ -1,0 +1,318 @@
+@0
+{z}{s:0320}{a:0000}! I see something like a fort in that forest!{g}{x:00}
+
+@1
+{z}{s:0320}I see troops around it too. That must be the brigands' hideout.{g}{x:00}
+
+@2
+{z}{s:0320}...But there seem to be fewer than I thought...{g}{x:00}
+
+@3
+{z}{s:0320}All the better! Let's finish them in one go!{g}{x:00}
+
+@4
+{z}{s:0320}No...{w}{w} There could be an ambush...{g}{x:00}
+
+@5
+{z}{s:0320}Yes... We'd best go carefully...{g}{x:00}
+
+@6
+{z}{s:0320}I'm done for... Sorry I can't fight to the end...{g}{x:00}
+
+@7
+{z}{s:0320}Beaten by mere brigands! I'm pulling back. Sorry, {a:0000}!{g}{x:00}
+
+@8
+{z}{s:0320}I'm sorry... This is as far as I go this time...{g}{x:00}
+
+@9
+{z}{s:0320}Beaten... Nothing for it but to retreat.{g}{x:00}
+
+@10
+{z}{s:0320}I can fight no more. Sorry...{g}{x:00}
+
+@11
+{z}{s:0320}Why?! Why would anyone become a brigand?!{g}{x:00}
+
+@12
+{z}{s:0320}Why do their kind never die out? Is brigandry such a good trade?{g}{x:00}
+
+@13
+{z}{s:0320}Attacking while I'm away! But I won't let you have your way any longer!{g}{x:00}
+
+@14
+{z}{s:0320}Damn!{g}{x:00}
+
+@15
+{z}Why attack when the boss is out?!{g}{x:00}
+
+@16
+{z}We can't coordinate like this! Everyone, fight as you please! Just smash whoever's in front of you!{g}{x:00}
+
+@17
+{z}{s:0320}Something's off with the enemy. Their movements are scattered...{g}{x:00}
+
+@18
+{z}...{w}{w}! Could it be... the boss isn't here? Then now is our chance!{g}{x:00}
+
+@19
+{z}{s:0320}That banner is surely... the Tigre Mercenaries!{g}{x:00}
+
+@20
+{z}Are you the captain?!{g}{x:00}
+
+@21
+{z}{s:0320}Yes! I am!{g}{x:00}
+
+@22
+{z}{s:0320}At last I found you... You know {a:009a}, don't you!{g}{x:00}
+
+@23
+{z}{s:0320}{a:009a}...{w}{w} That brigand!{g}{x:00}
+
+@24
+{z}{s:0320}Yes...{w}{w} The brigand {a:009a} you killed!{g}{x:00}
+
+@25
+{z}I am {a:000b}, younger brother of {a:009a}! You killed my brother! I challenge you to a duel!{g}{x:00}
+
+@26
+{z}{s:0320}It seems nothing I say will matter...{g}{x:00}
+
+@27
+{z}{s:0320}Exactly! Ready yourself...{w}{w} here I come!{g}{x:00}
+
+@28
+{z}{s:0320}Wait! What good will it do for us to fight?{g}{x:00}
+
+@29
+{z}{s:0320}No talk! Fight!!{g}{x:00}
+
+@30
+{z}{s:0320}The boss is down! It's hopeless... run!{g}{x:00}
+
+@31
+{z}{s:0320}The boss is down! It's hopeless... run!{g}{x:00}
+
+@32
+{z}{s:0320}The boss is down! It's hopeless... run!{g}{x:00}
+
+@33
+{z}{s:0320}The boss is down! It's hopeless... run!{g}{x:00}
+
+@34
+{z}{s:0320}The boss is down! It's hopeless... run!{g}{x:00}
+
+@35
+{z}{s:0320}...{w}{w}?{g}{x:00}
+
+@36
+{z}Why don't you finish me off?{g}{x:00}
+
+@37
+{z}{s:0320}...{w}{w} I can't bring myself to take your life...{g}{x:00}
+
+@38
+{z}{a:009a}... I keep thinking of {a:009a}...{g}{x:00}
+
+@39
+{z}{s:0320}My brother...{w}{w} you say?{g}{x:00}
+
+@40
+{z}{s:0320}Your brother fought desperately. He seemed to be a brigand against his will...{g}{x:00}
+
+@41
+{z}If the world were not like this, he would never have become one...{g}{x:00}
+
+@42
+{z}{s:0320}True, brigandry is unforgivable...{g}{x:00}
+
+@43
+{z}But...{w}{w} the worst of all is the world itself, which breeds brigands and bandits.{g}{x:00}
+
+@44
+{z}{s:0320}...{g}{x:00}
+
+@45
+{z}{s:0320}We did defeat him. Back then, I too believed only in strength.{g}{x:00}
+
+@46
+{z}But now it's different! I've realised that real peace never comes from settling things by force!{g}{x:00}
+
+@47
+{z}You, a brigand yourself, must understand!{g}{x:00}
+
+@48
+{z}{s:0320}...{g}{x:00}
+
+@49
+{z}{s:0320}If we'd had a little more time to talk... we might have understood each other...{g}{x:00}
+
+@50
+{z}Thinking that, I cannot kill you, his younger brother...{g}{x:00}
+
+@51
+{z}{s:0320}...{w} You're making a fool of me.{g}{x:00}
+
+@52
+{z}{s:0320}If...{w}{w} if you are willing...{g}{x:00}
+
+@53
+{z}{s:0320}!{g}{x:00}
+
+@54
+{z}{s:0320}So that there are no more unfortunate men like {a:009a}...{g}{x:00}
+
+@55
+{z}{s:0320}...{g}{x:00}
+
+@56
+{z}Give me a little...{w}{w} a little time to think. A man can't change his mind that suddenly.{g}{x:00}
+
+@57
+{z}......{w}{w} But I'm done being a brigand.{g}{x:00}
+
+@58
+{z}{s:0320}...{w}{w} Understood.{g}{x:00}
+
+@59
+{z}If you ever feel like it, come and visit any time.{g}{x:00}
+
+@60
+{z}{s:0320}Yes... But for now... leave me alone...{g}{x:00}
+
+@61
+{z}{s:0320}! My men are being cut down!{g}{x:00}
+
+@62
+{z}The enemy is...{w}{w} mercenaries! Damn... We go to help them, now!{g}{x:00}
+
+@63
+{z}{s:0320}! Our hideout!{g}{x:00}
+
+@64
+{z}The enemy is...{w}{w} mercenaries! Damn... We go to help them, now!{g}{x:00}
+
+@65
+{z}{s:0320}Reinforcements?{w}{w} Bad timing for that... Must be a detached force coming back.{g}{x:00}
+
+@66
+{z}{s:0320}Planning to pincer us, are they? Clumsy work, though...{g}{x:00}
+
+@67
+{z}{s:0320}Eek! Reinforcements?{g}{x:00}
+
+@68
+{z}I thought this would be over quickly...{g}{x:00}
+
+@69
+{z}{s:0320}Damn...{w}{w} They're back!{g}{x:00}
+
+@70
+{z}Just in time! We'll crush the lot of you!{g}{x:00}
+
+@71
+{z}{s:0320}An enemy ambush?{w}{w} No, a detached force? But there aren't many of them...{g}{x:00}
+
+@72
+{z}{s:0320}Brother...{w}{w} I'm sorry...{g}{x:00}
+
+@73
+{z}{s:0320}I'm finished. You lot...{w}{w} run...{g}{x:00}
+
+@74
+{z}{s:0320}The b-boss is down! We can't win... run!{g}{x:00}
+
+@75
+{z}{s:0320}{a:009a}'s...{g}{x:00}
+
+@76
+{z}It ended that way, but perhaps there was another way...{g}{x:00}
+
+@77
+{z}{s:0320}You had no choice then. Don't blame yourself...{g}{x:00}
+
+@78
+{z}{s:0320}Will {a:000b} come, I wonder? He does bear a grudge against us...{g}{x:00}
+
+@79
+{z}{s:0320}Who knows...{g}{x:00}
+
+@80
+{z}He says he's quitting brigandry, so even if he doesn't come, he'll find a new life.{g}{x:00}
+
+@81
+{z}{s:0320}...{g}{x:00}
+
+@82
+{z}That completes the mission.{g}{x:00}
+
+@83
+{z}{s:0320}Still, it was a rather dull fight. The reinforcements weren't that strong either...{g}{x:00}
+
+@84
+{z}{s:0320}I wish it were always this easy.{g}{x:00}
+
+@85
+{z}{s:0320}When will we see a world without brigands...{g}{x:00}
+
+@86
+{z}{s:0320}...{g}{x:00}
+
+@87
+{z}{s:0320}Well now... how long do you mean to stay like this?{g}{x:00}
+
+@88
+{z}I want to get back to town and have a drink.{g}{x:00}
+
+@89
+{z}Will you lend us your strength?{g}{x:00}
+
+@90
+{z}{s:0320}{a:009a}'s brother... He has lived for revenge...{g}{x:00}
+
+@91
+{z}Is there some way... we could talk?{g}{x:00}
+
+@92
+{z}{s:0320}I'll have to avoid his vitals and break his will to fight...{w} Can I?{g}{x:00}
+
+@93
+{z}{s:0320}For my brother! I'll have my revenge here!{g}{x:00}
+
+@94
+{z}{s:0320}Axe Express!{g}{x:00}
+
+@95
+{z}{s:0320}Spiral Axe!{g}{x:00}
+
+@96
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@97
+{z}{s:0320}Enough! Let's end this!{g}{x:00}
+
+@98
+{z}{s:0320}The time has come to avenge my brother at last...{w} Prepare yourself!{g}{x:00}
+
+@99
+{z}{s:0320}Damn... He's no opponent to go easy on...{g}{x:00}
+
+@100
+{z}{s:0320}!{w} Their banner...{g}{x:00}
+
+@101
+{z}It's the Tigre!{w} The Tigre Mercenaries!{g}{x:00}
+
+@102
+{z}Today I'll avenge him... avenge my brother...{g}{x:00}
+
+@103
+{z}Listen! I'll take down the enemy leader myself! With my own hands,{w} in a duel!{g}{x:00}
+
+@104
+{z}Shown mercy by my brother's killer... What am I supposed to do now?{g}{x:00}
+
+@105
+{z}I want you to fight alongside us!{g}{x:00}
+

@@ -1,0 +1,324 @@
+@0
+{z}{s:0320}Once we're past that forest, the fort we're heading for is right there.{g}{x:00}
+
+@1
+{z}{s:0320}We've struggled this far. We'll get there, no matter what.{g}{x:00}
+
+@2
+{z}{s:0320}...Yeah.{g}{x:00}
+
+@3
+{z}{s:0320}What's wrong? You seem down.{g}{x:00}
+
+@4
+{z}{s:0320}If... {w}{w}the enemy shows up, what will you do?{g}{x:00}
+
+@5
+{z}{s:0320}One answer: run. Life matters more than pride.{g}{x:00}
+
+@6
+{z}{s:0320}Thank goodness... I thought we had to fight.{g}{x:00}
+
+@7
+{z}{s:0320}You were worrying about that? You fool.{g}{x:00}
+
+@8
+{z}{s:0320}Oh! There! Isn't that it?{g}{x:00}
+
+@9
+{z}{s:0320}Looks like we've caught up. Time to get to work.{g}{x:00}
+
+@10
+{z}{s:0320}Hey, enemies! Mercenaries are after us!{g}{x:00}
+
+@11
+{z}{s:0320}Just as we were talking... {w}{w}Damn, run!{g}{x:00}
+
+@12
+{z}{s:0320}Where are they headed?{g}{x:00}
+
+@13
+{z}{s:0320}The western fort, maybe?{g}{x:00}
+
+@14
+{z}{s:0320}They'll wait at that fort for their pickup.{g}{x:00}
+
+@15
+{z}{s:0320}We must finish this before their main force arrives.{g}{x:00}
+
+@16
+{z}{s:0320}We're few in number. Take care not to be isolated.{g}{x:00}
+
+@17
+{z}{s:0320}If we stay together, they can't focus their attacks on us as easily.{g}{x:00}
+
+@18
+{z}{s:0320}We've run this far. Everyone, let's get back alive.{g}{x:00}
+
+@19
+{z}{s:0320}What on earth is that?{g}{x:00}
+
+@20
+{z}{s:0320}You're safe now. We'll get you out of here.{g}{x:00}
+
+@21
+{z}{s:0320}Tigre, is it... We can manage this.{g}{x:00}
+
+@22
+{z}{s:0320}Are they mercenaries our side hired?{g}{x:00}
+
+@23
+{z}{s:0320}They seem to have been told nothing. Well, in this situation...{g}{x:00}
+
+@24
+{z}{s:0320}Just run. We'll hold them off.{g}{x:00}
+
+@25
+{z}{s:0320}We're saved...{g}{x:00}
+
+@26
+{z}{s:0320}I knew they'd come...{g}{x:00}
+
+@27
+{z}{s:0320}Whatever battlefield you go to, you see mercenaries these days.{g}{x:00}
+
+@28
+{z}{s:0320}Such are the times.{g}{x:00}
+
+@29
+{z}{s:0320}At the heart of war... {w}{w}mercenaries...{g}{x:00}
+
+@30
+{z}{s:0320}Right, the enemy's waiting. Let's go.{g}{x:00}
+
+@31
+{z}{s:0320}Oh! Come to think of it...{g}{x:00}
+
+@32
+{z}{s:0320}Is that true?{g}{x:00}
+
+@33
+{z}{s:0320}We did it! We've reached the fort! Now we just wait here for the main force...{g}{x:00}
+
+@34
+{z}{s:0320}The main force will be here soon. Wait there.{g}{x:00}
+
+@35
+{z}{s:0320}If they reach that fort, there's nothing we can do.{g}{x:00}
+
+@36
+{z}If the enemy's main force turns up, we're in trouble. Let's withdraw.{g}{x:00}
+
+@37
+{z}{s:0320}They reached the fort...{g}{x:00}
+
+@38
+{z}Withdraw at once. Before the enemy's main force arrives...{g}{x:00}
+
+@39
+{z}{s:0320}They got to the fort... Damn it...{g}{x:00}
+
+@40
+{z}Let's get out of here quick. If we dawdle, the enemy's main force will arrive.{g}{x:00}
+
+@41
+{z}{s:0320}They reached the fort...{g}{x:00}
+
+@42
+{z}Let's withdraw... It'll be bad if the enemy's main force comes.{g}{x:00}
+
+@43
+{z}{s:0320}So they made it to the fort...{g}{x:00}
+
+@44
+{z}We withdraw at once. I've no wish to meet their main force now.{g}{x:00}
+
+@45
+{z}{s:0320}They reached the fort...{g}{x:00}
+
+@46
+{z}Let's withdraw... before the enemy's main force arrives...{g}{x:00}
+
+@47
+{z}{s:0320}They reached the fort... And just one company to go.{g}{x:00}
+
+@48
+{z}Let's get out of here fast. If we dawdle, the enemy's main force will come.{g}{x:00}
+
+@49
+{z}{s:0320}They got away... And just one company to go...{g}{x:00}
+
+@50
+{z}Withdraw at once. Otherwise the enemy's main force will arrive.{g}{x:00}
+
+@51
+{z}{s:0320}They got away... Damn it, just one company to go...{g}{x:00}
+
+@52
+{z}Let's get out of here quick. If we dawdle, the enemy's main force will arrive.{g}{x:00}
+
+@53
+{z}{s:0320}They reached the fort...{g}{x:00}
+
+@54
+{z}Let's withdraw... It'll be bad if the enemy's main force comes.{g}{x:00}
+
+@55
+{z}{s:0320}They got away... And just one company to go.{g}{x:00}
+
+@56
+{z}We withdraw at once. I've no wish to meet their main force now.{g}{x:00}
+
+@57
+{z}{s:0320}They reached the fort... With just one company to go...{g}{x:00}
+
+@58
+{z}{s:0320}No one got away...{g}{x:00}
+
+@59
+{z}{s:0320}Phew... it's over. We managed to complete the mission.{g}{x:00}
+
+@60
+{z}Right, time to withdraw. If we dawdle, the enemy's main force will come.{g}{x:00}
+
+@61
+{z}{s:0320}The retreating army is wiped out. The mission is done...{g}{x:00}
+
+@62
+{z}Come, let's withdraw. If we don't leave soon, there'll be trouble.{g}{x:00}
+
+@63
+{z}{s:0320}The retreating army has been wiped out... It's over.{g}{x:00}
+
+@64
+{z}Let's go home before the enemy's main force arrives.{g}{x:00}
+
+@65
+{z}{s:0320}All right! The retreating army is wiped out! We win!{g}{x:00}
+
+@66
+{z}We've no business here. Let's get home.{g}{x:00}
+
+@67
+{z}{s:0320}The retreating army is wiped out... We win, then.{g}{x:00}
+
+@68
+{z}Then let's go home, before the enemy's main force arrives.{g}{x:00}
+
+@69
+{z}{s:0320}Damn... to lose to the likes of these... I'm sorry.{g}{x:00}
+
+@70
+{z}{s:0320}Sorry... I'm retreating. I can't go on.{g}{x:00}
+
+@71
+{z}{s:0320}I can't believe I've been beaten... No...{g}{x:00}
+
+@72
+{z}{s:0320}I was no help... Sorry...{g}{x:00}
+
+@73
+{z}{s:0320}Past this forest, we should see the fort. Hurry!{g}{x:00}
+
+@74
+{z}{s:0320}...Almost there. I'll get away, no matter what.{g}{x:00}
+
+@75
+{z}{s:0320}Keep heading for the fort! Got it?{g}{x:00}
+
+@76
+{z}{s:0320}One last push... It's right there.{g}{x:00}
+
+@77
+{z}{s:0320}We can't go on like this...{g}{x:00}
+
+@78
+{z}{s:0320}They're already that far...{g}{x:00}
+
+@79
+{z}{s:0320}Hey, this is bad.{g}{x:00}
+
+@80
+{z}{s:0320}They've got that far... This is bad.{g}{x:00}
+
+@81
+{z}{s:0320}They've got that far...{g}{x:00}
+
+@82
+{z}{s:0320}{a:0000}... I'm withdrawing...{g}{x:00}
+
+@83
+{z}{s:0320}Damn it...{g}{x:00}
+
+@84
+{z}{s:0320}I'm sorry... I'll withdraw ahead of you.{g}{x:00}
+
+@85
+{z}{s:0320}I can't go on...{g}{x:00}
+
+@86
+{z}{s:0320}I leave the rest to you... {a:0000}...{g}{x:00}
+
+@87
+{z}{s:0320}Are you ready? {w}{w}Here I come!{g}{x:00}
+
+@88
+{z}{s:0320}Raaah! Here I come!{g}{x:00}
+
+@89
+{z}{s:0320}I can't lose here! Here I come!{g}{x:00}
+
+@90
+{z}{s:0320}Come on, then! Bring it!{g}{x:00}
+
+@91
+{z}{s:0320}Here I come!{g}{x:00}
+
+@92
+{z}{s:0320}Come on!{g}{x:00}
+
+@93
+{z}{s:0320}Prepare yourself!{g}{x:00}
+
+@94
+{z}{s:0320}Fool... attacking me, of all people.{g}{x:00}
+
+@95
+{z}{s:0320}Out of my way, you small fry!{g}{x:00}
+
+@96
+{z}{s:0320}I'll never lose to the likes of you! Never!{g}{x:00}
+
+@97
+{z}{s:0320}We've come this far... I'll get away, whatever it takes!{g}{x:00}
+
+@98
+{z}{s:0320}Damn... {w}{w}they caught up.{g}{x:00}
+
+@99
+{z}{s:0320}Move! Get out of my way!{g}{x:00}
+
+@100
+{z}{s:0320}We ran all this way, and yet...{g}{x:00}
+
+@101
+{z}{s:0320}One last push... {w}{w}We were so close...{g}{x:00}
+
+@102
+{z}{s:0320}So this was our fate after all...{g}{x:00}
+
+@103
+{z}{s:0320}The mercenary company is wiped out? What did they even come here for?{g}{x:00}
+
+@104
+{z}Damn it... useless wretches.{g}{x:00}
+
+@105
+{z}Retreat... Hurry, or the regular army will arrive.{g}{x:00}
+
+@106
+{z}Commander... please hurry...{g}{x:00}
+
+@107
+{z}The regular army of {p:01} is coming to meet the retreating army...{g}{x:00}
+

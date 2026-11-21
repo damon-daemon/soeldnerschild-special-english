@@ -1,0 +1,268 @@
+@0
+{z}{s:0320}Trouble! Trouble!{g}{x:00}
+
+@1
+{z}Enemies have appeared in the north-east! It looks like a mercenary company!{g}{x:00}
+
+@2
+{z}{s:0320}What? Mercenaries have shown up?{g}{x:00}
+
+@3
+{z}Boss! Trouble! Enemies in the north-east!{g}{x:00}
+
+@4
+{z}{s:0320}What? Knights?{g}{x:00}
+
+@5
+{z}{s:0320}No! They say it's a mercenary company!{g}{x:00}
+
+@6
+{z}{s:0320}Mercenaries... That's {p:01}'s doing.{g}{x:00}
+
+@7
+{z}Right, then. We'll show them how fearsome we are!{g}{x:00}
+
+@8
+{z}Charge! At them!{g}{x:00}
+
+@9
+{z}{s:0320}Yeah!{g}{x:00}
+
+@10
+{z}{s:0320}Is that their hideout across the river?{g}{x:00}
+
+@11
+{z}{s:0320}They're coming straight at us!{g}{x:00}
+
+@12
+{z}Have they noticed us and decided to charge?{g}{x:00}
+
+@13
+{z}{s:0320}Fighting rather than running. They've got nerve.{g}{x:00}
+
+@14
+{z}{s:0320}Our numbers are even, so take them one company at a time!{g}{x:00}
+
+@15
+{z}{s:0320}Which one shall we go for?{g}{x:00}
+
+@16
+{z}{s:0320}Hmm...{w}{w}...{w}{w}!{g}{x:00}
+
+@17
+{z}That old woman there! We can take her down fast!{g}{x:00}
+
+@18
+{z}{s:0320}Old woman? {w}{w}Do you mean me?{g}{x:00}
+
+@19
+{z}{s:0320}Ha ha ha! That's priceless!{g}{x:00}
+
+@20
+{z}{s:0320}H-how dare you! I'll crush the lot of you!{g}{x:00}
+
+@21
+{z}{s:0320}Hey, everyone, looks like an easy win today.{g}{x:00}
+
+@22
+{z}{s:0320}They took the hideout... Damn...{g}{x:00}
+
+@23
+{z}Enemy morale fell.{g}{x:00}
+
+@24
+{z}{s:0320}Damn... wiped out... I thought we could beat mercenaries...{g}{x:00}
+
+@25
+{z}{s:0320}We did it! That's the end of it!{g}{x:00}
+
+@26
+{z}{s:0320}The enemy is wiped out! Easy win!{g}{x:00}
+
+@27
+{z}{s:0320}Now this area won't be plundered any more.{g}{x:00}
+
+@28
+{z}Good work, everyone.{g}{x:00}
+
+@29
+{z}{s:0320}Phew... finally wiped them out. Mission complete.{g}{x:00}
+
+@30
+{z}{s:0320}...That's the end of it...{g}{x:00}
+
+@31
+{z}{s:0320}Me, beaten by mercenaries? Impossible...{g}{x:00}
+
+@32
+{z}{s:0320}The boss has fallen... It can't be...{g}{x:00}
+
+@33
+{z}We can't beat this lot without the boss... What do we do?{g}{x:00}
+
+@34
+{z}...{w}{w} I know! {w}{w}They're only mercenaries hired for coin. Tough in a fight, maybe, but they'll have a weakness for gold.{g}{x:00}
+
+@35
+{z}Hey! Are you the captain? Hear me out!{g}{x:00}
+
+@36
+{z}{s:0320}Don't take him seriously. It's bound to be a bad deal.{g}{x:00}
+
+@37
+{z}{s:0320}Probably nothing worth hearing, but let's listen for now.{g}{x:00}
+
+@38
+{z}{s:0320}What's this about? At a time like this...{g}{x:00}
+
+@39
+{z}{s:0320}The boss is dead, so they want to surrender!{g}{x:00}
+
+@40
+{z}{s:0320}Begging for their lives, I'd wager. How obvious...{g}{x:00}
+
+@41
+{z}{s:0320}We can see how strong you are. We can't win against you.{g}{x:00}
+
+@42
+{z}But raising a white flag won't win us mercy. {w}{w}...So here's the deal...{g}{x:00}
+
+@43
+{z}...We'll pay you as much as this job pays. Let us go.{g}{x:00}
+
+@44
+{z}{s:0320}If you think we can be bought, you're sorely mistaken!{g}{x:00}
+
+@45
+{z}{s:0320}What a thing to say! Don't insult us!{g}{x:00}
+
+@46
+{z}{s:0320}If you think we can be bought, you're dead wrong!{g}{x:00}
+
+@47
+{z}{s:0320}Captain, turn them down at once.{g}{x:00}
+
+@48
+{z}{s:0320}So that's his game, just as I thought...{g}{x:00}
+
+@49
+{z}{s:0320}Well? It's not a bad offer.{g}{x:00}
+
+@50
+{z}{s:0320}Really? I knew you'd see reason, Captain.{g}{x:00}
+
+@51
+{z}Then here's the money we promised. Here!{g}{x:00}
+
+@52
+{z}You received 2500 G.{g}{x:00}
+
+@53
+{z}{s:0320}If {p:01} comes to put us down again,{g}{x:00}
+
+@54
+{z}you take the job. We'll have a big sum ready next time!{g}{x:00}
+
+@55
+{z}{s:0320}This will just happen all over again...{g}{x:00}
+
+@56
+{z}{s:0320}We do need the money, but...{g}{x:00}
+
+@57
+{z}{s:0320}This doesn't sit right with me.{g}{x:00}
+
+@58
+{z}{f}{l:00e7}{c:06}§ {a:0001} §{n}
+{c:07}{a:0000}... Why...{g}{x:00}
+
+@59
+{z}{s:0320}...{g}{x:00}
+
+@60
+{z}{s:0320}You're mercenaries hired for coin, aren't you? What, have you got a grudge against us?{g}{x:00}
+
+@61
+{z}Then I've nothing to lose! Let's go!{g}{x:00}
+
+@62
+{z}{s:0320}Naturally. Don't make a fool of us!{g}{x:00}
+
+@63
+{z}{s:0320}Right. Taking money here would be the end of us.{g}{x:00}
+
+@64
+{z}{s:0320}Of course! As if we'd take that money!{g}{x:00}
+
+@65
+{z}{s:0320}It was pointless to even listen.{g}{x:00}
+
+@66
+{z}{s:0320}Naturally. We'll not take such dirty money.{g}{x:00}
+
+@67
+{z}{s:0320}Damn... {w}{w}I knew we couldn't win... Mercenaries who can't be bought... {w}{w}I never thought...{g}{x:00}
+
+@68
+{z}{s:0320}The enemy is wiped out! Mission complete!{g}{x:00}
+
+@69
+{z}{s:0320}We won...{g}{x:00}
+
+@70
+{z}We don't fight for the money... {w}{w}It hurts to be talked to like that.{g}{x:00}
+
+@71
+{z}{s:0320}Well, it's over. Good work, everyone.{g}{x:00}
+
+@72
+{z}{s:0320}Phew... finally over. Trying to fob us off with money...{g}{x:00}
+
+@73
+{z}{s:0320}The enemy is wiped out... Now this area will be at peace.{g}{x:00}
+
+@74
+{z}{s:0320}{a:0000}... I think I'm done for...{g}{x:00}
+
+@75
+{z}{s:0320}Damn... losing to bandits...{g}{x:00}
+
+@76
+{z}{s:0320}What brutes... You'll pay for this...{g}{x:00}
+
+@77
+{z}{s:0320}Next target is the captain! Go for the captain!{g}{x:00}
+
+@78
+{z}{s:0320}How far I've fallen... beaten by bandits...{g}{x:00}
+
+@79
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@80
+{z}{s:0320}Right! We'll finish you lot first!{g}{x:00}
+
+@81
+{z}{s:0320}You'll regret underestimating me!{g}{x:00}
+
+@82
+{z}{s:0320}You think I'm weak? That's a mistake!{g}{x:00}
+
+@83
+{z}{s:0320}I won't lose! Come and get me!{g}{x:00}
+
+@84
+{z}{s:0320}Hah! At them!{g}{x:00}
+
+@85
+{z}{s:0320}Come on, then! I'll show you my strength!{g}{x:00}
+
+@86
+{z}{s:0320}Right! Let's go!{g}{x:00}
+
+@87
+{z}Sending mercenaries instead of knights? They must think little of us.{g}{x:00}
+
+@88
+{z}Looks like we underestimated them...{g}{x:00}
+

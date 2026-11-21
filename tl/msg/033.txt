@@ -1,0 +1,300 @@
+@0
+{z}{s:0320}Damn! Mercenaries!{g}{x:00}
+
+@1
+{z}{s:0320}Have they come to wipe us out?{g}{x:00}
+
+@2
+{z}{s:0320}What other reason would they have?{g}{x:00}
+
+@3
+{z}{s:0320}Let's run! They'll kill us!{g}{x:00}
+
+@4
+{z}{s:0320}Hmm...{w}{w} I don't know if we can get away...{g}{x:00}
+
+@5
+{z}{s:0320}They're trying to flee! Chase them! Hurry!{g}{x:00}
+
+@6
+{z}{s:0320}We won't let them get away!{g}{x:00}
+
+@7
+{z}{s:0320}Why can't we let them go? Then we wouldn't have to fight.{g}{x:00}
+
+@8
+{z}{s:0320}No, it's not that simple.{g}{x:00}
+
+@9
+{z}{s:0320}Why?{g}{x:00}
+
+@10
+{z}{s:0320}They'll only move their base. They won't stop being outlaws.{g}{x:00}
+
+@11
+{z}They'll just do the same evil all over again somewhere new.{g}{x:00}
+
+@12
+{z}{s:0320}No...{g}{x:00}
+
+@13
+{z}{s:0320}What? And you lot?{g}{x:00}
+
+@14
+{z}{s:0320}We'll form a wall and hold them off.{g}{x:00}
+
+@15
+{z}{s:0320}If the boss falls, we can't carry on as brigands by ourselves.{g}{x:00}
+
+@16
+{z}{s:0320}You lot...{g}{x:00}
+
+@17
+{z}So we want the boss to get away, whatever it takes.{g}{x:00}
+
+@18
+{z}{s:0320}Hah... They mean to save only their leader.{g}{x:00}
+
+@19
+{z}{s:0320}Then we only need to take down their leader.{g}{x:00}
+
+@20
+{z}{s:0320}But with that lot in the way, we can't advance.{g}{x:00}
+
+@21
+{z}If we cross that western bridge and go along the mountains, we can head him off.{g}{x:00}
+
+@22
+{z}Victory condition added: "Defeat the enemy leader". Defeat condition added: "The enemy leader escapes to the north-east".{g}{x:00}
+
+@23
+{z}{s:0320}Look! They mean to cut us off!{g}{x:00}
+
+@24
+{z}Defeat condition changed to "The enemy leader escapes to the north".{g}{x:00}
+
+@25
+{z}{s:0320}I couldn't hold them...{g}{x:00}
+
+@26
+{z}{s:0320}What? There are enemies there too?{g}{x:00}
+
+@27
+{z}They split up, did they...?{w}{w} Not bad.{g}{x:00}
+
+@28
+{z}But they're risking their lives to get me away. I can't be caught here, for their sake.{g}{x:00}
+
+@29
+{z}{s:0320}Once we're this far, we're home free. That went well.{g}{x:00}
+
+@30
+{z}Hey, mercenaries! Bad luck! See you again somewhere!{g}{x:00}
+
+@31
+{z}Next time we meet, you'll be chasing me again, and I'll give you the slip again!{g}{x:00}
+
+@32
+{z}{s:0320}He got away...{g}{x:00}
+
+@33
+{z}{s:0320}He got away...{g}{x:00}
+
+@34
+{z}{s:0320}He got away, then...{g}{x:00}
+
+@35
+{z}{s:0320}He got away, then...{g}{x:00}
+
+@36
+{z}{s:0320}He got away...{g}{x:00}
+
+@37
+{z}{s:0320}I couldn't escape... Forgive me, everyone...{g}{x:00}
+
+@38
+{z}{s:0320}Why do they do it...? They should just stop being brigands.{g}{x:00}
+
+@39
+{z}{s:0320}Do they really want to be brigands that badly? I don't get them.{g}{x:00}
+
+@40
+{z}{s:0320}Why cling to the brigand's life...? I can't understand it.{g}{x:00}
+
+@41
+{z}{s:0320}Do they want to be brigands that much? I haven't a clue...{g}{x:00}
+
+@42
+{z}{s:0320}To cling so to the outlaw's life... I don't understand it.{g}{x:00}
+
+@43
+{z}{s:0320}Damn... wiped out... The band is finished...{g}{x:00}
+
+@44
+{z}{s:0320}At last it's over. We won.{g}{x:00}
+
+@45
+{z}{s:0320}It's finally settled. Good work, everyone.{g}{x:00}
+
+@46
+{z}{s:0320}Ah... it's over, it's over. The job's done.{g}{x:00}
+
+@47
+{z}{s:0320}...So it's over. We seem to have won, somehow.{g}{x:00}
+
+@48
+{z}{s:0320}Now this area will be peaceful again.{g}{x:00}
+
+@49
+{z}{s:0320}This time it's over!{x:00}
+
+@50
+{z}{s:0320}This time it's really over. What a tough mission.{g}{x:00}
+
+@51
+{z}{s:0320}Phew... this time it's over. I thought taking the leader would settle it...{g}{x:00}
+
+@52
+{z}{s:0320}The enemy is wiped out... Now this area will be at peace.{g}{x:00}
+
+@53
+{z}{s:0320}Out of my way, all of you! I'm getting out of here!{g}{x:00}
+
+@54
+{z}{s:0320}I'll win if it kills me! Come on!{g}{x:00}
+
+@55
+{z}{s:0320}Your wicked deeds end today! Prepare yourselves!{g}{x:00}
+
+@56
+{z}{s:0320}Come on, then. I'll take on as many as you like.{g}{x:00}
+
+@57
+{z}{s:0320}{a:0000}... Sorry... I wasn't much use...{g}{x:00}
+
+@58
+{z}{s:0320}Damn... losing to outlaws... Curse it...{g}{x:00}
+
+@59
+{z}{s:0320}Losing to outlaws... What humiliation.{g}{x:00}
+
+@60
+{z}{s:0320}Damn... we have to retreat... Sorry...{g}{x:00}
+
+@61
+{z}{s:0320}I was no use... forgive me.{g}{x:00}
+
+@62
+{z}{s:0320}...Understood. I'll get away if it kills me.{g}{x:00}
+
+@63
+{z}{s:0320}You're not getting past here!{g}{x:00}
+
+@64
+{z}{s:0320}Get the boss away! We hold this pass to the death!{g}{x:00}
+
+@65
+{z}{s:0320}You'll have to cut us down first.{g}{x:00}
+
+@66
+{z}{s:0320}We can't let you through here!{g}{x:00}
+
+@67
+{z}{s:0320}Think you can break through our wall?{g}{x:00}
+
+@68
+{z}{s:0320}You go no further!{g}{x:00}
+
+@69
+{z}{s:0320}The enemy is wiped out! Outlaws dealt with!{g}{x:00}
+
+@70
+{z}{s:0320}Hey! What are you doing? Let's go, quick!{g}{x:00}
+
+@71
+{z}{s:0320}Of course, if we can avoid a fight, so much the better.{g}{x:00}
+
+@72
+{z}{s:0320}...Yes.{g}{x:00}
+
+@73
+{z}{s:0320}Boss! Get away first!{g}{x:00}
+
+@74
+{z}{s:0320}Right, I'll send a few companies over there.{g}{x:00}
+
+@75
+{z}The victory condition has changed.{g}{x:00}
+
+@76
+{z}{s:0320}The holding force is wiped out...{w}{w} I won't let what you did go to waste.{g}{x:00}
+
+@77
+{z}{s:0320}The boss...{w}{w} The boss has fallen...{g}{x:00}
+
+@78
+{z}What are we to do now...?{g}{x:00}
+
+@79
+{z}Quit being brigands? You might as well tell us to die.{g}{x:00}
+
+@80
+{z}If it's come to this, we fight to the end!{g}{x:00}
+
+@81
+{z}The victory condition has changed.{g}{x:00}
+
+@82
+{z}{s:0320}So this is the end... Forgive me, everyone...{g}{x:00}
+
+@83
+{z}Blessed with good comrades...{w}{w} I was happy...{g}{x:00}
+
+@84
+{z}{s:0320}Yes! We've beaten their leader!{g}{x:00}
+
+@85
+{z}{s:0320}All right! The leader's down!{g}{x:00}
+
+@86
+{z}{s:0320}We defeated their leader!{g}{x:00}
+
+@87
+{z}{s:0320}So that's the end of their leader.{w}{w} Phew...{g}{x:00}
+
+@88
+{z}{s:0320}The leader is down.{g}{x:00}
+
+@89
+{z}{s:0320}We've defeated the leader!{g}{x:00}
+
+@90
+{z}We'll give it our best shot!{w}{w} Right! Run for it!{g}{x:00}
+
+@91
+{z}But sometimes that settles things, and sometimes it doesn't. You understand.{g}{x:00}
+
+@92
+{z}After them!{g}{x:00}
+
+@93
+{z}On my pride as a brigand, I'll avenge the boss!{g}{x:00}
+
+@94
+{z}A brigand's pride, eh... That's no reason to throw your life away.{g}{x:00}
+
+@95
+{z}{s:0320}Can we catch up...?{g}{x:00}
+
+@96
+{z}{s:0320}At times like this, a company with high mobility would help...{g}{x:00}
+
+@97
+{z}{s:0320}A company with high mobility?{g}{x:00}
+
+@98
+{z}{s:0320}A company made up only of cavalry has much higher mobility.{g}{x:00}
+
+@99
+{z}Well, it's too late to say so now.{g}{x:00}
+

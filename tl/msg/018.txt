@@ -1,0 +1,1401 @@
+@0
+{z}{f}{l:0000}{s:0000}Hm, the gate is shut. Has {p:00} fallen?{g}{x:00}
+
+@4
+{z}{f}{l:0000}{s:0000}Hm, the door is shut. I can't get in, so I'll come back later.{g}{x:00}
+
+@5
+{z}{f}{l:0000}{s:0000}Hm, the gate is shut. If I can't get in, I'll try again later...{g}{x:00}
+
+@6
+{z}{f}{l:0000}{s:0000}Hm, the entrance is shut. Is there no match today?{g}{x:00}
+
+@7
+{z}{f}{l:0000}{s:0000}Hm, a signboard. It says "No Entry".{g}{x:00}
+
+@8
+{z}{f}{l:0000}{s:0000}The door is shut. Nobody seems to be home.{g}{x:00}
+
+@9
+{z}No platoon leaders are waiting.{g}{x:00}
+
+@10
+{z}Platoon leader removed.{g}{x:00}
+
+@11
+{z}Each platoon due to sortie has been replenished with mercenaries!{g}{x:00}
+
+@12
+{z}There are no reserves of this unit type.{g}{x:00}
+
+@13
+{z}{f}{l:0023}{s:0023}Let us begin the strategy meeting. Check the battlefield on the map.{g}{x:00}
+
+@14
+{z}{f}{l:0023}{s:0023}Let us begin the strategy meeting. This time we put out to sea by ship.{g}{x:00}
+
+@15
+{z}{f}{l:0023}{s:0023}Let us begin the strategy meeting. This time the battlefield is a desert.{g}{x:00}
+
+@16
+{z}You have not learned any special moves.{g}{x:00}
+
+@17
+{z}Not enough mercenaries. Some platoons will not be replenished.{g}{x:00}
+
+@18
+{z}{f}{l:0003}{s:0003}{a:0000}! At last, your first battle as a mercenary captain.{g}{j:0013}{x:00}
+
+@19
+{z}But there are things to do before we go into battle.{g}{j:0014}{x:00}
+
+@20
+{z}First, {c:05}Companies{c:07}. You assign platoon leaders under each company captain. Only the platoon leaders you assign can sortie.{g}{j:0015}{x:00}
+
+@21
+{z}Next, {c:05}Replenish{c:07}. You fill up each platoon with mercenaries.{g}{j:0016}{x:00}
+
+@22
+{z}If you choose {c:05}Auto{c:07}, only the platoons due to sortie will be replenished.{g}{j:0017}{x:00}
+
+@23
+{z}If you want to change the {c:05}Formation{c:07}, do it after setting up the companies.{g}{j:0018}{x:00}
+
+@24
+{z}Shall I explain again?{x:00}
+
+@25
+{z}It is no exaggeration to say that formation decides half of the battle. Think it over carefully.{g}{x:00}
+
+@26
+{z}{f}{l:0023}Orhan and Luisa, as company captains, will each have two platoon leaders under them.{g}{j:001b}{x:00}
+
+@27
+{z}Anastasia will be assigned under {a:0000}. See the organisation chart for details.{g}{x:00}
+
+@28
+{z}{f}{l:0023}The formation of each company is decided as follows.{g}{x:00}
+
+@29
+{z}{f}{l:0023}This time Ryuk will be company captain, and the formation changes as follows.{g}{x:00}
+
+@30
+{z}{f}{l:0023}I have assigned 25 mercenaries to each platoon. All three of you, live up to your duty as company captains.{g}{x:00}
+
+@31
+{z}{f}{l:0023}As usual, I have replenished the mercenaries. But this time the aim is persuasion. Do not start fighting on your own.{g}{x:00}
+
+@32
+{z}{f}{l:0023}Without Orhan, our strength is down. Everyone, stay alert!{g}{x:00}
+
+@33
+{z}Is everyone ready?{x:00}
+
+@39
+{z}{f}{l:0023}{s:0023}Listen, everyone.{g}{j:0028}{x:00}
+
+@40
+{z}I met a promising commander at the tavern. His name is {a:0022}. His commander class is Bow Commander.{g}{j:0029}{x:00}
+
+@41
+{z}He will serve as a platoon leader. I'll entrust him to {a:0000}'s company. Let him show what he can do.{g}{j:002a}{x:00}
+
+@42
+{z}{f}{l:0001}{s:0001}Now our company has all three platoons. That's reassuring!{g}{x:00}
+
+@43
+{z}Some platoons are not assigned to a company. Change the formation again?{x:00}
+
+@44
+{z}Some sortie platoons have few mercenaries. Change the formation again?{x:00}
+
+@45
+{z}Set out on the job. Is that all right?{x:00}
+
+@49
+{z}{f}{l:0023}{s:0023}What a dangerous age.{g}{z}There is no city without work for mercenaries.{g}{j:0032}{x:00}
+
+@50
+{z}Now, this month we head for Weiden in Rana territory.{g}{z}The Rana emperor is in fierce conflict with the Pope of the Wigg Church.{g}{j:0033}{x:00}
+
+@51
+{z}For now, in terms of strength, it is one of the nations most likely to unify the continent.{g}{x:00}
+
+@54
+{z}{f}{l:0023}{s:0023}This month we head for Ansbach in Saxen territory.{g}{z}Saxen is a country founded by King {a:00a1} when he declared independence 12 years ago.{g}{j:0037}{x:00}
+
+@55
+{z}{a:00a1}'s declaration split the old Kingdom of Ragail and plunged the continent into war.{g}{x:00}
+
+@56
+{z}{f}{l:0023}{s:0023}This month we head for Marsala in Estania territory.{g}{z}Estania, founded by neutral nobles who wished for peace, is a republic.{g}{j:0039}{x:00}
+
+@57
+{z}Even so, it seems it cannot escape the tide of war.{g}{x:00}
+
+@58
+{z}{f}{l:0003}{s:0003}{a:0000}! From this month on, you choose our destination.{g}{z}Choose the nation you wish to serve.{g}{j:003b}{x:00}
+
+@59
+{z}First, check which nation rules each city. Once you enter a city, you cannot move to another until next month.{g}{x:00}
+
+@98
+{z}{f}{l:0023}{s:0023}{a:0000}, you are going to the training ground and the church, aren't you?{g}{z}Make sure you learn your special moves and spells properly.{j:0063}{x:00}
+
+@99
+ You'll be the one to suffer in battle!{g}{j:0064}{x:00}
+
+@100
+{z}{f}{l:0023}Gather at the inn once you are ready for battle. Make your own preparations. Dismissed!{g}{x:00}
+
+@101
+{z}{f}{l:0023}{s:0023}{a:0000}, you have done well since joining my men.{g}{z}As a special reward, I'll buy you a drink at the tavern.{j:0066}{x:00}
+
+@102
+ Come to the tavern later. But see to your equipment first.{g}{z}{f}{l:0000}{s:0000}Understood.{g}{x:00}
+
+@103
+{z}{f}{l:0025}{s:0025}Hey, is that you, {a:0023}?{g}{j:0068}{x:00}
+
+@104
+{z}{f}{l:0023}{s:0023}{a:0025}! It's been a long time!{g}{j:0069}{x:00}
+
+@105
+{z}{f}{l:0025}Fancy running into you in town. How about a drink?{g}{j:006a}{x:00}
+
+@106
+{z}{f}{l:0023}Why not...{w} Just a short one.{g}{z}{a:0000}, you come to the tavern too. See to your equipment first.{g}{z}{f}{l:0000}{s:0000}Understood.{g}{x:00}
+
+@110
+{z}{f}{l:0003}{s:0003}{a:0000}, go to the Guild when you want to pick a job.{g}{z}And the Tigre Mercenaries{j:006f}{x:00}
+
+@111
+ are short of commanders.{g}{z}Capable commanders often gather at the tavern. You should hire them.{g}{x:00}
+
+@120
+{z}{f}{l:0003}{s:0003}If I remember rightly, Rana invited us to Plauen Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@121
+{z}{f}{l:0003}{s:0003}If I remember rightly, Saxen invited us to Freiheit Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@122
+{z}{f}{l:0003}{s:0003}If I remember rightly, Grandcour invited us to Orthodox Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@123
+{z}{f}{l:0003}{s:0003}If I remember rightly, Estania invited us to Marsala Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@124
+{z}{f}{l:0003}{s:0003}If I remember rightly, Mylard invited us to Hoick Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@125
+{z}{f}{l:0003}{s:0003}If I remember rightly, Fenrir invited us to Tornio Castle.{g}{z}Shouldn't we go straight there?{g}{x:00}
+
+@130
+{z}Victory for {p:00}! {p:01}'s {p:02} now belongs to {p:00}.{g}{x:00}
+
+@131
+{z}{p:01} has fallen.{g}{x:00}
+
+@132
+{z}Victory for {p:01}! {p:02} has been held.{g}{x:00}
+
+@133
+{z}The {p:00} and {p:01} armies clash at {p:01}'s {p:02}!{g}{x:00}
+
+@134
+{z}The {p:00} and {p:01} armies clash at {p:01}'s {p:02}!{g}{x:00}
+
+@135
+{z}Victory for {p:00}! {p:01}'s {p:02} now belongs to {p:00}.{g}{x:00}
+
+@136
+{z}{p:01} has fallen.{g}{x:00}
+
+@137
+{z}Victory for {p:01}! {p:02} has been held.{g}{x:00}
+
+@138
+{z}The {p:00} and {p:01} armies clash at {p:01}'s {p:02}!{g}{x:00}
+
+@139
+{z}Victory for {p:00}! {p:01}'s {p:02} now belongs to {p:00}.{g}{x:00}
+
+@140
+{z}Victory for {p:01}! {p:02} has been held.{g}{x:00}
+
+@141
+{z}{s:0320}Show them the might of the Holy Emperor's Lightning Knights!{g}{x:00}
+
+@142
+{z}{s:0320}Take this castle for our Emperor!{g}{x:00}
+
+@143
+{z}{s:0320}Go for the enemy commander's head alone! Ignore the rabble.{g}{x:00}
+
+@144
+{z}{s:0320}All-out attack! Crush them in one blow!{g}{x:00}
+
+@145
+{z}{s:0320}Scatter the enemy! Victory is at hand!{g}{x:00}
+
+@146
+{z}{s:0320}Charge! I'll cut down anyone who turns his back on the enemy.{g}{x:00}
+
+@147
+{z}{s:0320}Heh, bad luck. You picked a fight with the Twin-Headed Dragon Knights!{g}{x:00}
+
+@148
+{z}{s:0320}Advance! Advance! Spur your horses!{g}{x:00}
+
+@149
+{z}{s:0320}{a:0066} has arrived! In the name of justice, I shall cut you down.{g}{x:00}
+
+@150
+{z}{s:0320}Seize the castle as quickly as you can!{g}{x:00}
+
+@151
+{z}{s:0320}The enemy castle is about to fall. Give it your last ounce of strength!{g}{x:00}
+
+@152
+{z}{s:0320}Cut them down, and keep cutting! Slay their commander and name your reward!{g}{x:00}
+
+@153
+{z}{s:0320}Can you withstand the fierce assault of the Sun Knights?{g}{x:00}
+
+@154
+{z}{s:0320}I am {a:006e}! I show no mercy to those who defy me!{g}{x:00}
+
+@155
+{z}{s:0320}This battle is ours! Launch the all-out attack!{g}{x:00}
+
+@156
+{z}{s:0320}Our only target is the enemy castle. Look at nothing else!{g}{x:00}
+
+@157
+{z}{s:0320}We'll take {p:01} Castle! Lend me your strength, all of you!{g}{x:00}
+
+@158
+{z}{s:0320}The enemy fears us! This fight is ours!{g}{x:00}
+
+@159
+{z}{s:0320}The Purple Cloud Knights have arrived! We shall show them!{g}{x:00}
+
+@160
+{z}{s:0320}Attack in waves! Give the enemy no time to rest!{g}{x:00}
+
+@161
+{z}{s:0320}Begin the attack! A reward for the first man inside!{g}{x:00}
+
+@162
+{z}{s:0320}We'll take a castle like this in no time! Charge!{g}{x:00}
+
+@163
+{z}{s:0320}Bring me the enemy commander's head! Name your reward!{g}{x:00}
+
+@164
+{z}{s:0320}Follow me! We shall bring down {p:01} Castle!{g}{x:00}
+
+@165
+{z}{s:0320}Unlucky for you! Behold the might of the invincible White Whale Knights!{g}{x:00}
+
+@166
+{z}{s:0320}Brave warriors of Mylard, show them your invincible strength!{g}{x:00}
+
+@167
+{z}{s:0320}Take the castle before enemy reinforcements arrive! Charge!{g}{x:00}
+
+@168
+{z}{s:0320}Charge! Don't think of going home until the castle falls!{g}{x:00}
+
+@169
+{z}{s:0320}Begin the attack! Target, {p:01} Castle!{g}{x:00}
+
+@170
+{z}{s:0320}Set it ablaze! Reduce the castle to ashes!{g}{x:00}
+
+@171
+{z}{s:0320}Slaughter all who defy us! Let the world know the name of the Rime Knights!{g}{x:00}
+
+@172
+{z}{s:0320}Target, {p:01} Castle! The whole army, attack as one!{g}{x:00}
+
+@173
+{z}{s:0320}The enemy castle looks poorly defended. We charge!{g}{x:00}
+
+@174
+{z}{s:0320}Follow me! Raaaaaaagh!{g}{x:00}
+
+@175
+{z}{s:0320}First wave, charge! Have the second wave ready.{g}{x:00}
+
+@176
+{z}{s:0320}The goddess of victory is with us!{g}{x:00}
+
+@177
+{z}{s:0320}Do not lay a hand on the citizens! Anyone who disobeys, I will cut down myself.{g}{x:00}
+
+@178
+{z}{s:0320}Attack only their main force! Shed no needless blood!{g}{x:00}
+
+@179
+{z}{s:0320}Our only mission is to take the castle! Looting is strictly forbidden!{g}{x:00}
+
+@180
+{z}{s:0320}Let's go, lads! Take the castle and loot all you like!{g}{x:00}
+
+@181
+{z}{s:0320}Burn it all, kill them all! Leave not a blade of grass!{g}{x:00}
+
+@182
+{z}{s:0320}My sword, drink your fill of blood again today.{g}{x:00}
+
+@183
+{z}{s:0320}Ho ho ho, finish them off!{g}{x:00}
+
+@184
+{z}{s:0320}Underestimate me because I'm a woman and you'll get burned!{g}{x:00}
+
+@185
+{z}{s:0320}Heh, this might actually be some fun.{g}{x:00}
+
+@186
+{z}{s:0320}My mercenaries, make blood-red roses bloom in the castle!{g}{x:00}
+
+@187
+{z}{s:0320}Go, my elite! Fight beautifully, kill beautifully!{g}{x:00}
+
+@188
+{z}{s:0320}No scheme can stand against my beauty! Now, die.{g}{x:00}
+
+@189
+{z}{s:0320}You dare hinder our advance? Laughable! Repent in the next world.{g}{x:00}
+
+@190
+{z}{s:0320}Feel the force of my magic. Inferno!{g}{x:00}
+
+@191
+{z}{s:0320}Fall into the demon realm, and suffer for eternity!{g}{x:00}
+
+@192
+{z}{s:0320}Attack, attack! Give those inside no rest!{g}{x:00}
+
+@193
+{z}{s:0320}Forward, only forward! Gooooo!{g}{x:00}
+
+@194
+{z}{s:0320}Concentrate on the enemy front! Raiders, strike from the flank!{g}{x:00}
+
+@195
+{z}{s:0320}Lads, let's raise some hell again today!{g}{x:00}
+
+@196
+{z}{s:0320}All riders, charge! Out of the way, damn you!{g}{x:00}
+
+@197
+{z}{s:0320}Cut down even those who surrender! Kill them all!{g}{x:00}
+
+@198
+{z}{p:00} has fallen.{g}{x:00}
+
+@199
+{z}{s:0320}Outlaws who defile the holy land! Taste the blade of justice!{g}{x:00}
+
+@200
+{z}{s:0320}This is a holy war! Defeat will not be tolerated.{g}{x:00}
+
+@201
+{z}{s:0320}You who raise your blades against our Emperor, repent and die!{g}{x:00}
+
+@202
+{z}{s:0320}Sieg Kaiser!{g}{x:00}
+
+@203
+{z}{s:0320}So that's their commander... I hope he proves some amusement.{g}{x:00}
+
+@204
+{z}{s:0320}Filthy rebel army! You shall not touch the holy ground!{g}{x:00}
+
+@205
+{z}{s:0320}Do not let the enemy come one step closer to the castle!{g}{x:00}
+
+@206
+{z}{s:0320}Reinforcements are sure to arrive soon. Hold out until then!{g}{x:00}
+
+@207
+{z}{s:0320}However large their army, they are only rabble! We'll drive them back!{g}{x:00}
+
+@208
+{z}{s:0320}Not yet, hold! Let them come close, then we counterattack!{g}{x:00}
+
+@209
+{z}{s:0320}We will not let it fall! We will not let this castle fall!{g}{x:00}
+
+@210
+{z}{s:0320}Throwing their lives away... Foolish wretches.{g}{x:00}
+
+@211
+{z}{s:0320}They can never take this impregnable castle.{g}{x:00}
+
+@212
+{z}{s:0320}They are no great foe. We sally forth!{g}{x:00}
+
+@213
+{z}{s:0320}This castle was entrusted to me by His Majesty. I cannot betray his trust.{g}{x:00}
+
+@214
+{z}{s:0320}Too slow! When will our allies arrive?{g}{x:00}
+
+@215
+{z}{s:0320}Kill them! Slay everyone who approaches this castle!{g}{x:00}
+
+@216
+{z}{s:0320}Another fool has come! All of you, win some glory!{g}{x:00}
+
+@217
+{z}{s:0320}Hold out somehow until the reinforcements arrive.{g}{x:00}
+
+@218
+{z}{s:0320}Is there no one with some real fight in him?{g}{x:00}
+
+@219
+{z}{s:0320}Every company, defend with your lives! We cannot give up this castle!{g}{x:00}
+
+@220
+{z}{s:0320}I won't give this castle to the likes of you! My blade will drink your blood.{g}{x:00}
+
+@221
+{z}{s:0320}Sadly, we cannot expect reinforcements. But we must hold out at all costs.{g}{x:00}
+
+@222
+{z}{s:0320}Hold this place to the death! Or your homeland will be burned to the ground.{g}{x:00}
+
+@223
+{z}{s:0320}Do not falter! As long as I am here, we cannot lose.{g}{x:00}
+
+@224
+{z}{s:0320}We hold here at all costs! Entrust your lives to me!{g}{x:00}
+
+@225
+{z}{s:0320}Before my invincible army and this sturdy castle, there is no defeat!{g}{x:00}
+
+@226
+{z}{s:0320}Send a messenger to request reinforcements! We cannot give up the castle!{g}{x:00}
+
+@227
+{z}{s:0320}If we hold here, a way will open. Trust me!{g}{x:00}
+
+@228
+{z}{s:0320}Counterattack! Open the gates!{g}{x:00}
+
+@229
+{z}{s:0320}Are they all cowards? What's wrong? Come at me!{g}{x:00}
+
+@230
+{z}{s:0320}A mob like you could never take this castle!{g}{x:00}
+
+@231
+{z}{s:0320}Feel the might of Fenrir's elite!{g}{x:00}
+
+@232
+{z}{s:0320}The front defence is thin! What are you doing?{g}{x:00}
+
+@233
+{z}{s:0320}In God's name, I shall destroy you!{g}{x:00}
+
+@234
+{z}{s:0320}Counterattack! God, give us courage!{g}{x:00}
+
+@235
+{z}{s:0320}Strengthen the defence! Do not fall for the enemy's taunts!{g}{x:00}
+
+@236
+{z}{s:0320}We meet them head on! Protect the citizens even at the cost of your lives!{g}{x:00}
+
+@237
+{z}{s:0320}Strike only those who attack! Do not pursue too far!{g}{x:00}
+
+@238
+{z}{s:0320}Kill them! Kill them! Let none escape!{g}{x:00}
+
+@239
+{z}{s:0320}Gyahahaha! Blood! Make it rain blood!{g}{x:00}
+
+@240
+{z}{s:0320}Hyahaha! Blood, blood, I can't get enough!{g}{x:00}
+
+@241
+{z}{s:0320}My, my, how spirited! Let's see what you can do.{g}{x:00}
+
+@242
+{z}{s:0320}So you want to be hurt that badly? Well then, I'll give you some special attention.{g}{x:00}
+
+@243
+{z}{s:0320}Do you want a taste of how fearsome a woman can be? Very well, then...{g}{x:00}
+
+@244
+{z}{s:0320}Hehehe... Kneel before my beauty.{g}{x:00}
+
+@245
+{z}{s:0320}Heh, I'll dye you red, like this beautiful rose...{g}{x:00}
+
+@246
+{z}{s:0320}I, Leonardo, the most handsome man on the continent, shall show you my artistic tactics.{g}{x:00}
+
+@247
+{z}{s:0320}Heh, how foolish... I'll slaughter you all.{g}{x:00}
+
+@248
+{z}{s:0320}Become a stepping stone on my road to conquest.{g}{x:00}
+
+@249
+{z}{s:0320}You do not flee at the sight of the Funeral Mercenaries? Then amuse me.{g}{x:00}
+
+@251
+{z}{s:0320}They're swarming out! Send the lot of them to the next world!{g}{x:00}
+
+@252
+{z}{s:0320}Go to hell!{g}{x:00}
+
+@253
+{z}{s:0320}Not a chance! We'll drive you back!{g}{x:00}
+
+@254
+{z}{s:0320}That's a lot of enemies! This isn't worth the pay.{g}{x:00}
+
+@255
+{z}{s:0320}We can't win this. Fight just enough, then we run.{g}{x:00}
+
+@256
+{z}{s:0320}Fight, but don't die! You can't spend gold if you're dead!{g}{x:00}
+
+@257
+{z}{s:0320}We'll take the enemy capital! The whole army, advance!{g}{x:00}
+
+@258
+{z}{s:0320}If this castle falls, the enemy is finished. All-out attack!{g}{x:00}
+
+@259
+{z}{s:0320}Begin the final assault on the enemy nation! The whole army, advance!{g}{x:00}
+
+@260
+{z}{s:0320}Crush what's left of the enemy in one blow! All forces, charge!{g}{x:00}
+
+@261
+{z}{s:0320}We are ready to die to the last man. Sally forth from the castle!{g}{x:00}
+
+@262
+{z}{s:0320}We will not give up this castle! We will not!{g}{x:00}
+
+@263
+{z}{s:0320}Defend the capital at all costs!{g}{x:00}
+
+@264
+{z}{s:0320}Hold the last line of defence to the death! There is nothing behind it!{g}{x:00}
+
+@265
+{z}{f}{l:0090}{s:0090}O-our sacred history of 400 years... is ending. Has God forsaken us...?{g}{x:00}
+
+@266
+{z}{f}{l:00a1}{s:00a1}If only {a:0094} had not existed... It is all that man's fault...{g}{x:00}
+
+@267
+{z}{f}{l:0094}{s:0094}I could not restore our former glory... Forgive me, my late king...{g}{x:00}
+
+@268
+{z}{f}{l:0095}{s:0095}I opposed this from the start. I never wanted war...{g}{x:00}
+
+@269
+{z}{f}{l:00a7}{s:00a7}I should never have eyed the continent. I should have stayed content on my island...{g}{x:00}
+
+@270
+{z}{f}{l:0098}{s:0098}All because my strength was not enough... God, forgive me.{g}{x:00}
+
+@271
+{z}{f}{l:0090}{s:0090}The land God gave us... lost. Our sacred history ends here...{g}{x:00}
+
+@272
+{z}{f}{l:00a1}{s:00a1}This is the end... We surrender...{g}{x:00}
+
+@273
+{z}{f}{l:0094}{s:0094}It is over...{g}{x:00}
+
+@274
+{z}{f}{l:0095}{s:0095}I'll give up all my lands! S-so please, don't kill me!{g}{x:00}
+
+@275
+{z}{f}{l:00a7}{s:00a7}Now that I have lost even my son {a:007e}, my hope of living is gone...{g}{x:00}
+
+@276
+{z}{f}{l:0098}{s:0098}Whatever becomes of the royal house, or of me, matters not.{g}{z}The people are blameless. Please, help them...{g}{x:00}
+
+@277
+{z}{s:0320}The atrocities of {p:01} lately have gone too far.{g}{x:00}
+
+@278
+{z}{p:00} hereby declares war, to uphold justice!{g}{x:00}
+
+@279
+{z}{s:0320}Curse you, {p:01}! To repay our past kindness with betrayal!{g}{x:00}
+
+@280
+{z}{s:0321}The outrageous conduct of {p:00} lately is unforgivable.{g}{x:00}
+
+@281
+{z}We three nations hereby declare an alliance to subdue {p:00}, the root of all evil that prolongs this war.{g}{x:00}
+
+@282
+{z}{p:01}, {p:02} and {p:03} have formed an alliance.{g}{x:00}
+
+@283
+{z}The {p:00} and {p:01} armies are fighting at {p:01}'s capital.{g}{x:00}
+
+@284
+{z}Victory for {p:00}! {p:01}'s capital has fallen.{g}{x:00}
+
+@285
+{z}{s:0320}{p:01} grows ever stronger. What are we to do...{g}{x:00}
+
+@286
+{z}{s:0320}{p:01} has grown stronger. What are we to do...{g}{x:00}
+
+@287
+{z}{s:0320}There are rumours of a great offensive next month...{g}{x:00}
+
+@288
+{z}{s:0320}We must shore up our defences at home!{g}{x:00}
+
+@289
+{z}{s:0320}We must shore up our defences at home.{g}{x:00}
+
+@290
+{z}{s:0320}How can this be? Only our nation remains...{g}{z}What are we to do...{g}{x:00}
+
+@291
+{z}{s:0320}How dreadful. Only our nation is left...{g}{z}We must do something...{g}{x:00}
+
+@292
+{z}{s:0320}Summon {a:0031}! Our only hope is the Funeral Mercenaries.{g}{x:00}
+
+@293
+{z}{s:0320}Summon {a:0031}! We have nothing left but the Funeral Mercenaries.{g}{x:00}
+
+@294
+{z}{s:0320}{a:0031} is dead too. Now that it has come to this...{g}{z}Gather what forces remain for a decisive battle!{g}{x:00}
+
+@295
+{z}{f}{l:0090}{s:0090}At last my Holy Empire has unified the continent.{g}{z}No one is left who defies me.{g}{x:00}
+
+@297
+{z}{f}{l:00a1}{s:00a1}Ugh, guhh...{g}{z}Just as the continent is at last unified, my body...{g}{j:012a}{x:00}
+
+@298
+{z}My aim is achieved. Perhaps I should hand over the throne and take my ease...{w} Cough, cough!{g}{x:00}
+
+@299
+{z}{f}{l:0094}{s:0094}At last we have regained the glory of Ragail...{g}{z}If the king now grows into a true ruler,{j:012c}{x:00}
+
+@300
+ I will have nothing left to regret...{g}{x:00}
+
+@301
+{z}{f}{l:0095}{s:0095}At last the continent is unified...{g}{z}Peace at last! I can finally rest easy too!{g}{x:00}
+
+@303
+{z}{f}{l:00a7}{s:00a7}My long-cherished advance onto the continent, and then unification in the blink of an eye...{g}{z}That is my son for you! Far fitter to be king than I!{g}{x:00}
+
+@305
+{z}{f}{l:0098}{s:0098}The long war has finally ended...{w} The people will surely rejoice in peace.{g}{j:0132}{x:00}
+
+@306
+{z}But I must settle that matter...{g}{x:00}
+
+@309
+ will acknowledge our efforts.{g}{x:00}
+
+@310
+{z}{f}{l:0003}{s:0003}{a:0000}, we lost quite a few mercenaries in last month's battle.{g}{z}You should hire more at the Guild.{g}{x:00}
+
+@311
+{z}{f}{l:0003}{s:0003}If you want recognition quickly, take hard jobs.{g}{z}If you finish a difficult job, the nation that hired us{j:0135}{x:00}
+
+@312
+{z}{f}{l:0004}{s:0004}Hey, Captain. Not off to work yet, are you?{g}{z}Why not relax at the tavern for once?{j:0139}{x:00}
+
+@313
+ There's a pretty singer to keep you company.{g}{z}Oh, I know! Shall I teach you how to woo the tavern singer?{y:00013a013b}{x:00}
+
+@314
+{z}{f}{l:0004}Heh heh, you're a sly one, Captain. Listen well.{g}{x:00}
+
+@315
+{z}{f}{l:0004}No? Aren't you the strait-laced one... You've got to enjoy life more.{g}{x:00}
+
+@316
+{z}{f}{l:0004}Singers fall into four types, roughly... the seductive older woman, the innocent young girl, the demure lady, and the cheeky{j:013d}{x:00}
+
+@317
+ brat.{g}{z}A man like me can tell from the face and the way they talk. Call it life experience.{g}{z}Now, how to woo them...{j:013e}{x:00}
+
+@318
+ First, talk about your dreams. A man with no romance won't get far with the ladies.{g}{z}Next, give a present. Just handing it over isn't enough!{g}{j:013f}{x:00}
+
+@319
+{z}A present to suit the girl! That's the trick... A woman's heart is complicated.{g}{z}Jewels suit the seductive older woman,{j:0140}{x:00}
+
+@320
+ the young girl likes books,{g}{z}the demure lady likes works of art, and a rare curiosity is good for the cheeky brat.{g}{j:0141}{x:00}
+
+@321
+{z}You can buy presents at the shop. Me? I always carry all four kinds.{g}{z}You never know when your chance will come.{g}{j:0143}{x:00}
+
+@322
+{z}{f}{l:0004}Well, good luck. Do as the ladies' man {a:0004} says, and you can't go wrong.{g}{x:00}
+
+@323
+{z}Want to hear it again?{y:00013c0142}{x:00}
+
+@330
+{z}{f}{l:0090}{s:0090}There is no room for two suns in this world...{g}{z}{f}{l:005e}{s:005e}As you say, Your Majesty.{g}{j:014b}{x:00}
+
+@331
+{z}{f}{l:0090}Yet there are those on this continent who belittle me.{g}{z}{f}{l:005e}Pope {a:00a0}...{g}{j:014c}{x:00}
+
+@332
+{z}{f}{l:0090}"The Holy Emperor is the Pope's vassal", they say...{w} My might shall open their eyes!{g}{j:014d}{x:00}
+
+@333
+{z}{f}{l:005e}Then, at last, to the Papal Domain...{g}{z}{f}{l:0090}No... First, the meddlesome other nations. Let us cut the Pope's lifelines one by one.{g}{j:014e}{x:00}
+
+@334
+{z}{f}{l:005e}Then we start with Fenrir...{g}{z}{f}{l:0090}Exactly... {a:005e}, lend me your strength.{g}{z}{f}{l:005e}Yes, sire!{g}{x:00}
+
+@336
+{z}{f}{l:0098}{s:0098}This continent was once a symbol of peace.{g}{z}But now, foolish men do nothing but fight on...{g}{j:0151}{x:00}
+
+@337
+{z}{f}{l:0086}{s:0086}Merely to satisfy their own desires...{g}{z}{f}{l:0098}To end this sad age, we must borrow God's power and{j:0152}{x:00}
+
+@338
+ strike down those who keep fighting.{g}{z}{f}{l:0086}Surely this is a trial God has given us...{g}{j:0153}{x:00}
+
+@339
+{z}{f}{l:0098}Yes... {a:0086}, only Fenrir, where God dwells, can save the people of the whole continent!{g}{x:00}
+
+@342
+{z}{f}{l:00a0}{s:00a0}That Friedolm! He defies my command and expands his lands!{g}{z}{f}{l:008e}{s:008e}It seems he intends to seize other nations' lands by force,{j:0157}{x:00}
+
+@343
+ my lord.{g}{z}{f}{l:00a0}To eye my own Papal Domain... The insolence is beyond measure!{g}{j:0158}{x:00}
+
+@344
+{z}{f}{l:008e}...{g}{z}With six nations clashing, it would suit us if they weakened each other...{g}{x:00}
+
+@348
+{z}{f}{l:00a1}{s:00a1}{a:0066}...{g}{z}You remember why I broke from Ragail 12 years ago?{g}{z}{f}{l:0066}{s:0066}To thwart Regent {a:0094}'s{j:015d}{x:00}
+
+@349
+ ambition, yes.{g}{z}{f}{l:00a1}That man manipulated the boy king and sought to make the continent his own.{g}{j:015e}{x:00}
+
+@350
+{z}{f}{l:0066}But in the chaos of independence, other nations moved to unify the continent...{g}{z}{f}{l:00a1}I intend to bring a new order to{j:015f}{x:00}
+
+@351
+ the continent...{g}{z}First I shall destroy Grandcour, then attack the rest, and unify the continent!{g}{j:0160}{x:00}
+
+@352
+{z}{f}{l:0066}Hahaha... The greedy ones are to blame!{g}{x:00}
+
+@354
+{z}{f}{l:0094}{s:0094}"Traitor" is a word made for {a:00a1}...{g}{z}{f}{l:006e}{s:006e}His treason is what threw the continent into chaos,{j:0163}{x:00}
+
+@355
+ as everyone knows.{g}{z}{f}{l:0094}Just when we must support the boy king, he rebels!{g}{z}I shall{j:0164}{x:00}
+
+@356
+ restore the glorious days of Ragail without fail!{g}{z}{f}{l:006e}The whole country expects much of you, Regent.{j:0165}{x:00}
+
+@357
+ I will help too.{g}{z}{f}{l:0094}Only the King of Grandcour can save all the people of the continent!{g}{x:00}
+
+@360
+{z}{f}{l:0095}{s:0095}I do not like strife. I do not want to fight...{g}{z}{f}{l:0076}{s:0076}Like it or not, we must fight, such is{j:0169}{x:00}
+
+@361
+ the state of the continent...{g}{z}Whining will not do.{g}{z}{f}{l:0095}But then what was the point of founding a neutral republic{j:016a}{x:00}
+
+@362
+ in the name of peace?{g}{z}{f}{l:0076}War is caused by absolute monarchy, where a handful hold all power.{g}{j:016b}{x:00}
+
+@363
+{z}To avoid inviting war in future, the whole continent must become republican...{g}{z}Now, if you understand, please take command.{g}{j:016c}{x:00}
+
+@364
+{z}{f}{l:0095}That is easy for you to say... You are all I have, {a:0076}.{g}{x:00}
+
+@366
+{z}{f}{l:007e}{s:007e}Right, time to set out onto the continent in earnest.{g}{z}{f}{l:00a7}{s:00a7}An advance onto the continent is all very well, but must the prince himself{j:016f}{x:00}
+
+@367
+ go?{g}{z}{f}{l:007e}No... This is a battle for her sake. I have to go myself.{g}{j:0170}{x:00}
+
+@368
+{z}{f}{l:00a7}Dear me, how zealous.{g}{z}{f}{l:007e}Just watch and see.{g}{z}Let's go, my Mylard elite!{j:0171}{x:00}
+
+@369
+ Whoever wants glory, follow me!{g}{x:00}
+
+@372
+{z}{f}{l:0090}{s:0090}{a:0091}, how stands the realm?{g}{z}{f}{l:0091}{s:0091}Sire, tax collection is going smoothly.{g}{j:0175}{x:00}
+
+@373
+{z}Your policy of a rich nation and strong army is flawless, Majesty.{g}{z}{f}{l:0090}No signs of unrest among the people?{g}{z}{f}{l:0091}Have no fear.{j:0176}{x:00}
+
+@374
+ All are in awe of Your Majesty's virtue.{g}{z}{f}{l:0090}Hm, good.{g}{z}I leave all domestic affairs to you, Chancellor.{g}{j:0177}{x:00}
+
+@375
+{z}I count on you.{g}{z}{f}{l:0091}Yes, sire!{g}{x:00}
+
+@378
+{z}{f}{l:0099}{s:0099}Christina... How do you find a queen's duties?{g}{z}{f}{l:0098}{s:0098}Mother... I think I begin to understand a little of your hardship.{g}{j:017b}{x:00}
+
+@379
+{z}{f}{l:0099}Trouble came so soon... How will you command the battles?{g}{z}{f}{l:0098}I leave the fighting to {a:0086}{j:017c}{x:00}
+
+@380
+ entirely.{g}{z}I pray to God every day that the people may find some peace. That too is one of the queen's duties.{g}{j:017d}{x:00}
+
+@381
+{z}{f}{l:0099}...{g}{z}I thought young strength might make the country thrive, so I yielded the throne early... but I fear{j:017e}{x:00}
+
+@382
+ I laid a heavy burden on you...{g}{z}{f}{l:0098}No, Mother. I find the queen's work very rewarding.{g}{j:017f}{x:00}
+
+@383
+{z}I will overcome this crisis, the worst since our founding, by my own strength!{g}{x:00}
+
+@384
+{z}{f}{l:0093}{s:0093}Father, when will the war end?{g}{z}{f}{l:00a1}{s:00a1}Who can say...{g}{z}By the way, those potted plants you treasure{j:0181}{x:00}
+
+@385
+ are they growing well?{g}{z}{f}{l:0093}Yes, thanks to my care they bear many splendid green leaves.{g}{z}{f}{l:00a1}...{g}{j:0182}{x:00}
+
+@386
+{z}{f}{l:0093}So you too think me unreliable, Father...{g}{z}{f}{l:00a1}Not so. In another age, you would surely make a fine{j:0183}{x:00}
+
+@387
+ king...{g}{z}For your sake, I wish to make a world without war...{g}{x:00}
+
+@390
+{z}{f}{l:0094}{s:0094}Your Majesty! Where is the King?{g}{z}{f}{l:00a4}{s:00a4}I'm behind you.{g}{z}{f}{l:0094}Ah, Majesty, at the war council{j:0187}{x:00}
+
+@391
+ you must sit on the throne!{g}{z}{f}{l:00a4}You can decide everything, {a:0094}.{g}{z}{f}{l:0094}If you say such things{j:0188}{x:00}
+
+@392
+ people will start to doubt me. Quickly, to the throne!{g}{z}{f}{l:00a4}War councils are hard. So boring...{g}{x:00}
+
+@396
+{z}{f}{l:0096}{s:0096}Chairman, how goes our policy of military build-up?{g}{z}{f}{l:0095}{s:0095}Not so easily...{g}{j:018d}{x:00}
+
+@397
+{z}{f}{l:0096}But we cannot rely on the old hero {a:0076} forever.{g}{z}{f}{l:0095}True, but whatever we do{j:018e}{x:00}
+
+@398
+ must first pass the Noble Council...{g}{z}{f}{l:0096}Tsk, how tedious...{w} A republic wastes so much effort.{g}{z}{f}{l:0095}Come now,{j:018f}{x:00}
+
+@399
+ what is begun cannot be undone.{g}{z}I hear many citizens place hope in this new system.{g}{z}{f}{l:0096}How leisurely...{g}{x:00}
+
+@402
+{z}{f}{l:0097}{s:0097}Is it true the prince himself fights on the front line, Brother?!{g}{z}{f}{l:00a7}{s:00a7}Oh, it's true. I hear he fights magnificently{j:0193}{x:00}
+
+@403
+ well.{g}{z}Willem is treated as a hero by the people now.{g}{z}{f}{l:0097}A man who rallies the whole nation to war just to give his lover land,{j:0194}{x:00}
+
+@404
+ is called a hero...{w} The masses are fools.{g}{z}{f}{l:00a7}What {a:00a8} wants is not land. It is the horizon.{g}{z}{f}{l:0097}It comes to the same thing.{g}{j:0195}{x:00}
+
+@405
+{z}If it is for his lover, he surely doesn't care if the nation is exhausted.{g}{z}{f}{l:00a7}Don't say that. Leave it to him.{g}{x:00}
+
+@408
+{z}{f}{l:00a0}{s:00a0}Archbishop, I hear mercenaries are throwing their weight about in the world.{g}{z}{f}{l:008e}{s:008e}They are men who become an army if only you pay,{j:0199}{x:00}
+
+@409
+ Holy Father.{g}{z}{f}{l:00a0}Hm...{w} They could be useful.{g}{z}{f}{l:008e}Useful...{w} How so?{g}{z}{f}{l:00a0}Playing the fool...{g}{j:019a}{x:00}
+
+@410
+{z}Why, they would serve perfectly to defend the lands of this Wigg Church, of course.{g}{x:00}
+
+@414
+{z}{f}{l:005e}{s:005e}You lackeys of the Pope! Prepare yourselves!{g}{z}{f}{l:0086}{s:0086}That is the Black Flash, {a:005e}...{g}{z}You have the nerve to show your face here,{j:019f}{x:00}
+
+@415
+ traitor!{g}{z}{f}{l:005e}The Crimson Phantom {a:0086}, is it...{w} A pity that one of your calibre lives clinging to God.{g}{j:01a0}{x:00}
+
+@416
+{z}Will you not serve His Majesty the Emperor with me?{g}{z}{f}{l:0086}...{g}{z}You urge me to turn traitor... You have grown even more{j:01a1}{x:00}
+
+@417
+ dull-witted than in your Fenrir days.{g}{z}My armour is the colour of clear blood, yours of muddy blood...{g}{z}God will side with the pure,{j:01a2}{x:00}
+
+@418
+ you will see! Here I come!{g}{z}{f}{l:005e}Hmph...{w} Damn you, how dare you...{g}{z}Next time we meet, I will make you realise that God offers no salvation{j:01a3}{x:00}
+
+@419
+ at all, I swear it!{g}{x:00}
+
+@420
+{z}{f}{l:006e}{s:006e}We meet again on the battlefield, Brother...{g}{z}{f}{l:0066}{s:0066}Brother?{g}{z}I thought I had long since cut our ties.{g}{j:01a5}{x:00}
+
+@421
+{z}{f}{l:006e}Not only you, Brother... Sister {a:0068} too...{g}{z}Why did you side with {a:00a1}, even at the cost of being called traitors?{g}{j:01a6}{x:00}
+
+@422
+{z}{f}{l:0066}The house of Ragail has nothing but tradition. Its insides are rotten...{w} A pup like you wouldn't understand.{g}{j:01a7}{x:00}
+
+@423
+{z}I have no wish to chat with the enemy. All of you, charge!{g}{z}{f}{l:006e}The enemy, is it...{w} If that's how you want it, I am prepared too!{g}{j:01a8}{x:00}
+
+@424
+{z}{f}{l:0066}Ugh... You're good...{g}{z}That courage, so unlike your slender body, will be your undoing next time. Remember that!{g}{x:00}
+
+@426
+{z}{f}{l:007e}{s:007e}I take it you are Estania's veteran commander, {a:0076}.{g}{j:01ab}{x:00}
+
+@427
+{z}I am Prince {a:007e} of Mylard. I shall take Estania as my foothold to unify the continent!{g}{j:01ac}{x:00}
+
+@428
+{z}{f}{l:0076}{s:0076}Spirited youth! Come, then!{g}{z}{f}{l:007e}Bring it on! Here I come!{g}{j:01ad}{x:00}
+
+@429
+{z}{f}{l:0076}Hm, young, but a fine calibre. Yet you lack experience.{w} Now it is my turn!{g}{j:01ae}{x:00}
+
+@430
+{z}{f}{l:007e}Ugh, the Sword Saint {a:0076} lives up to his name. All forces, retreat!{g}{z}Next time, I win!{g}{x:00}
+
+@432
+{z}{f}{l:005e}{s:005e}Your Majesty, forgive me for being of no use.{g}{z}At least let my body stop the enemy's arrows{j:01b1}{x:00}
+
+@433
+ so that Your Majesty may sleep in peace.{g}{x:00}
+
+@435
+{z}{f}{l:0066}{s:0066}Damn! I served the wrong king!{g}{z}If it comes to this, I'll drag down as many as I can with me.{j:01b4}{x:00}
+
+@436
+ I'll cut them down, and keep cutting!{g}{x:00}
+
+@438
+{z}{f}{l:006e}{s:006e}To fail to protect the boy king... I was still immature.{g}{z}If this is fate, so be it. Let me fall beautifully at the last!{g}{x:00}
+
+@441
+{z}{f}{l:0076}{s:0076}A nation where the people join in government...{w} Was my ideal 50 years too early?{g}{z}But an age when the powerful rule everything{j:01ba}{x:00}
+
+@442
+ will never last long. My ideal is not mistaken!{g}{x:00}
+
+@444
+{z}{f}{l:007e}{s:007e}Damn, what went wrong? How could it come to this, with me leading the fight...{g}{z}I'm sorry, {a:00a8}.{j:01bd}{x:00}
+
+@445
+ Far from giving you the continent, I have lost all my territory...{g}{z}When we get to heaven, we'll be married. I promise...{g}{x:00}
+
+@447
+{z}{f}{l:0086}{s:0086}Nothing in this world exists forever...{g}{z}Fenrir was no exception,{j:01c0}{x:00}
+
+@448
+ and neither am I...{g}{x:00}
+
+@450
+{z}{f}{l:002b}{s:002b}Thanks to you lot, we earned a packet! This month's jobs paid well.{g}{z}{f}{l:002c}{s:002c}Captain, when big money is at stake{j:01c3}{x:00}
+
+@451
+ your eyes really light up...{g}{z}I understand wanting money...{w} But what have you spent all you've earned on, anyway?{g}{j:01c4}{x:00}
+
+@452
+{z}{f}{l:002b}Make-up, for this beauty!{g}{z}A woman must stay young and beautiful forever...{w} If she can't turn men's heads, she's finished.{g}{j:01c5}{x:00}
+
+@453
+{z}{f}{l:002c}Hm... Is that how it is?{g}{z}{f}{l:002b}You see it every day, so you don't notice.{j:01c6}{x:00}
+
+@454
+ I get more beautiful with every battle...{g}{x:00}
+
+@456
+{z}{f}{l:0028}{s:0028}Look at those enemies running away, what a sight! Kekekeke...{g}{z}{f}{l:002a}{s:002a}They're lucky just to have survived fighting us,{j:01c9}{x:00}
+
+@457
+ I'd say...{g}{z}{f}{l:0029}{s:0029}And usually we never forget to finish off even the half-dead.{g}{j:01ca}{x:00}
+
+@458
+{z}Why did you let them go today?{g}{z}{f}{l:0028}...{g}{j:01cb}{x:00}
+
+@459
+{z}At this rate there'll be no one left on the continent. We've got to leave a few, or there'll be none for next time.{g}{z}Next time we meet, we'll{j:01cc}{x:00}
+
+@460
+ cut them to ribbons.{g}{z}{f}{l:0029}So you saved your fun for later? Brilliant, gyahahaha!{g}{x:00}
+
+@462
+{z}{f}{l:0031}{s:0031}Foolish knights...{g}{z}They keep destroying each other, unaware I wait in reserve.{g}{j:01cf}{x:00}
+
+@463
+{z}{f}{l:0032}{s:0032}Hey, {a:0033}, lucky the Captain is slow to move.{g}{z}If the Captain got serious, every knight and mercenary on the continent{j:01d0}{x:00}
+
+@464
+ would be dead in a day.{g}{z}{f}{l:0033}{s:0033}Shh, he'll kill you if he hears.{g}{z}{f}{l:0031}I have already heard.{g}{j:01d1}{x:00}
+
+@465
+{z}There are few left now whom I must deal with myself.{g}{z}To be buried by my hand is an honour,{j:01d2}{x:00}
+
+@466
+ and this honour must not be given to the unworthy.{g}{z}That is all there is to it...{g}{x:00}
+
+@468
+{z}{f}{l:002b}{s:002b}Winning feels great. We raked it in again.{g}{z}{f}{l:002c}{s:002c}Earning is all well and good, but...{w}{j:01d5}{x:00}
+
+@469
+ Can I ask one thing, Captain?{g}{z}Do you earn all that make-up money for some man you want to show off to?{g}{z}{f}{l:002b}Heh...{j:01d6}{x:00}
+
+@470
+ You needn't worry about that.{g}{z}My goal is to make every man on the continent kneel, with my strength and beauty...{w}{j:01d7}{x:00}
+
+@471
+ Let's leave it at that.{g}{x:00}
+
+@474
+{z}{f}{l:0028}{s:0028}Another win this month. Come to think of it, we've never lost.{g}{z}Kekekeke...{g}{z}{f}{l:0029}{s:0029}Well, that's{j:01db}{x:00}
+
+@475
+ because we avoid jobs against strong enemies...{g}{z}{f}{l:0028}Heh, anyone who fights {a:0031} head-on is a fool...{g}{z}{a:0023} is a total idiot.{g}{j:01dc}{x:00}
+
+@476
+{z}{f}{l:002a}{s:002a}Come to think of it, the Tigre Mercenaries are still around, aren't they...{g}{z}{f}{l:0028}...{g}{z}Leave them be.{j:01dd}{x:00}
+
+@477
+ They'll croak sooner or later.{g}{z}Of course, I wouldn't mind finishing them off myself.{g}{x:00}
+
+@480
+{z}{f}{l:0032}{s:0032}Easy win again this month!{g}{z}{f}{l:0033}{s:0033}Of course. Who could match the Captain?{g}{j:01e1}{x:00}
+
+@481
+{z}{f}{l:0031}{s:0031}At last...{g}{z}{f}{l:0032}Huh?{g}{z}{f}{l:0033}Sounds like it's finally time...{g}{z}{f}{l:0031}Those I must strike down with my own hand{j:01e2}{x:00}
+
+@482
+ are dwindling...{g}{z}The nations that remain will soon perish too. And then, the birth of my empire...{g}{j:01e3}{x:00}
+
+@483
+{z}{f}{l:0032}So he finally gets serious.{g}{z}{f}{l:0033}Just hearing it scares me...{w} Good thing we're his men.{g}{j:01e4}{x:00}
+
+@484
+{z}{f}{l:0031}No one can hinder me. Fufufufu...{g}{x:00}
+
+@486
+{z}{f}{l:005e}{s:005e}The enemy trembles at the mere sight of me. Look at their terrified faces!{g}{j:01e7}{x:00}
+
+@487
+{z}If only they had surrendered to His Majesty sooner, they would have kept their lives...{w} All forces, charge!{g}{x:00}
+
+@489
+{z}{f}{l:0066}{s:0066}You can no longer run or hide...{g}{z}In the next world, you'll regret making an enemy of the great {a:0066}!{w}{j:01ea}{x:00}
+
+@490
+ Men, finish off every last enemy!{g}{x:00}
+
+@492
+{z}{f}{l:006e}{s:006e}Well, time to finish this...{g}{z}Enemies, as a parting gift to take to your graves,{j:01ed}{x:00}
+
+@493
+ behold the gleam of this golden armour!{g}{x:00}
+
+@495
+{z}{f}{l:0076}{s:0076}To my soldiers... We have fought to unify the continent.{g}{j:01f0}{x:00}
+
+@496
+{z}Therefore the goal of this battle is only to slay the enemy king and his retinue...{w} All of you, ignore the small fry and press on!{g}{x:00}
+
+@498
+{z}{f}{l:007e}{s:007e}Right, let's knock off the first one.{g}{z}The day the whole continent is repainted in Mylard's colours is not far off...{w}{j:01f3}{x:00}
+
+@499
+ Look forward to it, {a:00a8}!{g}{x:00}
+
+@501
+{z}{f}{l:0086}{s:0086}Ending the history of a nation is somehow sad...{g}{z}But this too is heaven's decree.{j:01f6}{x:00}
+
+@502
+ For the stability of the continent and for the people, give up your lives!{g}{x:00}
+
+@504
+{z}{f}{l:0090}{s:0090}{a:005e}.{g}{z}Our empire, once proud of such vast lands, has become so feeble a power.{g}{j:01f9}{x:00}
+
+@505
+{z}{f}{l:005e}{s:005e}Your Majesty... I am sorry, it is my lack of strength...{g}{j:01fa}{x:00}
+
+@506
+{z}{f}{l:0090}I cannot let our sacred history end in my reign.{g}{j:01fb}{x:00}
+
+@507
+{z}Defend at least this capital! I rely on you, {a:005e}.{g}{j:01fc}{x:00}
+
+@508
+{z}{f}{l:005e}Yes, sire! Even at the cost of my life.{g}{x:00}
+
+@510
+{z}{f}{l:00a1}{s:00a1}{a:0093}.{g}{j:01ff}{x:00}
+
+@511
+{z}{f}{l:0093}{s:0093}Yes, Father.{g}{j:0200}{x:00}
+
+@512
+{z}{f}{l:00a1}Our recent defeats have left our lands shrinking and shrinking. This nation may be finished.{g}{j:0201}{x:00}
+
+@513
+{z}If it comes to that, {a:0093}, forgive your foolish father...{g}{j:0202}{x:00}
+
+@514
+{z}{f}{l:0093}Father...{g}{x:00}
+
+@516
+{z}{f}{l:0094}{s:0094}At this rate, Grandcour will perish... {a:006e}, can nothing be done?{g}{j:0205}{x:00}
+
+@517
+{z}{f}{l:006e}{s:006e}Lend me 300 Dragoons. I will win back our lands without fail.{g}{j:0206}{x:00}
+
+@518
+{z}{f}{l:0094}Very well, take the Royal Guard. The capital's defence will be thin, but so be it.{g}{j:0207}{x:00}
+
+@519
+{z}The other knights cannot be relied on. {a:006e}, you are my only hope.{g}{j:0208}{x:00}
+
+@520
+{z}{f}{l:006e}Leave it to me...{g}{x:00}
+
+@522
+{z}{f}{l:0096}{s:0096}Chairman, because of your incompetence, Estania is on the verge of ruin!{g}{j:020b}{x:00}
+
+@523
+{z}{f}{l:0095}{s:0095}Y-you say that, but... I have done my best in my own way...{g}{j:020c}{x:00}
+
+@524
+{z}{f}{l:0096}Tsk, useless man. Relying on that old relic {a:0076} was the mistake in the first place!{g}{j:020d}{x:00}
+
+@525
+{z}Honestly, every last one of them...{g}{x:00}
+
+@528
+{z}{f}{l:00a7}{s:00a7}Say, {a:007e}.{g}{z}At this rate our nation will perish, let alone reach the continent.{g}{j:0211}{x:00}
+
+@529
+{z}{f}{l:007e}{s:007e}Don't worry, Dad. I won't let it end like this.{g}{j:0212}{x:00}
+
+@530
+{z}I'll turn it around, you'll see!{g}{j:0213}{x:00}
+
+@531
+{z}{f}{l:00a7}You are my only hope.{g}{x:00}
+
+@534
+{z}{f}{l:0098}{s:0098}I have not fought for personal gain or selfish desire.{g}{j:0217}{x:00}
+
+@535
+{z}Yet why does God not lend His strength to our nation?{g}{j:0218}{x:00}
+
+@536
+{z}{f}{l:0086}{s:0086}It is all because I have failed you...{g}{j:0219}{x:00}
+
+@537
+{z}{f}{l:0098}{a:0086}... It is not your fault.{g}{z}Perhaps my prayers are not enough.{g}{j:021a}{x:00}
+
+@538
+{z}{f}{l:0086}Your Majesty...{g}{x:00}
+
+@540
+{z}{f}{l:0090}{s:0090}{a:005e}, our territory seems to be growing steadily.{g}{j:021d}{x:00}
+
+@541
+{z}{f}{l:005e}{s:005e}At present one third of the continent is territory of the Holy Rana Empire.{g}{j:021e}{x:00}
+
+@542
+{z}{f}{l:0090}Hm. I can picture the Pope turning pale!{g}{j:021f}{x:00}
+
+@543
+{z}{f}{l:005e}As you say.{g}{x:00}
+
+@546
+{z}{f}{l:00a1}{s:00a1}{a:0066}, our lands have grown considerably.{g}{j:0223}{x:00}
+
+@547
+{z}This is because you siblings work so well for me. I am grateful.{g}{j:0224}{x:00}
+
+@548
+{z}{f}{l:0066}{s:0066}Your words are too kind. It is the height of honour.{g}{j:0225}{x:00}
+
+@549
+{z}{f}{l:00a1}But I still have work for you. Achieve the unification of the continent, and do it well!{g}{j:0226}{x:00}
+
+@550
+{z}{f}{l:0066}Yes, sire!{g}{x:00}
+
+@552
+{z}{f}{l:0094}{s:0094}{a:006e}, Grandcour's territory has grown considerably.{g}{j:0229}{x:00}
+
+@553
+{z}{f}{l:006e}{s:006e}Still far short of Ragail's lands before the split, however...{g}{j:022a}{x:00}
+
+@554
+{z}{f}{l:0094}True, we must win them back. The glorious days of Ragail!{g}{j:022b}{x:00}
+
+@555
+{z}Until then, we cannot afford to relax.{g}{j:022c}{x:00}
+
+@556
+{z}{f}{l:006e}I shall take it to heart.{g}{x:00}
+
+@558
+{z}{f}{l:0095}{s:0095}At first I wondered how it would turn out, but our lands have grown quite a bit.{g}{j:022f}{x:00}
+
+@559
+{z}{f}{l:0076}{s:0076}It shows that if one holds to one's ideals, the way will open.{g}{j:0230}{x:00}
+
+@560
+{z}{f}{l:0095}Say, {a:0076}. Couldn't we stop the war about now?{g}{j:0231}{x:00}
+
+@561
+{z}{f}{l:0076}Peace talks would be difficult in this state.{g}{j:0232}{x:00}
+
+@562
+{z}{f}{l:0095}I see... The fighting goes on until the continent is unified...{g}{x:00}
+
+@564
+{z}{f}{l:00a7}{s:00a7}Oh, {a:007e}. You have expanded your lands quite a bit.{g}{j:0235}{x:00}
+
+@565
+{z}{f}{l:007e}{s:007e}No, not yet. This is not all I can do.{g}{j:0236}{x:00}
+
+@566
+{z}I'll crush every nation, so she can gaze at the horizon to her heart's content.{g}{j:0237}{x:00}
+
+@567
+{z}{f}{l:00a7}You are fired up. The people and I are counting on you.{g}{j:0238}{x:00}
+
+@568
+{z}{f}{l:007e}Leave it to me!{g}{x:00}
+
+@570
+{z}{f}{l:0098}{s:0098}Fenrir, once a minor power, has at last come to be called a great one.{g}{j:023b}{x:00}
+
+@571
+{z}{f}{l:0086}{s:0086}At present one third of the continent is Fenrir's territory.{g}{j:023c}{x:00}
+
+@572
+{z}{f}{l:0098}This must be thanks to the protection of God.{g}{j:023d}{x:00}
+
+@573
+{z}God has chosen us. Come, let us unify the continent and extend a helping hand to the people!{g}{j:023e}{x:00}
+
+@574
+{z}{f}{l:0086}Fenrir is with God!{g}{x:00}
+
+@576
+{z}{f}{l:0090}{s:0090}At last, half of the continent is my territory.{g}{z}My empire got this far thanks to {a:005e}.{g}{j:0241}{x:00}
+
+@577
+{z}{f}{l:005e}{s:005e}Your words honour me.{g}{j:0242}{x:00}
+
+@578
+{z}{f}{l:0090}Nor must we forget the achievements of the Tigre Mercenaries.{g}{j:0243}{x:00}
+
+@579
+{z}{f}{l:005e}But they are mercenaries after all. How far can they be trusted?{g}{j:0244}{x:00}
+
+@580
+{z}{f}{l:0090}What does it matter? While they are useful, let us work them hard.{g}{x:00}
+
+@582
+{z}{f}{l:00a1}{s:00a1}At last, half of the continent is my territory.{g}{j:0247}{x:00}
+
+@583
+{z}The greatest merit goes to {a:0066}. I shall grant a reward.{g}{j:0248}{x:00}
+
+@584
+{z}{f}{l:0066}{s:0066}I am most grateful.{g}{j:0249}{x:00}
+
+@585
+{z}{f}{l:00a1}And the Tigre Mercenaries' achievements are great too.{g}{j:024a}{x:00}
+
+@586
+{z}{f}{l:0066}We don't need such a mercenary company. The knights alone are enough.{g}{z}If anything, they are in the way.{g}{j:024b}{x:00}
+
+@587
+{z}{f}{l:00a1}Now, now, acknowledge their achievements too.{g}{z}{f}{l:0066}...{g}{x:00}
+
+@588
+{z}{f}{l:0094}{s:0094}At last, half the continent is Grandcour's domain.{g}{j:024d}{x:00}
+
+@589
+{z}We could never have come this far without {a:006e}'s strength. My thanks.{g}{j:024e}{x:00}
+
+@590
+{z}{f}{l:006e}{s:006e}You honour me, Lord Regent.{g}{j:024f}{x:00}
+
+@591
+{z}{f}{l:0094}Yet we must not forget the Tigre Mercenaries' exploits.{g}{j:0250}{x:00}
+
+@592
+{z}{f}{l:006e}Their valour rivals that of my Sun Knights. Splendid work.{g}{j:0251}{x:00}
+
+@593
+{z}{f}{l:0094}I hope they keep it up in future.{g}{x:00}
+
+@594
+{z}{f}{l:0095}{s:0095}Half the continent is Estania's at last... Like a dream!{g}{z}It is all thanks to {a:0076}. Well done.{g}{j:0253}{x:00}
+
+@595
+{z}{f}{l:0076}{s:0076}It is too early to rest easy.{g}{j:0254}{x:00}
+
+@596
+{z}{f}{l:0095}I see... By the way, the Tigre Mercenaries seem to have served us well...{g}{j:0255}{x:00}
+
+@597
+{z}{f}{l:0076}One wonders how sincerely mercenaries side with Estania.{g}{j:0256}{x:00}
+
+@598
+{z}Best to watch them a little longer.{g}{x:00}
+
+@600
+{z}{f}{l:007e}{s:007e}How about that, Father!{g}{z}Half the continent is Mylard's now!{g}{j:0259}{x:00}
+
+@601
+{z}{f}{l:00a7}{s:00a7}Well done, {a:007e}.{g}{z}With you, uniting the continent is no dream.{g}{j:025a}{x:00}
+
+@602
+{z}{f}{l:007e}Well, the Tigre Mercenaries did well elsewhere, so I could rampage to my heart's content.{g}{j:025b}{x:00}
+
+@603
+{z}Their strength is not to be scorned. We need them to unite the continent.{g}{j:025c}{x:00}
+
+@604
+{z}{f}{l:00a7}Oh, I see. For {a:007e}'s sake, I hope they keep it up.{g}{x:00}
+
+@606
+{z}{f}{l:0086}{s:0086}Your Majesty, Fenrir's domain now covers half the continent.{g}{j:025f}{x:00}
+
+@607
+{z}{f}{l:0098}{s:0098}Well done, {a:0086}.{g}{z}Let us thank God for bringing us this far.{g}{j:0260}{x:00}
+
+@608
+{z}What do you think of the Tigre Mercenaries?{g}{j:0261}{x:00}
+
+@609
+{z}{f}{l:0086}They have contributed greatly to our expansion.{g}{j:0262}{x:00}
+
+@610
+{z}But they are mercenaries. How far can they be trusted...{g}{j:0263}{x:00}
+
+@611
+{z}{f}{l:0098}Then let us watch them a little longer.{g}{x:00}
+

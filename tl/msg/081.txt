@@ -1,0 +1,483 @@
+@0
+{z}{s:0320}Cross this sea and we're at the front...{w} Not far now.{g}{x:00}
+
+@1
+{z}{s:0320}Someone could interfere at any moment. Let's hurry.{g}{x:00}
+
+@2
+{z}{s:0320}Yes, let's hur-{w}ry...{g}{x:00}
+
+@3
+{z}{s:0320}I knew they'd show up...{g}{x:00}
+
+@4
+{z}{s:0320}Mercenaries...{g}{x:00}
+
+@5
+{z}{s:0320}The regular army's still way back there? We're a bit early.{g}{x:00}
+
+@6
+{z}{s:0320}I thought it was just the regular army, but there are mercenaries too.{g}{x:00}
+
+@7
+{z}{s:0320}Right! Let's go! All forces, advance!{g}{x:00}
+
+@8
+{z}Ignore the Tigre lot! Go for the regular army only!{g}{x:00}
+
+@9
+{z}{s:0320}They're coming at us!{g}{x:00}
+
+@10
+{z}{s:0320}Can we last until the front...?{g}{x:00}
+
+@11
+{z}{s:0320}Even a single company will do... Let us reach the front.{g}{x:00}
+
+@12
+{z}{s:0320}Trust us. We will get you to the front, whatever it takes.{g}{x:00}
+
+@13
+{z}{s:0320}Enemies in our path. That's a nuisance.{g}{x:00}
+
+@14
+{z}We'll have to be the wall and hold off their attacks.{g}{x:00}
+
+@15
+{z}{s:0320}There are two routes south-east. Which should we take...?{g}{x:00}
+
+@16
+{z}{s:0320}Captain, give them an answer.{g}{x:00}
+
+@17
+{z}{s:0320}East is better for fighting, is it? Understood, we head east.{g}{x:00}
+
+@18
+{z}{s:0320}South is better for fighting, is it? Understood, we head south.{g}{x:00}
+
+@19
+{z}{s:0320}Why are there pirates...?{g}{x:00}
+
+@20
+{z}{s:0320}Hm? Aren't those regular army soldiers over there?{g}{x:00}
+
+@21
+{z}{s:0320}And mercenaries around them...{g}{x:00}
+
+@22
+{z}{s:0320}There are some over here too.{g}{x:00}
+
+@23
+{z}{s:0320}Are they fighting?{g}{x:00}
+
+@24
+{z}{s:0320}Looks like it.{g}{x:00}
+
+@25
+{z}{s:0320}Just our luck.{g}{x:00}
+
+@26
+{z}And I thought we'd found good prey. Regular army and mercenaries...{g}{x:00}
+
+@27
+{z}{s:0320}...Maybe not.{g}{x:00}
+
+@28
+{z}{s:0320}What?{g}{x:00}
+
+@29
+{z}{s:0320}Look at those regular army boys. Fine weapons and armour, all matching...{g}{x:00}
+
+@30
+{z}{s:0320}I can see that from here. It would all fetch a high price.{g}{x:00}
+
+@31
+{z}...{w}{w}! {w}{w}Surely not...{g}{x:00}
+
+@32
+{z}{s:0320}Yes. The regular army is our prey today.{g}{x:00}
+
+@33
+{z}{s:0320}But can we win? Against the regular army and mercenaries...{g}{x:00}
+
+@34
+{z}{s:0320}Regular army or mercenaries, they're no match for us!{g}{x:00}
+
+@35
+{z}Beat them senseless and take the loot!{g}{x:00}
+
+@36
+{z}{s:0320}Yes!{g}{x:00}
+
+@37
+{z}{s:0320}Pirates... Where did that lot come from?{g}{x:00}
+
+@38
+{z}{s:0320}What now? Join forces?{g}{x:00}
+
+@39
+{z}{s:0320}They're after the regular army's costly weapons, I'd wager.{g}{x:00}
+
+@40
+{z}No need for that.{g}{x:00}
+
+@41
+{z}{s:0320}Fine weapons and armour, and they get you killed. Ironic.{g}{x:00}
+
+@42
+{z}{s:0320}Pirates, of all things...{g}{x:00}
+
+@43
+{z}{s:0320}Good thing we didn't send them south.{g}{x:00}
+
+@44
+{z}{s:0320}True, but... what do we do about them?{g}{x:00}
+
+@45
+{z}{s:0320}Pirates and mercenaries... Captain, think carefully.{g}{x:00}
+
+@46
+{z}{s:0320}Even pirates are here...{g}{x:00}
+
+@47
+{z}{s:0320}If pirates were here, should we have sent them east...?{g}{x:00}
+
+@48
+{z}{s:0320}Hindsight is unbecoming.{g}{x:00}
+
+@49
+{z}{s:0320}Sorry...{g}{x:00}
+
+@50
+{z}{s:0320}Pirates and mercenaries... Captain, think carefully.{g}{x:00}
+
+@51
+{z}{s:0320}Everyone at the front... I'm sorry...{g}{x:00}
+
+@52
+{z}{s:0320}Crush the regular army and our job is done.{g}{x:00}
+
+@53
+{z}Bonus pay is waiting. Let's get home quickly.{x:00}
+
+@54
+{z}{s:0320}No regular army left... and nothing gained.{g}{x:00}
+
+@55
+{z}We only lost precious men... Damn it, all for nothing.{g}{x:00}
+
+@56
+{z}{s:0320}What? No regular army left? Not much of a haul.{g}{x:00}
+
+@57
+{z}Well, it's better than nothing, I suppose.{g}{x:00}
+
+@58
+{z}{s:0320}So he was the last... Rather anticlimactic.{g}{x:00}
+
+@59
+{z}Well, we made a fine haul. That'll do.{g}{x:00}
+
+@60
+{z}{s:0320}"Pirates showed up" won't work as an excuse.{g}{x:00}
+
+@61
+{z}We were to protect the regular army, whatever happened. That was our duty.{g}{x:00}
+
+@62
+{z}{s:0320}It was unexpected, true, but it's still an excuse.{g}{x:00}
+
+@63
+{z}However it went, if we can't protect the regular army, the mission has failed.{g}{x:00}
+
+@64
+{z}{s:0320}The pirates were certainly unexpected.{g}{x:00}
+
+@65
+{z}But that is only an excuse for failure. We were beaten by pirates and mercenaries.{g}{x:00}
+
+@66
+{z}{s:0320}Damn... Without the pirates, we'd have managed against the mercenaries alone...{g}{x:00}
+
+@67
+{z}Damn it!{g}{x:00}
+
+@68
+{z}{s:0320}There was nothing we could do... Even pirates turned up.{g}{x:00}
+
+@69
+{z}Don't worry about it.{g}{x:00}
+
+@70
+{z}{s:0320}Right! Past this forest is the front! Let's join up in one go!{g}{x:00}
+
+@71
+{z}You lot make sure you come too!{g}{x:00}
+
+@72
+{z}{s:0320}In the end, only this company reaches the front...{g}{x:00}
+
+@73
+{z}Well, I suppose there was no helping it. Even pirates showed up...{g}{x:00}
+
+@74
+{z}{s:0320}Damn! They got away...{g}{x:00}
+
+@75
+{z}Let's stop fighting this lot... All this effort, and nothing to show for it.{g}{x:00}
+
+@76
+{z}{s:0320}Damn! They got away...{g}{x:00}
+
+@77
+{z}Let's stop fighting this lot... All this effort, and hardly any gain.{g}{x:00}
+
+@78
+{z}{s:0320}If the pirates hadn't interfered, it wouldn't have come to this...{g}{x:00}
+
+@79
+{z}Damn it... A failure...{g}{x:00}
+
+@80
+{z}{s:0320}The ones in our way are gone... Now we can reach the front...{g}{x:00}
+
+@81
+{z}Good! Let's press on! We owe it to you! Thank you!{g}{x:00}
+
+@82
+{z}{s:0320}Thank goodness... For a while I didn't know how it would end...{g}{x:00}
+
+@83
+{z}{s:0320}Mission accomplished! Whatever happens, we win!{g}{x:00}
+
+@84
+{z}{s:0320}For a while I wondered how it would end, but the mission is done.{g}{x:00}
+
+@85
+{z}{s:0320}I wondered how it would end... Good, we completed the mission.{g}{x:00}
+
+@86
+{z}{s:0320}I wondered how it would end... Still, the mission is done.{g}{x:00}
+
+@87
+{z}{s:0320}The regular army's vanished... So we gain nothing in the end...{g}{x:00}
+
+@88
+{z}We shouldn't have fought...{g}{x:00}
+
+@89
+{z}{s:0320}The regular army's vanished... So we gain only a little in the end...{g}{x:00}
+
+@90
+{z}Well, it's better than nothing.{g}{x:00}
+
+@91
+{z}{s:0320}Damn! They ran!{g}{x:00}
+
+@92
+{z}Oh well. We earned plenty.{g}{x:00}
+
+@93
+{z}{s:0320}We nearly wiped them out... Damn... If only the pirates hadn't interfered...{g}{x:00}
+
+@94
+{z}Ah... No bonus pay for us...{g}{x:00}
+
+@95
+{z}{s:0320}So the mission's done... That was close.{g}{x:00}
+
+@96
+{z}{s:0320}Phew... We were hard pressed, but the mission is complete.{g}{x:00}
+
+@97
+{z}{s:0320}Thank goodness... I thought we were finished...{g}{x:00}
+
+@98
+{z}{s:0320}The mission is done, at any rate. Phew... That was a close thing.{g}{x:00}
+
+@99
+{z}{s:0320}We were hard pressed... It doesn't feel like a win.{g}{x:00}
+
+@100
+{z}{s:0320}Damn... If the pirates hadn't interfered... Curse it...{g}{x:00}
+
+@101
+{z}{s:0320}So mercenaries really are... stronger than outlaws...{g}{x:00}
+
+@102
+{z}{s:0320}The nuisances are gone...{g}{x:00}
+
+@103
+{z}Well done, all of you. We can manage the rest alone.{g}{x:00}
+
+@104
+{z}Now, if you'll excuse us!{g}{x:00}
+
+@105
+{z}{s:0320}I wondered how it would end... Good, we completed the mission.{g}{x:00}
+
+@106
+{z}{s:0320}I wondered how it would end, but it's over safely.{g}{x:00}
+
+@107
+{z}{s:0320}Serves you right! Pirates or mercenaries, you're no match for us!{g}{x:00}
+
+@108
+{z}{s:0320}Thank goodness, we did it... I wondered how it would end...{g}{x:00}
+
+@109
+{z}{s:0320}It seems the mission is done.{g}{x:00}
+
+@110
+{z}{s:0320}Good! The mercenaries over there are wiped out! Only the regular army's left! Attack!{g}{x:00}
+
+@111
+{z}{s:0320}Only the pirates left...{g}{x:00}
+
+@112
+{z}{s:0320}Only the pirates left, then...{g}{x:00}
+
+@113
+{z}{s:0320}Only the pirates left...{g}{x:00}
+
+@114
+{z}{s:0320}Only the pirates left...{g}{x:00}
+
+@115
+{z}{s:0320}Just the pirates remain...{g}{x:00}
+
+@116
+{z}{s:0320}The pirates are gone! Hit the regular army with everything!{g}{x:00}
+
+@117
+{z}{s:0320}The pirates are finally gone...{g}{x:00}
+
+@118
+{z}{s:0320}Only the mercenaries left...{g}{x:00}
+
+@119
+{z}{s:0320}Only the mercenaries remain...{g}{x:00}
+
+@120
+{z}{s:0320}Just the mercenaries remain...{g}{x:00}
+
+@121
+{z}{s:0320}The pirates are finally gone...{g}{x:00}
+
+@122
+{z}{s:0320}{a:0000}... I'm sorry...{g}{x:00}
+
+@123
+{z}{s:0320}Damn... Why me...{g}{x:00}
+
+@124
+{z}{s:0320}I'm sorry... How pathetic of me...{g}{x:00}
+
+@125
+{z}{s:0320}Losing to the likes of you...{g}{x:00}
+
+@126
+{z}{s:0320}Pirates and mercenaries... I thought I could hold off both...{g}{x:00}
+
+@127
+{z}{s:0320}The pirates...{w}{w} I never expected them... {w}{w}Damn...{g}{x:00}
+
+@128
+{z}{s:0320}Why did it have to be me...{g}{x:00}
+
+@129
+{z}{s:0320}I lost...{w}{w} to the likes of you...{g}{x:00}
+
+@130
+{z}{s:0320}Mercenaries really are...{w}{w} strong...{g}{x:00}
+
+@131
+{z}{s:0320}Let me...{w}{w} go to my comrades...{g}{x:00}
+
+@132
+{z}{s:0320}Commander... I'm sorry... I couldn't join you...{g}{x:00}
+
+@133
+{z}{s:0320}To think we never reached the front...{g}{x:00}
+
+@134
+{z}{s:0320}The mercenaries cut down the regular army... Damn them! That was our prey!{g}{x:00}
+
+@135
+{z}{s:0320}Damn... Mercenaries again... At this rate they'll take everything.{g}{x:00}
+
+@136
+{z}{s:0320}They carry real quality. Heh heh... What a haul.{g}{x:00}
+
+@137
+{z}{s:0320}Hee hee hee... I can't stop laughing... We can live it up for a good while.{g}{x:00}
+
+@138
+{z}{s:0320}Right! Here we come! Prepare yourselves!{g}{x:00}
+
+@139
+{z}{s:0320}As if the likes of you could beat us! We're {p:01}!{g}{x:00}
+
+@140
+{z}{s:0320}We'll wipe out your company first!{g}{x:00}
+
+@141
+{z}{s:0320}Come on then! We'll cut you down!{g}{x:00}
+
+@142
+{z}{s:0320}Meeting us was your bad luck! This is your graveyard!{g}{x:00}
+
+@143
+{z}{s:0320}Mercenaries aren't always strong!{g}{x:00}
+
+@144
+{z}{s:0320}No time for the likes of you! Keep back!{g}{x:00}
+
+@145
+{z}{s:0320}Out of our way!{g}{x:00}
+
+@146
+{z}{s:0320}Please, let us through! We must go on!{g}{x:00}
+
+@147
+{z}{s:0320}I'm {a:0002} of the Tigre! Here I come!{g}{x:00}
+
+@148
+{z}{s:0320}Enemies all over the place... It's quite fun, really.{g}{x:00}
+
+@149
+{z}{s:0320}The pirates are our enemies too... and the enemy mercenaries' as well...{g}{x:00}
+
+@150
+{z}{s:0320}Just keep the enemy away from the regular army. That's all.{g}{x:00}
+
+@151
+{z}{s:0320}The mercenaries around the regular army must be escorts.{g}{x:00}
+
+@152
+{z}{s:0320}Some mercenaries are after the regular army.{g}{x:00}
+
+@153
+{z}Which do we take first?{g}{x:00}
+
+@154
+{z}{s:0320}We split in two and attack together. One half hits the escorts.{g}{x:00}
+
+@155
+{z}{s:0320}Then the other holds off the mercenaries coming at us.{g}{x:00}
+
+@156
+{z}{s:0320}I'm counting on you.{g}{x:00}
+
+@157
+{z}{s:0320}The pirates mean to attack us too.{g}{x:00}
+
+@158
+{z}{s:0320}Ignore them. Go for the regular army.{g}{x:00}
+
+@159
+{z}{s:0320}Right, there's no money in beating pirates.{g}{x:00}
+
+@160
+{z}{s:0320}Then leave that to us.{g}{x:00}
+

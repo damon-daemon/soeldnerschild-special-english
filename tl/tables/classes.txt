@@ -1,0 +1,22 @@
+# commander classes, half-width (0x8001aa70): KEY|English, at most 20 letters (packed table) (see tools/tables.py; Japanese: tables.py show classes)
+00|Sword Cmdr
+01|Pike Cmdr
+02|Horse Cmdr
+03|Bow Cmdr
+04|Sword Elite
+05|Pike Elite
+06|Horse Elite
+07|Bow Elite
+08|Sword Master
+09|Pike Master
+0a|Horse Master
+0b|Bow Master
+0c|Summoner
+0d|Enchanter
+0e|Necromancer
+0f|Darklord
+10|Boss
+11|Head
+12|Captain
+13|Barbarian
+14|Leader

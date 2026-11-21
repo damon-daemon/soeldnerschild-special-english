@@ -1,0 +1,357 @@
+@0
+{z}{s:0320}There are pirates out at sea from here, right?{g}{x:00}
+
+@1
+{z}{s:0320}No, come this far and they'll probably come to meet us.{g}{x:00}
+
+@2
+{z}{s:0320}They say that lot are short of prey lately.{g}{x:00}
+
+@3
+{z}{s:0320}Think they'll run once they know we're mercenaries?{g}{x:00}
+
+@4
+{z}{s:0320}Not likely. It'd be different if we were penniless.{g}{x:00}
+
+@5
+{z}{s:0320}Good. It'd be dull if they ran away.{g}{x:00}
+
+@6
+{z}{s:0320}A dependable fellow.{g}{x:00}
+
+@7
+{z}Now keep that up and do something about that huge force, would you?{g}{x:00}
+
+@8
+{z}{s:0320}Whoa!{g}{x:00}
+
+@9
+{z}{s:0320}You lot! Hand over all your money!{g}{x:00}
+
+@10
+{z}Leave your gold and go home, if you value your skin!{g}{x:00}
+
+@11
+{z}{s:0320}Take a good look at who you're talking to!{g}{x:00}
+
+@12
+{z}{s:0320}We're mercenaries. If you want to throw down your weapons and surrender, now's the time.{g}{x:00}
+
+@13
+{z}{s:0320}Surrender?{g}{x:00}
+
+@14
+{z}Don't make me laugh! You think a few mercenaries can beat us?{g}{x:00}
+
+@15
+{z}{s:0320}Of course! Now come on, hurry up!{g}{x:00}
+
+@16
+{z}{s:0320}What? You really mean to fight?{g}{x:00}
+
+@17
+{z}Ha, this'll be fun! If we fight, we won't hold back! We'll take everything of value!{g}{x:00}
+
+@18
+{z}{s:0320}Lose to outlaws and we're penniless. Don't retreat, whatever happens.{g}{x:00}
+
+@19
+{z}{s:0320}So many of them... How do we take them on?{g}{x:00}
+
+@20
+{z}{s:0320}Best to beat them one company at a time. Well, I'll leave that to the captain.{g}{x:00}
+
+@21
+{z}{s:0320}All hands, charge! Don't leave any of the work to me!{g}{x:00}
+
+@22
+{z}{s:0320}Hey, Captain! Are you sure of your own skill?{g}{x:00}
+
+@23
+{z}{s:0320}{a:0000}! What kind of answer is that!{g}{x:00}
+
+@24
+{z}{s:0320}Come on... even if it's a lie, say you're confident.{g}{x:00}
+
+@25
+{z}{s:0320}{a:0000} is strong... Why would you say that?{g}{x:00}
+
+@26
+{z}{s:0320}Not confident? Are you serious?{g}{x:00}
+
+@27
+{z}{s:0320}If the captain is that timid, the men won't follow.{g}{x:00}
+
+@28
+{z}{s:0320}Oh? Promising. No wonder you're a captain at your age.{g}{x:00}
+
+@29
+{z}I hope your skill matches that confidence. Let me test you!{w}{w} A duel it is!{g}{x:00}
+
+@30
+{z}{s:0320}Show them {a:0000}'s strength!{g}{x:00}
+
+@31
+{z}{s:0320}Don't lose!{g}{x:00}
+
+@32
+{z}{s:0320}Fight in a way worthy of Tigre's captain.{g}{x:00}
+
+@33
+{z}{s:0320}The captain can beat anyone.{g}{x:00}
+
+@34
+{z}{s:0320}...Don't you dare lose.{g}{x:00}
+
+@35
+{z}{s:0320}Ha ha... All talk, you coward.{g}{x:00}
+
+@36
+{z}Big words to look good in front of your men?{g}{x:00}
+
+@37
+{z}I bet you're no great shakes in melee either. I'll knock you about a bit. Come on!{g}{x:00}
+
+@38
+{z}{s:0320}I don't believe it. Where did that confidence go!{g}{x:00}
+
+@39
+{z}{s:0320}Where did that confidence go! Are you scared?{g}{x:00}
+
+@40
+{z}{s:0320}Weren't you confident? Then accept the duel!{g}{x:00}
+
+@41
+{z}{s:0320}Hey now, what happened to that confidence?{g}{x:00}
+
+@42
+{z}{s:0320}Where did that confidence go? ...Got cold feet?{g}{x:00}
+
+@43
+{z}{s:0320}Lost the duel...{w}{w} lost the battle...{w}{w} pathetic...{g}{x:00}
+
+@44
+{z}{s:0320}This one...{w}{w} is really strong...{w}{w} Underestimating him...{w}{w} was a mistake...{g}{x:00}
+
+@45
+{z}{s:0320}The boss lost the duel... Someone can beat the boss...{g}{x:00}
+
+@46
+{z}Even if we fight without the boss, we've no chance against opponents this strong...{g}{x:00}
+
+@47
+{z}Right, we're done being outlaws! Our pirate band disbands as of today! So please, spare us!{g}{x:00}
+
+@48
+{z}{s:0320}What's with this lot? Useless without their boss.{g}{x:00}
+
+@49
+{z}{s:0320}Going timid the moment the boss loses. Pathetic.{g}{x:00}
+
+@50
+{z}What now? Do we trust them and stop attacking?{g}{x:00}
+
+@51
+{z}What now? Do you believe them?{g}{x:00}
+
+@52
+{z}{s:0320}Hey, {a:0000}, they seem to be apologising.{g}{x:00}
+
+@53
+{z}Why not forgive them?{g}{x:00}
+
+@54
+{z}{s:0320}Huh, didn't expect that. Captain, you trust them?{g}{x:00}
+
+@55
+{z}{s:0320}What'll it be? Shall we leave it here?{g}{x:00}
+
+@56
+{z}{s:0320}You'll let us off?{g}{x:00}
+
+@57
+{z}We'll never trouble this sea again. We promise. We don't want you as enemies.{g}{x:00}
+
+@58
+{z}You'd actually trust us... That means a lot.{g}{x:00}
+
+@59
+{z}{s:0320}I don't trust them much... but well, fine.{g}{x:00}
+
+@60
+{z}{s:0320}I agree with {a:0000}. I'd rather not hurt anyone if I can help it.{g}{x:00}
+
+@61
+{z}{s:0320}Outlaws' words mean nothing, but I'll trust your judgement.{g}{x:00}
+
+@62
+{z}{s:0320}Outlaws' words mean nothing... but I'll trust the captain's judgement.{g}{x:00}
+
+@63
+{z}{s:0320}A wise choice. Sometimes a trusting heart is needed.{g}{x:00}
+
+@64
+{z}{s:0320}Why? Don't you trust us?{g}{x:00}
+
+@65
+{z}Well, that's the right answer. We...{w}{w} have no intention of going straight.{g}{x:00}
+
+@66
+{z}And I thought that was a fine bit of acting. Sharp of you to see through it.{g}{x:00}
+
+@67
+{z}{s:0320}Just as I thought. This is why I hate outlaws!{g}{x:00}
+
+@68
+{z}{s:0320}You tricked us!{g}{x:00}
+
+@69
+{z}{s:0320}You tricked us! I'll never forgive you!{g}{x:00}
+
+@70
+{z}{s:0320}So that's it... We almost got fooled.{g}{x:00}
+
+@71
+{z}{s:0320}Despicable lot. Even I've not been this angry in years.{g}{x:00}
+
+@72
+{z}{s:0320}Don't you lot give up... We can't lose to the likes of them...{g}{x:00}
+
+@73
+{z}{s:0320}Ugh... wiped out... by so few soldiers...{g}{x:00}
+
+@74
+{z}{s:0320}Sweeping away so many enemies... Tigre has truly come into its own.{g}{x:00}
+
+@75
+{z}{s:0320}Phew... it's over. We wiped out all those men...{g}{x:00}
+
+@76
+{z}{s:0320}Yes! The enemy's wiped out! We won!{g}{x:00}
+
+@77
+{z}{s:0320}We beat them all, though there were so many.{g}{x:00}
+
+@78
+{z}{s:0320}We won... I never thought we could.{g}{x:00}
+
+@79
+{z}{s:0320}We should have paid to be let off...{g}{x:00}
+
+@80
+{z}{s:0320}They really were despicable.{g}{x:00}
+
+@81
+{z}Even so... sweeping away that many enemies. You can afford to be more confident.{g}{x:00}
+
+@82
+{z}{s:0320}Phew... finally over. The job is done, at least.{g}{x:00}
+
+@83
+{z}Good thing we didn't let them off back there.{g}{x:00}
+
+@84
+{z}{s:0320}What a despicable lot. We almost got fooled.{g}{x:00}
+
+@85
+{z}{s:0320}We beat them all... We won.{g}{x:00}
+
+@86
+{z}I trust people too quickly... What would have happened if I'd forgiven them?{g}{x:00}
+
+@87
+{z}{s:0320}Wiped out... such a huge force...{g}{x:00}
+
+@88
+{z}That's youth for you. Such remarkable growth.{g}{x:00}
+
+@89
+{z}{s:0320}Facing me? Poor fool.{g}{x:00}
+
+@90
+{z}{s:0320}You'll regret attacking me! Come on!{g}{x:00}
+
+@91
+{z}{s:0320}Pirates should vanish from the world!{g}{x:00}
+
+@92
+{z}{s:0320}Come on, then.{g}{x:00}
+
+@93
+{z}{a:0001} now has 0 G!{g}{x:00}
+
+@94
+{z}{s:0320}Stop! That's my money...{g}{x:00}
+
+@95
+{z}{s:0320}It looks like we have to retreat...{g}{x:00}
+
+@96
+{z}{s:0320}Leaving a little behind wouldn't hurt...{g}{x:00}
+
+@97
+{z}{a:0004} now has 0 G!{g}{x:00}
+
+@98
+{z}{a:0002} now has 0 G!{g}{x:00}
+
+@99
+{z}{a:0003} now has 0 G!{g}{x:00}
+
+@100
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@101
+{z}{a:0005} now has 0 G!{g}{x:00}
+
+@102
+{z}{s:0320}Beaten again. Useless lot.{g}{x:00}
+
+@103
+{z}No choice... We fight. Let's go!{g}{x:00}
+
+@104
+{z}{s:0320}You're a mercenary captain without confidence?{g}{x:00}
+
+@105
+{z}Insolent whelp! Not worth keeping alive!{g}{x:00}
+
+@106
+{z}Enemy morale rose.{g}{x:00}
+
+@107
+{z}{s:0320}I'll beat you senseless!{g}{x:00}
+
+@108
+{z}{s:0320}The boss...{w}{w} You lot! I'll never forgive you!{g}{x:00}
+
+@109
+{z}{s:0320}No... give it back...{g}{x:00}
+
+@110
+{z}{s:0320}Right! Let's go!{g}{x:00}
+
+@111
+{z}{s:0320}I won't lose to pirates!{g}{x:00}
+
+@112
+{z}{s:0320}Finish them! Yaah!{g}{x:00}
+
+@113
+{z}Sailing into our waters was your bad luck.{g}{x:00}
+
+@114
+{z}Let's go!{g}{x:00}
+
+@115
+{z}I trust your judgement.{g}{x:00}
+
+@116
+{z}Aren't we doing rather well?{g}{x:00}
+
+@117
+{z}I wonder, have we grown stronger?{g}{x:00}
+
+@118
+{z}{s:0320}Ugh... damn...{g}{x:00}
+

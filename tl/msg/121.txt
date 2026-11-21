@@ -1,0 +1,348 @@
+@0
+{z}{s:0320}This time our enemy is a foreign king. We know not what arms or sorcery he wields.{g}{x:00}
+
+@1
+{z}But we have the Lord's blessing! Strike down the infidels and destroy them utterly!{g}{x:00}
+
+@2
+{z}{s:0320}It seems the enemy has not come yet.{g}{x:00}
+
+@3
+{z}{s:0320}Sir {a:0000}! So you have finally arrived.{g}{x:00}
+
+@4
+{z}The enemy may appear any moment. Prepare for battle at once!{g}{x:00}
+
+@5
+{z}{s:0320}Yes.{g}{x:00}
+
+@6
+{z}{s:0320}But where is the enemy supposed to come from?{g}{x:00}
+
+@7
+{z}Surely they're not coming over that mountain...{g}{x:00}
+
+@8
+{z}{s:0320}Looks like that's exactly what they're doing... Look!{g}{x:00}
+
+@9
+{z}{s:0320}Report, sire!{g}{x:00}
+
+@10
+{z}Ligurian troops have made camp in the marshland ahead!{g}{x:00}
+
+@11
+{z}{s:0320}Hmph...{w}{w} the infidels. They mean to block my march...{g}{x:00}
+
+@12
+{z}{s:0320}We should halt the army here and see what the enemy does...{g}{x:00}
+
+@13
+{z}{s:0320}...{g}{x:00}
+
+@14
+{z}{s:0320}Great King!{w}{w} Let us halt the march.{g}{x:00}
+
+@15
+{z}{s:0320}Cut him down.{g}{x:00}
+
+@16
+{z}{s:0320}Sire?{g}{x:00}
+
+@17
+{z}Cut that man down.{g}{x:00}
+
+@18
+{z}I, {a:009c}, have no use for cowards like him among my men...{g}{x:00}
+
+@19
+{z}{s:0320}Yes, sire!{g}{x:00}
+
+@20
+{z}{s:0320}Wait... Aaaargh!{g}{x:00}
+
+@21
+{z}Enemy morale rose.{g}{x:00}
+
+@22
+{z}{s:0320}So that is the king of the foreign tribes... He is strong...{g}{x:00}
+
+@23
+{z}{s:0320}{a:0005}... You think so too?{g}{x:00}
+
+@24
+{z}He is no ordinary man... If we let our guard down, we will be the ones cut down.{g}{x:00}
+
+@25
+{z}{s:0320}Quite so... {a:0000}, proceed with caution.{g}{x:00}
+
+@26
+{z}{s:0320}Yes!{g}{x:00}
+
+@27
+{z}{s:0320}We can't lose... We must protect Liguria...{g}{x:00}
+
+@28
+{z}{s:0320}You'll find out once we fight... We're strong!{g}{x:00}
+
+@29
+{z}{s:0320}This continent is in enough chaos already. I wish you'd stop stirring it up.{g}{x:00}
+
+@30
+{z}{s:0320}Such high morale...{w}{w} it's not like last time...{w}{w} It must be the Great King's leadership...{g}{x:00}
+
+@31
+{z}{s:0320}Each of us is an infidel in the other's eyes...{g}{x:00}
+
+@32
+{z}Even so, from here on is the land of the Ligurian people... We can never let you through!{g}{x:00}
+
+@33
+{z}{s:0320}Lord... Lend us your strength...{g}{x:00}
+
+@34
+{z}{s:0320}I shall see how strong Liguria truly is!{g}{x:00}
+
+@35
+{z}{s:0320}No way... Beaten already?{g}{x:00}
+
+@36
+{z}{s:0320}Damn...{w} what will become of Liguria?{g}{x:00}
+
+@37
+{z}{s:0320}They're strong... {a:0000}! Be careful!{g}{x:00}
+
+@38
+{z}{s:0320}Far stronger than the last lot... I let my guard down.{g}{x:00}
+
+@39
+{z}{s:0320}This is as far as I go... Forgive me, {a:0000}.{g}{x:00}
+
+@40
+{z}{s:0320}{a:0000}, Sir {a:008e}... Forgive me... I'm withdrawing.{g}{x:00}
+
+@41
+{z}{s:0320}Our order is annihilated. I leave the rest to you...{g}{x:00}
+
+@42
+{z}{s:0320}We shall withdraw ahead of you. Never let the infidels invade!{g}{x:00}
+
+@43
+{z}{s:0320}Lord... Grant strength to my comrades...{g}{x:00}
+
+@44
+{z}{s:0320}My name is {a:0000}! Are you the king?{g}{x:00}
+
+@45
+{z}{s:0320}You do not know me... Small wonder...{g}{x:00}
+
+@46
+{z}I am {a:009c}, king of all the lands east of here...{g}{x:00}
+
+@47
+{z}{s:0320}With so much territory, why do you keep invading?{g}{x:00}
+
+@48
+{z}{s:0320}Uniting every land is my dream. I will not let the likes of you stop me...{g}{x:00}
+
+@49
+{z}{s:0320}Even a slip of a girl takes the field. Are the western lands in such disorder?{g}{x:00}
+
+@50
+{z}Then all the more reason. I must set that disorder right and unite the lands!{g}{x:00}
+
+@51
+{z}{s:0320}Great King or whatever you are, you'll go no further!{g}{x:00}
+
+@52
+{z}{s:0320}Ha ha ha ha... A spirited young pup, I see...{g}{x:00}
+
+@53
+{z}But spirit alone will not leave a scratch on me.{g}{x:00}
+
+@54
+{z}{s:0320}Don't mock me! Compared to {a:0031}, you're nothing!{g}{x:00}
+
+@55
+{z}{s:0320}Women and children, all of you... Why do you go so far to fight?{g}{x:00}
+
+@56
+{z}{s:0320}If we let you invade, the lands of Liguria will vanish.{g}{x:00}
+
+@57
+{z}I will never let that happen!{g}{x:00}
+
+@58
+{z}{s:0320}Hmph...{w}{w} yet the people under my rule all welcome my reign...{g}{x:00}
+
+@59
+{z}{s:0320}Is that so? Perhaps only on the surface!{g}{x:00}
+
+@60
+{z}{s:0320}So you are the Great King {a:009c}... Allow me, {a:0004}, to cross swords with you.{g}{x:00}
+
+@61
+{z}{s:0320}Hmph...{w} Quite confident, I see.{g}{x:00}
+
+@62
+{z}Very well...{w}{w} You may yet amuse me!{g}{x:00}
+
+@63
+{z}{s:0320}Heh...{w}{w} An honour.{w}{w} Then I'll hold nothing back.{g}{x:00}
+
+@64
+{z}{s:0320}I am {a:0005}! Behold my arcane power!{g}{x:00}
+
+@65
+{z}{s:0320}{a:0005}, is it...{w}{w} The mage whose name is known even in the East.{g}{x:00}
+
+@66
+{z}What an unexpected prize... How interesting! Show me this arcane power of yours.{g}{x:00}
+
+@67
+{z}{s:0320}Here I come!{g}{x:00}
+
+@68
+{z}{s:0320}Priest of a foreign faith...{g}{x:00}
+
+@69
+{z}Does your god permit women and children on the battlefield?{g}{x:00}
+
+@70
+{z}Why does your god not grant you peace?{g}{x:00}
+
+@71
+{z}{s:0320}That...{w} that is...{g}{x:00}
+
+@72
+{z}{s:0320}I shall answer.{g}{x:00}
+
+@73
+{z}{s:0320}Your Grace!{g}{x:00}
+
+@74
+{z}{s:0320}Because it is a trial the Lord has given us...{g}{x:00}
+
+@75
+{z}Unless people join forces and overcome that trial, true peace will never come to this world!{g}{x:00}
+
+@76
+{z}{s:0320}Hm...{w}{w} Then am I one of the trials your god has set?{g}{x:00}
+
+@77
+{z}Ha ha ha ha...{w}{w} How amusing... I raised this expedition of my own will.{g}{x:00}
+
+@78
+{z}{s:0320}All things lie in the Lord's hands...{g}{x:00}
+
+@79
+{z}{s:0320}Then even if you perish here, call it the will of your god!{g}{x:00}
+
+@80
+{z}{s:0320}My guard is half destroyed... Foreign soldiers...{w} not bad at all.{g}{x:00}
+
+@81
+{z}{s:0320}Can it be... that I taste the shame of defeat...{g}{x:00}
+
+@82
+{z}Lands where war never ends... No wonder they are so used to battle...{g}{x:00}
+
+@83
+{z}It seems I must fall back for now...{g}{x:00}
+
+@84
+{z}All forces, retreat!{g}{x:00}
+
+@85
+{z}{s:0320}Argh...{w} It is too dangerous to fight on... All forces, retreat!{g}{x:00}
+
+@86
+{z}{s:0320}Ha ha ha ha... The enemy has fled with their tails between their legs!{g}{x:00}
+
+@87
+{z}Victory is mine!{g}{x:00}
+
+@88
+{z}{s:0320}They fled... We couldn't finish them off.{g}{x:00}
+
+@89
+{z}{s:0320}And the knights were wiped out too...{g}{x:00}
+
+@90
+{z}{s:0320}Sir {a:0000}... Thank you for your service.{g}{x:00}
+
+@91
+{z}Thanks to your strength, we repelled the infidels.{g}{x:00}
+
+@92
+{z}{s:0320}...{g}{x:00}
+
+@93
+{z}{s:0320}We shall return to Orbia.{g}{x:00}
+
+@94
+{z}We will report your deeds to the Pope. He will surely be pleased...{g}{x:00}
+
+@95
+{z}Now, farewell. May the Lord's guidance be with you...{g}{x:00}
+
+@96
+{z}{s:0320}Sir {a:0000}... Well done.{g}{x:00}
+
+@97
+{z}We have driven them off for now, but {a:009c} may appear again at any time...{g}{x:00}
+
+@98
+{z}When he does, His Holiness will surely send you orders...{g}{x:00}
+
+@99
+{z}I hope we may count on you again...{g}{x:00}
+
+@100
+{z}{s:0320}Understood.{g}{x:00}
+
+@101
+{z}{s:0320}Then we return to Orbia.{g}{x:00}
+
+@102
+{z}We will surely report your deeds to the Pope. He is sure to be pleased.{g}{x:00}
+
+@103
+{z}{s:0320}Yes...{g}{x:00}
+
+@104
+{z}{s:0320}Sir {a:008e}...{g}{x:00}
+
+@105
+{z}{s:0320}{a:0005}...{w}{w}{w} {a:0031} grows stronger by the day...{g}{x:00}
+
+@106
+{z}Unless he is defeated soon, even you will find him beyond your reach...{g}{x:00}
+
+@107
+{z}{s:0320}I understand...{g}{x:00}
+
+@108
+{z}{s:0320}Then, Sir {a:0000}, until we meet again!{g}{x:00}
+
+@109
+{z}{s:0320}Well, let's head back to town too...{g}{x:00}
+
+@110
+{z}{s:0320}Still, what a presence...{w} that man...{g}{x:00}
+
+@111
+{z}{s:0320}Yes...{w}{w} He earns his title of Great King.{g}{x:00}
+
+@112
+{z}{s:0320}If he comes again, I'll catch him myself.{g}{x:00}
+
+@113
+{z}{s:0320}Our lands are in such disorder that we let foreign tribes invade.{g}{x:00}
+
+@114
+{z}We must end this chaos soon...{g}{x:00}
+
+@115
+{z}The Lord must surely be blessing you.{g}{x:00}
+

@@ -1,0 +1,409 @@
+@0
+{z}{o}{d}{s:02ce}What did you buy?{n}
+I came for a sword.{g}{x:00}
+
+@1
+{z}{o}{d}{s:02ce}You can't carry a shield with a two-handed weapon. Did you know?{g}{x:00}
+
+@2
+{z}{f}{l:00c4}{s:02bc}Welcome.{g}{x:00}
+
+@3
+{z}{f}{l:00c4}{s:02bc}Welcome, sir.{g}{x:00}
+
+@4
+{z}{f}{l:00c4}{s:02bc}Anything else?{g}{x:00}
+
+@5
+{z}{f}{l:00c4}{s:02bc}Is there something else I can do for you?{g}{x:00}
+
+@6
+{z}You look rather shabby. Have you got any gold?{g}{x:00}
+
+@7
+{z}You're a mercenary, aren't you? Get yourself better gear, or you'll lose fights you could win.{g}{x:00}
+
+@8
+{z}You a mercenary captain? I've got just the goods for you.{g}{x:00}
+
+@9
+{z}Hey, you're {a:0000}, aren't you? I've been hearing a lot about you lately!{g}{x:00}
+
+@10
+{z}Ah, you are the renowned Lord {a:0000}. It is an honour to meet you.{g}{x:00}
+
+@11
+{z}Could you be Lord {a:0000}? Welcome, welcome!{g}{x:00}
+
+@12
+{z}Hey, {a:0000}. Been a while. Made some money yet?{g}{x:00}
+
+@13
+{z}How's business, {a:0000}? Buy plenty, won't you?{g}{x:00}
+
+@14
+{z}Ah, Lord {a:0000}. Thank you for your continued custom.{g}{x:00}
+
+@15
+{z}Good to see you, {a:0000}. I've something fine to show you today. It's pricey, mind.{g}{x:00}
+
+@16
+{z}Hey, {a:0000}. You're special. I'll bring out the good stuff.{g}{x:00}
+
+@17
+{z}Ah, Lord {a:0000}. For a valued customer, only our finest wares.{g}{x:00}
+
+@18
+{z}Hello, {a:0000}. Thanks to you, business is booming.{g}{x:00}
+
+@19
+{z}Ah, Lord {a:0000}. Thanks to you, business is thriving.{g}{x:00}
+
+@20
+{z}Hey, {a:0000}. I've got a real find today.{g}{x:00}
+
+@21
+{z}Ah, Lord {a:0000}. We have a real find today.{g}{x:00}
+
+@22
+{z}{f}{l:00c4}What'll it be?{x:00}
+
+@23
+{z}{f}{l:00c4}What would you like to do?{x:00}
+
+@24
+{z}Your pack is full. Sell something first.{g}{x:00}
+
+@25
+{z}Your pack is full. Please sell something first.{g}{x:00}
+
+@26
+{z}Look at the price! You don't have enough gold.{g}{x:00}
+
+@27
+{z}I'm afraid you don't have enough gold...{g}{x:00}
+
+@28
+{z}You've got nothing to sell.{g}{x:00}
+
+@29
+{z}It seems you have nothing to sell.{g}{x:00}
+
+@30
+{z}That's equipped. Do you really want to sell it?{x:00}
+
+@31
+{z}That item is equipped. Do you really wish to sell it?{x:00}
+
+@32
+{z}{f}{l:00c4}Come again.{g}{x:00}
+
+@33
+{z}{f}{l:00c4}We look forward to your next visit.{g}{x:00}
+
+@34
+{z}I can't buy that.{g}{x:00}
+
+@35
+{z}I cannot buy that, I'm afraid.{g}{x:00}
+
+@36
+{z}Thanks.{g}{x:00}
+
+@37
+{z}Thank you very much.{g}{x:00}
+
+@38
+{z}You're a green mercenary, aren't you? At least your gear looks the part.{g}{x:00}
+
+@39
+{z}Well, that's fine gear. Can you handle it?{g}{x:00}
+
+@40
+{z}That's fine gear you've got. I have good pieces here too.{g}{x:00}
+
+@41
+{z}Looks like there's nothing left to sell.{g}{x:00}
+
+@42
+{z}There is nothing left to sell.{g}{x:00}
+
+@43
+{z}A one-handed sword can't be held in the left hand alone. I'll unequip the left one.{g}{x:00}
+
+@44
+{z}A one-handed sword can't be held in the left hand alone. I'll unequip the left one for you.{g}{x:00}
+
+@100
+{z}{f}{l:0003}Let me see, which one should I take...{w}{w}{z}{f}{l:00c4}Miss, the world's at peace now,{j:0065}{x:00}
+
+@101
+ so why do you need a weapon?{w}{w}{w}{x:00}
+
+@102
+{z}{f}{l:0003}My work is protecting the lives of the townsfolk.{w}{w}{w}{x:00}
+
+@103
+{z}{f}{l:0003}I want to be ready in case of trouble...{w}{w}{w}{z}{f}{l:00c4}My, that's quite a job...{w}{w}{x:00}
+
+@105
+Luisa still lives{x:00}
+
+@106
+as orderly a life as she did{x:00}
+
+@107
+in the thick of the war.{x:00}
+
+@108
+A dissolute life would never{x:00}
+
+@109
+suit so earnest a woman...{x:00}
+
+@115
+{z}{f}{l:0003}Let me see, which one should I take...{w}{w}{z}{f}{l:00c4}Miss, the world's at peace now,{j:0074}{x:00}
+
+@116
+ so why are you looking for weapons?{w}{w}{w}{x:00}
+
+@117
+{z}{f}{l:0003}Well... {w}Just in case, I suppose.{w}{w}{w}{z}{f}{l:00c4}Hm...{w}{w}{x:00}
+
+@120
+For Luisa, war was not a{x:00}
+
+@121
+thing of the past.{x:00}
+
+@122
+Somewhere deep down she{x:00}
+
+@123
+felt that at the first chance,{x:00}
+
+@124
+someone would break the{x:00}
+
+@125
+peace again...{x:00}
+
+@130
+{z}{f}{l:0003}Let me see, which one should I take...{w}{w}{z}{f}{l:00c4}Miss, the world's at peace now, so why are you looking for weapons?{w}{w}{w}{x:00}
+
+@131
+{z}{f}{l:0003}To protect the townsfolk, together with my own knights.{w}{w}{w}{z}I can't let my weapons go uncared for.{w}{w}{w}{x:00}
+
+@132
+{z}{f}{l:00c4}Then, miss...{w} I mean, you're a newly dubbed knight, my lady?{w}{w}{w}{z}How very rude of me...{w}{w}{x:00}
+
+@133
+{z}{f}{l:0003}It's all right...{w}{w}{x:00}
+
+@134
+Luisa's wish came true: she{x:00}
+
+@135
+was knighted and given an{x:00}
+
+@136
+order of her own to lead.{x:00}
+
+@137
+She lives as plainly as in her{x:00}
+
+@138
+mercenary days, and her{x:00}
+
+@139
+men trust her for her lack of{x:00}
+
+@140
+airs...{x:00}
+
+@145
+{z}{f}{l:0003}Let me see, which one should I take...{w}{w}{x:00}
+
+@146
+{z}{f}{l:00c4}Miss, the world's at peace now, so why are you looking for weapons?{w}{w}{w}{x:00}
+
+@147
+{z}{f}{l:0003}I was a mercenary once, you know. A strong one, too.{w}{w}{w}{x:00}
+
+@148
+{z}{f}{l:0003}When I see weapons, I can't help feeling nostalgic...{w}{w}{w}{x:00}
+
+@149
+{z}{f}{l:0002}Huh?{w}{w}{z}{a:0003}, is that you?{w}{w}{x:00}
+
+@150
+{z}{f}{l:0003}{a:0002}! What are you doing here?{w}{w}{x:00}
+
+@151
+{z}{f}{l:0002}I took a liking to Ansbach. {a:0000} and {a:0001} told me it's your home town, Sis.{w}{w}{w}{w}{x:00}
+
+@152
+{z}{f}{l:0002}Of all places, I run into you at a weapon shop... As unromantic as ever, eh?{w}{w}{x:00}
+
+@153
+{z}{f}{l:0003}You're one to talk.{w}{w}{w}{x:00}
+
+@154
+{z}{f}{l:0003}On a lovely day like this, you're touring weapon shops instead of going on a date.{w}{w}{w}{w}{x:00}
+
+@155
+{z}{f}{l:0002}...Say what you like.{w}{w}{x:00}
+
+@156
+Luisa returned to her home{x:00}
+
+@157
+town and lives a well-ordered{x:00}
+
+@158
+life every day.{x:00}
+
+@159
+Ryuk, meanwhile, settled in{x:00}
+
+@160
+Ansbach as well, and though he{x:00}
+
+@161
+fights with Luisa almost daily,{x:00}
+
+@162
+he seems to be enjoying life{x:00}
+
+@163
+there, or so it is said...{x:00}
+
+@180
+{z}{f}{l:00cf}{s:02c7}If you want to win the tournament, get first-rate equipment.{g}{j:00b5}{x:00}
+
+@181
+{z}You'll need to spend at least 10000 G on it.{g}{x:00}
+
+@183
+{z}{f}{l:00cf}{s:02c7}Shopkeepers are very humble with people of high rank.{g}{j:00b8}{x:00}
+
+@184
+{z}That's because the highborn have lots of money.{g}{x:00}
+
+@186
+{z}{f}{l:00cf}{s:02c7}If you want more defence, buy expensive armour.{g}{j:00bb}{x:00}
+
+@187
+{z}A shield raises defence too, but then you can't use a powerful two-handed weapon, so attack drops.{g}{x:00}
+
+@189
+{z}{f}{l:00cf}{s:02c7}Shops don't deal in magic items like rings, charms or necklaces.{g}{j:00be}{x:00}
+
+@190
+{z}If you need them, go to the church.{g}{x:00}
+
+@192
+{z}{f}{l:00cf}{s:02c7}Here's a useful tip.{g}{j:00c1}{x:00}
+
+@193
+{z}Even with a shield equipped, you can still use brawling special moves.{g}{x:00}
+
+@195
+{z}{f}{l:00cf}{s:02c7}Shopkeepers only show their best items to regular customers.{g}{j:00c4}{x:00}
+
+@196
+{z}So keep visiting the shop and become a regular.{g}{x:00}
+
+@198
+{z}{f}{l:00cf}{s:02c7}Wielding a one-handed sword in each hand is called the two-sword style.{g}{j:00c7}{x:00}
+
+@199
+{z}But no training ground in any town seems to teach two-sword special moves.{g}{x:00}
+
+@201
+{z}{f}{l:00cf}{s:02c7}Expensive items have all sorts of extra effects.{g}{j:00ca}{x:00}
+
+@202
+{z}Some even raise things like leadership, I hear.{g}{x:00}
+
+@204
+{z}{f}{l:00cf}{s:02c7}Gems, works of art, books and curios can't be equipped.{g}{j:00cd}{x:00}
+
+@205
+{z}So they're no use in war.{g}{x:00}
+
+@207
+{z}{f}{l:00cf}{s:02c7}Shops buy items at half the market price.{g}{j:00d0}{x:00}
+
+@208
+{z}Anything under 10 G is rounded down, apparently.{g}{x:00}
+
+@210
+{z}{f}{l:00cf}{s:02c7}You're a mercenary captain, aren't you? Have you hired enough mercenaries?{g}{j:00d3}{x:00}
+
+@211
+{z}With too few, battles will be hard going.{g}{j:00d4}{x:00}
+
+@212
+{z}Spend your gold on hiring men before your own gear.{g}{x:00}
+
+@213
+{z}{f}{l:00cf}{s:02c7}Each town sells different items.{g}{j:00d6}{x:00}
+
+@214
+{z}If this town lacks what you want, try another.{g}{x:00}
+
+@216
+{z}{f}{l:00cf}{s:02c7}Prosperous towns have high prices.{g}{j:00d9}{x:00}
+
+@217
+{z}For cheap items, head to a run-down town on the frontier.{g}{x:00}
+
+@219
+{z}{f}{l:00cf}{s:02c7}What a shop sells depends on the special moves taught at the training ground.{g}{j:00dc}{x:00}
+
+@220
+{z}The shopkeeper buys stock in league with the training ground's master, apparently.{g}{j:00dd}{x:00}
+
+@221
+{z}If they teach spear moves, the shop will stock spears.{g}{x:00}
+
+@222
+{z}{f}{l:00cf}{s:02c7}One-handed weapons come in two kinds: swords and axes.{g}{j:00df}{x:00}
+
+@223
+{z}They attack less than two-handers, but your free left hand can hold a shield for better defence.{g}{x:00}
+
+@225
+{z}{f}{l:00cf}{s:02c7}You can only carry 20 items.{g}{j:00e2}{x:00}
+
+@226
+{z}Don't get greedy and buy too much.{g}{x:00}
+
+@228
+{z}{f}{l:00cf}{s:02c7}Two-handed weapons come in three kinds: swords, axes and spears.{g}{j:00e5}{x:00}
+
+@229
+{z}They hit hard, but with no shield, defence falls.{g}{j:00e6}{x:00}
+
+@230
+{z}Choose a weapon by whether you value attack or defence more.{g}{x:00}
+
+@231
+{z}{f}{l:00cf}{s:02c7}A weapon's power is proportional to its price.{g}{j:00e8}{x:00}
+
+@232
+{z}Even different kinds of weapon perform alike if their prices are close.{g}{x:00}
+
+@234
+{z}{f}{l:00cf}{s:02c7}Buy a variety of things and befriend the shopkeeper.{g}{j:00eb}{x:00}
+
+@235
+{z}He might show you the amazing items he usually hides.{g}{x:00}
+
+@237
+{z}{f}{l:00cf}{s:02c7}Holding a one-handed sword in each hand is the two-sword style.{g}{j:00ee}{x:00}
+
+@238
+{z}A one-handed axe can't go in the left hand, so axes can't be used that way.{g}{x:00}
+

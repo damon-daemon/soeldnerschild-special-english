@@ -1,0 +1,267 @@
+@0
+{z}{s:0320}Is that the village that's being hit?{g}{x:00}
+
+@1
+{z}{s:0320}Yes. These foreign tribes come from the east and plunder it.{g}{x:00}
+
+@2
+{z}{s:0320}Why come all this way to this village?{g}{x:00}
+
+@3
+{z}{s:0320}Because the continent is in turmoil. They mean to do their dirty work under cover of the wars.{g}{x:00}
+
+@4
+{z}{s:0320}We're out here fighting, and they think they can do as they please? Not likely!{g}{x:00}
+
+@5
+{z}{s:0320}Look! What are they up to?{g}{x:00}
+
+@6
+{z}{s:0320}They seem to be waiting for us. And they're armed.{g}{x:00}
+
+@7
+{z}{s:0320}Do we fight?{g}{x:00}
+
+@8
+{z}{s:0320}If we really anger the locals, it'll be trouble. Don't.{g}{x:00}
+
+@9
+{z}{s:0320}But they look weak...{g}{x:00}
+
+@10
+{z}{s:0320}I said no. The chief will be furious.{g}{x:00}
+
+@11
+{z}{s:0320}He'd be angrier if we ran away now. They'd take our people for cowards.{g}{x:00}
+
+@12
+{z}{s:0320}That would be galling...{g}{x:00}
+
+@13
+{z}...We have no choice but to fight.{g}{x:00}
+
+@14
+{z}{s:0320}Enemies have appeared!{g}{x:00}
+
+@15
+{z}{s:0320}And they're coming straight for us.{g}{x:00}
+
+@16
+{z}{s:0320}Right, meet them head on!{g}{x:00}
+
+@17
+{z}{s:0320}Hey, who do we hit first?{g}{x:00}
+
+@18
+{z}{s:0320}That old man or the girl. Start with the weak-looking ones.{g}{x:00}
+
+@19
+{z}{s:0320}Then I'll take the old man. You deal with the girl.{g}{x:00}
+
+@20
+{z}{s:0320}Got it. {w}{w}Still, the chief's taking his time...{g}{x:00}
+
+@21
+{z}{s:0320}Let's start without him. We'll show the chief what we can do!{g}{x:00}
+
+@22
+{z}{s:0320}{a:0001}, {a:0005}, the enemy is after you two.{g}{x:00}
+
+@23
+{z}Don't get isolated.{g}{x:00}
+
+@24
+{z}{s:0320}...I know.{g}{x:00}
+
+@25
+{z}{s:0320}Isn't the chief here yet...{g}{x:00}
+
+@26
+{z}{s:0320}Still not here...{g}{x:00}
+
+@27
+{z}{s:0320}Oh? He's finally come...{g}{x:00}
+
+@28
+{z}{s:0320}What? Someone's in the way?{g}{x:00}
+
+@29
+{z}{s:0320}Looks like mercenaries.{g}{x:00}
+
+@30
+{z}{s:0320}Mercenaries... Then cut them down!{g}{x:00}
+
+@31
+{z}{s:0320}It's been going for a while!{g}{x:00}
+
+@32
+{z}{s:0320}What a state... beaten up by mere mercenaries.{g}{x:00}
+
+@33
+{z}{s:0320}We can't leave it to them alone. Let's lend a hand!{g}{x:00}
+
+@34
+{z}{s:0320}Right, the village can wait. At them!{g}{x:00}
+
+@35
+{z}{s:0320}Hm, they're putting up a fight. Or maybe the mercenaries are just weak.{g}{x:00}
+
+@36
+{z}{s:0320}Ha ha... Must be. A perfect warm-up!{g}{x:00}
+
+@37
+{z}{s:0320}Plundering the village comes later, as a treat. First a good brawl with the mercenaries!{g}{x:00}
+
+@38
+{z}{s:0320}So that's their leader... Now the real fight begins!{g}{x:00}
+
+@39
+{z}{s:0320}So that's the leader... Now the real fight begins.{g}{x:00}
+
+@40
+{z}{s:0320}That's the leader? He doesn't look very strong.{g}{x:00}
+
+@41
+{z}{s:0320}The chief has come, and we're still struggling with his men...{g}{x:00}
+
+@42
+{z}{s:0320}The chief has arrived... Hmm... what's to be done...{g}{x:00}
+
+@43
+{z}{s:0320}I'm the last one...{g}{x:00}
+
+@44
+{z}{s:0320}They're strong... Me, beaten...{g}{x:00}
+
+@45
+{z}{s:0320}Yes! We won!{g}{x:00}
+
+@46
+{z}{s:0320}Phew... Now the village won't be plundered again.{g}{x:00}
+
+@47
+{z}{s:0320}The enemy is wiped out! Now you know how fearsome the Tigre are!{g}{x:00}
+
+@48
+{z}{s:0320}Looks like it's over. Good work, everyone.{g}{x:00}
+
+@49
+{z}{s:0320}It's over... That gave us a good deal of trouble.{g}{x:00}
+
+@50
+{z}{s:0320}From the look of them, they won't be coming back.{g}{x:00}
+
+@51
+{z}No need to chase them now. The mission is accomplished.{g}{x:00}
+
+@52
+{z}{s:0320}Going by that, they won't plunder this village again.{g}{x:00}
+
+@53
+{z}The villagers can live in peace.{g}{x:00}
+
+@54
+{z}{s:0320}Going by that, they haven't the nerve to come back.{g}{x:00}
+
+@55
+{z}Scared of us... Rather sweet, aren't they?{g}{x:00}
+
+@56
+{z}{s:0320}Going by that, they won't show up here again.{g}{x:00}
+
+@57
+{z}They'd best keep quiet in their own country.{g}{x:00}
+
+@58
+{z}{s:0320}Going by that, they'll not come to this village again.{g}{x:00}
+
+@59
+{z}Our task is done.{g}{x:00}
+
+@60
+{z}{s:0320}I'm the leader! Here I come!{g}{x:00}
+
+@61
+{z}{s:0320}I told you I was the leader, didn't I? The strongest of the lot!{g}{x:00}
+
+@62
+{z}{s:0320}Go back to your own land and behave!{g}{x:00}
+
+@63
+{z}{s:0320}I'll tell you something...{g}{x:00}
+
+@64
+{z}{s:0320}If you think I'm weak because I'm a woman, you're quite wrong!{g}{x:00}
+
+@65
+{z}{s:0320}I'll not lose to the likes of you.{g}{x:00}
+
+@66
+{z}{s:0320}Why... would I lose to the likes of them...{g}{x:00}
+
+@67
+{z}{s:0320}How could I lose to this lot...{g}{x:00}
+
+@68
+{z}{s:0320}Captain... sorry...{g}{x:00}
+
+@69
+{z}{s:0320}...This is as far as I go...{g}{x:00}
+
+@70
+{z}{s:0320}I'm sorry... retreating...{g}{x:00}
+
+@71
+{z}{s:0320}As I thought, the girl is no match. Next, that young man who looks like the captain.{g}{x:00}
+
+@72
+{z}{s:0320}{a:0000}, you're next, they say. Be careful.{g}{x:00}
+
+@73
+{z}{s:0320}{a:0000}, be careful!{g}{x:00}
+
+@74
+{z}{s:0320}Captain, you're next, they say. Be careful.{g}{x:00}
+
+@75
+{z}{s:0320}{a:0000}, be careful, now.{g}{x:00}
+
+@76
+{z}{s:0320}Of course I beat an old man. Next, the captain; he looks more of a challenge.{g}{x:00}
+
+@77
+{z}{s:0320}{a:0000}, don't lose! I'm doing my best too.{g}{x:00}
+
+@78
+{z}{s:0320}{a:0000}, be careful. You're their target.{g}{x:00}
+
+@79
+{z}{s:0320}Captain, be careful. They're after you.{g}{x:00}
+
+@80
+{z}{s:0320}{a:0000}, don't you lose! We've nothing left to fall back on!{g}{x:00}
+
+@81
+{z}{s:0320}The chief is down... {w}{w}Impossible...{g}{x:00}
+
+@82
+{z}If men like these have their eye on us, we'd need more than one life!{g}{x:00}
+
+@83
+{z}Pull out at once! We'll never come to this village again!{g}{x:00}
+
+@84
+{z}Go!{g}{x:00}
+
+@85
+{z}Border disputes, brigands, pirates... This land is full of trouble. It makes their work easy.{g}{x:00}
+
+@86
+{z}{s:0320}Right, that settles it. Charge! Go!{g}{x:00}
+
+@87
+{z}I can't stand people like you who only think of themselves.{g}{x:00}
+
+@88
+{z}Sorry, but I'm going all out.{g}{x:00}
+

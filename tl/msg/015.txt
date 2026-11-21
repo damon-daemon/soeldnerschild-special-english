@@ -1,0 +1,561 @@
+@0
+{z}{f}{l:00d3}{s:02cb}Lovely weather!{g}{x:00}
+
+@1
+{z}{f}{l:00ce}{s:02c6}They say mercenaries earn good money. But dying scares me.{g}{x:00}
+
+@10
+{z}{f}{l:0001}{s:0001}It's quiet here...{g}{z}Coming to a place like this, I can forget the days of fighting...{g}{x:00}
+
+@11
+{z}{f}{l:0001}It's restful, isn't it? What do you think, {a:0000}?{g}{x:00}
+
+@12
+{z}{f}{l:0000}{s:0000}No... the opposite...{g}{z}When it's quiet, I remember that time...{g}{z}{f}{l:00e7}{j:000d}{x:00}
+
+@13
+ I don't want to talk about that...{g}{x:00}
+
+@20
+{z}{f}{l:0000}{s:0000}I don't want to remember either!{g}{x:00}
+
+@21
+{z}{f}{l:0000}But... when I think of Uncle {a:00aa}, I feel guilty for being alive!{g}{x:00}
+
+@22
+{z}{f}{l:00e7}How can you say that... Father... protected us...{g}{j:0017}{x:00}
+
+@23
+{z}Talking like that is unfair to Father...{w} It's cruel!{g}{z}{f}{l:0000}...I'm sorry, {a:0001}.{g}{x:00}
+
+@24
+{z}{f}{l:00e7}Many people helped us...{w} It's thanks to them that we're alive!{g}{x:00}
+
+@27
+{z}{f}{l:0000}You are right...{g}{x:00}
+
+@30
+{z}{f}{l:0000}{s:0000}We're alive today because we met {a:0023} back then...{g}{x:00}
+
+@31
+{z}{f}{l:0000}But... Uncle {a:00aa} will not come back...{g}{x:00}
+
+@32
+{z}{f}{l:00e7}{s:0001}{a:0000}, stop it!{g}{z}We could barely manage to escape. Don't keep blaming yourself.{g}{x:00}
+
+@33
+{z}{f}{l:0001}Instead, we should be grateful to {a:0023} and Father...{g}{z}Grateful that we're alive, and that we can fight together under him.{g}{x:00}
+
+@34
+{z}{f}{l:0000}You're right... I am truly glad I met him. Thank you, {a:0001}.{g}{x:00}
+
+@100
+{z}{f}{l:0060}{s:0060}Ready?{y:0000650066}{x:00}
+
+@101
+{z}{f}{l:0060}I will scatter these small fry. Let's go!{g}{x:00}
+
+@102
+{z}{f}{l:0060}Don't dawdle, hurry!{g}{x:00}
+
+@103
+{z}{f}{l:0060}{s:0060}Good work.{g}{z}Even I find it hard to lay hands on the common people,{j:0068}{x:00}
+
+@104
+ but the causes of disorder must be removed while small.{g}{z}That also helps end the wars sooner...{w}{j:0069}{x:00}
+
+@105
+ You understand?{g}{x:00}
+
+@110
+{z}{f}{l:0001}{s:0001}He isn't here either...{g}{x:00}
+
+@119
+{z}--- (Below: lines of ordinary people in the square) ---{g}{x:00}
+
+@120
+{z}{f}{l:00d2}{s:02ca}His Majesty Friedolm II has one daughter.{g}{j:0079}{x:00}
+
+@121
+{z}Her name is Lady Margarete, a beauty, but strong-willed.{g}{j:007a}{x:00}
+
+@122
+{z}His Majesty reportedly means her for his heir. The Holy Rana Empire may see its first empress.{g}{x:00}
+
+@123
+{z}{f}{l:00d2}{s:02ca}I hear His Majesty Feuerbach is in poor health lately.{g}{j:007c}{x:00}
+
+@124
+{z}With the wars not yet over, to fall ill is a grave matter for the realm.{g}{x:00}
+
+@126
+{z}{f}{l:00d2}{s:02ca}People say very bad things about Lord Clovis.{g}{j:007f}{x:00}
+
+@127
+{z}Judging by the outcome, he's one of the men who caused the wars...{g}{z}But all he did, he did for His Majesty.{g}{j:0080}{x:00}
+
+@128
+{z}I once served in Lord Clovis's household. His loyalty is genuine.{g}{x:00}
+
+@129
+{z}{f}{l:00d2}{s:02ca}Chairman Giovanni relies greatly on Lord Alberto.{g}{j:0082}{x:00}
+
+@130
+{z}After all, nobody but Lord Alberto will listen to his opinions.{g}{x:00}
+
+@132
+{z}{f}{l:00d2}{s:02ca}Staking one's life to fight for the woman one loves...{g}{j:0085}{x:00}
+
+@133
+{z}A nation swayed by private feelings is a nuisance.{g}{j:0086}{x:00}
+
+@134
+{z}Has he ever thought of the people who suffered in the war?{g}{x:00}
+
+@135
+{z}{f}{l:00d2}{s:02ca}Do you know the man who rules the pirates off the Kingdom of Fenrir?{g}{j:0088}{x:00}
+
+@136
+{z}His name is Hawkins, a sharp-witted man.{g}{j:0089}{x:00}
+
+@137
+{z}They say he was once a merchant fleet captain. What changed him, I wonder...{g}{x:00}
+
+@138
+{z}{f}{l:00d2}{s:02ca}The Holy Rana Empire has four knightly orders.{g}{j:008b}{x:00}
+
+@139
+{z}The Holy Emperor's Lightning, Thunder, Thunderfire and Swift Thunder Knights.{g}{z}All of them have "thunder" in the name.{g}{j:008c}{x:00}
+
+@140
+{z}The Holy Emperor's Lightning Knights under Lord Oswald are said to be the strongest.{g}{x:00}
+
+@141
+{z}{f}{l:00d2}{s:02ca}The Duchy of Saxen has four knightly orders.{g}{j:008e}{x:00}
+
+@142
+{z}The Twin-Headed Dragon, Rising Dragon, Fire Dragon and Wyvern Knights.{g}{z}All of them have "dragon" in the name.{g}{j:008f}{x:00}
+
+@143
+{z}The Twin-Headed Dragon Knights under Lord Ferdinand seem the strongest.{g}{x:00}
+
+@144
+{z}{f}{l:00d2}{s:02ca}Lord Clovis is said to hold great hopes for Lord Francois.{g}{j:0091}{x:00}
+
+@145
+{z}But the other Knight Commanders don't like that, it seems.{g}{j:0092}{x:00}
+
+@146
+{z}I hope it doesn't crack the nation's unity...{g}{x:00}
+
+@147
+{z}{f}{l:00d2}{s:02ca}The Republic of Estania was formed by nobles who wished to avoid war.{g}{j:0094}{x:00}
+
+@148
+{z}At first it declared neutrality, so its arms build-up lagged behind other nations.{g}{j:0095}{x:00}
+
+@149
+{z}So Lord Lorenzo is said to be desperate to build up the army.{g}{x:00}
+
+@150
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Mylard is an island nation, so its navy is strong.{g}{j:0097}{x:00}
+
+@151
+{z}With so many pirates nearby, it probably needed one to hunt them down.{g}{j:0098}{x:00}
+
+@152
+{z}So Mylard holds control of all the nearby seas.{g}{x:00}
+
+@153
+{z}{f}{l:00d2}{s:02ca}Queen Christina IV is unlike other rulers: she has no ambition.{g}{j:009a}{x:00}
+
+@154
+{z}She only wishes to save the people suffering in the wars.{g}{x:00}
+
+@156
+{z}{f}{l:00d2}{s:02ca}The Holy Rana Empire grew by settling the eastern lands.{g}{j:009d}{x:00}
+
+@157
+{z}But fierce foreign tribes live in the eastern mountains.{g}{j:009e}{x:00}
+
+@158
+{z}Frontier villages are often raided.{g}{x:00}
+
+@159
+{z}{f}{l:00d2}{s:02ca}King Feuerbach has one son.{g}{j:00a0}{x:00}
+
+@160
+{z}Grand Duke Manfried, a gentle soul who loves plants.{g}{x:00}
+
+@162
+{z}{f}{l:00d2}{s:02ca}Knight Commander Francois had three siblings.{g}{j:00a3}{x:00}
+
+@163
+{z}But the eldest sister was the wife of the Duke of Saxen, so the other two sided with Saxen too.{g}{j:00a4}{x:00}
+
+@164
+{z}Why did only Lord Francois stay in Grandcour, I wonder...{g}{x:00}
+
+@165
+{z}{f}{l:00d2}{s:02ca}Have you heard the rumour that conscription will soon begin?{g}{j:00a6}{x:00}
+
+@166
+{z}They say it raises soldiers from the citizens in the name of duty, without paying them.{g}{j:00a7}{x:00}
+
+@167
+{z}It saves the state paying mercenaries, but for us citizens it's a dreadful burden.{g}{x:00}
+
+@168
+{z}{f}{l:00d2}{s:02ca}Grand Duke Ethelbald is the king's younger brother.{g}{j:00a9}{x:00}
+
+@169
+{z}But the king handles politics and the prince the military, so he is overshadowed and unpopular.{g}{j:00aa}{x:00}
+
+@170
+{z}He seems to think the nation's prestige depends on him.{g}{x:00}
+
+@171
+{z}{f}{l:00d2}{s:02ca}Fenrir is the oldest of the six nations.{g}{j:00ac}{x:00}
+
+@172
+{z}Since the first queen, Christina, every ruler has been a woman.{g}{j:00ad}{x:00}
+
+@173
+{z}Perhaps that is why women have more say than men.{g}{z}I can't stand up to my wife either...{g}{x:00}
+
+@174
+{z}{f}{l:00d4}{s:02c6}The Guild watches the nations bleed and sucks up the profit.{g}{j:00af}{x:00}
+
+@175
+{z}They are parasites on war, you might say.{g}{j:00b0}{x:00}
+
+@176
+{z}There's a rumour they arrange jobs to keep the continent's balance of power.{g}{x:00}
+
+@177
+{z}{f}{l:00d4}{s:02c6}The foreign tribes follow a religion other than the Wigg faith.{g}{j:00b2}{x:00}
+
+@178
+{z}To them the Wigg faith is heresy, so they are bent on wiping out its followers.{g}{j:00b3}{x:00}
+
+@179
+{z}They often appear around this town too. Be careful outside.{g}{x:00}
+
+@180
+{z}{f}{l:00d4}{s:02c6}Publicly, the Pope laments the strife filling the world.{g}{j:00b5}{x:00}
+
+@181
+{z}But in private, like the lords, he fears losing his own lands and authority.{g}{j:00b6}{x:00}
+
+@182
+{z}Call that a man of the cloth!{g}{x:00}
+
+@183
+{z}{f}{l:00d2}{s:02ca}His Majesty Friedolm II had three younger brothers.{g}{j:00b8}{x:00}
+
+@184
+{z}But to make his position unshakable, he had all three assassinated.{g}{j:00b9}{x:00}
+
+@185
+{z}Brothers killing each other. What a cruel world.{g}{x:00}
+
+@186
+{z}{f}{l:00d2}{s:02ca}Saxen's independence plunged the continent into war.{g}{j:00bb}{x:00}
+
+@187
+{z}The nobles' power struggles always make us citizens suffer.{g}{j:00bc}{x:00}
+
+@188
+{z}If all the nobles vanished, perhaps the wars would end.{g}{x:00}
+
+@189
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Grandcour is the rightful successor to Ragail.{g}{j:00be}{x:00}
+
+@190
+{z}Because His Majesty Karl IX, the former king of Ragail, reigns there.{g}{j:00bf}{x:00}
+
+@191
+{z}Saxen and Estania are the lands of those who betrayed His Majesty Karl IX.{g}{x:00}
+
+@192
+{z}{f}{l:00d2}{s:02ca}Knight Commander Alberto wields two swords, a rarity on the continent.{g}{j:00c1}{x:00}
+
+@193
+{z}In his youth he kept order in the Kingdom of Ragail.{g}{j:00c2}{x:00}
+
+@194
+{z}Even now, brigands and pirates are said to tremble at the mere mention of Lord Alberto's name.{g}{x:00}
+
+@195
+{z}{f}{l:00d2}{s:02ca}Grand Duke Ethelbald dislikes Prince Willem's conduct.{g}{j:00c4}{x:00}
+
+@196
+{z}Because Prince Willem wages war for his fiancee.{g}{j:00c5}{x:00}
+
+@197
+{z}To grant her dream, they say, of seeing a horizon that goes on forever.{g}{x:00}
+
+@198
+{z}{f}{l:00d2}{s:02ca}There is said to be a pirate hideout on an island off Fenrir.{g}{j:00c7}{x:00}
+
+@199
+{z}Yet I never hear of Fenrir's merchant fleet being attacked.{g}{j:00c8}{x:00}
+
+@200
+{z}Why don't they raid Fenrir? Strange, isn't it?{g}{x:00}
+
+@201
+{z}{f}{l:00d2}{s:02ca}Since Laszlo became Chancellor, our lives only get harder...{g}{j:00ca}{x:00}
+
+@202
+{z}Taxes are collected harshly, and every new law suits the nobles.{g}{x:00}
+
+@204
+{z}{f}{l:00d2}{s:02ca}The present queen, Lady Leutgard, is a second wife.{g}{j:00cd}{x:00}
+
+@205
+{z}So she is not related by blood to Prince Manfried.{g}{x:00}
+
+@207
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Grandcour has four knightly orders.{g}{j:00d0}{x:00}
+
+@208
+{z}The Sun, Moonlight, Comet and Meteor Knights.{g}{z}All of them have names tied to the "stars".{g}{j:00d1}{x:00}
+
+@209
+{z}The Sun Knights under Lord Francois are said to be the strongest.{g}{x:00}
+
+@210
+{z}{f}{l:00d2}{s:02ca}The Republic of Estania has four knightly orders.{g}{j:00d3}{x:00}
+
+@211
+{z}The Purple Cloud, Heat Haze, Firelight and Phantasm Knights.{g}{z}All of them have vague, hazy names.{g}{j:00d4}{x:00}
+
+@212
+{z}The Purple Cloud Knights under Lord Alberto are said to be the strongest.{g}{x:00}
+
+@213
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Mylard used to stay neutral in the continent's quarrels.{g}{j:00d6}{x:00}
+
+@214
+{z}But once Prince Willem began urging expansion onto the continent, the whole nation's thinking changed.{g}{j:00d7}{x:00}
+
+@215
+{z}The brave prince, always at the front, is very popular.{g}{x:00}
+
+@216
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Fenrir is not rich in resources.{g}{j:00d9}{x:00}
+
+@217
+{z}Yet its military power is second to none.{g}{j:00da}{x:00}
+
+@218
+{z}Where do they find such war funds, I wonder?{g}{x:00}
+
+@219
+{z}{f}{l:00d2}{s:02ca}Lately I often see Chancellor Laszlo enter the church.{g}{j:00dc}{x:00}
+
+@220
+{z}He doesn't seem a devout believer... What is his business?{g}{x:00}
+
+@222
+{z}{f}{l:00d2}{s:02ca}The Duchy of Saxen broke away from the Kingdom of Ragail.{g}{j:00df}{x:00}
+
+@223
+{z}Lord Feuerbach loathes Clovis, the Regent of Grandcour.{g}{j:00e0}{x:00}
+
+@224
+{z}That seems to be part of why he broke away.{g}{x:00}
+
+@225
+{z}{f}{l:00d2}{s:02ca}King Karl IX of Grandcour is still a small child.{g}{j:00e2}{x:00}
+
+@226
+{z}So the real power lies with the Regent, Lord Clovis.{g}{j:00e3}{x:00}
+
+@227
+{z}Many nobles at home don't take kindly to that, they say.{g}{x:00}
+
+@228
+{z}{f}{l:00d2}{s:02ca}The Republic of Estania is ruled by the Noble Council.{g}{j:00e5}{x:00}
+
+@229
+{z}But republic or not, sovereignty rests with a small privileged class.{g}{j:00e6}{x:00}
+
+@230
+{z}For us townsfolk, it just means several rulers instead of one. No different from a monarchy.{g}{x:00}
+
+@231
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Mylard has four knightly orders.{g}{j:00e8}{x:00}
+
+@232
+{z}If I recall, they are the White Whale, Wave Fang, Sea Tiger and Whirlpool Knights.{g}{z}Every one has a name linked to the sea.{g}{j:00e9}{x:00}
+
+@233
+{z}They say the White Whale Knights, led by Prince Willem, are the strongest.{g}{x:00}
+
+@234
+{z}{f}{l:00d2}{s:02ca}The Kingdom of Fenrir has four knightly orders.{g}{j:00eb}{x:00}
+
+@235
+{z}If I recall, they are the Rime, Ice Fog, Ice Ring and Ice Blade Knights.{g}{z}Every one has "ice" in its name.{g}{j:00ec}{x:00}
+
+@236
+{z}They say the Rime Knights, led by Lady Frederica, are the strongest.{g}{x:00}
+
+@237
+{z}{f}{l:00d3}{s:02cb}Lord Oswald of the Holy Emperor's Lightning Knights never takes his helmet off in public.{g}{j:00ee}{x:00}
+
+@238
+{z}I wonder if he has some past he'd rather nobody knew about.{g}{x:00}
+
+@240
+{z}{f}{l:00d3}{s:02cb}Commanders Ferdinand and Theresia are siblings of Queen Leutgard.{g}{j:00f1}{x:00}
+
+@241
+{z}And Francois, the Knight Commander of Grandcour, is apparently the youngest brother.{g}{j:00f2}{x:00}
+
+@242
+{z}How sad, for siblings to be split between enemy sides.{g}{x:00}
+
+@243
+{z}{f}{l:00d3}{s:02cb}Lord Francois of the Sun Knights is the most handsome man on the continent.{g}{j:00f4}{x:00}
+
+@244
+{z}My granddaughter saw him in town once, and since then she has had eyes for no other man.{g}{j:00f5}{x:00}
+
+@245
+{z}If only I were a little younger...{g}{x:00}
+
+@246
+{z}{f}{l:00d3}{s:02cb}Lady Bianca, Knight Commander of the Heat Haze Knights, is Lord Alberto's granddaughter.{g}{j:00f7}{x:00}
+
+@247
+{z}Some malicious folk say she only became Knight Commander on her grandfather's coat-tails.{g}{j:00f8}{x:00}
+
+@248
+{z}But though she's a young woman, she's said to be remarkably capable.{g}{z}They say she will surpass her grandfather one day.{g}{x:00}
+
+@249
+{z}{f}{l:00d3}{s:02cb}They say King Alexios III is terribly soft on Prince Willem.{g}{j:00fa}{x:00}
+
+@250
+{z}He listens to whatever the Prince says and lets him do as he pleases.{g}{j:00fb}{x:00}
+
+@251
+{z}Prince Willem is a sensible man, so I suppose the King feels safe leaving things to him.{g}{x:00}
+
+@252
+{z}{f}{l:00d3}{s:02cb}Queen Christina IV is a devout believer in the Wigg faith.{g}{j:00fd}{x:00}
+
+@253
+{z}She holds that the Pope's voice is as good as the voice of God.{g}{j:00fe}{x:00}
+
+@254
+{z}That's why she could not forgive the Holy Rana Empire for opposing the Pope.{g}{x:00}
+
+@255
+{z}{f}{l:00d3}{s:02cb}Lord Michael of the Thunder Knights is a proud man.{g}{j:0100}{x:00}
+
+@256
+{z}They say that if beaten, he would choose death over capture.{g}{x:00}
+
+@258
+{z}{f}{l:00d3}{s:02cb}They say Lord Ferdinand of the Twin-Headed Dragon Knights is very hot-blooded.{g}{j:0103}{x:00}
+
+@259
+{z}His soldiers fear his scolding from behind more than the enemy in front of them, I hear.{g}{x:00}
+
+@261
+{z}{f}{l:00d3}{s:02cb}Every Knight Commander but Lord Francois seems on bad terms with Lord Clovis.{g}{j:0106}{x:00}
+
+@262
+{z}Lord Wayne of the Moonlight Knights is said to lead the anti-Clovis faction.{g}{x:00}
+
+@264
+{z}{f}{l:00d3}{s:02cb}Chairman Giovanni is a timid man.{g}{j:0109}{x:00}
+
+@265
+{z}He was made Chairman because of his noble family, but in truth Lord Lorenzo holds the power.{g}{j:010a}{x:00}
+
+@266
+{z}After all, half the land in Estania belongs to Lord Lorenzo.{g}{x:00}
+
+@267
+{z}{f}{l:00d3}{s:02cb}Prince Willem of the White Whale Knights is a reliable man.{g}{j:010c}{x:00}
+
+@268
+{z}Prince though he is, he always fights on the dangerous front line.{g}{j:010d}{x:00}
+
+@269
+{z}I wish my own son would follow his example.{g}{x:00}
+
+@270
+{z}{f}{l:00d3}{s:02cb}Queen Christina IV's mother gave up the throne while still young.{g}{j:010f}{x:00}
+
+@271
+{z}It was to steady the government early, they say. Since abdicating, she has supported the Queen from the shadows.{g}{x:00}
+
+@273
+{z}{f}{l:00d3}{s:02cb}Emperor Friedolm II is on bad terms with the Pope.{g}{j:0112}{x:00}
+
+@274
+{z}He resents the Pope meddling in the Empire's internal affairs, it seems.{g}{x:00}
+
+@276
+{z}{f}{l:00d3}{s:02cb}Lady Theresia of the Rising Dragon Knights is said to cherish her own men.{g}{j:0115}{x:00}
+
+@277
+{z}That's why all her soldiers are so loyal to her, they say.{g}{x:00}
+
+@279
+{z}{f}{l:00d3}{s:02cb}Poor King Karl IX.{g}{j:0118}{x:00}
+
+@280
+{z}Such a young child, and he must bear such heavy responsibility.{g}{j:0119}{x:00}
+
+@281
+{z}At his age he ought to be out playing...{g}{x:00}
+
+@282
+{z}{f}{l:00d3}{s:02cb}Lord Alberto of the Purple Cloud Knights once abandoned the way of the sword.{g}{j:011b}{x:00}
+
+@283
+{z}I heard he had grown sick of the killing. They say he really sided with Estania to avoid war.{g}{j:011c}{x:00}
+
+@284
+{z}But he could not stand by while the people were exposed to the flames of war, so he returned to the sword.{g}{x:00}
+
+@285
+{z}{f}{l:00d3}{s:02cb}Prince Willem has a betrothed, you know.{g}{j:011e}{x:00}
+
+@286
+{z}Her name is Mary, a noble's daughter.{g}{j:011f}{x:00}
+
+@287
+{z}Oh, she's such a darling girl. She and Prince Willem make a lovely pair.{g}{x:00}
+
+@288
+{z}{f}{l:00d3}{s:02cb}Lady Frederica and Lord Gustav of the Rime Knights are husband and wife.{g}{j:0121}{x:00}
+
+@289
+{z}Even other nations' knightly orders respect the tactics they share as husband and wife.{g}{j:0122}{x:00}
+
+@290
+{z}Many people hope for a child from the two of them.{g}{x:00}
+
+@291
+{z}{f}{l:00d0}{s:02c8}I'm going to get strong and join the Knights of St. Matthaus!{g}{j:0124}{x:00}
+
+@292
+{z}Then I'll fight the bad foreign tribes with Lord Ignatius!{g}{x:00}
+
+@294
+{z}{f}{l:00d1}{s:02c9}A man called Cortes attacked my village.{g}{j:0127}{x:00}
+
+@295
+{z}And my mum and dad both died...{g}{j:0128}{x:00}
+
+@296
+{z}Mister, please beat Cortes for me!{g}{x:00}
+

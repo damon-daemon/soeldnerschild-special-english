@@ -1,0 +1,495 @@
+@0
+{z}{s:0320}So you are {a:0000}, sent by {p:01}...{g}{x:00}
+
+@1
+{z}{s:0320}Would you destroy even Estania, which wishes only for neutrality...{g}{x:00}
+
+@2
+{z}I am appalled by {p:01}'s hunger for land...{g}{x:00}
+
+@3
+{z}{s:0320}If you'd kept quiet, we wouldn't have lifted a hand against you.{g}{x:00}
+
+@4
+{z}Besides, I hear it was you who dragged Estania into the wars in the first place!{g}{x:00}
+
+@5
+{z}{s:0320}It was unavoidable, for our defence! What would a whelp like you know!{g}{x:00}
+
+@6
+{z}{s:0320}...{g}{x:00}
+
+@7
+{z}{a:0076}... They say {a:0000}'s strength ranks among the top five on the continent...{g}{x:00}
+
+@8
+{z}{s:0320}And you wish me to cut down {a:0000}, my lord...{g}{x:00}
+
+@9
+{z}{s:0320}In our country, only you could defeat him.{g}{x:00}
+
+@10
+{z}There is no one else I can rely on...{g}{x:00}
+
+@11
+{z}{s:0320}Understood...{w} But I have a condition.{g}{x:00}
+
+@12
+{z}Should we win this battle, I ask that you let the peasants' representatives sit on the Council.{g}{x:00}
+
+@13
+{z}{s:0320}...{w}{w} Very well.{g}{x:00}
+
+@14
+{z}{s:0320}And one more thing...{g}{x:00}
+
+@15
+{z}Whatever the outcome, I beg you to do nothing unseemly.{g}{x:00}
+
+@16
+{z}{s:0320}Of course... I too am prepared.{g}{x:00}
+
+@17
+{z}{s:0320}Hearing that sets my mind at ease. Now I can fight without regret.{g}{x:00}
+
+@18
+{z}{a:0078}... Let's go!{g}{x:00}
+
+@19
+{z}{s:0320}Yes! Grandpa!{g}{x:00}
+
+@20
+{z}{s:0320}If I'd known it would come to this, I should have retired sooner...{g}{x:00}
+
+@21
+{z}{s:0320}Heh...{g}{x:00}
+
+@22
+{z}But Grandpa, you'd have come out even if you'd retired, wouldn't you?{g}{x:00}
+
+@23
+{z}That's what I think, anyway...{g}{x:00}
+
+@24
+{z}{s:0320}Hmm... Quite so.{g}{x:00}
+
+@25
+{z}You're far too reckless to be left on your own.{g}{x:00}
+
+@26
+{z}{s:0320}Honestly! Making fun of me!{g}{x:00}
+
+@27
+{z}I'm not an apprentice knight any more, you know!{g}{x:00}
+
+@28
+{z}{s:0320}So you are {a:0000}...{g}{x:00}
+
+@29
+{z}Young, yet clearly possessed of a strong will.{g}{x:00}
+
+@30
+{z}To protect Estania's people, and for a tale to take to the next world, I request a duel with you!{g}{x:00}
+
+@31
+{z}{s:0320}Grandpa, take care...{g}{x:00}
+
+@32
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@33
+{z}{s:0320}{a:0000}, {a:0076} is strong... Don't lose...{g}{x:00}
+
+@34
+{z}{s:0320}If you lose here, unifying the continent may end up a dream...{g}{x:00}
+
+@35
+{z}You have to win! And end this war as soon as possible!{g}{x:00}
+
+@36
+{z}{s:0320}{a:0076} fights with two swords. Be careful, {a:0000}!{g}{x:00}
+
+@37
+{z}{s:0320}{a:0076} has been famed for his two-sword style since his youth...{g}{x:00}
+
+@38
+{z}Don't let your guard down...{g}{x:00}
+
+@39
+{z}{s:0320}{a:0000}! Lost your nerve?!{g}{x:00}
+
+@40
+{z}If you won't do it, I'll take down {a:0076} myself!{g}{x:00}
+
+@41
+{z}{s:0320}Well, given the opponent... I can see why you'd refuse...{g}{x:00}
+
+@42
+{z}{s:0320}{a:0000}, why are you refusing...?{g}{x:00}
+
+@43
+{z}Sir {a:0076} challenged you to a duel on his honour...{g}{x:00}
+
+@44
+{z}{s:0320}{a:0000}, why are you refusing?{g}{x:00}
+
+@45
+{z}{s:0320}...{g}{x:00}
+
+@46
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@47
+{z}{s:0320}Can a man really throw away his life for his country...{g}{x:00}
+
+@48
+{z}{s:0320}So you cannot understand it... Nor could I, when I was young.{g}{x:00}
+
+@49
+{z}You too must find something one day that is worth giving your life for.{g}{x:00}
+
+@50
+{z}{s:0320}Thanks for the advice...{g}{x:00}
+
+@51
+{z}It's just that...{w} for now I have nothing but fighting.{g}{x:00}
+
+@52
+{z}{s:0320}Then perhaps you will find something in the fight with me.{g}{x:00}
+
+@53
+{z}Come, young man!{g}{x:00}
+
+@54
+{z}{s:0320}The name's {a:0002}! Remember it!{g}{x:00}
+
+@55
+{z}{s:0320}Estania's republic as it is now isn't healthy...{g}{x:00}
+
+@56
+{z}You'd stake your life for a country like that?{g}{x:00}
+
+@57
+{z}{s:0320}I cannot abandon my homeland.{g}{x:00}
+
+@58
+{z}And if we allow {p:01} to invade, the continent's only republic will be destroyed...{g}{x:00}
+
+@59
+{z}If not one person is willing to stake his life, the republic will be forgotten...{g}{x:00}
+
+@60
+{z}{s:0320}I understand your resolve well...{g}{x:00}
+
+@61
+{z}But to end the wars, I have to fight you...{g}{x:00}
+
+@62
+{z}Here I come, {a:0076}!{g}{x:00}
+
+@63
+{z}{s:0320}Come!{g}{x:00}
+
+@64
+{z}{s:0320}You are the famous sorcerer {a:0005}, are you not...{g}{x:00}
+
+@65
+{z}To end my life fighting one such as you...{g}{x:00}
+
+@66
+{z}{s:0320}We have already shed much blood.{g}{x:00}
+
+@67
+{z}We must end the fighting so that no more is spilt.{g}{x:00}
+
+@68
+{z}{s:0320}Estania is finished...{g}{x:00}
+
+@69
+{z}Even if we win this battle, one day we will be annexed by {p:01}.{g}{x:00}
+
+@70
+{z}But should you win, I ask that you do no harm to a people crushed by war.{g}{x:00}
+
+@71
+{z}{s:0320}On the pride of Estania's knights, I will not lose to you!{g}{x:00}
+
+@72
+{z}{s:0320}We can't lose either, for the sake of unifying the continent...{g}{x:00}
+
+@73
+{z}Don't hold it against us!{g}{x:00}
+
+@74
+{z}{s:0320}You're confident...{g}{x:00}
+
+@75
+{z}But save that kind of talk until you've won!{g}{x:00}
+
+@76
+{z}{s:0320}Are you {a:0076}'s granddaughter? You're a knight too?{g}{x:00}
+
+@77
+{z}{s:0320}That's right... I'm {a:0078} of the Heat Haze Knights.{g}{x:00}
+
+@78
+{z}As a knight, I'll fight to protect Estania!{g}{x:00}
+
+@79
+{z}{s:0320}The continent is coming together as one...{g}{x:00}
+
+@80
+{z}Fighting on only wastes lives! And your grandfather would grieve more than anyone!{g}{x:00}
+
+@81
+{z}{s:0320}I don't care!{g}{x:00}
+
+@82
+{z}We knights have one duty above all: to protect our country!{g}{x:00}
+
+@83
+{z}{s:0320}!{w}{w} A girl like you is the Commander?{g}{x:00}
+
+@84
+{z}{s:0320}What?! Are you saying I can't be Commander?!{g}{x:00}
+
+@85
+{z}Being older doesn't make you better, you know, you old woman!{g}{x:00}
+
+@86
+{z}{s:0320}Sir {a:0000}...{g}{x:00}
+
+@87
+{z}I wish we could have met as allies...{g}{x:00}
+
+@88
+{z}{s:0320}...{g}{x:00}
+
+@89
+{z}{s:0320}But fate has made us meet on the battlefield... Here I come!{g}{x:00}
+
+@90
+{z}{s:0320}We wanted only neutrality! It was you who attacked us!{g}{x:00}
+
+@91
+{z}{s:0320}Curses! To let the enemy come this far!{g}{x:00}
+
+@92
+{z}What of {a:0076}?! And {a:0078}?!{g}{x:00}
+
+@93
+{z}{s:0320}So many enemies... Can we really beat them on our own?{g}{x:00}
+
+@94
+{z}{s:0320}If they surround us, we're done. Let's finish this in one go!{g}{x:00}
+
+@95
+{z}{s:0320}Yet another country is about to fall...{g}{x:00}
+
+@96
+{z}And at our hands...{g}{x:00}
+
+@97
+{z}{s:0320}I'd be happiest if they just surrendered.{g}{x:00}
+
+@98
+{z}Still, they have their pride, I suppose. So be it...{g}{x:00}
+
+@99
+{z}{s:0320}Estania...{g}{x:00}
+
+@100
+{z}The continent's first republic may be coming to its end...{g}{x:00}
+
+@101
+{z}{s:0320}Lackeys of {p:01}! I won't hand this country over to you!{g}{x:00}
+
+@102
+{z}{s:0320}Now is the time to show my strength... Grandpa, watch closely!{g}{x:00}
+
+@103
+{z}{s:0320}...{g}{x:00}
+
+@104
+{z}You killed Grandpa... I'll never forgive you!{g}{x:00}
+
+@105
+{z}{s:0320}This may be my last battle...{g}{x:00}
+
+@106
+{z}{s:0320}My company is wiped out... Sorry I couldn't fight to the end.{g}{x:00}
+
+@107
+{z}{s:0320}Their defence is tough...{w} This is as far as I go.{g}{x:00}
+
+@108
+{z}{s:0320}We're already so few, and now we have to withdraw...{g}{x:00}
+
+@109
+{z}{s:0320}Forced to retreat here... Am I losing my edge?{g}{x:00}
+
+@110
+{z}{s:0320}All my troops, struck down...{g}{x:00}
+
+@111
+{z}{s:0320}I had little time left anyway. I have not a shred of regret.{g}{x:00}
+
+@112
+{z}Only...{w} Estania's people long for a peaceful life. Please...{w} answer their hopes...{g}{x:00}
+
+@113
+{z}{s:0320}Grandpa!{w}{w} Grandpa!!{g}{x:00}
+
+@114
+{z}Answer me!{g}{x:00}
+
+@115
+{z}Why...{w}{w} Why did you have to die?!{g}{x:00}
+
+@116
+{z}Grandpa, you fool!{g}{x:00}
+
+@117
+{z}...{g}{x:00}
+
+@118
+{z}{s:0320}Lord... Protect the people of Estania...{g}{x:00}
+
+@119
+{z}{s:0320}I...{w} I think I've been beaten...{g}{x:00}
+
+@120
+{z}Grand-{w}{w}pa... I wasn't{w} much{w} use,{w} was I...{g}{x:00}
+
+@121
+{z}{s:0320}{a:0078}!{g}{x:00}
+
+@122
+{z}{a:0078}...{g}{x:00}
+
+@123
+{z}You fulfilled your duty as a knight. It was a fine knight's end.{g}{x:00}
+
+@124
+{z}{s:0320}Lady {a:0078}... Please...{w}{w} become a fine knight...{g}{x:00}
+
+@125
+{z}{s:0320}{a:0079}!{g}{x:00}
+
+@126
+{z}{a:0079}...{g}{x:00}
+
+@127
+{z}{s:0320}Lord...{w}{w} Protect Estania...{g}{x:00}
+
+@128
+{z}{s:0320}Even if Estania falls, the ideal of the republic will not die!{g}{x:00}
+
+@129
+{z}One day {p:01} too will fall to revolution!{g}{x:00}
+
+@130
+{z}{s:0320}My life too...{w}{w} ends here...{g}{x:00}
+
+@131
+{z}Heh...{w}{w}{w} Over so quickly...{g}{x:00}
+
+@132
+{z}{s:0320}Our leading knights, struck down...{g}{x:00}
+
+@133
+{z}There's no chance of winning now... We must flee...{g}{x:00}
+
+@134
+{z}{s:0320}It's finally over.{g}{x:00}
+
+@135
+{z}So Estania becomes {p:01} territory...{g}{x:00}
+
+@136
+{z}I hope they will honour {a:0076}'s wish and govern with Estania's people first.{g}{x:00}
+
+@137
+{z}{s:0320}...{g}{x:00}
+
+@138
+{z}{s:0320}A grandfather and granddaughter, both knights... Rest in peace together.{g}{x:00}
+
+@139
+{z}{s:0320}...{g}{x:00}
+
+@140
+{z}{s:0320}Sir {a:0076}...{g}{x:00}
+
+@141
+{z}Your love for Estania...{w}{w} I'll keep it{w} in my heart always.{g}{x:00}
+
+@142
+{z}{s:0320}...{g}{x:00}
+
+@143
+{z}{s:0320}...{g}{x:00}
+
+@144
+{z}We...{w}{w} destroyed{w} Estania with our own hands.{g}{x:00}
+
+@145
+{z}Was what we did right?{g}{x:00}
+
+@146
+{z}How is that any different from {a:0028} killing my father?{g}{x:00}
+
+@147
+{z}{s:0320}...{g}{x:00}
+
+@148
+{z}{s:0320}Giving your life for your country...{w}{w} {a:0076} was strong indeed.{g}{x:00}
+
+@149
+{z}Maybe I could grow stronger still, if I found something worth giving my life for...{g}{x:00}
+
+@150
+{z}{s:0320}For the sake of everyone on the continent, I accept your challenge to a duel!{g}{x:00}
+
+@151
+{z}{s:0320}Interesting...{w}{w} Very well...{w} Let us fight!{g}{x:00}
+
+@152
+{z}{s:0320}I must unify the continent soon, or more people will die!{g}{x:00}
+
+@153
+{z}{s:0320}{a:0000}! I will defeat you and defend my homeland, Estania!{g}{x:00}
+
+@154
+{z}{s:0320}Aura Screw!{g}{x:00}
+
+@155
+{z}{s:0320}Double Sonic!{g}{x:00}
+
+@156
+{z}{s:0320}Secret art!{w}{w} Death Cross!{g}{x:00}
+
+@157
+{z}{s:0320}Ugh...{w} At this rate...{w} I'm done for...{g}{x:00}
+
+@158
+{z}{s:0320}Impressive...{w}{w} To push me this far...{w}{g}{x:00}
+
+@159
+{z}Or have I simply grown too old?{g}{x:00}
+
+@160
+{z}{s:0320}With this one blow, I will end it all!{g}{x:00}
+
+@161
+{z}{s:0320}While I still draw breath, Estania will not fall!{g}{x:00}
+
+@162
+{z}{s:0320}Lord {a:0076}...{g}{x:00}
+
+@163
+{z}Even if we win, we will never make the people of Estania unhappy... Please believe us...{g}{x:00}
+
+@164
+{z}{s:0320}{p:01}!{g}{x:00}
+

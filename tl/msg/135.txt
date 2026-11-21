@@ -1,0 +1,621 @@
+@0
+{z}{s:0320}Damn...{w} A revolt? Peasants...{g}{x:00}
+
+@1
+{z}{a:0076}... You betrayed us!{g}{x:00}
+
+@2
+{z}{s:0320}Lord {a:0076}! What is{w} the meaning of this?!{g}{x:00}
+
+@3
+{z}{s:0320}I told you!{g}{x:00}
+
+@4
+{z}I couldn't follow a government that ignores the people!{g}{x:00}
+
+@5
+{z}{s:0320}Unlike you lot, he truly understands the feelings of commoners...{g}{x:00}
+
+@6
+{z}And he chose to rise up with us!{g}{x:00}
+
+@7
+{z}{s:0320}Ngh... What folly...{g}{x:00}
+
+@8
+{z}{s:0320}Whatever the reason, I cannot permit a revolt...{g}{x:00}
+
+@9
+{z}To keep order... I must{w} strike you down...{g}{x:00}
+
+@10
+{z}{s:0320}Whether by words or by arms, the method is the same...{g}{x:00}
+
+@11
+{z}The strong always try to crush the weak by force...{g}{x:00}
+
+@12
+{z}We will turn the tide! I won't have peasants worked to the bone by nobles forever!{g}{x:00}
+
+@13
+{z}Let's go, {a:0076}!{g}{x:00}
+
+@14
+{z}Let's overthrow noble rule and build a new government! Ours!{g}{x:00}
+
+@15
+{z}{s:0320}...{g}{x:00}
+
+@16
+{z}The continent is united at last... Why now, of all times?{g}{x:00}
+
+@17
+{z}Why must we fight our own countrymen?!{g}{x:00}
+
+@18
+{z}{s:0320}{a:0076}... You've lost your mind...{g}{x:00}
+
+@19
+{z}We must show the state's authority to those who rashly stir up the people!{g}{x:00}
+
+@20
+{z}{s:0320}First, take down {a:0096} and {a:0000} at the castle!{g}{x:00}
+
+@21
+{z}Then strike Chairman {a:0095} inside the castle!{g}{x:00}
+
+@22
+{z}Defeat them and the revolution will succeed!{g}{x:00}
+
+@23
+{z}{s:0320}Hurrah!{g}{x:00}
+
+@24
+{z}{s:0320}And just when I thought peace had come...{g}{x:00}
+
+@25
+{z}{s:0320}No use fighting peasants. Crush their leader!{g}{x:00}
+
+@26
+{z}{s:0320}We must end this quickly and keep the damage to a minimum...{g}{x:00}
+
+@27
+{z}{s:0320}I thought the fighting was over and I could relax...{g}{x:00}
+
+@28
+{z}This is going to be an ugly battle.{g}{x:00}
+
+@29
+{z}{s:0320}I hope this will be the last battle...{g}{x:00}
+
+@30
+{z}{s:0320}Peasants... The insolence...{g}{x:00}
+
+@31
+{z}Who do you think united the continent?!{g}{x:00}
+
+@32
+{z}{s:0320}Now is the time to overthrow the old noble rule!{w}{w} All forces, charge!{g}{x:00}
+
+@33
+{z}{s:0320}We can't let the peasants suffer any longer!{g}{x:00}
+
+@34
+{z}{s:0320}I don't understand the hard parts, but I'll fight for Grandpa's ideals...{g}{x:00}
+
+@35
+{z}{s:0320}I must protect Lady {a:0078} at all costs...{g}{x:00}
+
+@36
+{z}{s:0320}Nobles who only throw their weight about and produce nothing!{g}{x:00}
+
+@37
+{z}{s:0320}A handful of people can't hold all the power forever!{g}{x:00}
+
+@38
+{z}{s:0320}Now you'll feel our anger!{g}{x:00}
+
+@39
+{z}{s:0320}This is as far as I go...{w} Everyone, hang in there to the end!{g}{x:00}
+
+@40
+{z}{s:0320}Damn... I wanted to help to the end...{g}{x:00}
+
+@41
+{z}{s:0320}Retreating in such a vital battle, of all things...{g}{x:00}
+
+@42
+{z}{s:0320}Beaten, eh... Sorry,{w} but I'm pulling out...{g}{x:00}
+
+@43
+{z}{s:0320}{a:0000}... Fight to the end, and leave no regrets...{g}{x:00}
+
+@44
+{z}{s:0320}This is for Grandpa...{w} Prepare yourself!{g}{x:00}
+
+@45
+{z}{s:0320}Traitor!{g}{x:00}
+
+@46
+{z}I should have stripped you of your knighthood!{g}{x:00}
+
+@47
+{z}{s:0320}Say what you like! I care nothing for a knight's rank...{g}{x:00}
+
+@48
+{z}Government by nobles, for nobles, is over!{g}{x:00}
+
+@49
+{z}{s:0320}If you had only thought a little more of the people...{g}{x:00}
+
+@50
+{z}this revolt need never have happened.{g}{x:00}
+
+@51
+{z}{s:0320}Spoil the rabble and they get uppity at once...{g}{x:00}
+
+@52
+{z}A fine chance to show them who holds this country together!{g}{x:00}
+
+@53
+{z}{s:0320}If the people's hearts turn away, the state cannot stand at all.{g}{x:00}
+
+@54
+{z}Why can't you see something so simple?!{g}{x:00}
+
+@55
+{z}{s:0320}I... don't know much about politics...{g}{x:00}
+
+@56
+{z}But the peasants' lives are terrible. They struggle even to eat each day...{g}{x:00}
+
+@57
+{z}{s:0320}Keep the people alive, but never comfortable... That is the basis of rule.{g}{x:00}
+
+@58
+{z}A little girl like you wouldn't understand!{g}{x:00}
+
+@59
+{z}{s:0320}Enough! Insolent wretches... Kill anyone who defies us!{g}{x:00}
+
+@60
+{z}{s:0320}My lord Count...{g}{x:00}
+
+@61
+{z}I'll avenge Lady {a:0078}!{g}{x:00}
+
+@62
+{z}{s:0320}{a:0096}! I can never forgive you...{g}{x:00}
+
+@63
+{z}Pushing conscription, and crushing the views of {a:0076}, who protected us...{g}{x:00}
+
+@64
+{z}It was all your doing, wasn't it!{g}{x:00}
+
+@65
+{z}{s:0320}Both were needed for the government to come!{g}{x:00}
+
+@66
+{z}Not that the likes of you would understand!{g}{x:00}
+
+@67
+{z}{s:0320}That's the selfishness I mean! No more government for nobles!{g}{x:00}
+
+@68
+{z}{s:0320}Ngh... I'm falling back into the castle!{g}{x:00}
+
+@69
+{z}{a:0000}! I leave the rest to you!{g}{x:00}
+
+@70
+{z}{s:0320}{a:0000}... Who'd have thought I'd end up fighting you...{g}{x:00}
+
+@71
+{z}If it's come to this,{w} we're both knights. Let's fight fair and square!{g}{x:00}
+
+@72
+{z}{s:0320}Can a spoilt brat understand how peasants feel?!{g}{x:00}
+
+@73
+{z}{s:0320}I don't understand the hard parts...{g}{x:00}
+
+@74
+{z}But I never thought Grandpa was wrong...{g}{x:00}
+
+@75
+{z}So I followed him!{g}{x:00}
+
+@76
+{z}{s:0320}I can't lose to an old lady like you!{g}{x:00}
+
+@77
+{z}{s:0320}Lady {a:0078}! Please pull back your troops!{g}{x:00}
+
+@78
+{z}{s:0320}Shut up,{w} old lady! It's too late to say that now!{g}{x:00}
+
+@79
+{z}{s:0320}Fight me, old man!{g}{x:00}
+
+@80
+{z}{s:0320}A spoilt brat, eh... Time she was taught a lesson...{g}{x:00}
+
+@81
+{z}{s:0320}Sir {a:0000}... That I must fight you...{g}{x:00}
+
+@82
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@83
+{z}You came from common stock, didn't you? I thought you'd understand us.{g}{x:00}
+
+@84
+{z}So you're a noble body and soul now? That's low!{g}{x:00}
+
+@85
+{z}{s:0320}So you lead the rebels... Why did you start a revolt?{g}{x:00}
+
+@86
+{z}Why can you only state your views by fighting?!{g}{x:00}
+
+@87
+{z}{s:0320}We've stated our views dozens of times!{g}{x:00}
+
+@88
+{z}None of it ever got through! Force was all we had left!{g}{x:00}
+
+@89
+{z}{s:0320}Why do you get in our way?!{g}{x:00}
+
+@90
+{z}Crush us, and another revolt will only break out!{g}{x:00}
+
+@91
+{z}{s:0320}Perhaps... But order must be kept...{g}{x:00}
+
+@92
+{z}{s:0320}Lord {a:0076}... Please pull back your troops!{g}{x:00}
+
+@93
+{z}Whatever the reason, revolt cannot be allowed. The order of the state would fall apart...{g}{x:00}
+
+@94
+{z}{s:0320}The nobles are to blame for never listening to the peasants!{g}{x:00}
+
+@95
+{z}Their claims were always ignored, and revolt was the only road left to them!{g}{x:00}
+
+@96
+{z}You insist on standing in my way? Then I have no choice but to cut you down!{g}{x:00}
+
+@97
+{z}{s:0320}Lord {a:0076}...{g}{x:00}
+
+@98
+{z}{s:0320}{a:0000}! I challenge you to a duel!{g}{x:00}
+
+@99
+{z}{s:0320}I'm of common birth, so I feel everyone's suffering keenly!{g}{x:00}
+
+@100
+{z}But revolt is wrong! There must have been other ways!{g}{x:00}
+
+@101
+{z}{s:0320}You know nothing... We tried them again and again!{g}{x:00}
+
+@102
+{z}But the selfish nobles wouldn't even listen! Is that a republic?!{g}{x:00}
+
+@103
+{z}{s:0320}I don't want to fight peasants either!{g}{x:00}
+
+@104
+{z}But if you come at us, we have to cut you down... to protect this country.{g}{x:00}
+
+@105
+{z}{s:0320}Then I shall defeat you and make this revolution succeed!{g}{x:00}
+
+@106
+{z}{s:0320}Lord {a:0076}, I beg you...{w} Pull back your troops...{g}{x:00}
+
+@107
+{z}Let us hold peaceful talks... Please, do not act rashly!{g}{x:00}
+
+@108
+{z}{s:0320}Hah...{w}{w} The nobles would never agree to that!{g}{x:00}
+
+@109
+{z}Until we show the nobles the peasants' true strength, talks are impossible!{g}{x:00}
+
+@110
+{z}{s:0320}Why take the peasants' side, {a:0076}?{g}{x:00}
+
+@111
+{z}{s:0320}The peasants only ask for a peasant representative on the Council.{g}{x:00}
+
+@112
+{z}Even that much, the nobles, who care only for their own gain, refuse to grant...{g}{x:00}
+
+@113
+{z}I am sick of nobles who think only of themselves!{g}{x:00}
+
+@114
+{z}{s:0320}I get how you feel...{w} but this way may backfire.{g}{x:00}
+
+@115
+{z}{s:0320}A great sorcerer like you must see which side is right!{g}{x:00}
+
+@116
+{z}{s:0320}Which is right... that is for later historians to judge.{g}{x:00}
+
+@117
+{z}For now, each must walk the road he believes in.{g}{x:00}
+
+@118
+{z}{s:0320}I can't go on! I'm sorry!{g}{x:00}
+
+@119
+{z}{s:0320}Grandpa... I couldn't avenge you...{g}{x:00}
+
+@120
+{z}I'm sorry...{g}{x:00}
+
+@121
+{z}{s:0320}I will protect Lady Bianca. I leave the rest to you!{g}{x:00}
+
+@122
+{z}{s:0320}{a:0078}... Make sure you get away safely...{g}{x:00}
+
+@123
+{z}{s:0320}Lady {a:0078}, I am sorry...{g}{x:00}
+
+@124
+{z}I must withdraw...{g}{x:00}
+
+@125
+{z}{s:0320}Understood... I'll come for you when the fighting ends.{g}{x:00}
+
+@126
+{z}{s:0320}Please... Stay safe...{g}{x:00}
+
+@127
+{z}{s:0320}I...{w}{w} I've been beaten...{g}{x:00}
+
+@128
+{z}Everyone...{w} I couldn't make those nobles pay... I'm so...{w}{w} sorry...{g}{x:00}
+
+@129
+{z}{s:0320}I...{w}{w} I've been beaten...{g}{x:00}
+
+@130
+{z}Everyone...{w} Make those nobles pay... I'm counting...{w}{w} on you...{g}{x:00}
+
+@131
+{z}{s:0320}{a:009e} has fallen?! Damn!{g}{x:00}
+
+@132
+{z}But {a:009e}... Though you are gone, your ideals will live on in the people...{g}{x:00}
+
+@133
+{z}{s:0320}Then we'll do it by ourselves!{g}{x:00}
+
+@134
+{z}{s:0320}{a:009e}, who united us... Oh no...{g}{x:00}
+
+@135
+{z}{s:0320}Even if we fall, someone will rise up again...{g}{x:00}
+
+@136
+{z}{s:0320}Damn...{w}{w} I'll avenge you{w} without fail...{g}{x:00}
+
+@137
+{z}{s:0320}{a:009e}...{w} Was I some use, at least...?{g}{x:00}
+
+@138
+{z}{s:0320}Ah...{w}{w} You did well...{w} Rest easy in heaven.{g}{x:00}
+
+@139
+{z}{s:0320}My death is a trifle in the sweep of history.{g}{x:00}
+
+@140
+{z}The peasants' anger will not be quelled merely by my death...{g}{x:00}
+
+@141
+{z}You must remember...{w}{w} that...{g}{x:00}
+
+@142
+{z}{s:0320}My death is a trifle in the sweep of history.{g}{x:00}
+
+@143
+{z}{a:009e}... The rest is up to you. I'm counting...{w}{w} on you...{g}{x:00}
+
+@144
+{z}{s:0320}Understood... I will make your ideals real, without fail...{g}{x:00}
+
+@145
+{z}{s:0320}Grandpa!{g}{x:00}
+
+@146
+{z}Grandpa!!{g}{x:00}
+
+@147
+{z}Answer me!{g}{x:00}
+
+@148
+{z}...{g}{x:00}
+
+@149
+{z}Why...{w}{w} Why did you die?!{g}{x:00}
+
+@150
+{z}Grandpa,{w}{w} you idiot!{g}{x:00}
+
+@151
+{z}{s:0320}{a:0078}...{g}{x:00}
+
+@152
+{z}{s:0320}...{w}{w} I'm retreating...{g}{x:00}
+
+@153
+{z}...{w}{w} Grandpa... I'll get stronger, I promise...{g}{x:00}
+
+@154
+{z}{s:0320}Both {a:009e} and Lord {a:0076} have fallen...{g}{x:00}
+
+@155
+{z}A pity, but we have no choice but to flee...{g}{x:00}
+
+@156
+{z}{s:0320}{a:0000}! Take the head of the traitor {a:0076}!{g}{x:00}
+
+@157
+{z}{s:0320}Don't lose, {a:0000}...{g}{x:00}
+
+@158
+{z}{s:0320}{a:0000}! {a:0076} is strong... Don't lose!{g}{x:00}
+
+@159
+{z}{s:0320}This battle decides Estania's future... Don't lose!{g}{x:00}
+
+@160
+{z}{s:0320}{a:0076} fights with two swords. Be careful, {a:0000}!{g}{x:00}
+
+@161
+{z}{s:0320}This duel will decide the future of the country...{g}{x:00}
+
+@162
+{z}{s:0320}{a:0000}! Why won't you accept?!{g}{x:00}
+
+@163
+{z}The country's future hangs on this battle...{g}{x:00}
+
+@164
+{z}{s:0320}{a:0000}! Lost your nerve?!{g}{x:00}
+
+@165
+{z}If you won't do it, I'll take down {a:0076}!{g}{x:00}
+
+@166
+{z}{s:0320}Well, given the opponent... I understand how you feel...{g}{x:00}
+
+@167
+{z}{s:0320}{a:0000}, what is it...?{g}{x:00}
+
+@168
+{z}Lord {a:0076} challenged you to a duel on his honour...{g}{x:00}
+
+@169
+{z}{s:0320}{a:0000}, why refuse?!{g}{x:00}
+
+@170
+{z}Defeating only the leader costs the fewest lives!{g}{x:00}
+
+@171
+{z}{s:0320}...{g}{x:00}
+
+@172
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@173
+{z}{s:0320}Anyway, the enemy is wiped out. {a:0078} seems to have escaped, though...{g}{x:00}
+
+@174
+{z}For now, we must report this to the Chairman...{g}{x:00}
+
+@175
+{z}{s:0320}We did it! The revolt is put down!{g}{x:00}
+
+@176
+{z}{a:0000}! Now you're the country's leader! Let's go back to the castle and report our victory!{g}{x:00}
+
+@177
+{z}{s:0320}?{w}{w}{w} What do you mean?{g}{x:00}
+
+@178
+{z}{s:0320}Details later... Let's just hurry!{g}{x:00}
+
+@179
+{z}{s:0320}Looks like it's settled... The spoilt brat seems to have fled, though...{g}{x:00}
+
+@180
+{z}{a:0000}... Now we report this result to the Chairman and {a:0096} at the castle...{g}{x:00}
+
+@181
+{z}{s:0320}The revolt has been put down...{g}{x:00}
+
+@182
+{z}Next we go to the castle and report this result to the Chairman and {a:0096}...{g}{x:00}
+
+@183
+{z}{s:0320}...{g}{x:00}
+
+@184
+{z}{a:0000}...{w} The fighting is over now, isn't it? There won't be any more wars, will there?{g}{x:00}
+
+@185
+{z}{s:0320}It seems... the nobles' side has won...{g}{x:00}
+
+@186
+{z}The peasants won't think of rebelling for some time...{g}{x:00}
+
+@187
+{z}{s:0320}O Lord...{w} Protect the people{w} of Estania...{w}{g}{x:00}
+
+@188
+{z}{s:0320}Lord {a:0076}... Please{w} grant the people's wish...{g}{x:00}
+
+@189
+{z}{s:0320}{a:0077}...{g}{x:00}
+
+@190
+{z}Had I known it would come to this...{w} I should never have called you back... {w}{w}Forgive me...{g}{x:00}
+
+@191
+{z}{s:0320}There is no other way... I will stop you myself!{g}{x:00}
+
+@192
+{z}{s:0320}The future of Estania's people rests on my shoulders...{g}{x:00}
+
+@193
+{z}Even if I am torn apart, I cannot stop here!{g}{x:00}
+
+@194
+{z}{s:0320}As a knight, I must put down this revolt!{g}{x:00}
+
+@195
+{z}{s:0320}{a:0000}! I must defeat you to go on!{g}{x:00}
+
+@196
+{z}{s:0320}Aura Screw!{g}{x:00}
+
+@197
+{z}{s:0320}Double Sonic!{g}{x:00}
+
+@198
+{z}{s:0320}Secret art!{w}{w} Death Cross!{g}{x:00}
+
+@199
+{z}{s:0320}Ngh...{w} At this rate...{w} I'll lose...{g}{x:00}
+
+@200
+{z}{s:0320}Impressive...{w}{w} To drive me this far...{w}{g}{x:00}
+
+@201
+{z}Or have I simply grown too old?{g}{x:00}
+
+@202
+{z}{s:0320}With this blow, I will end it all!{g}{x:00}
+
+@203
+{z}{s:0320}The people's anger drives me!{w}{w} Feel it!{g}{x:00}
+
+@204
+{z}{s:0320}Lord {a:0076}...{g}{x:00}
+
+@205
+{z}Even if we win, we will never make the people unhappy. Please{w} believe that...{g}{x:00}
+
+@206
+{z}{s:0320}{p:01}!{g}{x:00}
+

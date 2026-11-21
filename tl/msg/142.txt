@@ -1,0 +1,423 @@
+@0
+{z}{s:0320}This must be it... Rana's main castle...{g}{x:00}
+
+@1
+{z}Rana's forces are... Lord {a:005e}, Lord {a:0060}... and Emperor {a:0090}...{g}{x:00}
+
+@2
+{z}{s:0320}To reach the castle, we must first cross to the east bank...{g}{x:00}
+
+@3
+{z}{s:0320}Lord {a:0060}'s Thunder Knights are waiting beyond the bridge...{g}{x:00}
+
+@4
+{z}{s:0320}Better than having them all attack at once!{g}{x:00}
+
+@5
+{z}Let's smash this {a:0060} fellow first, then the rest in turn!{g}{x:00}
+
+@6
+{z}{s:0320}Heh... A spirited brat.{g}{x:00}
+
+@7
+{z}No need for {a:005e} and the others to dirty their hands. I won't lose to former mercenaries!{g}{x:00}
+
+@8
+{z}{s:0320}{a:0060}... Do not underestimate them.{g}{x:00}
+
+@9
+{z}They were the key to {p:01}'s unification of the continent.{g}{x:00}
+
+@10
+{z}{s:0320}Hear me! {a:005e}, {a:0060}!{g}{x:00}
+
+@11
+{z}Cut down every last one of {p:01}'s men! Never let them reach the castle!{g}{x:00}
+
+@12
+{z}{s:0320}Your Majesty! The enemy is closing in.{g}{x:00}
+
+@13
+{z}I will hold them off! Escape while you can!{g}{x:00}
+
+@14
+{z}{s:0320}What are you saying?!{g}{x:00}
+
+@15
+{z}{a:005e}...{w} I cannot let you die alone.{g}{x:00}
+
+@16
+{z}Then we'll throw our whole army at {a:0000} and take his head!{g}{x:00}
+
+@17
+{z}{s:0320}Your Majesty...{g}{x:00}
+
+@18
+{z}{s:0320}{a:0000} of {p:01}... I am {a:005e}, Vice-Chancellor of Rana.{g}{x:00}
+
+@19
+{z}Here I shall defeat you and take back Rana's lands!{g}{x:00}
+
+@20
+{z}We must defeat Rana...{w} and end this strife as soon as we can...{g}{x:00}
+
+@21
+{z}{s:0320}We cannot let Rana regain its strength!{g}{x:00}
+
+@22
+{z}{s:0320}Talk will solve nothing...{g}{x:00}
+
+@23
+{z}Let us settle this in a duel...{g}{x:00}
+
+@24
+{z}{s:0320}You refuse...{w}{w} Coward! Have you lost your nerve?!{g}{x:00}
+
+@25
+{z}{s:0320}I don't know whether {p:01} is right or wrong...{g}{x:00}
+
+@26
+{z}But if I lose here, I'll never be able to find out... I'll fight...{w}{w} to the very end!{g}{x:00}
+
+@27
+{z}{s:0320}A fine resolve... Then I shall hold nothing back!{g}{x:00}
+
+@28
+{z}{s:0320}We can't lose this one! Sorry, but I'm taking you down!{g}{x:00}
+
+@29
+{z}{s:0320}Nor can we... We must not lose!{g}{x:00}
+
+@30
+{z}{s:0320}Do you people understand...{g}{x:00}
+
+@31
+{z}If you destroy Rana as {p:01}'s vanguard, the people of Rana will hate you!{g}{x:00}
+
+@32
+{z}{s:0320}Yes...{w} but if it ends this pointless war...{g}{x:00}
+
+@33
+{z}I am a knight of Rana. I cannot overlook those who invade my homeland... I must strike you down!{g}{x:00}
+
+@34
+{z}{s:0320}Sir {a:005e}.{w} Let {a:0004} here cross swords with you...{g}{x:00}
+
+@35
+{z}Don't worry, it won't take long...{g}{x:00}
+
+@36
+{z}{s:0320}Hmph...{w} Very well...{g}{x:00}
+
+@37
+{z}{s:0320}So I face that great sorcerer? Interesting. It's been a long time since I had a good fight...{g}{x:00}
+
+@38
+{z}{s:0320}...{g}{x:00}
+
+@39
+{z}The warrior's lot is a sad one... Even someone like you is swallowed by the thrill of battle...{g}{x:00}
+
+@40
+{z}{s:0320}Damn you! I won't let you ravage this country further!{g}{x:00}
+
+@41
+{z}{s:0320}Lord {a:0060}... The people want peace.{g}{x:00}
+
+@42
+{z}Yet you chose the path of war...{g}{x:00}
+
+@43
+{z}If you truly care for Rana, lay down your arms and surrender!{g}{x:00}
+
+@44
+{z}{s:0320}No more talk! Here I come, {a:0000}!{g}{x:00}
+
+@45
+{z}{s:0320}Why do you side with {p:01}?{g}{x:00}
+
+@46
+{z}{s:0320}To bring back a peaceful world...{g}{x:00}
+
+@47
+{z}We believed that letting {p:01} unite the continent was the shortest path to it.{g}{x:00}
+
+@48
+{z}{s:0320}I see... You act on your convictions.{g}{x:00}
+
+@49
+{z}Then so be it. I act on my convictions to defend Rana...{w}{w} that is all!{g}{x:00}
+
+@50
+{z}{s:0320}Your Majesty... To unite the continent...{w} I will strike you down!{g}{x:00}
+
+@51
+{z}{s:0320}To unite the continent, is it...{g}{x:00}
+
+@52
+{z}Do you truly believe war will end once the continent is united?{g}{x:00}
+
+@53
+{z}Strife is human nature...{w} There will never be an end to war...{g}{x:00}
+
+@54
+{z}Defeating me will bring only a fleeting peace!{g}{x:00}
+
+@55
+{z}{s:0320}So you are the Emperor of Rana!{g}{x:00}
+
+@56
+{z}{s:0320}I am...{w} and a weakling like you means to defeat me?{g}{x:00}
+
+@57
+{z}{s:0320}Hmph! Weakling, am I...{g}{x:00}
+
+@58
+{z}My name is {a:0002}! Boast about being beaten by me in the next world!{g}{x:00}
+
+@59
+{z}{s:0320}Your Majesty... Rana is finished.{g}{x:00}
+
+@60
+{z}Now, please surrender to {p:01} and avoid more bloodshed!{g}{x:00}
+
+@61
+{z}{s:0320}Heh... Hahahahahaha...{g}{x:00}
+
+@62
+{z}Surrender is not among my choices!{g}{x:00}
+
+@63
+{z}If you want Rana, you have no path but to cut me down!{g}{x:00}
+
+@64
+{z}{s:0320}Will you drag Rana's people down with you to destruction?!{g}{x:00}
+
+@65
+{z}{s:0320}{a:005e}... Do not die...{g}{x:00}
+
+@66
+{z}{s:0320}{a:005e} is the continent's strongest knight... {a:0000} has grown strong too, but...{g}{x:00}
+
+@67
+{z}{s:0320}He looks tough...{w} {a:0000}, don't you lose!{g}{x:00}
+
+@68
+{z}{s:0320}Well now... This looks to be one for the history books.{g}{x:00}
+
+@69
+{z}Let's take our time and watch...{g}{x:00}
+
+@70
+{z}{s:0320}Having come this far, I absolutely can't lose...{g}{x:00}
+
+@71
+{z}{s:0320}Don't lose... {a:0000}...{g}{x:00}
+
+@72
+{z}{s:0320}{a:0000}! Have you lost your nerve?!{g}{x:00}
+
+@73
+{z}As your comrade, I'm ashamed of you!{g}{x:00}
+
+@74
+{z}{s:0320}{a:0000}, why did you refuse?!{g}{x:00}
+
+@75
+{z}Do you think you can't beat him?{g}{x:00}
+
+@76
+{z}{s:0320}Against that man, I'd want to run too, but...{g}{x:00}
+
+@77
+{z}{s:0320}Against Lord {a:005e}, perhaps it's only natural...{g}{x:00}
+
+@78
+{z}{s:0320}...{g}{x:00}
+
+@79
+{z}Our morale fell.{n}Enemy morale rose.{g}{x:00}
+
+@80
+{z}{s:0320}I must do my best too, so the continent is united soon!{g}{x:00}
+
+@81
+{z}{s:0320}Rana's full of strong fighters, all right...{w} That's what gets my blood up!{g}{x:00}
+
+@82
+{z}{s:0320}The enemy fights with nothing to lose... Let your guard down...{w} and you're dead!{g}{x:00}
+
+@83
+{z}{s:0320}Having come this far, we can't afford to lose...{g}{x:00}
+
+@84
+{z}{s:0320}...{g}{x:00}
+
+@85
+{z}Rana, which once split the continent with Ragail, may meet its end today...{g}{x:00}
+
+@86
+{z}{s:0320}I will defend Rana without fail!{g}{x:00}
+
+@87
+{z}{s:0320}Invaders! We won't let you lay a finger on His Majesty!{g}{x:00}
+
+@88
+{z}{s:0320}I'll show you the might of our Thunder Knights! Charge!{g}{x:00}
+
+@89
+{z}{s:0320}You were mercenaries to begin with...{w} You cannot know the pain of losing a country.{g}{x:00}
+
+@90
+{z}{s:0320}To be invaded this far by the likes of you...{g}{x:00}
+
+@91
+{z}But... Not yet! I won't fall so easily!{g}{x:00}
+
+@92
+{z}{s:0320}The enemy's desperate now... Their fighting spirit is something else...{g}{x:00}
+
+@93
+{z}{s:0320}Damn... And it was a chance to win glory...{g}{x:00}
+
+@94
+{z}{s:0320}Wiped out... {a:0000}...{w} I'm sorry...{w}{g}{x:00}
+
+@95
+{z}{s:0320}Against Rana's elite it was never going to be easy...{g}{x:00}
+
+@96
+{z}{s:0320}Forgive me... This is as far as I go...{g}{x:00}
+
+@97
+{z}{s:0320}Heh...{w} So I too{w} am finished{w} here...{g}{x:00}
+
+@98
+{z}But Rana's blood will never{w} die out... Never{w} ever...{g}{x:00}
+
+@99
+{z}{s:0320}{a:005e}...{g}{x:00}
+
+@100
+{z}You were the only man in my whole life I could call a friend...{g}{x:00}
+
+@101
+{z}Damn {p:01}...{g}{x:00}
+
+@102
+{z}{s:0320}Ngh...{w}{w} Galling as it is... my strength was not enough...{g}{x:00}
+
+@103
+{z}{s:0320}As...{w} as strong as ever... So this is{w} the end for me too...{g}{x:00}
+
+@104
+{z}{s:0320}Forgive me... This is{w} as far as{w} I go...{g}{x:00}
+
+@105
+{z}{s:0320}Heh...{g}{x:00}
+
+@106
+{z}Even if{w} I die...{w} even if{w} Rana falls... war will{w} never vanish{w} from this world...{g}{x:00}
+
+@107
+{z}{s:0320}...{g}{x:00}
+
+@108
+{z}Your Majesty...{w}{w} I could not protect you...{g}{x:00}
+
+@109
+{z}{s:0320}His Majesty...{w} dead?! How dare you!{w} I won't forgive this!{g}{x:00}
+
+@110
+{z}{s:0320}...{g}{x:00}
+
+@111
+{z}The Emperor...{w} and even Lord {a:005e} and Lord {a:0060}...{g}{x:00}
+
+@112
+{z}Rana is finished now...{g}{x:00}
+
+@113
+{z}{s:0320}So this is the end of Rana...{g}{x:00}
+
+@114
+{z}When a nation falls, it is over in a moment...{g}{x:00}
+
+@115
+{z}{s:0320}...{g}{x:00}
+
+@116
+{z}{s:0320}So even {a:0090} is dead... And {a:005e} and {a:0060} too...{g}{x:00}
+
+@117
+{z}{s:0320}Another nation...{w} has fallen, then.{g}{x:00}
+
+@118
+{z}Destroying a country to end war... It leaves an empty feeling.{g}{x:00}
+
+@119
+{z}{s:0320}...{g}{x:00}
+
+@120
+{z}{s:0320}That's our victory, then...{w} Though we took a fair beating too...{g}{x:00}
+
+@121
+{z}...{g}{x:00}
+
+@122
+{z}Let's get back to {p:01} and report our victory... {a:0000}...{g}{x:00}
+
+@123
+{z}{s:0320}...{g}{x:00}
+
+@124
+{z}{s:0320}Even {a:005e}, called the mightiest knight on the continent...{g}{x:00}
+
+@125
+{z}He too gave his life for his lord...{g}{x:00}
+
+@126
+{z}If one serves as a knight, one wants a lord worth giving one's life for...{g}{x:00}
+
+@127
+{z}{s:0320}Gladly!{g}{x:00}
+
+@128
+{z}Even if you are the mightiest knight on the continent, I will never run!{g}{x:00}
+
+@129
+{z}{s:0320}To unite the continent, I will bring you down!{g}{x:00}
+
+@130
+{z}{s:0320}Why aid {p:01}?! What justice do those villains have?!{g}{x:00}
+
+@131
+{z}{s:0320}Ngh...{w} Power Slash!{g}{x:00}
+
+@132
+{z}{s:0320}{p:01}!{g}{x:00}
+
+@133
+{z}{s:0320}Hyper Blast!{g}{x:00}
+
+@134
+{z}{s:0320}Taste my secret blade...{w}{w}{w} Moon Strike!{g}{x:00}
+
+@135
+{z}{s:0320}{a:005e} is as strong as ever... I'll fall at this rate...{g}{x:00}
+
+@136
+{z}{s:0320}No hard feelings...{w} {a:0000}... This ends now!{g}{x:00}
+
+@137
+{z}{s:0320}So this is...{w} the last blow...{g}{x:00}
+
+@138
+{z}Lord {a:005e}! I will bring you down!{g}{x:00}
+
+@139
+{z}{s:0320}Well done...{w}{w} No wonder you led {p:01} to rule the continent...{g}{x:00}
+
+@140
+{z}{s:0320}...{g}{x:00}
+

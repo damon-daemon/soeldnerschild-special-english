@@ -1,0 +1,717 @@
+@0
+{z}{s:0320}So those clustered over there... are the enemy...{g}{x:00}
+
+@1
+{z}{s:0320}That's right. Our job today is not to wipe out the enemy.{g}{x:00}
+
+@2
+{z}{s:0320}We just have to draw them to this side of the river, right?{g}{x:00}
+
+@3
+{z}{s:0320}Commander! Enemy! They've appeared from the west!{g}{x:00}
+
+@4
+{z}{s:0320}What? Right, let's meet the--{g}{x:00}
+
+@5
+{z}{s:0320}Commander! Have you forgotten our mission? You mustn't leave this place!{g}{x:00}
+
+@6
+{z}{s:0320}Oops... So it is. Force of habit...{g}{x:00}
+
+@7
+{z}Our mission is to block the advance route of the {p:01} regular army.{g}{x:00}
+
+@8
+{z}{s:0320}Sending one company should be enough. He's sure to lose his temper in no time.{g}{x:00}
+
+@9
+{z}{s:0320}Let me do it!{w}{w} Come on, please?{g}{x:00}
+
+@10
+{z}{s:0320}Really? Yes! Right, I'll mock them for all I'm worth!{g}{x:00}
+
+@11
+{z}{s:0320}Why not?! Come on, what's the harm?{g}{x:00}
+
+@12
+{z}{s:0320}{a:0002}! Don't get angry over nothing! {a:0000} has a plan.{g}{x:00}
+
+@13
+{z}{s:0320}Huh? Me?{g}{x:00}
+
+@14
+{z}{s:0320}Huh? Me?{g}{x:00}
+
+@15
+{z}{s:0320}Huh? Me?{g}{x:00}
+
+@16
+{z}{s:0320}Me?{w}{w} ...{g}{x:00}
+
+@17
+{z}{s:0320}See? Not keen at all! Then I'll do it instead!{g}{x:00}
+
+@18
+{z}Come on, {a:0005}.{w}{w} All right?{g}{x:00}
+
+@19
+{z}{s:0320}I don't mind at all.{g}{x:00}
+
+@20
+{z}{s:0320}Good! That settles it! I'll go and do it!{g}{x:00}
+
+@21
+{z}{s:0320}Looks like the enemy is advancing. Shall we give them a little scare?{g}{x:00}
+
+@22
+{z}{s:0320}No! Please stay put!{g}{x:00}
+
+@23
+{z}{s:0320}I know, I know! Just joking! Joking!{g}{x:00}
+
+@24
+{z}{s:0320}Isn't it about time?{g}{x:00}
+
+@25
+{z}{s:0320}Really? Right, here goes...{g}{x:00}
+
+@26
+{z}Hey! You there, Knight Commander! Why aren't you moving? Are you that scared of us?{g}{x:00}
+
+@27
+{z}And you dare call yourself a Knight Commander! If that's good enough, anyone can be one!{g}{x:00}
+
+@28
+{z}{s:0320}Isn't it about time?{g}{x:00}
+
+@29
+{z}{s:0320}Huh? Already? Right, here I go...{g}{x:00}
+
+@30
+{z}Hey! You there, Knight Commander! Why won't you come at us? Are you scared of us?{g}{x:00}
+
+@31
+{z}And you call yourself a Knight Commander! If that's all it takes, anyone can become one!{g}{x:00}
+
+@32
+{z}{s:0320}Isn't it about time?{g}{x:00}
+
+@33
+{z}{s:0320}Huh? Already? I'm getting nervous...{g}{x:00}
+
+@34
+{z}Phew... Calm down... All right, here goes...{g}{x:00}
+
+@35
+{z}Hey! You there, Knight Commander! Why won't you attack? Are you scared of us?{g}{x:00}
+
+@36
+{z}And you dare call yourself a Knight Commander! If that's enough, anyone can be one!{g}{x:00}
+
+@37
+{z}{s:0320}It must be about time. Here goes...{g}{x:00}
+
+@38
+{z}Hey, Sir Knight Commander. Why won't you come at us? Are you scared of us?{g}{x:00}
+
+@39
+{z}And you dare call yourself a Knight Commander. If that's enough, anyone can be one.{g}{x:00}
+
+@40
+{z}{s:0320}W-what?! I'm not afraid of the likes of you!{g}{x:00}
+
+@41
+{z}As you wish, we'll charge you now! Mind you're not the ones who run!{g}{x:00}
+
+@42
+{z}{s:0320}See? Just as I said.{g}{x:00}
+
+@43
+{z}{s:0320}Really... What a simple man.{g}{x:00}
+
+@44
+{z}{s:0320}Now it's a question of whether he sends the whole army charging...{g}{x:00}
+
+@45
+{z}{s:0320}Right! Let's go! All forces, charge...{g}{x:00}
+
+@46
+{z}{s:0320}Commander! Stay calm! Please compose yourself!{g}{x:00}
+
+@47
+{z}{s:0320}Silence! After being mocked like that?!{g}{x:00}
+
+@48
+{z}{s:0320}What about our mission?!{g}{x:00}
+
+@49
+{z}{s:0320}The mission...{w}{w} Yes, of course...{g}{x:00}
+
+@50
+{z}{s:0320}As long as you stay calm, that is all I ask.{g}{x:00}
+
+@51
+{z}{s:0320}That staff officer is calm. The exact opposite of their Commander.{g}{x:00}
+
+@52
+{z}{s:0320}...Or rather, that Knight Commander is just too simple.{g}{x:00}
+
+@53
+{z}{s:0320}That's certainly true.{g}{x:00}
+
+@54
+{z}{s:0320}Hey, that didn't work. What now?{g}{x:00}
+
+@55
+{z}{s:0320}We keep at it until he loses his temper. He's bound to.{g}{x:00}
+
+@56
+{z}{s:0320}We really mustn't attack them?{g}{x:00}
+
+@57
+{z}{s:0320}If they come this far, of course we'll meet them.{g}{x:00}
+
+@58
+{z}But we must never chase the enemy. If {p:01} made its move then, we would fail our mission.{g}{x:00}
+
+@59
+{z}{s:0320}The enemy is getting closer.{g}{x:00}
+
+@60
+{z}{s:0320}...Not yet?{g}{x:00}
+
+@61
+{z}{s:0320}It's about time, isn't it?{g}{x:00}
+
+@62
+{z}{s:0320}Oh, yes, right.{g}{x:00}
+
+@63
+{z}{s:0320}Well then, here goes...{g}{x:00}
+
+@64
+{z}Hey! You there, Knight Commander! We've come all this way. Why don't you attack?!{g}{x:00}
+
+@65
+{z}If you're scared of us, just say so! Why put on a brave face?!{g}{x:00}
+
+@66
+{z}{s:0320}Surely it's time now?{g}{x:00}
+
+@67
+{z}{s:0320}Oh, yes, right.{g}{x:00}
+
+@68
+{z}{s:0320}Right, here I go...{g}{x:00}
+
+@69
+{z}Hey! You there, Knight Commander! We came all this way. Why won't you attack?!{g}{x:00}
+
+@70
+{z}Aha... You're scared of us, aren't you? Right? Scared? Well, well, so that's it...{g}{x:00}
+
+@71
+{z}{s:0320}Isn't it about time?{g}{x:00}
+
+@72
+{z}{s:0320}Oh, yes, right.{g}{x:00}
+
+@73
+{z}{s:0320}Right, here I go...{g}{x:00}
+
+@74
+{z}Hey! You there, Knight Commander! Why won't you come at us?! And after we came all this way!{g}{x:00}
+
+@75
+{z}You're scared of us, aren't you? Admit it! Why, you're nothing but a coward...{g}{x:00}
+
+@76
+{z}{s:0320}{a:0004}, isn't it time?{g}{x:00}
+
+@77
+{z}{s:0320}I was just about to. Don't rush me.{g}{x:00}
+
+@78
+{z}Hey, Sir Knight Commander. Why are you just standing there gawping?{g}{x:00}
+
+@79
+{z}Aha... You're scared of us? Right? Scared, eh? So that's it...{g}{x:00}
+
+@80
+{z}{s:0320}Nonsense! I stay put because I have my reasons!{g}{x:00}
+
+@81
+{z}If you want to fight us that badly, fine, you've got it!{g}{x:00}
+
+@82
+{z}{s:0320}Commander! Hold back, please!{g}{x:00}
+
+@83
+{z}{s:0320}Silence! When I say charge, we charge! A Knight Commander's orders are absolute!{g}{x:00}
+
+@84
+{z}{s:0320}...{w}{w} Understood.{g}{x:00}
+
+@85
+{z}{s:0320}Go! Charge! Wipe them out to the last man!{g}{x:00}
+
+@86
+{z}Chase them to the ends of the earth! Keep after them until they're wiped out!{g}{x:00}
+
+@87
+{z}{s:0320}Ha ha ha ha! He's lost his temper!{g}{x:00}
+
+@88
+{z}{s:0320}The plan worked. Now we just have to draw them west...{g}{x:00}
+
+@89
+{z}{s:0320}But if we only run, the enemy will get suspicious. Fall back without being noticed.{g}{x:00}
+
+@90
+{z}{s:0320}Right, one company for now...{g}{x:00}
+
+@91
+{z}{s:0320}Right, one company for now...{g}{x:00}
+
+@92
+{z}{s:0320}Right, one company for now...{g}{x:00}
+
+@93
+{z}{s:0320}Right, one company for now...{g}{x:00}
+
+@94
+{z}{s:0320}Still only one company...{g}{x:00}
+
+@95
+{z}{s:0320}Still only one company...{g}{x:00}
+
+@96
+{z}{s:0320}That makes two companies...{g}{x:00}
+
+@97
+{z}{s:0320}Still only two companies...?{g}{x:00}
+
+@98
+{z}{s:0320}That makes two companies...{g}{x:00}
+
+@99
+{z}{s:0320}Still only two companies... We need to draw in more...{g}{x:00}
+
+@100
+{z}{s:0320}Still only two companies...{g}{x:00}
+
+@101
+{z}{s:0320}Still only two companies...{g}{x:00}
+
+@102
+{z}{s:0320}Good, that makes three companies... Nearly there, everyone, hang on.{g}{x:00}
+
+@103
+{z}{s:0320}Three companies now... One last push.{g}{x:00}
+
+@104
+{z}{s:0320}Three companies now... One last push...{g}{x:00}
+
+@105
+{z}{s:0320}Three companies now... One last push.{g}{x:00}
+
+@106
+{z}{s:0320}Three companies now... One last push.{g}{x:00}
+
+@107
+{z}{s:0320}Three companies now... Good, one last push.{g}{x:00}
+
+@108
+{z}{s:0320}Damn it! Running all over the place!{w}{w} ...{w}{w} Hm? Who's that over there?{g}{x:00}
+
+@109
+{z}{s:0320}Thanks to you, we can advance on {p:01} without losing any men.{g}{x:00}
+
+@110
+{z}Thank you for your trouble.{w}{w} Now, if you'll excuse us.{g}{x:00}
+
+@111
+{z}{s:0320}Damn! No time to bother with mercenaries! The regular army is advancing!{g}{x:00}
+
+@112
+{z}After them! Go after them!{g}{x:00}
+
+@113
+{z}{s:0320}So it came to this after all...{w}{w} We have no choice but to chase the regular army.{g}{x:00}
+
+@114
+{z}The {p:01} regular army has begun its advance! Chase the regular army! Ignore the mercenaries!{g}{x:00}
+
+@115
+{z}{s:0320}The {p:01} army has begun its advance! After the regular army!{g}{x:00}
+
+@116
+{z}...Not that we can catch them now.{w}{w} Haah... If only our Commander were more level-headed...{g}{x:00}
+
+@117
+{z}{s:0320}So the plan is a success. Thank goodness we completed the mission safely.{g}{x:00}
+
+@118
+{z}{s:0320}Phew... The plan is a success. Good that it went well.{g}{x:00}
+
+@119
+{z}{s:0320}Yes! The plan's a success! Mission accomplished!{g}{x:00}
+
+@120
+{z}{s:0320}So the plan is a success. Thank goodness... mission accomplished.{g}{x:00}
+
+@121
+{z}{s:0320}It all went well, just as planned.{g}{x:00}
+
+@122
+{z}{s:0320}I'm sorry...{w}{w} I...{w}{w} I'm withdrawing...{g}{x:00}
+
+@123
+{z}{s:0320}I miscalculated... To struggle this much against mercenaries...{g}{x:00}
+
+@124
+{z}{s:0320}That is enough. You have done your part.{g}{x:00}
+
+@125
+{z}You thinned out the enemy more than expected, so we decided to move.{g}{x:00}
+
+@126
+{z}You have our thanks.{w}{w} Now, if you'll excuse us.{g}{x:00}
+
+@127
+{z}{s:0320}What? Those are the {p:01} regular army? Th-this is bad...{g}{x:00}
+
+@128
+{z}After them! Go after them! No time to bother with mercenaries!{g}{x:00}
+
+@129
+{z}{s:0320}It's pointless to chase them with so few...{g}{x:00}
+
+@130
+{z}{s:0320}Is that the {p:01} regular army? This is bad...{g}{x:00}
+
+@131
+{z}We have no choice but to chase the regular army, though it's pointless with so few...{w}{w} Haah...{w}{w} If only the Commander were steadier...{g}{x:00}
+
+@132
+{z}The {p:01} regular army has begun its advance! We're done with the mercenaries! After the regular army!{g}{x:00}
+
+@133
+{z}{s:0320}The {p:01} regular army has begun its advance! After them!{g}{x:00}
+
+@134
+{z}...Not that there's anything we can do with so few men left...{g}{x:00}
+
+@135
+{z}{s:0320}It didn't go as planned, but at least we completed the mission.{g}{x:00}
+
+@136
+{z}{s:0320}It didn't go as planned, but at least we completed the mission.{g}{x:00}
+
+@137
+{z}{s:0320}Phew... Mission accomplished. Not exactly as planned, though.{g}{x:00}
+
+@138
+{z}{s:0320}Yeah! We completed the mission!{g}{x:00}
+
+@139
+{z}{s:0320}So the mission is accomplished... Not as planned, though...{g}{x:00}
+
+@140
+{z}You were told to just fall back, weren't you? So why did you try to fight more than you needed to?{g}{x:00}
+
+@141
+{z}...You'd do well to reflect a little.{g}{x:00}
+
+@142
+{z}{s:0320}Hm? What's that? Could it be...{g}{x:00}
+
+@143
+{z}That's the {p:01} regular army! They were waiting there for a chance to advance! After them! Chase them!{g}{x:00}
+
+@144
+{z}I was so distracted by the mercenaries that I forgot all about the regular army...{g}{x:00}
+
+@145
+{z}{s:0320}Damn! We've been noticed! Let's go!{g}{x:00}
+
+@146
+{z}{s:0320}With the enemy there, they'll surely catch us!{g}{x:00}
+
+@147
+{z}{s:0320}But we've come this far... No help for it. Make haste.{g}{x:00}
+
+@148
+{z}{s:0320}Don't let them escape! All forces, pursue!{g}{x:00}
+
+@149
+{z}{s:0320}We couldn't draw them in...{g}{x:00}
+
+@150
+{z}{s:0320}We couldn't draw the enemy in...{g}{x:00}
+
+@151
+{z}{s:0320}We couldn't draw them in... Damn it...{g}{x:00}
+
+@152
+{z}{s:0320}No... How did it come to this?{g}{x:00}
+
+@153
+{z}{s:0320}What a pathetic result...{g}{x:00}
+
+@154
+{z}{s:0320}Everyone... I'm sorry...{g}{x:00}
+
+@155
+{z}{s:0320}Damn... Why me, of all people...{g}{x:00}
+
+@156
+{z}{s:0320}I'm withdrawing...{g}{x:00}
+
+@157
+{z}{s:0320}Ow, ow, ow...{g}{x:00}
+
+@158
+{z}{s:0320}Retreat...{g}{x:00}
+
+@159
+{z}{s:0320}You'll regret making a fool of me! Let's go!{g}{x:00}
+
+@160
+{z}{s:0320}You think you can beat me? Don't be ridiculous!{g}{x:00}
+
+@161
+{z}{s:0320}Even if it's a knightly order, I won't flinch!{g}{x:00}
+
+@162
+{z}So, who will you send?{g}{x:00}
+
+@163
+{z}{s:0320}Understood.{g}{x:00}
+
+@164
+{z}{s:0320}All right then, everyone, let's go!{g}{x:00}
+
+@165
+{z}{s:0320}Tch... Why did it have to be someone like {a:0003}...{g}{x:00}
+
+@166
+{z}{s:0320}"Let's go," she says... Are we all advancing?{g}{x:00}
+
+@167
+{z}{s:0320}We mustn't be noticed, right?{g}{x:00}
+
+@168
+{z}{s:0320}Or they might dig in and never leave that spot.{g}{x:00}
+
+@169
+{z}{s:0320}So we mustn't attack them?{g}{x:00}
+
+@170
+{z}{s:0320}What do we do to draw the enemy in?{g}{x:00}
+
+@171
+{z}{s:0320}The quickest way is probably to hurl abuse at them.{g}{x:00}
+
+@172
+{z}That Knight Commander is famous for his short temper. So if we mock him a little...{g}{x:00}
+
+@173
+{z}{s:0320}He forgets himself and moves... Is that it?{g}{x:00}
+
+@174
+{z}{s:0320}Naturally.{g}{x:00}
+
+@175
+{z}If we act unnaturally, the enemy will see through our plan.{g}{x:00}
+
+@176
+{z}{s:0320}Only until we have angered their Knight Commander into moving.{g}{x:00}
+
+@177
+{z}{s:0320}A little longer...{w}{w} Please hold out a little longer.{g}{x:00}
+
+@178
+{z}Hm?{w}{w} What's that?{g}{x:00}
+
+@179
+{z}{s:0320}Why should we fight mere mercenaries... Unthinkable...{g}{x:00}
+
+@180
+{z}{s:0320}Why do we have to attack...{g}{x:00}
+
+@181
+{z}{s:0320}Why must we attack...?{g}{x:00}
+
+@182
+{z}{s:0320}Why must we attack...?{g}{x:00}
+
+@183
+{z}{s:0320}Why attack...{g}{x:00}
+
+@184
+{z}{s:0320}Why are we attacking...?{g}{x:00}
+
+@185
+{z}{s:0320}Why make us attack...?{g}{x:00}
+
+@186
+{z}{s:0320}They really mean to fight us. They've got nerve, I'll give them that.{g}{x:00}
+
+@187
+{z}Right! I'll do it! Scatter those mercenaries!{g}{x:00}
+
+@188
+{z}{s:0320}Commander! Hold back, please!{g}{x:00}
+
+@189
+{z}{s:0320}Quiet! Don't defy my orders! Now go and engage them!{g}{x:00}
+
+@190
+{z}{s:0320}Hey! He's lost his temper!{g}{x:00}
+
+@191
+{z}{s:0320}I thought we'd failed, but it looks like it's going to work.{g}{x:00}
+
+@192
+{z}{s:0320}I wonder about that...{g}{x:00}
+
+@193
+{z}{s:0320}...{w}{w}{w} Understood. Let us meet the mercenaries.{g}{x:00}
+
+@194
+{z}But we fight without leaving this spot... Keep to that, at least.{w}{w} Is that clear?{g}{x:00}
+
+@195
+{z}{s:0320}Very well.{g}{x:00}
+
+@196
+{z}{s:0320}They're not following...{g}{x:00}
+
+@197
+{z}{s:0320}I said we had to make sure he got angry...{g}{x:00}
+
+@198
+{z}{s:0320}If it's come to this, we'll have to fight.{g}{x:00}
+
+@199
+{z}The victory condition has changed.{g}{x:00}
+
+@200
+{z}{s:0320}Why do they only run instead of attacking...{g}{x:00}
+
+@201
+{z}Suspicious...{g}{x:00}
+
+@202
+{z}{s:0320}Still no attack... Why...{g}{x:00}
+
+@203
+{z}Aha...{w}{w} I see.{g}{x:00}
+
+@204
+{z}...Which means...{w}{w} if we chase after them, we'd fall right into their trap...{g}{x:00}
+
+@205
+{z}You lot! Don't chase the mercenaries! It's a trap!{g}{x:00}
+
+@206
+{z}Fight on this side of the river! Understood?{g}{x:00}
+
+@207
+{z}The victory condition has changed.{g}{x:00}
+
+@208
+{z}{s:0320}Looks like we have to fight...{g}{x:00}
+
+@209
+{z}{s:0320}Looks like we have to fight...{g}{x:00}
+
+@210
+{z}{s:0320}Looks like we have to fight...{g}{x:00}
+
+@211
+{z}{s:0320}Tch... We have to fight after all.{g}{x:00}
+
+@212
+{z}{s:0320}Will we be all right...?{g}{x:00}
+
+@213
+{z}{s:0320}Our Commander has retreated...{g}{x:00}
+
+@214
+{z}It's too late to stop fighting now...{w}{w} We have to keep going.{g}{x:00}
+
+@215
+{z}{s:0320}We needn't have fought...{w}{w} at all.{g}{x:00}
+
+@216
+{z}Sounds fun... Leave it to me.{g}{x:00}
+
+@217
+{z}Sorry...{g}{x:00}
+
+@218
+{z}{s:0320}True...{g}{x:00}
+
+@219
+{z}All forces, charge!{g}{x:00}
+
+@220
+{z}We're done with the mercenaries!{g}{x:00}
+
+@221
+{z}Phew... That was close.{g}{x:00}
+
+@222
+{z}They're trying to draw us across the river, aren't they?{g}{x:00}
+
+@223
+{z}{s:0320}Without being noticed?{g}{x:00}
+
+@224
+{z}{s:0320}Show that we're willing to fight. I think that's enough.{g}{x:00}
+
+@225
+{z}{s:0320}No... Wiped out...{g}{x:00}
+
+@226
+{z}{s:0320}We wiped them out... I can't believe it.{g}{x:00}
+
+@227
+{z}But not following the plan is nothing to be proud of. Be careful, {a:0000}.{g}{x:00}
+
+@228
+{z}{s:0320}To think we actually wiped them out... It's like a dream.{g}{x:00}
+
+@229
+{z}But this was not what the state asked of us. I can't call the captain's decision today a sound one.{g}{x:00}
+
+@230
+{z}{s:0320}The enemy is wiped out... I can hardly believe it.{g}{x:00}
+
+@231
+{z}Still, abandoning the plan and acting on our own is hardly to our credit.{g}{x:00}
+
+@232
+{z}{s:0320}We wiped out the enemy... It's like a dream.{g}{x:00}
+
+@233
+{z}So the mission is accomplished... But this isn't what the state asked of us, is it...{g}{x:00}
+
+@234
+{z}{s:0320}Wiping them all out, that's amazing!{g}{x:00}
+
+@235
+{z}So the mission is done... But, you know, this isn't what we were asked to do...{g}{x:00}
+
+@236
+{z}...{w}{w} All right, leave it to me.{g}{x:00}
+
+@237
+{z}...{w}{w} Understood, leave it to me.{g}{x:00}
+
+@238
+{z}{s:0320}Why...{w}{w} Why my company...?{w}{w} I can't believe it...{g}{x:00}
+

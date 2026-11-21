@@ -1,0 +1,654 @@
+@0
+{z}{s:0320}The enemy doesn't seem to have arrived yet.{g}{x:00}
+
+@1
+{z}{s:0320}Lady {a:0086}'s Rime Knights aren't here yet, either.{g}{x:00}
+
+@2
+{z}{s:0320}Hm... {w}{w}Fighting alongside her, we should learn much.{g}{x:00}
+
+@3
+{z}{a:0000}, {a:0002}, {a:0001}, watch closely how the strongest woman knight on the continent fights.{g}{x:00}
+
+@4
+{z}{s:0320}I don't care about anyone else. I'll settle this my own way!{g}{x:00}
+
+@5
+{z}{s:0320}{a:0002}...{g}{x:00}
+
+@6
+{z}{s:0320}Whoa, that's enough chatter. Here comes the enemy!{g}{x:00}
+
+@7
+{z}{s:0320}Are those the Rime Knights? {w}{w}No... some mercenary company?{g}{x:00}
+
+@8
+{z}The banner is... {w}{w}Tigre Mercenaries! {w}{w}{a:0023}?{g}{x:00}
+
+@9
+{z}{a:0023}! Still dressed as shabbily as ever.{g}{x:00}
+
+@10
+{z}Why not take a job that pays? You're a mercenary, after all.{g}{x:00}
+
+@11
+{z}{s:0320}{a:002b}, is it! Gold means nothing to me.{g}{x:00}
+
+@12
+{z}Not next to my dream of restoring a world without strife!{g}{x:00}
+
+@13
+{z}{s:0320}Ha... hahahaha!{g}{x:00}
+
+@14
+{z}{s:0320}What's so funny?{g}{x:00}
+
+@15
+{z}{s:0320}What's funny, you ask?{g}{x:00}
+
+@16
+{z}Don't you hear how absurd you sound? I'd say you're the one who's mad.{g}{x:00}
+
+@17
+{z}Well, either way, looks like we'll just have to crush you and move on.{g}{x:00}
+
+@18
+{z}{a:002c}, {a:002d}, go ahead and take the wind out of that fool's sails.{g}{x:00}
+
+@19
+{z}It'll be trouble if the knights arrive. Wipe them out before then.{g}{x:00}
+
+@20
+{z}{s:0320}Right!{g}{x:00}
+
+@21
+{z}{s:0320}Well then, here we go!{g}{x:00}
+
+@22
+{z}{s:0320}Listen! Until the Rime Knights arrive, fight while keeping our losses down!{g}{x:00}
+
+@23
+{z}{a:002b} is a skilled one! Charge in carelessly and you'll play into her hands!{g}{x:00}
+
+@24
+{z}{s:0320}Sorry. I leave this to you all...{w}{w} I'm counting on you.{g}{x:00}
+
+@25
+{z}{s:0320}Damn... {w}{w}It galls me, but we must retreat.{g}{x:00}
+
+@26
+{z}I'll pay you back for this. Mark my words.{g}{x:00}
+
+@27
+{z}{s:0320}We have no choice but to retreat.{g}{x:00}
+
+@28
+{z}I'm pulling back. I leave the rest to you.{g}{x:00}
+
+@29
+{z}{s:0320}By a company led by a woman! ...Have I lost my edge?{g}{x:00}
+
+@30
+{z}{f}{l:0002}{s:0002}Damn! I have to retreat?!{g}{x:00}
+
+@31
+{z}{s:0320}So they got us. Oh well, nothing for it...{g}{x:00}
+
+@32
+{z}{s:0320}Losing to a company like that... Retreat!{g}{x:00}
+
+@33
+{z}{s:0320}Beaten by fellow mercenaries...{g}{x:00}
+
+@34
+{z}{s:0320}We're safe now that we've run this far.{g}{x:00}
+
+@35
+{z}{s:0320}Without {a:002b} we're useless. We'll have our revenge someday.{g}{x:00}
+
+@36
+{z}{s:0320}Looks like we got away somehow.{g}{x:00}
+
+@37
+{z}{s:0320}Running away is disgraceful, but... well, no choice.{g}{x:00}
+
+@38
+{z}{s:0320}Still don't understand?{g}{x:00}
+
+@39
+{z}We can't go on fighting battles like this forever.{g}{x:00}
+
+@40
+{z}{s:0320}We must fight in a way that won't shame Lady {a:0086}!{g}{x:00}
+
+@41
+{z}{s:0320}What, a woman is their leader? Not worth worrying about!{g}{x:00}
+
+@42
+{z}{f}{l:0001}{s:0001}Honestly! Haven't the knights come yet?{g}{x:00}
+
+@43
+{z}Maybe they never meant to come at all?{g}{x:00}
+
+@44
+{z}{f}{l:0002}{s:0002}Knights or no knights, I don't care!{g}{x:00}
+
+@45
+{z}We'll do it ourselves... no, even if I'm alone, I'll settle this!{g}{x:00}
+
+@46
+{z}{s:0320}It seems we've reached the battlefield at last...{g}{x:00}
+
+@47
+{z}{s:0320}Perhaps a little late... Are those the Tigre Mercenaries?{g}{x:00}
+
+@48
+{z}{s:0320}Damn... the knights have arrived...{g}{x:00}
+
+@49
+{z}Time to slip away...{w}{w} Everyone, retreat separately! We meet at the usual place! Understood?{g}{x:00}
+
+@50
+{z}{s:0320}...! Those are... the Rime Knights!{g}{x:00}
+
+@51
+{z}Tch... Even we can't face knights and mercenaries at once.{g}{x:00}
+
+@52
+{z}All units, retreat! We'll meet at the usual place. Don't get left behind.{g}{x:00}
+
+@53
+{z}{s:0320}Losing a fight between mercenaries... We have to withdraw.{g}{x:00}
+
+@54
+{z}{s:0320}Me, driven this far into a corner... {w}{w}{g}{x:00}
+
+@55
+{z}All units, fall back fighting! Then we meet at the usual place. Don't get left behind.{g}{x:00}
+
+@56
+{z}{s:0320}{a:002b} has withdrawn.{g}{x:00}
+
+@57
+{z}Good! Now push back the remaining enemy!{g}{x:00}
+
+@58
+{z}{f}{l:0001}{s:0001}The enemy leader is running away.{g}{x:00}
+
+@59
+{z}Once we drive off the rest, the job is done!{g}{x:00}
+
+@60
+{z}{s:0320}... {w}{w}?{g}{x:00}
+
+@61
+{z}Why did you hold back? Your strength is surely more than this.{g}{x:00}
+
+@62
+{z}{s:0320}You... {w}{w}{g}{x:00}
+
+@63
+{z}You... made me remember what I had forgotten...{g}{x:00}
+
+@64
+{z}{s:0320}What?{g}{x:00}
+
+@65
+{z}{s:0320}What's your name?{g}{x:00}
+
+@66
+{z}{s:0320}{a:0000}.{g}{x:00}
+
+@67
+{z}{s:0320}That name... I'll remember it...{g}{x:00}
+
+@68
+{z}{f}{l:0001}{s:0001}{a:002b}!{g}{x:00}
+
+@69
+{z}{s:0320}What is it? What does a little girl want with me?{g}{x:00}
+
+@70
+{z}{f}{l:0001}{s:0001}Yes! There's something I want to ask you.{g}{x:00}
+
+@71
+{z}Why do you keep fighting pointless battles and prolong the war?{g}{x:00}
+
+@72
+{z}Why don't you work to build a world without war?{g}{x:00}
+
+@73
+{z}{s:0320}Heh... {w}{w}You're just like {a:0023}.{g}{x:00}
+
+@74
+{z}We're mercenaries. If the fighting ends, how are we meant to live?{g}{x:00}
+
+@75
+{z}What {a:0023} says is nothing but a pipe dream that ignores reality!{g}{x:00}
+
+@76
+{z}{s:0320}That's not true!{g}{x:00}
+
+@77
+{z}{s:0320}!{g}{x:00}
+
+@78
+{z}You... {w}{w}{g}{x:00}
+
+@79
+{z}{s:0320}{a:002b}!{g}{x:00}
+
+@80
+{z}I don't fight for money!{g}{x:00}
+
+@81
+{z}{s:0320}That's exactly the kind of fine talk I mean!{g}{x:00}
+
+@82
+{z}{s:0320}So you're {a:002b}!{g}{x:00}
+
+@83
+{z}{s:0320}And you call yourself a woman? What a dull getup.{g}{x:00}
+
+@84
+{z}{s:0320}W-what did you say!{g}{x:00}
+
+@85
+{z}{s:0320}Dressed like that, I'll bet no man ever looks at you.{g}{x:00}
+
+@86
+{z}Poor thing...{g}{x:00}
+
+@87
+{z}{s:0320}I'd rather no man fancied me than look as gaudy as you!{g}{x:00}
+
+@88
+{z}You're the gaudiest woman on the continent! Ugh, it makes me sick!{g}{x:00}
+
+@89
+{z}{s:0320}Hmph! Plenty of mouth for a woman with no charm.{g}{x:00}
+
+@90
+{z}All units! Focus on that woman!{g}{x:00}
+
+@91
+{z}{s:0320}The enemy is all women! Nothing to fear! Charge!{g}{x:00}
+
+@92
+{z}{s:0320}Hey, enemy company captain.{g}{x:00}
+
+@93
+{z}You've been sneering at "women" all this time, haven't you?{g}{x:00}
+
+@94
+{z}You don't know how truly frightening a woman can be. Hehehe... {w}{w}You've a lesson to learn.{g}{x:00}
+
+@95
+{z}{s:0320}Ha! Then teach me, right here and now!{g}{x:00}
+
+@96
+{z}{s:0320}Don't come crying for forgiveness afterwards. It'll do you no good.{g}{x:00}
+
+@97
+{z}Attack!{g}{x:00}
+
+@98
+{z}{f}{l:0002}{s:0002}It's no good. We're being pushed back!{g}{x:00}
+
+@99
+{z}{s:0320}Calm down, {a:0002}!{g}{x:00}
+
+@100
+{z}Tch... She's good, for a woman.{g}{x:00}
+
+@101
+{z}{s:0320}Hahaha! Didn't I tell you so!{g}{x:00}
+
+@102
+{z}{s:0320}We've driven them off somehow.{g}{x:00}
+
+@103
+{z}{f}{l:0001}{s:0001}The knights never came after all...{g}{x:00}
+
+@104
+{z}{s:0320}... {w}{w}{g}{x:00}
+
+@105
+{z}{f}{l:0002}{s:0002}We won on our own strength... {w}{w}The only one you can trust is yourself.{g}{x:00}
+
+@106
+{z}{s:0320}! {w}{w}Those are...{g}{x:00}
+
+@107
+{z}{s:0320}The knights seem to have arrived at last.{g}{x:00}
+
+@108
+{z}{s:0320}Forgive our delay. Are you the Tigre Mercenaries?{g}{x:00}
+
+@109
+{z}{s:0320}We are...{w}{w} And you are Lady {a:0086} of the Rime Knights?{g}{x:00}
+
+@110
+{z}{s:0320}I am.{g}{x:00}
+
+@111
+{z}Were the enemy mercenaries as well? It seems the fighting was fierce...{g}{x:00}
+
+@112
+{z}{f}{l:0002}{s:0002}Haven't you a word of thanks for us?{g}{x:00}
+
+@113
+{z}{s:0320}{a:0002}! Stop it!{g}{x:00}
+
+@114
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@115
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@116
+{z}{f}{l:0002}{s:0002}Tch...{g}{x:00}
+
+@117
+{z}{s:0320}The battle is over. We've no more business here.{g}{x:00}
+
+@118
+{z}{a:0087}! Order all our troops to return!{g}{x:00}
+
+@119
+{z}{s:0320}Sir!{g}{x:00}
+
+@120
+{z}{s:0320}Then, farewell!{g}{x:00}
+
+@121
+{z}{f}{l:0001}{s:0001}It seems we won, but... the knights never came after all.{g}{x:00}
+
+@122
+{z}{s:0320}Yes...{g}{x:00}
+
+@123
+{z}{f}{l:0001}{s:0001}If the knights had come sooner, our losses would have been far fewer.{g}{x:00}
+
+@124
+{z}Maybe none of our companies would have had to retreat... Honestly!{g}{x:00}
+
+@125
+{z}{s:0320}!{g}{x:00}
+
+@126
+{z}{a:0001}! The knights seem to have arrived at last.{g}{x:00}
+
+@127
+{z}{s:0320}Forgive our delay. Are you the Tigre Mercenaries?{g}{x:00}
+
+@128
+{z}{s:0320}We are... And you are Lady {a:0086} of the Rime Knights?{g}{x:00}
+
+@129
+{z}{s:0320}I am.{g}{x:00}
+
+@130
+{z}Were the enemy mercenaries as well? It seems the fighting was fierce...{g}{x:00}
+
+@131
+{z}{f}{l:0002}{s:0002}Haven't you a word of thanks for us?{g}{x:00}
+
+@132
+{z}{f}{l:0001}{s:0001}{a:0002}! Stop it!{g}{x:00}
+
+@133
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@134
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@135
+{z}{f}{l:0002}{s:0002}Tch...{g}{x:00}
+
+@136
+{z}{s:0320}The battle is over. We've no more business here.{g}{x:00}
+
+@137
+{z}{a:0087}! Order all our troops to return!{g}{x:00}
+
+@138
+{z}{s:0320}Sir!{g}{x:00}
+
+@139
+{z}{s:0320}Then, farewell.{g}{x:00}
+
+@140
+{z}{s:0320}Leaving without a word of thanks... Are all knights like that?{g}{x:00}
+
+@141
+{z}{s:0320}We didn't work to win the knights' approval.{g}{x:00}
+
+@142
+{z}We fought to protect innocent townsfolk. Don't let it trouble you.{g}{x:00}
+
+@143
+{z}{s:0320}Quite. {a:0000} is right.{g}{x:00}
+
+@144
+{z}{f}{l:0001}{s:0001}Still... if the knights had come sooner...{g}{x:00}
+
+@145
+{z}Our losses would have been much smaller...{g}{x:00}
+
+@146
+{z}But there's no use dwelling on it forever...{g}{x:00}
+
+@147
+{z}{s:0320}Let's set out! Back to the town of Carelia.{g}{x:00}
+
+@148
+{z}{a:0000}! Take the lead.{g}{x:00}
+
+@149
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@150
+{z}{f}{l:0001}{s:0001}Hey, {a:0000}!{g}{x:00}
+
+@151
+{z}Let's quickly rejoin Captain {a:0023} and the others and return to Carelia.{g}{x:00}
+
+@152
+{z}{s:0320}Yes... you're right.{g}{x:00}
+
+@153
+{z}{s:0320}With the Rime Knights here, they've given up.{g}{x:00}
+
+@154
+{z}{s:0320}No one could hope to beat two forces at once, after all.{g}{x:00}
+
+@155
+{z}{s:0320}Forgive our delay. Are you the Tigre Mercenaries?{g}{x:00}
+
+@156
+{z}{s:0320}We are...{w}{w} And you are Lady {a:0086} of the Rime Knights?{g}{x:00}
+
+@157
+{z}{s:0320}I am.{g}{x:00}
+
+@158
+{z}Were the enemy mercenaries as well? It seems the fighting was fierce...{g}{x:00}
+
+@159
+{z}{f}{l:0002}{s:0002}Haven't you a word of thanks for us?{g}{x:00}
+
+@160
+{z}{s:0320}{a:0002}! Stop it!{g}{x:00}
+
+@161
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@162
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@163
+{z}{f}{l:0002}{s:0002}Tch...{g}{x:00}
+
+@164
+{z}{f}{l:0001}{s:0001}The enemy gave up once the Rime Knights appeared.{g}{x:00}
+
+@165
+{z}{s:0320}Yes...{g}{x:00}
+
+@166
+{z}{f}{l:0001}{s:0001}But if they'd come a little sooner, our losses would have been far fewer.{g}{x:00}
+
+@167
+{z}Maybe none of our companies would have had to retreat... Honestly!{g}{x:00}
+
+@168
+{z}{s:0320}Forgive our delay. Are you the Tigre Mercenaries?{g}{x:00}
+
+@169
+{z}{s:0320}We are... And you are Lady {a:0086} of the Rime Knights?{g}{x:00}
+
+@170
+{z}{s:0320}I am.{g}{x:00}
+
+@171
+{z}Were the enemy mercenaries as well? It seems the fighting was fierce...{g}{x:00}
+
+@172
+{z}{f}{l:0002}{s:0002}Haven't you a word of thanks for us?{g}{x:00}
+
+@173
+{z}{f}{l:0001}{s:0001}{a:0002}! Stop it!{g}{x:00}
+
+@174
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@175
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@176
+{z}{f}{l:0002}{s:0002}Tch...{g}{x:00}
+
+@177
+{z}{f}{l:0001}{s:0001}Is that all? Not even a word of thanks?{g}{x:00}
+
+@178
+{z}{s:0320}{a:0001}! Stop it!{g}{x:00}
+
+@179
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@180
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@181
+{z}{f}{l:0001}{s:0001}Hmph!{g}{x:00}
+
+@182
+{z}{s:0320}The battle is over. We've no more business here.{g}{x:00}
+
+@183
+{z}{a:0087}! Order all our troops to return!{g}{x:00}
+
+@184
+{z}{s:0320}Sir!{g}{x:00}
+
+@185
+{z}{s:0320}Then, farewell.{g}{x:00}
+
+@186
+{z}{s:0320}Leaving without a word of thanks... Are all knights like that?{g}{x:00}
+
+@187
+{z}{s:0320}We didn't work to win the knights' approval.{g}{x:00}
+
+@188
+{z}We fought to protect innocent townsfolk. Don't let it trouble you.{g}{x:00}
+
+@189
+{z}{s:0320}Quite. {a:0000} is right.{g}{x:00}
+
+@190
+{z}{f}{l:0001}{s:0001}Still... if the knights had come sooner...{g}{x:00}
+
+@191
+{z}Our losses would have been much smaller...{g}{x:00}
+
+@192
+{z}But there's no use dwelling on it forever...{g}{x:00}
+
+@193
+{z}{s:0320}Let's set out! Back to the town of Carelia.{g}{x:00}
+
+@194
+{z}{a:0000}! Take the lead.{g}{x:00}
+
+@195
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@196
+{z}{f}{l:0001}{s:0001}Hey, {a:0000}!{g}{x:00}
+
+@197
+{z}Let's quickly rejoin Captain {a:0023} and the others and return to Carelia.{g}{x:00}
+
+@198
+{z}{s:0320}Yes... you're right.{g}{x:00}
+
+@199
+{z}Enemy morale fell.{g}{x:00}
+
+@200
+{z}{s:0320}Damn... Retreat!{g}{x:00}
+
+@201
+{z}{f}{l:0001}{s:0001}Is that all? Not even a word of thanks?{g}{x:00}
+
+@202
+{z}{s:0320}{a:0001}! Stop it!{g}{x:00}
+
+@203
+{z}{s:0320}Hmph... You've been paid handsomely enough.{g}{x:00}
+
+@204
+{z}Nor did you do more than your pay required.{g}{x:00}
+
+@205
+{z}{f}{l:0001}{s:0001}Hmph!{g}{x:00}
+
+@206
+{z}{s:0320}... {w}{w}{g}{x:00}
+
+@207
+{z}{f}{l:0002}{s:0002}Then let's finish this quickly... Here we go!{g}{x:00}
+
+@208
+{z}{s:0320}So {a:002c} and {a:002d} have both fallen...{g}{x:00}
+
+@209
+{z}That's {a:0023} for you...{w} But I won't go down so easily!{g}{x:00}
+
+@210
+{z}{s:0320}Show those Tigre dogs how fearsome the Medusa is!{g}{x:00}
+
+@211
+{z}Let's go!{g}{x:00}
+
+@212
+{z}{s:0320}About time... Right!{w}{w} Send in the fresh troops!{g}{x:00}
+
+@213
+{z}{s:0320}Listen up!{g}{x:00}
+
+@214
+{z}Show those Tigre dogs how fearsome the Medusa is! {w}{w}Let's go!{g}{x:00}
+
+@215
+{z}{s:0320}Curse {a:002b}... So she had troops lying in wait!{g}{x:00}
+
+@216
+{z}{f}{l:0001}{s:0001}Enemy reinforcements?{g}{x:00}
+
+@217
+{z}Honestly! {w}And our allied knights still haven't come!{g}{x:00}
+

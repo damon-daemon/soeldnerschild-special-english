@@ -1,0 +1,411 @@
+@0
+{z}{s:0320}Where is the enemy treasury?{g}{x:00}
+
+@1
+{z}{s:0320}According to the map, it's across the river, beyond this forest.{g}{x:00}
+
+@2
+{z}{s:0320}If the enemy notices us, they will surely call reinforcements...{g}{x:00}
+
+@3
+{z}We'd better find the sword and get out before their numbers grow.{g}{x:00}
+
+@4
+{z}{s:0320}Let's go on to the edge of the forest first...{g}{x:00}
+
+@5
+{z}Then we can see how the enemy stands and hit the treasury!{g}{x:00}
+
+@6
+{z}{s:0320}My! That's rather cautious for {a:0002}...{g}{x:00}
+
+@7
+{z}What happened to your usual headlong charge?{g}{x:00}
+
+@8
+{z}{s:0320}If {a:0002} says so, let's do as he says.{g}{x:00}
+
+@9
+{z}{s:0320}Hey! Everyone's making fun of me! And I thought I had a good idea...{g}{x:00}
+
+@10
+{z}{s:0320}Only joking!{g}{x:00}
+
+@11
+{z}You so rarely say anything cautious that I wanted to tease you a little.{g}{x:00}
+
+@12
+{z}Isn't that right... {a:0004}?{g}{x:00}
+
+@13
+{z}{s:0320}Right. {a:0002} has grown up, hasn't he?{g}{x:00}
+
+@14
+{z}{s:0320}You're making fun of me after all, aren't you?{w}{w} Not that I mind!{g}{x:00}
+
+@15
+{z}{a:0000}! Let's go!{g}{x:00}
+
+@16
+{z}{s:0320}I was beaten... I'm sorry... {w}{w}I'm retreating.{g}{x:00}
+
+@17
+{z}{s:0320}The sword...{w}{w} They took the sword...{g}{x:00}
+
+@18
+{z}{s:0320}Ngh... I got beaten! {w}{w}Retreating!{g}{x:00}
+
+@19
+{z}{s:0320}Damn! The sword...{w}{w} They got the sword...{g}{x:00}
+
+@20
+{z}{s:0320}I'm done for, it seems... But all of you, come back safe.{g}{x:00}
+
+@21
+{z}{s:0320}After all that effort to get it... they've taken the sword...{w}{w} the sword again...{g}{x:00}
+
+@22
+{z}{s:0320}Ngh... My whole unit wiped out...{g}{x:00}
+
+@23
+{z}{s:0320}Blast! They got the sword!{g}{x:00}
+
+@24
+{z}{s:0320}I can fight no more... Forgive me, but I am retreating...{g}{x:00}
+
+@25
+{z}{s:0320}They took the sword again... How bitter...{g}{x:00}
+
+@26
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@27
+{z}Oh! This must be it!{g}{x:00}
+
+@28
+{z}{a:0000} obtained the treasured sword.{g}{x:00}
+
+@29
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@30
+{z}Ah!{w}{w}{w} Found it! This is it!{g}{x:00}
+
+@31
+{z}{a:0001} obtained the treasured sword.{g}{x:00}
+
+@32
+{z}{s:0320}Now we just take this and escape, and the mission is done!{g}{x:00}
+
+@33
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@34
+{z}Oh! This must be it!{g}{x:00}
+
+@35
+{z}{a:0002} obtained the treasured sword.{g}{x:00}
+
+@36
+{z}{s:0320}All right! Now we just take this and escape, and the mission is done!{g}{x:00}
+
+@37
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@38
+{z}Ah! Found it! This is it!{g}{x:00}
+
+@39
+{z}{a:0003} obtained the treasured sword.{g}{x:00}
+
+@40
+{z}{s:0320}Now we just take this and escape, and the mission is done...{g}{x:00}
+
+@41
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@42
+{z}Oh! So this is the sword we were after...{g}{x:00}
+
+@43
+{z}{a:0004} obtained the treasured sword.{g}{x:00}
+
+@44
+{z}All right... Now we just take this and escape, and the mission is done...{g}{x:00}
+
+@45
+{z}{s:0320}The treasured sword should be here...{g}{x:00}
+
+@46
+{z}Oh! This is the sword...{g}{x:00}
+
+@47
+{z}{a:0005} obtained the treasured sword.{g}{x:00}
+
+@48
+{z}{s:0320}Now we just take this and escape, and the mission is done...{g}{x:00}
+
+@49
+{z}{s:0320}I can't stay a kid forever, you know!{g}{x:00}
+
+@50
+{z}{s:0320}We haven't got time to waste on enemy soldiers...{g}{x:00}
+
+@51
+{z}{s:0320}If we don't get the sword soon, we're in trouble...{g}{x:00}
+
+@52
+{z}{s:0320}They seem to have too few men to guard such a precious sword.{g}{x:00}
+
+@53
+{z}{s:0320}I have my pride too! You won't get the sword from me!{g}{x:00}
+
+@54
+{z}{s:0320}That place ringed by the river must be the treasury...{g}{x:00}
+
+@55
+{z}{s:0320}The only way across the river is that bridge.{g}{x:00}
+
+@56
+{z}If they block it, it'll be a hard fight.{g}{x:00}
+
+@57
+{z}{s:0320}About six enemy mercenary companies... Not too many to break through.{g}{x:00}
+
+@58
+{z}{s:0320}Let's just go! All this talk isn't my style!{g}{x:00}
+
+@59
+{z}{s:0320}Oh, you're back to your old self. That's the {a:0002} we know.{g}{x:00}
+
+@60
+{z}{s:0320}Right. It throws me off otherwise.{g}{x:00}
+
+@61
+{z}{s:0320}Damn, you've all got something to say today! If none of you will go, I'll go alone!{g}{x:00}
+
+@62
+{z}{s:0320}Captain! The enemy has shown up!{g}{x:00}
+
+@63
+{z}{s:0320}Th-they came through that forest! I was sure they'd come from the west...{g}{x:00}
+
+@64
+{z}Hmph! Either way, it makes no difference!{g}{x:00}
+
+@65
+{z}Hey, enemy captain! We knew you were coming!{g}{x:00}
+
+@66
+{z}{s:0320}...{g}{x:00}
+
+@67
+{z}{s:0320}What! What do you mean?{g}{x:00}
+
+@68
+{z}{s:0320}You're after the sword here, aren't you?{g}{x:00}
+
+@69
+{z}However much land you take, without this sword you can't claim to be the rightful successor of Ragail, I hear!{g}{x:00}
+
+@70
+{z}{s:0320}So what if we are!{g}{x:00}
+
+@71
+{z}We'll smash you and take that sword home!{g}{x:00}
+
+@72
+{z}{s:0320}Bark all you like while you can!{g}{x:00}
+
+@73
+{z}Our reinforcements are due any moment. Hold out until then and the day is ours!{g}{x:00}
+
+@74
+{z}{s:0320}Then we'll just finish this before they arrive!{g}{x:00}
+
+@75
+{z}Wait right there!{g}{x:00}
+
+@76
+{z}{s:0320}Knight or whatever you are, a fancy show won't beat us!{g}{x:00}
+
+@77
+{z}{s:0320}I came, as promised! Now, fight me!{g}{x:00}
+
+@78
+{z}{s:0320}You're no knight. Too weak to become one?{g}{x:00}
+
+@79
+{z}{s:0320}Hmph! Find out for yourself whether I'm weak!{g}{x:00}
+
+@80
+{z}{s:0320}Damn... We couldn't hold out until the reinforcements...{g}{x:00}
+
+@81
+{z}{s:0320}I'm done for... Sorry, but I'm pulling out first.{g}{x:00}
+
+@82
+{z}Hold on until the reinforcements arrive, and then...{g}{x:00}
+
+@83
+{z}{s:0320}I know! Leave the rest to me!{g}{x:00}
+
+@84
+{z}{s:0320}All that's left is getting the sword. Hurry, {a:0000}!{g}{x:00}
+
+@85
+{z}{s:0320}All that's left is getting the sword. Hurry, or their reinforcements will arrive.{g}{x:00}
+
+@86
+{z}{s:0320}All that's left is getting the sword... Let's finish before their reinforcements come.{g}{x:00}
+
+@87
+{z}{s:0320}All that's left is getting the sword... Let's finish before their reinforcements come!{g}{x:00}
+
+@88
+{z}{s:0320}All that's left is taking the sword home. Let's leave before their reinforcements come.{g}{x:00}
+
+@89
+{z}{s:0320}All our comrades have retreated, but we somehow wiped out the enemy...{g}{x:00}
+
+@90
+{z}Now we just take the sword home before their reinforcements come.{g}{x:00}
+
+@91
+{z}{s:0320}All that's left is taking this sword home... Let's go before their reinforcements come!{g}{x:00}
+
+@92
+{z}{s:0320}Right. Let's head back at once.{g}{x:00}
+
+@93
+{z}{s:0320}All that's left is to take this sword and scarper. Let's go before their reinforcements come!{g}{x:00}
+
+@94
+{z}{s:0320}Yes. Let's head back at once.{g}{x:00}
+
+@95
+{z}{s:0320}All that's left is taking this sword home... Let's go before their reinforcements come.{g}{x:00}
+
+@96
+{z}{s:0320}Indeed. Let us return at once.{g}{x:00}
+
+@97
+{z}{s:0320}All that's left is taking this sword home. Let's scarper.{g}{x:00}
+
+@98
+{z}{s:0320}Indeed. Let us return at once.{g}{x:00}
+
+@99
+{z}{s:0320}All that's left is taking this sword home. Let us leave before their reinforcements come.{g}{x:00}
+
+@100
+{z}{s:0320}Indeed. Let us return at once...{g}{x:00}
+
+@101
+{z}{s:0320}All that's left is taking this sword home... Let's get out before their reinforcements come...{g}{x:00}
+
+@102
+{z}{s:0320}Phew... We should be safe by now.{g}{x:00}
+
+@103
+{z}{s:0320}We did it! We're safe now we've come this far!{g}{x:00}
+
+@104
+{z}{a:0000}! Let's get out of here quickly!{g}{x:00}
+
+@105
+{z}{s:0320}Ha ha ha ha ha... We've got it made now!{g}{x:00}
+
+@106
+{z}{a:0000}! Let's scarper!{g}{x:00}
+
+@107
+{z}{s:0320}We should be safe by now...{g}{x:00}
+
+@108
+{z}{a:0000}! Let's get out quickly!{g}{x:00}
+
+@109
+{z}{s:0320}We should be all right out here...{g}{x:00}
+
+@110
+{z}Looks like we won... {a:0000}, let's get out quickly.{g}{x:00}
+
+@111
+{z}{s:0320}We should be all right out here, I think.{g}{x:00}
+
+@112
+{z}It seems we have won, then.{g}{x:00}
+
+@113
+{z}{s:0320}Once our reinforcements arrive, we've got them!{g}{x:00}
+
+@114
+{z}If you value your life, give up the sword and clear out of here!{g}{x:00}
+
+@115
+{z}{s:0320}Once our reinforcements arrive, we've got them!{g}{x:00}
+
+@116
+{z}Now then!{w} Leave that sword and clear out of here!{g}{x:00}
+
+@117
+{z}{s:0320}Ngh... We're completely surrounded...{g}{x:00}
+
+@118
+{z}We can't hope to win this fight. We have no choice but to withdraw...{g}{x:00}
+
+@119
+{z}{s:0320}Damn... We're completely surrounded...{g}{x:00}
+
+@120
+{z}We can't win like this. Let's pull out...{w}{w} {a:0000}...{g}{x:00}
+
+@121
+{z}{s:0320}We're completely surrounded...{g}{x:00}
+
+@122
+{z}We can't win this fight. It's a pity, but we'll have to give up the sword and withdraw...{g}{x:00}
+
+@123
+{z}{s:0320}We're completely surrounded... We can't get out like this...{g}{x:00}
+
+@124
+{z}Dying would get us nowhere...{w}{w} A pity, but... let's give up the sword and go home...{g}{x:00}
+
+@125
+{z}{s:0320}We are completely surrounded...{g}{x:00}
+
+@126
+{z}We cannot break out. A pity... {w}{w}{w}but we have no choice but to give up the sword and go home...{g}{x:00}
+
+@127
+{z}{s:0320}Ngh...{g}{x:00}
+
+@128
+{z}We have to give up the sword...{g}{x:00}
+
+@129
+{z}{s:0320}Ngh...{g}{x:00}
+
+@130
+{z}We have to give up the sword...{g}{x:00}
+
+@131
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+
+@132
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+
+@133
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+
+@134
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+
+@135
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+
+@136
+{z}{s:0320}They took the treasured sword! After that unit!{g}{x:00}
+

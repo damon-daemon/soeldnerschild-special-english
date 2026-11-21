@@ -1,0 +1,459 @@
+@0
+{z}{s:0320}I hear {p:01}'s army is heading for this fort.{g}{x:00}
+
+@1
+{z}{s:0320}So it seems. I heard it just now.{g}{x:00}
+
+@2
+{z}{s:0320}Then you've made preparations, I take it?{g}{x:00}
+
+@3
+{z}{s:0320}Of course. Let them attack whenever they like.{g}{x:00}
+
+@4
+{z}Still, you'd think our people might hire mercenaries to make things easier for us...{g}{x:00}
+
+@5
+{z}{s:0320}You mean we could use mercenaries as shields and take it easy?{g}{x:00}
+
+@6
+{z}{s:0320}To us, mercenaries are tools more than fighting strength.{g}{x:00}
+
+@7
+{z}{s:0320}That's just like you.{g}{x:00}
+
+@8
+{z}{s:0320}Huh?{g}{x:00}
+
+@9
+{z}{s:0320}What is it?{g}{x:00}
+
+@10
+{z}{s:0320}They're here already.{g}{x:00}
+
+@11
+{z}{s:0320}So that's the fort...{g}{x:00}
+
+@12
+{z}{s:0320}Yes.{g}{x:00}
+
+@13
+{z}{s:0320}No... wait.{g}{x:00}
+
+@14
+{z}{s:0320}Is something wrong?{g}{x:00}
+
+@15
+{z}{s:0320}The mercenaries we hired haven't arrived. I'm sure we told them the time...{g}{x:00}
+
+@16
+{z}{s:0320}Sorry we're late...{g}{x:00}
+
+@17
+{z}{s:0320}It's {a:0004}'s fault.{g}{x:00}
+
+@18
+{z}{s:0320}I told you, don't shout in my ear...{g}{x:00}
+
+@19
+{z}{s:0320}Never mind. We've only just arrived ourselves.{g}{x:00}
+
+@20
+{z}Now, the target fort is over there. Follow our orders and victory is certain. Just don't act on your own.{g}{x:00}
+
+@21
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@22
+{z}{s:0320}This is bad... They've brought mercenaries too.{g}{x:00}
+
+@23
+{z}{s:0320}I know... We'll just have to defend with everything we have.{g}{x:00}
+
+@24
+{z}{s:0320}With you joining us, we have a good advantage in numbers.{g}{x:00}
+
+@25
+{z}We take the fort now. The enemy may get reinforcements too.{g}{x:00}
+
+@26
+{z}And our provisions are limited. When they run out, the whole army withdraws. You don't want to starve, do you?{g}{x:00}
+
+@27
+{z}{s:0320}By the way, what should we be doing?{g}{x:00}
+
+@28
+{z}{s:0320}Oh, right. You lot are to...{g}{x:00}
+
+@29
+{z}{s:0320}Commander! Enemy mercenaries!{g}{x:00}
+
+@30
+{z}{s:0320}What?!{g}{x:00}
+
+@31
+{z}{s:0320}Just in time.{g}{x:00}
+
+@32
+{z}{s:0320}Hey, Knight Commander! What are we supposed to do?{g}{x:00}
+
+@33
+{z}{s:0320}Who hired you lot? We're {p:01}'s knights!{g}{x:00}
+
+@34
+{z}{s:0320}Yes, we know. That's why we're here.{g}{x:00}
+
+@35
+{z}{s:0320}So {p:01} came through after all. I did drop a hint...{g}{x:00}
+
+@36
+{z}{s:0320}Good, if we use them well, we can take it a bit easier.{g}{x:00}
+
+@37
+{z}{s:0320}Exactly. Now, send them charging in.{g}{x:00}
+
+@38
+{z}{s:0320}Hey! What are we supposed to do?!{g}{x:00}
+
+@39
+{z}{s:0320}Keep the enemy away from us! That's all!{g}{x:00}
+
+@40
+{z}{s:0320}That's all, he says... That's the hardest part.{g}{x:00}
+
+@41
+{z}{s:0320}Well, what can you do? We're hired hands.{g}{x:00}
+
+@42
+{z}{s:0320}We head for the fort from the north.{g}{x:00}
+
+@43
+{z}{s:0320}Leave it to us!{g}{x:00}
+
+@44
+{z}{s:0320}Of course.{g}{x:00}
+
+@45
+{z}{s:0320}They've come quite close... Mercenaries alone won't do it after all...{g}{x:00}
+
+@46
+{z}No choice... All troops, charge! Don't let the enemy near!{g}{x:00}
+
+@47
+{z}{s:0320}Me too?{g}{x:00}
+
+@48
+{z}{s:0320}Do you want to fight?{g}{x:00}
+
+@49
+{z}{s:0320}Heavens, no!{g}{x:00}
+
+@50
+{z}{s:0320}I never expected anything from you... Just move up a little.{g}{x:00}
+
+@51
+{z}{s:0320}Sorry about that...{g}{x:00}
+
+@52
+{z}{s:0320}Right, we wait here.{g}{x:00}
+
+@53
+{z}{s:0320}This far forward should be enough.{g}{x:00}
+
+@54
+{z}{s:0320}The rest... is up to you...{g}{x:00}
+
+@55
+{z}{s:0320}Leave the rest to us.{g}{x:00}
+
+@56
+{z}{s:0320}Gh... our knights, wiped out...{g}{x:00}
+
+@57
+{z}Take that fort, no matter what... You hear me...{g}{x:00}
+
+@58
+{z}{s:0320}You needn't tell us!{g}{x:00}
+
+@59
+{z}{s:0320}The knights are wiped out... The enemy looks strong.{g}{x:00}
+
+@60
+{z}{s:0320}The knights wiped out... The enemy is good.{g}{x:00}
+
+@61
+{z}{s:0320}Leave it to us. We'll take the fort without fail.{g}{x:00}
+
+@62
+{z}{s:0320}The knights wiped out... This is going to get bad...{g}{x:00}
+
+@63
+{z}{s:0320}Damn... retreat...{g}{x:00}
+
+@64
+{z}{s:0320}Gh...{w}{w} I'm withdrawing... {w}{w}I leave the rest... {w}{w}to you...{g}{x:00}
+
+@65
+{z}{s:0320}Right! The enemy is dealt with! {p:01}'s army is wiped out!{g}{x:00}
+
+@66
+{z}Our army is victorious!{g}{x:00}
+
+@67
+{z}{s:0320}So the mission is done for now. And with a hangover, too... You work us hard.{g}{x:00}
+
+@68
+{z}{s:0320}That ends our part in this.{g}{x:00}
+
+@69
+{z}{s:0320}Thank goodness... we won... truly, thank goodness...{g}{x:00}
+
+@70
+{z}{s:0320}Well? Now you know how strong we are!{g}{x:00}
+
+@71
+{z}{s:0320}We won somehow... {w}{w}That was close...{g}{x:00}
+
+@72
+{z}{s:0320}We've taken the fort! It's ours now!{g}{x:00}
+
+@73
+{z}{s:0320}Right! We've taken the fort!{g}{x:00}
+
+@74
+{z}{s:0320}{a:0000}! We've taken the fort!{g}{x:00}
+
+@75
+{z}{s:0320}We did it! We've taken the fort!{g}{x:00}
+
+@76
+{z}{s:0320}Everyone! We've taken the fort!{g}{x:00}
+
+@77
+{z}{s:0320}Phew... The fort is ours now.{g}{x:00}
+
+@78
+{z}{s:0320}So this is the fort...{g}{x:00}
+
+@79
+{z}{s:0320}Our fort... {w}{w}has fallen...{g}{x:00}
+
+@80
+{z}{s:0320}What now? Shall we take it back?{g}{x:00}
+
+@81
+{z}{s:0320}No... not in this state...{g}{x:00}
+
+@82
+{z}{s:0320}Our fort... {w}{w}has fallen...{g}{x:00}
+
+@83
+{z}...A total defeat.{g}{x:00}
+
+@84
+{z}{s:0320}We couldn't hold it... {w}{w}Haah... {w}{w}We lost...{g}{x:00}
+
+@85
+{z}We should have given up when the knights were wiped out... We've wasted precious troops.{g}{x:00}
+
+@86
+{z}{s:0320}The provisions have finally run out... {w}{w}It's too dangerous to fight on.{g}{x:00}
+
+@87
+{z}...Pull out.{g}{x:00}
+
+@88
+{z}{s:0320}The provisions have run out... {w}{w}It's far too dangerous to fight on.{g}{x:00}
+
+@89
+{z}Everyone! We're pulling out!{g}{x:00}
+
+@90
+{z}{s:0320}We couldn't break through. {w}{w}Nothing for it... let's pull out.{g}{x:00}
+
+@91
+{z}{s:0320}The provisions have finally run out... We can't fight on.{g}{x:00}
+
+@92
+{z}Everyone, retreat. We have no choice but to give up here.{g}{x:00}
+
+@93
+{z}{s:0320}We couldn't break through... It can't be helped. Pull out.{g}{x:00}
+
+@94
+{z}{s:0320}The provisions are finally gone... It's too dangerous to fight on.{g}{x:00}
+
+@95
+{z}Everyone, retreat. It's galling, but we must give up.{g}{x:00}
+
+@96
+{z}{s:0320}We couldn't break through. Can't be helped... pull out.{g}{x:00}
+
+@97
+{z}{s:0320}Damn... the food's run out... and we were so close...{g}{x:00}
+
+@98
+{z}Everyone! Retreat! We can't fight any more!{g}{x:00}
+
+@99
+{z}{s:0320}Damn... we were so close... Can't be helped. Let's pull out.{g}{x:00}
+
+@100
+{z}{s:0320}Oh no! The food's gone... We can't fight any more.{g}{x:00}
+
+@101
+{z}{a:0000}, let's pull out... There's nothing for it but to give up...{g}{x:00}
+
+@102
+{z}{s:0320}We lost... Let's go home...{g}{x:00}
+
+@103
+{z}{s:0320}The provisions have finally run out... It's too dangerous to fight on.{g}{x:00}
+
+@104
+{z}Can't be helped... Retreat.{g}{x:00}
+
+@105
+{z}{s:0320}The enemy has pulled out! We won!{g}{x:00}
+
+@106
+{z}Good work, all of you. Thanks to you, we held the fort.{g}{x:00}
+
+@107
+{z}{s:0320}Right! The enemy has pulled out! Victory is ours!{g}{x:00}
+
+@108
+{z}{s:0320}We held the fort... {w}{w}Phew... What a long battle.{g}{x:00}
+
+@109
+{z}{s:0320}I'm sorry... {a:0000}... I was no use...{g}{x:00}
+
+@110
+{z}{s:0320}Damn... in a place like this...{g}{x:00}
+
+@111
+{z}{s:0320}{a:0000}... I leave the rest to you...{g}{x:00}
+
+@112
+{z}{s:0320}I've got a hangover... Forgive me...{g}{x:00}
+
+@113
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@114
+{z}{s:0320}If you don't want to die, clear the way.{g}{x:00}
+
+@115
+{z}{s:0320}Come and get me!{g}{x:00}
+
+@116
+{z}{s:0320}The likes of you are no match for me! Here I come!{g}{x:00}
+
+@117
+{z}{s:0320}Stop! I lose! Have mercy...{g}{x:00}
+
+@118
+{z}{s:0320}We've no business with you! We want the fort!{g}{x:00}
+
+@119
+{z}{s:0320}There are mercenaries here, so go after them instead...{g}{x:00}
+
+@120
+{z}{s:0320}I'm going to rampage to my heart's content!{g}{x:00}
+
+@121
+{z}{s:0320}Attacking me, are you? You've got nerve.{g}{x:00}
+
+@122
+{z}{s:0320}I went easy on you... You're far too weak.{g}{x:00}
+
+@123
+{z}{s:0320}That's why I don't like fighting...{g}{x:00}
+
+@124
+{z}{s:0320}Wiped out...? Who in the world are these men...{g}{x:00}
+
+@125
+{z}{s:0320}Whatever happens, don't give up the fort...{w}{w} You hear me...{g}{x:00}
+
+@126
+{z}{s:0320}The Knights... and us as well... Wiped out...{g}{x:00}
+
+@127
+{z}{s:0320}It's all up to you now... Sorry about this...{g}{x:00}
+
+@128
+{z}{s:0320}Tch... Useless lot...{g}{x:00}
+
+@129
+{z}Use the mercenaries well...{g}{x:00}
+
+@130
+{z}{s:0320}Then you'd better give up.{g}{x:00}
+
+@131
+{z}Then we're going home. The job's done.{g}{x:00}
+
+@132
+{z}{s:0320}Do as you please...{g}{x:00}
+
+@133
+{z}{s:0320}Well then, call on us again if there's another chance!{g}{x:00}
+
+@134
+{z}{s:0320}Time we went back and reported, I suppose...{g}{x:00}
+
+@135
+{z}Ah...{w}{w} We lost...{g}{x:00}
+
+@136
+{z}{s:0320}Our provisions are about to run out... This is bad...{g}{x:00}
+
+@137
+{z}{s:0320}{a:0000}, we have to finish this quickly or the provisions will run out...{g}{x:00}
+
+@138
+{z}{s:0320}{a:0000}, this is bad. The provisions are about to run out.{g}{x:00}
+
+@139
+{z}{s:0320}{a:0000}, the provisions are about to run out. Let's finish this quickly.{g}{x:00}
+
+@140
+{z}{s:0320}Captain, this is bad. The provisions are about to run out.{g}{x:00}
+
+@141
+{z}{s:0320}{a:0000}, we're in trouble... The provisions are about to run out.{g}{x:00}
+
+@142
+{z}{s:0320}Bad... The provisions are about to run out. We must finish this quickly...{g}{x:00}
+
+@143
+{z}{s:0320}We lent you our strength. Of course you won!{g}{x:00}
+
+@144
+{z}Shall we charge?{g}{x:00}
+
+@145
+{z}He just wouldn't get up, thanks to his hangover.{g}{x:00}
+
+@146
+{z}Right! Attack!{g}{x:00}
+
+@147
+{z}So we can run as wild as we like?{g}{x:00}
+
+@148
+{z}Let's go!{g}{x:00}
+
+@149
+{z}You lot, go round from the south and deal with the mercenaries!{g}{x:00}
+
+@150
+{z}Got it?{g}{x:00}
+
+@151
+{z}By the way, is it all right if we take the fort?{g}{x:00}
+
+@152
+{z}So {a:0004} has retreated. Taking the field with a hangover...{g}{x:00}
+

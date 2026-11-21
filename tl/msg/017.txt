@@ -1,0 +1,405 @@
+@6
+{z}{f}{l:00cd}{s:02c5}Please call again.{g}{x:00}
+
+@7
+{z}{f}{l:00cd}{s:02c5}The master of the house is attending at the castle. Please leave.{g}{x:00}
+
+@8
+{z}{f}{l:00cd}{s:02c5}Is it the master you wish to speak to?{g}{x:00}
+
+@9
+{z}{f}{l:00cd}{s:02c5}Please leave.{g}{x:00}
+
+@10
+{z}{f}{l:0091}{s:0091}What? A mercenary has business with me, the Chancellor of Rana?{g}{z}Well, I suppose I can hear you out, as long as time permits.{g}{x:00}
+
+@11
+{z}{f}{l:008e}{s:008e}I am honoured by your invitation, Chancellor. Have I kept you waiting?{g}{x:00}
+
+@12
+{z}{f}{l:0091}No, not at all... It is not often I have the chance to speak with you in person, Archbishop.{g}{j:000d}{x:00}
+
+@13
+{z}Please, make yourself at home today.{g}{z}{f}{l:008e}Oh, it seems you already have a guest...{g}{x:00}
+
+@14
+{z}{f}{l:0091}Ah, so I do... No, pay him no mind.{g}{x:00}
+
+@15
+{z}{f}{l:0091}I have a prior engagement with this guest. Sorry, but you must go.{g}{x:00}
+
+@16
+{z}{f}{l:008e}You are... {a:0000}, if I recall. We meet again.{g}{x:00}
+
+@17
+{z}{f}{l:0091}Would you kindly leave now?{g}{x:00}
+
+@18
+{z}{f}{l:008e}I am sorry to see you turned out like this...{g}{x:00}
+
+@20
+{z}{f}{l:005f}{s:005f}I am {a:005f} of the Holy Emperor's Lightning Knights. Remember it.{g}{x:00}
+
+@21
+{z}{f}{l:005e}{s:005e}I am {a:005e}, and I lead the Holy Emperor's Lightning Knights.{g}{z}I would like a proper talk with you some time, mercenary captain,{j:0016}{x:00}
+
+@22
+ but I have been summoned back to the castle and must return at once.{g}{z}Forgive me, I must take my leave. I hope you will lend your strength to Rana.{g}{x:00}
+
+@23
+{z}{f}{l:005f}{s:005f}He is always so busy... But only because His Majesty trusts him so.{g}{z}We will meet on the battlefield someday.{g}{j:0018}{x:00}
+
+@24
+{z}One piece of advice: it is unwise to make an enemy of him.{g}{z}"Black Flash"... He earned that name because the moment you glimpse him,{j:0019}{x:00}
+
+@25
+ you have already fallen.{g}{z}Now I shall take my leave too. Take care not to choose the wrong enemy!{g}{x:00}
+
+@30
+{z}{f}{l:0066}{s:0066}Who are you? I've no use for mercenaries. Be gone.{g}{x:00}
+
+@31
+{z}{f}{l:00a2}{s:00a2}Oh, what's the harm? We rarely get the chance to talk to a mercenary.{g}{z}Tell me,{j:0020}{x:00}
+
+@32
+ which nation do you think deserves to unify the continent?{g}{x:00}
+
+@33
+{z}{f}{l:0066}Heh... A pointless question. If the continent were unified, his kind would be out of work. He's never given it a thought.{g}{x:00}
+
+@34
+{z}{f}{l:0000}{s:0000}No, I am fighting to bring about the unification of the continent.{g}{x:00}
+
+@35
+{z}{f}{l:00a2}Oh!{w} Hee hee... What an unusual mercenary.{g}{x:00}
+
+@36
+{z}{f}{l:0066}Ah! I thought I'd seen your face somewhere. We met once at a tavern, didn't we?{g}{j:0025}{x:00}
+
+@37
+{z}I hear your captain at the time died. Take care you don't die in vain too.{g}{x:00}
+
+@38
+{z}{f}{l:00a2}You odd mercenary, if you don't want to die, side with Saxen.{g}{x:00}
+
+@39
+{z}{f}{l:0066}Well, satisfied now? Then off with you.{g}{x:00}
+
+@50
+{z}{f}{l:0068}{s:0068}Who are you? What business have you with us?{g}{j:0033}{x:00}
+
+@51
+{z}{f}{l:0000}{s:0000}I am {a:0000}, mercenary captain of the Tigre Mercenaries.{g}{x:00}
+
+@52
+{z}{f}{l:0093}{s:0093}Oh, you startled me. I thought {a:0066} had sent soldiers.{g}{z}You must keep it secret that I came here today.{g}{x:00}
+
+@53
+{z}{f}{l:0000}Why is that?{g}{x:00}
+
+@54
+{z}{f}{l:0093}{a:0066} dislikes me befriending the other knights. He wants to build his own faction, I suppose.{g}{x:00}
+
+@55
+{z}{f}{l:0068}Your Highness! Please do not discuss internal affairs with outsiders so freely.{g}{x:00}
+
+@56
+{z}{f}{l:0068}This is Prince {a:0093}, heir to the Duchy of Saxen. He is spending a rare day of leave at this residence.{g}{j:0039}{x:00}
+
+@57
+{z}Forgive me, but please leave so as not to disturb his rest.{g}{x:00}
+
+@58
+{z}{f}{l:0093}You are a mercenary captain, right? I hope you will side with Saxen.{g}{x:00}
+
+@59
+{z}{f}{l:0093}Please side with Saxen.{g}{x:00}
+
+@60
+{z}{f}{l:0068}Now, please leave.{g}{x:00}
+
+@70
+{z}{f}{l:0094}{s:0094}A mercenary, are you? What do you want at this busy time?{g}{x:00}
+
+@71
+{z}{f}{l:00a6}{s:00a6}Oh, a guest? Just in time.{g}{z}I was about to eat. Will you join me?{g}{x:00}
+
+@72
+{z}{f}{l:0094}Absurd!{g}{z}There is no precedent for the Queen Mother herself serving a meal to a mercenary!{g}{x:00}
+
+@73
+{z}{f}{l:0094}We are in the midst of important talks on state affairs. Unlike you, we are busy. Get out.{g}{x:00}
+
+@74
+{z}{f}{l:00a6}Those matters could have waited till later... I'm sorry I can't offer you my hospitality.{g}{x:00}
+
+@75
+{z}{f}{l:0094}I manage almost all state affairs alone. I cannot concern myself with commoners.{g}{x:00}
+
+@76
+{z}{f}{l:0094}If you become a force for Grandcour, we may meet again.{g}{x:00}
+
+@79
+ Because {a:0094} said they're "tools of war"...{g}{x:00}
+
+@80
+{z}{f}{l:00a4}{c:06}§ Boy §{n}
+{c:07}You're leaving? But you just came!{g}{x:00}
+
+@81
+{z}{f}{l:00a4}{c:06}§ Boy §{n}
+{c:07}Stay a while. It's not my house, though.{g}{x:00}
+
+@82
+{z}{f}{l:00a5}{c:06}§ Girl §{n}
+{c:07}Who are you? You're wearing fearsome armour and carrying weapons...{g}{z}{f}{l:0000}{s:0000}{j:0053}{x:00}
+
+@83
+ I am the captain of the Tigre Mercenaries, {a:0000}.{g}{x:00}
+
+@84
+{z}{f}{l:00a5}A mercenary? I've never seen a real one!{g}{x:00}
+
+@85
+{z}{f}{l:00a5}Look, look, he says he's a mercenary! You've never seen one either, have you?{g}{x:00}
+
+@86
+{z}{f}{l:00a4}{c:06}§ Boy §{n}
+{c:07}Mercenary? So a mercenary is a person...{g}{z}I thought it was a kind of weapon.{j:004f}{x:00}
+
+@87
+{z}{f}{l:00a5}Hee hee... You're a silly one.{g}{x:00}
+
+@88
+{z}{f}{l:00a4}If you want {a:006e}, he's not here now.{g}{z}I think he'll be back soon...{g}{j:005a}{x:00}
+
+@89
+{z}{f}{l:00a4}Why not look for him outside?{g}{x:00}
+
+@90
+{z}{f}{l:00a5}Good luck with your work...{w} Your work is killing people, isn't it?{g}{x:00}
+
+@100
+{z}{f}{l:006e}{s:006e}What do you want of me?{g}{x:00}
+
+@101
+{z}{f}{l:006e}I thought I'd buy the children something. You met the two of them?{g}{z}{f}{l:0000}{s:0000}Yes, they were playing happily.{g}{x:00}
+
+@103
+{z}{f}{l:006e}Ha ha... They had better be. One of them is the precious King of Grandcour, after all.{g}{x:00}
+
+@104
+{z}{f}{l:0000}One of those children... is the King?{g}{x:00}
+
+@105
+{z}{f}{l:006e}Yes, the boy is King {a:00a4}. The girl was chosen as his playmate. She is {a:00a5}.{g}{j:006a}{x:00}
+
+@106
+{z}They looked bored at the castle, so I invited them to my residence.{g}{z}It's the first time either has left the castle, so they're probably excited.{g}{x:00}
+
+@107
+{z}{f}{l:006e}If seeing those children makes you want to protect them, side with Grandcour.{g}{j:006c}{x:00}
+
+@108
+{z}You're a mercenary, aren't you? I'm counting on you.{g}{x:00}
+
+@110
+{z}{f}{l:0070}{s:0070}I'm in a foul mood. I don't want to talk to you.{g}{x:00}
+
+@111
+{z}{f}{l:0071}{s:0071}{a:0094} is such a hateful man...{g}{z}Confining us to our home just for crossing his private troops' march...{g}{j:0070}{x:00}
+
+@112
+{z}Since he became Regent, his arrogance has been unbearable.{g}{x:00}
+
+@113
+{z}{f}{l:0071}I'm sure this confinement was decided without even consulting the King...{g}{x:00}
+
+@114
+{z}{f}{l:0070}With a child on the throne, this country is just the place for such a man to throw his weight about.{g}{j:0073}{x:00}
+
+@115
+{z}We have a guest we never invited. Stop the idle chatter.{g}{x:00}
+
+@116
+{z}{f}{l:0070}I don't wish to talk to anyone now. Go home.{g}{x:00}
+
+@117
+{z}{f}{l:0071}How dare he lock us up... I'll pay him back someday.{g}{x:00}
+
+@120
+{z}{f}{l:0096}{s:0096}Who's there? I'm relaxing at my residence for the first time in ages. Leave me be.{g}{x:00}
+
+@121
+{z}{f}{l:0096}Or have you come to beg land from me?{g}{z}{f}{l:0000}{s:0000}Beg land...? What do you mean?{g}{x:00}
+
+@122
+{z}{f}{l:0096}You don't know who I am, do you? I am {a:0096}, who lent land to the nobles when Estania was founded.{g}{j:007b}{x:00}
+
+@123
+{z}Without me, these people couldn't live as they do now. The Council wouldn't even move without me.{g}{x:00}
+
+@124
+{z}{f}{l:0000}Then you are the Chairman of the Noble Council?{g}{x:00}
+
+@125
+{z}{f}{l:0096}No, the Chairman is a man named {a:0095}. But he's a figurehead. All the nobles do as I say.{g}{j:007e}{x:00}
+
+@126
+{z}They are all in my debt.{g}{z}Now, that's enough. I want to rest today. Get out.{g}{x:00}
+
+@127
+{z}{f}{l:0096}We may meet again some day.{g}{x:00}
+
+@130
+{z}{f}{l:0077}{s:0077}Sigh... Why am I even in the knights?{w} I don't want to fight any more...{g}{x:00}
+
+@131
+{z}{f}{l:0076}{s:0076}Who might you be? By your looks, a mercenary?{g}{z}What is a mercenary's trade like? To us who serve a state{j:0084}{x:00}
+
+@132
+ it looks very carefree...{g}{z}I am {a:0076}, Commander of the Purple Cloud Knights. This is my subordinate, {a:0077}.{g}{x:00}
+
+@133
+{z}{f}{l:0077}What goes on in a mercenary's head? To throw yourselves into battle by choice... I cannot fathom it.{g}{x:00}
+
+@134
+{z}{f}{l:0076}Well... Everyone has their reasons, I suppose.{g}{x:00}
+
+@135
+{z}{f}{l:0076}You look different from the mercenaries I have fought so far.{g}{z}I hope you are a mercenary of good sense.{g}{x:00}
+
+@136
+{z}{f}{l:0076}We may meet on the battlefield some day.{g}{x:00}
+
+@137
+{z}{f}{l:0077}Earning money by killing... I'm hardly one to talk, but I don't understand it.{g}{x:00}
+
+@140
+{z}{f}{l:0097}{s:0097}Whoa! Don't barge in like that! You startled me!{g}{z}...Ah, forgive me.{j:008d}{x:00}
+
+@141
+ This island is so remote that no one ever visits.{w} And that outfit...{w} You're a mercenary?{g}{x:00}
+
+@142
+{z}{f}{l:0097}Did you come all this way looking for work? True, our country has also stepped into the turmoil of war.{g}{z}Do you know why?{g}{j:008f}{x:00}
+
+@143
+{z}Don't be shocked.{g}{z}It's so the Prince can give his fiancee a country with a horizon of land, not sea.{g}{j:0090}{x:00}
+
+@144
+{z}Yet the people dragged into this ridiculous war treat that Prince as a hero!{g}{x:00}
+
+@145
+{z}{f}{l:0097}Utterly absurd...{w} Ah, I said everything I wanted in one go. I feel better.{g}{j:0092}{x:00}
+
+@146
+{z}I am the Prince's uncle and a Grand Duke, {a:0097}. If fate allows, we will meet again.{g}{x:00}
+
+@147
+{z}{f}{l:0097}If fate allows, we will meet again.{g}{x:00}
+
+@150
+{z}{f}{l:0087}{s:0087}Oh, a visitor? Coming to such a cold town...{g}{z}I am the Rime Knights'...{w} Cough...{w} Pardon me,{j:0097}{x:00}
+
+@151
+ staff officer, {a:0087}. And this is my wife, the Knight Commander, {a:0086}.{g}{x:00}
+
+@152
+{z}{f}{l:0087}{z}We fight to spread the teachings of the Wigg Church across the continent.{g}{z}If you have a conscience,{j:0099}{x:00}
+
+@153
+ side with Fenrir and fight to save the people from the suffering of war.{g}{z}We would welcome you as an ally.{g}{x:00}
+
+@154
+{z}{f}{l:0086}{s:0086}If you mean to help us, we won't refuse. But we can't have you holding us back.{g}{x:00}
+
+@156
+{z}{f}{l:0086}It's nearly time to attend at court. Shall we return to the castle?{g}{x:00}
+
+@157
+{z}{f}{l:0087}Sorry to hurry you out... In truth the two of us are hardly ever at the residence together.{g}{j:009e}{x:00}
+
+@158
+{z}Don't take my wife's words ill. She dislikes weak men...{w} Cough.{g}{x:00}
+
+@160
+{z}{f}{l:0000}{s:0000}{a:0003}, is that you? What are you doing here?{g}{x:00}
+
+@161
+{z}{f}{l:0003}{s:0003}This used to be my home. But strangers live here now.{g}{x:00}
+
+@162
+{z}{f}{l:00a3}{s:00a3}Who are you two?{g}{x:00}
+
+@163
+{z}{f}{l:0000}I am {a:0000} of the Tigre Mercenaries. This is {a:0003}.{g}{x:00}
+
+@164
+{z}{f}{l:00a3}Mercenaries? No wonder I smelled blood the moment you walked in.{g}{j:00a5}{x:00}
+
+@165
+{z}Get out before the smell gets into the room.{g}{z}{f}{l:0003}The smell of blood...{g}{z}{f}{l:00a3}What do I care about the previous owners!{j:00a6}{x:00}
+
+@166
+ I only bought this house when it was put up for sale to cover a debt.{g}{x:00}
+
+@167
+{z}{f}{l:00a3}Now, if you stay any longer, I'll call someone!{g}{x:00}
+
+@168
+{z}{f}{l:0000}{a:0003}, let's go!{g}{x:00}
+
+@170
+{z}{f}{l:0000}{s:0000}It's a shame we couldn't find out where your family went.{g}{x:00}
+
+@171
+{z}{f}{l:0003}{s:0003}No, I said my farewells when I volunteered as a mercenary...{g}{j:00ac}{x:00}
+
+@172
+{z}But that woman...{w} the moment she heard "mercenary", her face changed.{g}{x:00}
+
+@173
+{z}{f}{l:0003}We... we fight for people like her, and yet...{g}{z}It's just not fair.{g}{x:00}
+
+@175
+{z}{f}{l:0000}Our ideals will surely be realised one day.{g}{z}Then I'm sure they'll understand.{g}{x:00}
+
+@176
+{z}{f}{l:0003}I'm sorry... I said something foolish.{g}{x:00}
+
+@180
+{z}{f}{l:00a3}{s:00a3}Eek! I said get out!{g}{x:00}
+
+@185
+{z}{f}{l:005e}{c:06}§ Man in Black Armour §{n}
+{c:07}Who are you?{g}{z}You carry a sword, so a mercenary?{g}{x:00}
+
+@186
+{z}{f}{l:0000}{s:0000}Yes, I am {a:0000} of the Tigre Mercenaries.{g}{z}{f}{l:005e}Tigre... I have heard of them.{j:00bb}{x:00}
+
+@187
+ A somewhat unusual company, I hear...{g}{x:00}
+
+@188
+{z}{f}{l:005e}But I don't know the name {a:0000}. It is too soon for you to speak with me.{g}{x:00}
+
+@189
+{z}{f}{l:005e}You may have time to spare, but I have none for a youngster. Go home.{g}{x:00}
+
+@190
+{z}{f}{l:005e}{c:06}§ Man in Black Armour §{n}
+{c:07}I dislike being addressed so lightly.{g}{x:00}
+
+@195
+{z}{f}{l:00cd}{s:02c5}Oh, a visitor...{g}{z}Unfortunately, the master is away.{g}{x:00}
+
+@196
+{z}{f}{l:00cd}You are welcome to call at the residence, but he is often away...{g}{x:00}
+
+@197
+{z}{f}{l:00cd}Had he been home, perhaps you could have talked...{g}{z}I must ask you to leave for today.{g}{x:00}
+
+@198
+{z}{f}{l:00cd}I'd better lock up. One can't be too careful.{g}{x:00}
+

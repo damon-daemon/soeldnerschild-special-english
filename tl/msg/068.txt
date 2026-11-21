@@ -1,0 +1,693 @@
+@0
+{z}{s:0320}Hey! I'm a Knight Commander! A Knight Commander is a man of talent!{g}{x:00}
+
+@1
+{z}{s:0320}Yes, sir... Indeed, sir...{g}{x:00}
+
+@2
+{z}{s:0320}So why must I stand guard over a scrap of paper...{g}{x:00}
+
+@3
+{z}{s:0320}But sir, it's not a scrap of paper. It's an important document.{g}{x:00}
+
+@4
+{z}Mercenaries should arrive soon to take it and deliver it to the main force. Please be patient until then.{g}{x:00}
+
+@5
+{z}{s:0320}I was only asked to carry this here. That's all.{g}{x:00}
+
+@6
+{z}So why must I wait... and for mere mercenaries, at that...{g}{x:00}
+
+@7
+{z}{s:0320}We simply arrived too early. The mercenaries aren't late.{g}{x:00}
+
+@8
+{z}{s:0320}They're here! The mercenaries are here!{g}{x:00}
+
+@9
+{z}{s:0320}Really? Where?{g}{x:00}
+
+@10
+{z}{s:0320}To the north-east!{g}{x:00}
+
+@11
+{z}{s:0320}...{w}{w} Hm? Those men are...{g}{x:00}
+
+@12
+{z}{s:0320}That fort over there holds the documents, right?{g}{x:00}
+
+@13
+{z}{s:0320}It looks like the regular army is guarding it.{g}{x:00}
+
+@14
+{z}{s:0320}With our present strength, we may not beat the regular army...{g}{x:00}
+
+@15
+{z}Captain, think carefully before you give orders. A reckless move could be fatal.{g}{x:00}
+
+@16
+{z}{s:0320}Those aren't the mercenaries we hired! They're the enemy!{g}{x:00}
+
+@17
+{z}{s:0320}What!{g}{x:00}
+
+@18
+{z}{s:0320}{p:01} must have hired them.{g}{x:00}
+
+@19
+{z}{s:0320}Curse you, {p:01}... Meddling in our affairs...{g}{x:00}
+
+@20
+{z}{s:0320}The company that grabs the documents: don't stop to think, just run north-east.{g}{x:00}
+
+@21
+{z}Flee east along this road.{g}{x:00}
+
+@22
+{z}{s:0320}The other companies must cover the one carrying the documents.{g}{x:00}
+
+@23
+{z}{s:0320}We can't finish the mission unless we all pull together.{g}{x:00}
+
+@24
+{z}{s:0320}That's right, we need everyone's strength.{g}{x:00}
+
+@25
+{z}{s:0320}Right, let's go.{g}{x:00}
+
+@26
+{z}{s:0320}Which way are the mercenaries we hired coming from?{g}{x:00}
+
+@27
+{z}{s:0320}The north, sir, but...{g}{x:00}
+
+@28
+{z}{s:0320}All troops! Advance north!{g}{x:00}
+
+@29
+{z}{s:0320}What do you mean, sir?{g}{x:00}
+
+@30
+{z}{s:0320}We go to meet the mercenaries, so they can take the documents.{g}{x:00}
+
+@31
+{z}The enemy has shown up, too. Waiting here like fools is absurd.{g}{x:00}
+
+@32
+{z}{s:0320}...Understood. Then let us go.{g}{x:00}
+
+@33
+{z}{s:0320}Ah! The Knight Commander has the documents!{g}{x:00}
+
+@34
+{z}{s:0320}He means to run off with them.{g}{x:00}
+
+@35
+{z}{s:0320}Whatever happens, after the Commander! If he gets away, we're finished.{g}{x:00}
+
+@36
+{z}{s:0320}You've finally come...{g}{x:00}
+
+@37
+{z}{s:0320}What's wrong? Weren't you waiting at the fort?{g}{x:00}
+
+@38
+{z}{s:0320}We were interrupted.{g}{x:00}
+
+@39
+{z}{s:0320}So it's no time to sit and wait, is that it?{g}{x:00}
+
+@40
+{z}{s:0320}What about the documents? Will you carry them?{g}{x:00}
+
+@41
+{z}{s:0320}We'll hand the documents to you. One of you, come and take them.{g}{x:00}
+
+@42
+{z}{s:0320}I'll go.{g}{x:00}
+
+@43
+{z}{s:0320}I'll come over there too.{g}{x:00}
+
+@44
+{z}The rest of you, keep them from interfering with the handover! Is that clear?{g}{x:00}
+
+@45
+{z}{s:0320}Right!{g}{x:00}
+
+@46
+{z}{s:0320}You've finally come...{g}{x:00}
+
+@47
+{z}{s:0320}Huh? Where's the Commander?{g}{x:00}
+
+@48
+{z}{s:0320}He retreated... and the documents were taken...{g}{x:00}
+
+@49
+{z}{s:0320}What?{g}{x:00}
+
+@50
+{z}{s:0320}We're desperate to get them back right now. Help us.{g}{x:00}
+
+@51
+{z}{s:0320}Understood.{g}{x:00}
+
+@52
+{z}{s:0320}They mean to hand the documents to the mercenaries... Not on my watch!{g}{x:00}
+
+@53
+{z}...Still, we face knights and mercenaries... Will we manage?{g}{x:00}
+
+@54
+{z}{s:0320}Handing the documents to the mercenaries, are they? Not while I'm here!{g}{x:00}
+
+@55
+{z}Knights or mercenaries, I'll take on the whole lot of you!{g}{x:00}
+
+@56
+{z}{s:0320}Handing the documents to the mercenaries... I won't let it be that easy!{g}{x:00}
+
+@57
+{z}But mercenaries as well as knights... Will we really be all right?{g}{x:00}
+
+@58
+{z}{s:0320}So they meant to give the documents to the mercenaries... I won't make it easy.{g}{x:00}
+
+@59
+{z}...That said, we face knights and mercenaries, and in this state, too... Will we be all right?{g}{x:00}
+
+@60
+{z}{s:0320}So they mean to give the documents to the mercenaries...{g}{x:00}
+
+@61
+{z}Can we stop the handover and seize the documents, I wonder...{g}{x:00}
+
+@62
+{z}{s:0320}Mercenaries have appeared... I must flee quickly...{g}{x:00}
+
+@63
+{z}Everyone! Cover me properly!{g}{x:00}
+
+@64
+{z}{s:0320}Mercenaries have shown up... Damn... I must hurry...{g}{x:00}
+
+@65
+{z}Everyone! I'm counting on you!{g}{x:00}
+
+@66
+{z}{s:0320}The mercenaries have come... I must hurry.{g}{x:00}
+
+@67
+{z}Everyone! I'm counting on you to cover me!{g}{x:00}
+
+@68
+{z}{s:0320}Mercenaries were lying in wait... I'd better flee quickly.{g}{x:00}
+
+@69
+{z}Everyone, I'm counting on you to cover me.{g}{x:00}
+
+@70
+{z}{s:0320}Mercenaries lying in wait... Bad... I must hurry.{g}{x:00}
+
+@71
+{z}Fleeing is all I can manage. I leave the enemy to you.{g}{x:00}
+
+@72
+{z}{s:0320}The mercenaries have appeared... Bad... I must hurry...{g}{x:00}
+
+@73
+{z}{s:0320}This close should do. Hand over the documents.{g}{x:00}
+
+@74
+{z}{s:0320}Here are the documents...{g}{x:00}
+
+@75
+{z}It looks like a cheap scrap of paper, but it seems important. Don't let those men take it.{g}{x:00}
+
+@76
+{z}{s:0320}They won't take it from me. Don't worry.{g}{x:00}
+
+@77
+{z}{s:0320}Then take that and go to {p:01}'s main force.{g}{x:00}
+
+@78
+{z}{s:0320}The main force... so that means west. I just go west, right?{g}{x:00}
+
+@79
+{z}{s:0320}Yes. I'm counting on you.{g}{x:00}
+
+@80
+{z}{s:0320}The documents have fallen into the enemy captain's hands...{g}{x:00}
+
+@81
+{z}Captain, after him! If he gets away, we lose.{g}{x:00}
+
+@82
+{z}{s:0320}Ah! The documents are in the enemy captain's hands!{g}{x:00}
+
+@83
+{z}{a:0000}, hurry after him! If he gets away, we fail.{g}{x:00}
+
+@84
+{z}{s:0320}Ah! The documents are in someone else's hands!{g}{x:00}
+
+@85
+{z}Quick, after that person! If we lose sight of them, we fail!{g}{x:00}
+
+@86
+{z}{s:0320}Damn! The documents are in someone else's hands!{g}{x:00}
+
+@87
+{z}Let's get after him quick! If he gets away, we lose!{g}{x:00}
+
+@88
+{z}{s:0320}So the enemy captain has the documents...{g}{x:00}
+
+@89
+{z}{a:0000}, after him! If he gets away, it's over.{g}{x:00}
+
+@90
+{z}{s:0320}To think they'd be taken so soon...{g}{x:00}
+
+@91
+{z}{s:0320}I couldn't hand over the documents... Sorry...{g}{x:00}
+
+@92
+{z}{s:0320}So I couldn't...{w}{w} get away... {w}{w}Damn...{g}{x:00}
+
+@93
+{z}{s:0320}We couldn't get away... Damn it...{g}{x:00}
+
+@94
+{z}{s:0320}I've got them! I got them!{g}{x:00}
+
+@95
+{z}{s:0320}Got them, right and proper!{g}{x:00}
+
+@96
+{z}{s:0320}I've got them!{g}{x:00}
+
+@97
+{z}{s:0320}I've got them.{g}{x:00}
+
+@98
+{z}{s:0320}I've got them safe.{g}{x:00}
+
+@99
+{z}{s:0320}This is it... no mistake. I've got the documents!{g}{x:00}
+
+@100
+{z}{s:0320}They were taken... Damn... We didn't give enough cover...{g}{x:00}
+
+@101
+{z}But we can simply take them back.{g}{x:00}
+
+@102
+{z}Go after the company that took the documents! All troops, pursue!{g}{x:00}
+
+@103
+{z}{s:0320}They took the documents... Our cover must have been weak.{g}{x:00}
+
+@104
+{z}But all we have to do is take them back.{g}{x:00}
+
+@105
+{z}After the company that took the documents! Ignore the rest! Chase only them!{g}{x:00}
+
+@106
+{z}{s:0320}So the enemy does come after us... I must flee quickly...{g}{x:00}
+
+@107
+{z}{s:0320}So they're coming after us, are they... Damn, what a nuisance.{g}{x:00}
+
+@108
+{z}{s:0320}So the enemy comes after us... Everyone! Cover me well!{g}{x:00}
+
+@109
+{z}{s:0320}So they're coming after us... Captain, I'm counting on you for cover.{g}{x:00}
+
+@110
+{z}{s:0320}They do seem to be coming after us... Then I'd best flee quickly...{g}{x:00}
+
+@111
+{z}{s:0320}So they're coming after us... Everyone! I leave the enemy to you!{g}{x:00}
+
+@112
+{z}{s:0320}Once we're in this forest, they won't be able to follow...{g}{x:00}
+
+@113
+{z}{s:0320}Once we're in this forest, they won't be able to follow us...{g}{x:00}
+
+@114
+{z}{s:0320}We've lost them... We can't catch up now...{g}{x:00}
+
+@115
+{z}We've lost. Nothing for it... Pull out.{g}{x:00}
+
+@116
+{z}{s:0320}We've lost them completely... We can't catch up now.{g}{x:00}
+
+@117
+{z}Galling, but the mission has failed... Let's pull out.{g}{x:00}
+
+@118
+{z}{s:0320}Damn, we've lost them... There's no chasing them now...{g}{x:00}
+
+@119
+{z}We lost. Nothing to be done now... {w}{w}Let's go home.{g}{x:00}
+
+@120
+{z}{s:0320}We've lost them... We can't catch up now...{g}{x:00}
+
+@121
+{z}Galling, but we've failed. Let's pull out.{g}{x:00}
+
+@122
+{z}{s:0320}Lost them... We can't catch up now.{g}{x:00}
+
+@123
+{z}The mission has failed... We've no choice but to pull out.{g}{x:00}
+
+@124
+{z}{s:0320}We've lost them completely... There's no chasing them now.{g}{x:00}
+
+@125
+{z}Galling, but we've lost... We have to withdraw.{g}{x:00}
+
+@126
+{z}{s:0320}It's over... We defended the documents...{g}{x:00}
+
+@127
+{z}{s:0320}I'm sorry... The documents were taken back...{g}{x:00}
+
+@128
+{z}{s:0320}Damn... they took them back...{g}{x:00}
+
+@129
+{z}{s:0320}The documents were taken back... I'm sorry...{g}{x:00}
+
+@130
+{z}{s:0320}Everyone, I'm sorry... The documents were taken back...{g}{x:00}
+
+@131
+{z}{s:0320}The documents were taken back... Forgive me.{g}{x:00}
+
+@132
+{z}{s:0320}Yes! We've taken the documents back!{g}{x:00}
+
+@133
+{z}{s:0320}They took them back... Our cover wasn't enough.{g}{x:00}
+
+@134
+{z}The mission has failed... How shameful.{g}{x:00}
+
+@135
+{z}{s:0320}They took them back... We were so close to finishing...{g}{x:00}
+
+@136
+{z}Galling, but the mission has failed... Let's pull out.{g}{x:00}
+
+@137
+{z}{s:0320}They took them back... We were so close...{g}{x:00}
+
+@138
+{z}Damn it... we lost, didn't we... Let's go home.{g}{x:00}
+
+@139
+{z}{s:0320}Taken back... and we were so close to completing the mission...{g}{x:00}
+
+@140
+{z}Nothing for it... We've lost. Pull out.{g}{x:00}
+
+@141
+{z}{s:0320}They took them back... We were so close to the end...{g}{x:00}
+
+@142
+{z}The mission has failed... Let's go home.{g}{x:00}
+
+@143
+{z}{s:0320}The documents were taken back... and we were so close...{g}{x:00}
+
+@144
+{z}Galling, but we've lost. All troops, withdraw!{g}{x:00}
+
+@145
+{z}The defeat condition has changed.{g}{x:00}
+
+@146
+{z}The defeat condition has changed.{g}{x:00}
+
+@147
+{z}The defeat condition has changed.{g}{x:00}
+
+@148
+{z}{s:0320}Huh? The enemy's pulling out already? They give up easily...{g}{x:00}
+
+@149
+{z}Fighting back and forth over them would only wear us down for nothing.{g}{x:00}
+
+@150
+{z}That's what they wanted to avoid. They're no fools.{g}{x:00}
+
+@151
+{z}{s:0320}Once we're in this forest, the enemy can't follow us any more...{g}{x:00}
+
+@152
+{z}{s:0320}Once we're in this forest, they won't be able to follow us...{g}{x:00}
+
+@153
+{z}{s:0320}Once we're in this forest, I doubt they can follow us...{g}{x:00}
+
+@154
+{z}{s:0320}Once we're in this forest, they won't be able to follow us...{g}{x:00}
+
+@155
+{z}{s:0320}Once we're in this forest, they won't come after us...{g}{x:00}
+
+@156
+{z}{s:0320}Once we're in this forest, they'll never catch us...{g}{x:00}
+
+@157
+{z}{s:0320}We've lost them completely... We can't catch up now.{g}{x:00}
+
+@158
+{z}A pity, but we've lost. Time to pull out...{g}{x:00}
+
+@159
+{z}{s:0320}Hey, there's no point fighting on, is there? Then we're going home.{g}{x:00}
+
+@160
+{z}{s:0320}Do as you like.{g}{x:00}
+
+@161
+{z}{s:0320}See you!{g}{x:00}
+
+@162
+{z}{s:0320}We've lost them completely... We can't catch up now.{g}{x:00}
+
+@163
+{z}A pity, but we've lost... Pull out.{g}{x:00}
+
+@164
+{z}{s:0320}We've lost them completely... Damn, we can't catch up...{g}{x:00}
+
+@165
+{z}With the man who holds the documents gone, this fight means nothing. Let's go home.{g}{x:00}
+
+@166
+{z}{s:0320}Yes! I've got the documents! Now I just have to run...{g}{x:00}
+
+@167
+{z}Huh? Where's the enemy...{g}{x:00}
+
+@168
+{z}{s:0320}Right! I've got the documents! Now I just run with them...{g}{x:00}
+
+@169
+{z}What? No enemy left?{g}{x:00}
+
+@170
+{z}{s:0320}I've got the documents! Now I just have to run with them...{g}{x:00}
+
+@171
+{z}Oh? Where's the enemy?{g}{x:00}
+
+@172
+{z}{s:0320}I've got the documents, safe and sound. Normally I'd run from here...{g}{x:00}
+
+@173
+{z}The enemy is wiped out, so there's no need.{g}{x:00}
+
+@174
+{z}{s:0320}I've got the documents. Normally I'd run from here...{g}{x:00}
+
+@175
+{z}No one is left to get in our way... The mission is complete.{g}{x:00}
+
+@176
+{z}{s:0320}I've got the documents! Normally I'd run from here...{g}{x:00}
+
+@177
+{z}The enemy's gone, so there's no need at all. The mission is complete.{g}{x:00}
+
+@178
+{z}{s:0320}Wiping out that whole force... These men are strong...{g}{x:00}
+
+@179
+{z}{s:0320}The enemy's gone... Now no one will chase us.{g}{x:00}
+
+@180
+{z}Thank goodness they weren't taken back...{g}{x:00}
+
+@181
+{z}{s:0320}What? The enemy's wiped out? Which means no one will chase us...{g}{x:00}
+
+@182
+{z}Right! They didn't get them back!{g}{x:00}
+
+@183
+{z}{s:0320}That company was the last of the enemy. Now no one will chase us...{g}{x:00}
+
+@184
+{z}I'm glad they didn't get them back...{g}{x:00}
+
+@185
+{z}{s:0320}So that was the last of them... Then no one will chase us...{g}{x:00}
+
+@186
+{z}Phew... They didn't get them back.{g}{x:00}
+
+@187
+{z}{s:0320}It seems the enemy is wiped out. Now no one will chase us...{g}{x:00}
+
+@188
+{z}Thank goodness they weren't taken back...{g}{x:00}
+
+@189
+{z}{s:0320}The enemy is wiped out... Now no one will chase us...{g}{x:00}
+
+@190
+{z}They didn't get them back.{g}{x:00}
+
+@191
+{z}{s:0320}Everyone... I'm sorry. I was no use...{g}{x:00}
+
+@192
+{z}{s:0320}Damn it... my company...{g}{x:00}
+
+@193
+{z}{s:0320}My company can't fight any more...{g}{x:00}
+
+@194
+{z}{s:0320}I'm pulling out... Everyone, sorry...{g}{x:00}
+
+@195
+{z}{s:0320}...Forgive me.{g}{x:00}
+
+@196
+{z}{s:0320}Wiped out before the mercenaries... How shameful...{g}{x:00}
+
+@197
+{z}{s:0320}The Knights wiped out? Damn... this will be tough.{g}{x:00}
+
+@198
+{z}{s:0320}Damn it... all this for a mere scrap of paper. Why must I suffer this...{g}{x:00}
+
+@199
+{z}{s:0320}Are these men really mercenaries? They're absurdly strong...{g}{x:00}
+
+@200
+{z}{s:0320}Sorry... we're wiped out... You'll have to manage without us...{g}{x:00}
+
+@201
+{z}{s:0320}Our mercenaries are wiped out? Damn... they were paid for nothing.{g}{x:00}
+
+@202
+{z}{s:0320}I couldn't receive the documents... Sorry...{g}{x:00}
+
+@203
+{z}{s:0320}Damn... I couldn't hand them over. Then I'll have to carry them myself.{g}{x:00}
+
+@204
+{z}I want to be rid of this scrap of paper...{g}{x:00}
+
+@205
+{z}{s:0320}Take the documents back... Be sure you take them back...{g}{x:00}
+
+@206
+{z}{s:0320}T-Tigre... Were they really this strong...{g}{x:00}
+
+@207
+{z}{s:0320}I can't fight any more... Ugh...{g}{x:00}
+
+@208
+{z}{s:0320}The forest is still far off... I must hurry...{g}{x:00}
+
+@209
+{z}{s:0320}The forest is still a way off... Got to hurry...{g}{x:00}
+
+@210
+{z}{s:0320}Yes! Handover stopped! Now we just take the documents from the Knight Commander...{g}{x:00}
+
+@211
+{z}{s:0320}We stopped the handover. Now we just take the documents from the Commander.{g}{x:00}
+
+@212
+{z}{s:0320}Yes! Handover stopped! Now we just take the documents from the Knight Commander.{g}{x:00}
+
+@213
+{z}{s:0320}Phew... We stopped the handover. Now we just take the documents from him.{g}{x:00}
+
+@214
+{z}{s:0320}All right! Handover stopped! Now we just take the documents from the Knight Commander.{g}{x:00}
+
+@215
+{z}The defeat condition has changed.{g}{x:00}
+
+@216
+{z}{s:0320}Right! Handover stopped! Now we just take the documents from the Knight Commander.{g}{x:00}
+
+@217
+{z}{s:0320}Right! Here I come! Prepare yourselves!{g}{x:00}
+
+@218
+{z}{s:0320}We're taking the documents home! I'll never hand them to you lot!{g}{x:00}
+
+@219
+{z}{s:0320}I don't want to guard a scrap of paper either! Damn it!{g}{x:00}
+
+@220
+{z}{s:0320}Scrap of paper or not, I won't give it to the likes of you!{g}{x:00}
+
+@221
+{z}{s:0320}Out of the way! Get out of my way! Don't interfere!{g}{x:00}
+
+@222
+{z}{s:0320}I'll never hand these documents over... Never!{g}{x:00}
+
+@223
+{z}{s:0320}I won't give these documents to the likes of you... Not even if I die!{g}{x:00}
+
+@224
+{z}{s:0320}I won't hand over the documents whatever happens! As if I would!{g}{x:00}
+
+@225
+{z}{s:0320}Come to take the documents back from me? Try it if you can.{g}{x:00}
+
+@226
+{z}{s:0320}I'll not give up these documents even in death. I risked my life to take them!{g}{x:00}
+
+@227
+{z}Then there's no need to hurry. Thank goodness... it ended safely...{g}{x:00}
+
+@228
+{z}Tch! I rushed for nothing. If there's no one here, someone could have said so.{g}{x:00}
+
+@229
+{z}There's no one anywhere. Then there's no need to hurry.{g}{x:00}
+
+@230
+{z}Well then, let's all go and deliver the documents.{g}{x:00}
+

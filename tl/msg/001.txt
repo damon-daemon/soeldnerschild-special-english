@@ -1,0 +1,616 @@
+@0
+{z}{o}{d}{c:06}{s:02ce}You here for work too? Mercenaries make good money.{g}{x:00}
+
+@1
+{z}{o}{d}{c:06}{s:02ce}The more dangerous the job, the better it pays.{g}{z}But you can only spend gold while you're alive. Don't overdo it.{g}{x:00}
+
+@2
+{z}{f}{l:00c5}{s:02bd}Welcome.{g}{x:00}
+
+@3
+{z}{f}{l:00c5}{s:02bd}Well, you come here often.{g}{x:00}
+
+@4
+{z}You're a mercenary, right? Our information is fresh. Take a good look.{g}{x:00}
+
+@5
+{z}Hm, a new face? Could you be {a:0000}, the new mercenary captain?{g}{x:00}
+
+@6
+{z}You're {a:0000}, aren't you? I heard about you from the other Guilds. You're earning a fair bit, they say.{g}{x:00}
+
+@7
+{z}Oh, it's you. Will you take work from us this month?{g}{x:00}
+
+@8
+{z}Hey, {a:0000}. I hear you're earning well. Makes it worth my while to find you work.{g}{x:00}
+
+@9
+{z}Hey, {a:0000}. You've become quite famous.{g}{z}You owe that to our jobs, so show some gratitude!{g}{x:00}
+
+@10
+{z}Well, if it isn't Knight Commander {a:0000}.{g}{z}I can't find work for the regular army. I can give you information, though.{g}{x:00}
+
+@11
+{z}Well, {a:0000}! A good customer like you, in the regular army... That's bad for business.{g}{x:00}
+
+@12
+{z}Well, {a:0000}! You've come up in the world. I miss the days when you were a mercenary.{g}{x:00}
+
+@13
+{z}{f}{l:00c5}Well, what'll it be?{x:00}
+
+@14
+{z}No more jobs this month. Come back next month.{g}{x:00}
+
+@15
+{z}{f}{l:0000}{s:0000}Oh, that's right. I've already taken another job...{g}{x:00}
+
+@16
+{z}I can't find you work. Come back once you're a mercenary captain.{g}{x:00}
+
+@17
+{z}You're regular army. I only find work for mercenaries.{g}{x:00}
+
+@18
+{z}These are this month's jobs. Pick the one you want. I hope there's one you can handle.{g}{x:00}
+
+@19
+{z}These are this month's jobs. Pick the one you want. Might be too easy for you.{g}{x:00}
+
+@20
+{z}Hmm... This job is beyond you. A job's no good unless you can see it through.{g}{x:00}
+
+@21
+{z}You'd pick such an easy job? Well... Here are the details.{g}{x:00}
+
+@22
+{z}This job? Here are the details.{g}{x:00}
+
+@23
+{z}Oh, you're backing out?{g}{x:00}
+
+@24
+{z}{f}{l:00c5}All right... Here's an advance on the pay. Hire mercenaries or use it as you like. Complete the mission and you get twice this.{g}{j:0019}{x:00}
+
+@25
+{z}Tell me when you're ready, and I'll take you there.{g}{x:00}
+
+@26
+{z}Only a mercenary captain can hire mercenaries.{g}{x:00}
+
+@27
+{z}{f}{l:00c5}What information do you want?{x:00}
+
+@29
+{z}{f}{l:00c5}Ready to set out on the job?{x:00}
+
+@30
+{z}Off you go, then. Good luck.{g}{x:00}
+
+@31
+{z}Still not ready? Hurry up.{g}{x:00}
+
+@32
+{z}{f}{l:00c5}{s:02bd}A failure, eh... Tch. Do better next time.{g}{x:00}
+
+@33
+{z}{f}{l:00c5}{s:02bd}So you completed the mission. I'll call on you again.{g}{x:00}
+
+@34
+{z}{f}{l:00c5}{s:02bd}So you completed the mission. Impressive. I'll count on you next time too.{g}{x:00}
+
+@35
+{z}Come again.{g}{x:00}
+
+@36
+{z}I'll be waiting next month too.{g}{x:00}
+
+@37
+{z}Finish your errands and come straight back.{g}{x:00}
+
+@38
+{z}These are the mercenaries we have under contract. Which will it be?{g}{x:00}
+
+@39
+{z}{f}{l:00c5}None of your officers can handle these mercenaries.{g}{z}Will you still hire them?{x:00}
+
+@40
+{z}How many will you hire? Contracts are in units of 10.{x:00}
+
+@41
+{z}{f}{l:00c5}What, you're not hiring?{g}{x:00}
+
+@42
+{z}You seem short of gold. Mercenaries can only be hired in tens.{g}{x:00}
+
+@43
+{z}{f}{l:00c5}Right, it's a deal!{g}{x:00}
+
+@44
+{z}{f}{l:00c5}{s:02bd}Are you ready?{g}{x:00}
+
+@45
+{z}Hm? You seem to have too few mercenaries...{g}{j:002e}{x:00}
+
+@46
+{z}You can't fight properly like that. Do you really mean to set out?{x:00}
+
+@47
+{z}Then hurry and get ready!{g}{x:00}
+
+@48
+{z}Shall I hire for all the platoons you'll send out in one go, or will you choose the unit types?{x:00}
+
+@49
+{z}You have enough mercenaries already. No need to hire in bulk.{g}{x:00}
+
+@50
+{z}A bulk hire takes {b:00}G, but you seem short of gold.{g}{x:00}
+
+@51
+{z}{f}{l:00c5}{s:02bd}A bulk hire takes {b:00}G. Will you pay?{x:00}
+
+@100
+{z}{f}{l:008e}{s:008e}Excuse me, you there... Are you {a:0000}?{g}{x:00}
+
+@101
+{z}{f}{l:0000}{s:0000}Yes, I am...{g}{x:00}
+
+@102
+{z}{f}{l:008e}I am {a:008e}, Archbishop of the Cathedral of Orbia. Pray remember me.{g}{x:00}
+
+@103
+{z}{f}{l:008e}{s:008e}{a:0000}! Surely you remember me.{g}{x:00}
+
+@104
+{z}{f}{l:0000}{s:0000}Your Grace... {w}What do you want of me?{g}{x:00}
+
+@105
+{z}{f}{l:008e}Hmm, this is not the place to talk. Come with me to the tavern.{g}{x:00}
+
+@106
+{z}{f}{l:0000}...Very well. Let us go.{g}{x:00}
+
+@109
+{z}{f}{l:0028}{s:0028}Hm? {w}You here for a job too? Bad luck, that.{g}{z}I got the juicy one first:{j:006e}{x:00}
+
+@110
+ slaughtering villagers!{w} ...Slaughter... {w}Lovely word.{g}{x:00}
+
+@111
+{z}{f}{l:0028}And I get paid for it too! It never gets old!{g}{x:00}
+
+@112
+{z}{f}{l:0028}...What are you glaring at? You want to die too?{g}{x:00}
+
+@113
+{z}{f}{l:0000}{s:0000}That man... {w}It can't be!{g}{x:00}
+
+@114
+{z}{f}{l:00e7}{s:0001}{a:0000}! The man you were just talking to...{g}{z}{f}{l:0002}{s:0002}No mistake... It's him! It's {a:0028}!{g}{x:00}
+
+@116
+{z}{f}{l:00e9}The day to settle with him has come at last! He won't get away!{g}{x:00}
+
+@118
+{z}{f}{l:00e7}Where did {a:0028} go?{g}{x:00}
+
+@119
+{z}{f}{l:0000}He said he'd slaughter villagers.{g}{x:00}
+
+@120
+{z}{f}{l:00e7}That's terrible! We must hurry!{g}{x:00}
+
+@122
+{z}{f}{l:0000}Yes. We can't let {a:0028} live!{g}{z}After him, now!{g}{x:00}
+
+@123
+{z}{f}{l:0002}We'll wait at the inn. Hurry up!{g}{x:00}
+
+@124
+{z}{f}{l:0001}Wait, {a:0000}! Take this.{g}{j:007d}{x:00}
+
+@125
+{z}It's money I've saved since I was little, to buy Father a present.{g}{j:007e}{x:00}
+
+@126
+{z}Use it to equip yourselves, and be sure to avenge Father...{g}{x:00}
+
+@128
+{z}You received 11050 G.{g}{x:00}
+
+@130
+{z}{f}{l:002c}{s:002c}Hold it! You're {a:0000} of the Tigre Mercenaries!{g}{j:0083}{x:00}
+
+@131
+{z}Remember me? I'm {a:002c}, Lady {a:002b}'s best officer.{g}{z}The captain has a good offer for you...{g}{x:00}
+
+@132
+{z}{f}{l:002c}Not here. We're going to the tavern. Follow me.{g}{x:00}
+
+@133
+{z}{f}{l:0000}{s:0000}{a:002b} wants me...? What offer?{g}{x:00}
+
+@134
+{z}{f}{l:002c}I said it's a good one. Or are you afraid to follow me?{g}{x:00}
+
+@135
+{z}{f}{l:0000}Very well... I'll hear her out.{g}{x:00}
+
+@140
+{z}{f}{l:0025}{s:0025}Well, it's been a long time!{g}{x:00}
+
+@141
+{z}{f}{l:0000}{s:0000}Captain {a:0025}!{g}{x:00}
+
+@142
+{z}{f}{l:0025}I heard about {a:0023}... {w}Soon after we met at Marsala, wasn't it? A pity.{g}{x:00}
+
+@143
+{z}{f}{l:0000}To protect us from {a:0031}, he fought a desperate duel...{g}{x:00}
+
+@144
+{z}{f}{l:0025}A death worthy of him...{g}{z}But judging by your deeds now, {a:0023}'s death was not in vain.{g}{x:00}
+
+@145
+{z}{f}{l:0000}Yet there was still so much to learn from {a:0023}...{g}{z}That is my regret.{g}{x:00}
+
+@146
+{z}{f}{l:0025}True... {w}Even {a:0023} had a master when he was young...{g}{j:0093}{x:00}
+
+@147
+{z}I hear he was taught some mighty technique. His name was... {w}{w}Ba... {w}{w}No, I can't recall it.{g}{x:00}
+
+@148
+{z}{f}{l:0025}Well, anyway... {w}Do your best not to disgrace the name of your master, {a:0023}.{g}{x:00}
+
+@150
+{z}{f}{l:0000}Yes!{g}{x:00}
+
+@151
+{z}{f}{l:0025}Good. Farewell, then.{g}{x:00}
+
+@160
+{z}{f}{l:0003}{s:0003}Oh, Captain? Weren't you going to the castle?{g}{x:00}
+
+@161
+{z}{f}{l:0000}{s:0000}Ah, so I was. I must go to the castle first...{g}{x:00}
+
+@170
+{z}{f}{l:005e}{s:005e}Sir {a:0000}! Why have you not come to the castle?{g}{x:00}
+
+@171
+{z}{f}{l:0000}{s:0000}Sir {a:005e}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@172
+{z}{f}{l:005e}Hm... {w}Then live as you see fit.{g}{x:00}
+
+@174
+{z}{f}{l:005e}I shall take my leave, but His Majesty the Emperor foresaw this and gave me something for you.{g}{z}Please accept it.{g}{x:00}
+
+@175
+{z}You received 30000 G.{g}{x:00}
+
+@176
+{z}{f}{l:005e}Fare you well. Cherish your life!{g}{x:00}
+
+@180
+{z}{f}{l:0068}{s:0068}Sir {a:0000}! Why did you not come to the castle at once?{g}{x:00}
+
+@181
+{z}{f}{l:0000}{s:0000}Lady {a:0068}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@182
+{z}{f}{l:0068}You would throw away the road to glory? You truly are a man without ambition...{g}{z}Very well. I will tell the King myself.{g}{x:00}
+
+@183
+{z}{f}{l:0068}The King foresaw this and gave me something for you. Please accept it.{g}{x:00}
+
+@184
+{z}You received 30000 G.{g}{x:00}
+
+@185
+{z}{f}{l:0068}Walk the path you believe is right. And I hope you will go on helping Saxen.{g}{x:00}
+
+@190
+{z}{f}{l:006e}{s:006e}Why have you not come to the castle?{g}{x:00}
+
+@191
+{z}{f}{l:0000}{s:0000}Sir {a:006e}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@192
+{z}{f}{l:006e}You would rather live among the people as a mercenary than win honour as a knight...{g}{z}Then follow the path you believe in.{g}{x:00}
+
+@193
+{z}{f}{l:006e}The King and the Regent will be disappointed, but they foresaw this and asked me to bring you this.{g}{x:00}
+
+@194
+{z}You received 30000 G.{g}{x:00}
+
+@195
+{z}{f}{l:006e}Farewell, then! We count on you a little longer, until the land is united!{g}{x:00}
+
+@200
+{z}{f}{l:0076}{s:0076}Sir {a:0000}! Why do you refuse to come to the castle?{g}{x:00}
+
+@201
+{z}{f}{l:0000}{s:0000}Sir {a:0076}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@202
+{z}{f}{l:0076}You give up advancement as a knight to live among the people as a mercenary... {w}That too is a way of life...{g}{j:00cb}{x:00}
+
+@203
+{z}A great pity, but so be it...{g}{x:00}
+
+@204
+{z}{f}{l:0076}You have fought well for Estania all this while. This is a token from the Noble Council's chairman and myself.{g}{x:00}
+
+@205
+{z}You received 30000 G.{g}{x:00}
+
+@206
+{z}{f}{l:0076}Now I must take my leave. May you ever stand with the people!{g}{x:00}
+
+@210
+{z}{f}{l:0080}{s:0080}{a:0000}! Why have you not come to the castle?{g}{x:00}
+
+@211
+{z}{f}{l:0000}{s:0000}Lady {a:0080}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@212
+{z}{f}{l:0080}The King understood... {w}He said the rank of knight might only be a burden to you.{g}{x:00}
+
+@213
+{z}{f}{l:0080}The King and the Prince entrusted this to me in case it came to this. Please take it.{g}{x:00}
+
+@214
+{z}You received 30000 G.{g}{x:00}
+
+@215
+{z}{f}{l:0080}I am sorry to part here, but one's life is one's own to decide.{g}{z}I hope you will go on helping Mylard.{g}{x:00}
+
+@220
+{z}{f}{l:0086}{s:0086}{a:0000}! Why did you not appear at the castle?{g}{x:00}
+
+@221
+{z}{f}{l:0000}{s:0000}Lady {a:0086}...{g}{z}I will not become a knight. I mean to go on fighting as a mercenary.{g}{x:00}
+
+@222
+{z}{f}{l:0086}Oh? You would sooner live among the people as a mercenary than rise as a knight?{g}{z}That too is one{j:00df}{x:00}
+
+@223
+ choice. Then I shall say no more.{g}{x:00}
+
+@224
+{z}{f}{l:0086}In fact, the Queen foresaw this and gave me something for you. Please accept it.{g}{x:00}
+
+@225
+{z}You received 30000 G.{g}{x:00}
+
+@226
+{z}{f}{l:0086}Then I hope you will go on helping Fenrir. Farewell!{g}{x:00}
+
+@229
+{z}{f}{l:0000}Go on ahead to the inn. I'll join you later.{g}{x:00}
+
+@230
+{z}{f}{l:0002}{s:0002}What, you're here too...{g}{x:00}
+
+@231
+{z}{f}{l:0002}I was just talking to the old man at the Guild, and I got some big news.{g}{z}It's a mission to defend a fort...{w}{j:00e8}{x:00}
+
+@232
+ and the enemy is {a:0028}'s lot, the Blood Mist Mercenaries!{g}{x:00}
+
+@233
+{z}{f}{l:0002}This might be our last chance to get revenge!{g}{j:00ea}{x:00}
+
+@234
+{z}You and {a:0001} must be itching for revenge too.{g}{x:00}
+
+@235
+{z}{f}{l:0002}Please, let me fight {a:0028}!{g}{x:00}
+
+@236
+{z}{f}{l:0000}All right... But we can't bring private grudges into a mission.{g}{j:00ed}{x:00}
+
+@237
+{z}We won't take the job from the Guild; we'll fight of our own accord.{g}{x:00}
+
+@238
+{z}{f}{l:0002}I don't need an employer to beat {a:0028}! This time I'll let loose all I like!{g}{x:00}
+
+@240
+{z}{f}{l:0000}{s:0000}{a:0005}... What are you doing here?{g}{x:00}
+
+@241
+{z}{f}{l:0005}{s:0005}{a:0000}, I have something important to tell you...{g}{z}Would you mind coming to the tavern?{g}{x:00}
+
+@242
+{z}{f}{l:0000}...All right.{g}{x:00}
+
+@250
+{z}{f}{l:0000}{s:0000}What are the three of you doing here?{g}{x:00}
+
+@251
+{z}{f}{l:0004}{s:0004}We've been waiting for you, Captain... {w}Come on, let's go.{g}{x:00}
+
+@252
+{z}{f}{l:0000}Go where?{g}{x:00}
+
+@253
+{z}{f}{l:0003}{s:0003}...{g}{x:00}
+
+@254
+{z}{f}{l:0002}{s:0002}There's something I want to show you... {w}You'll see when we get there.{g}{x:00}
+
+@260
+{z}{f}{l:0003}{s:0003}Hey, have you seen {a:0004}?{g}{z}We've a job soon, and he's nowhere to be found.{g}{x:00}
+
+@261
+{z}{f}{l:0000}{s:0000}What? Hasn't he gone back to the inn?{g}{x:00}
+
+@262
+{z}{f}{l:0003}He hasn't.{g}{j:0107}{x:00}
+
+@263
+{z}We've all split up to search for him. Leave choosing a job for later and help us look.{g}{x:00}
+
+@264
+{z}{f}{l:0000}All right... He's hopeless.{g}{x:00}
+
+@265
+{z}{f}{l:0003}{s:0003}He hasn't been to the Guild.{g}{x:00}
+
+@270
+{z}{f}{l:000d}{c:06}§ Boy §{n}
+{c:07}Um... Are you the captain of the Tigre Mercenaries?{g}{x:00}
+
+@271
+{z}{f}{l:0000}{s:0000}Yes, I am, but...{g}{x:00}
+
+@272
+{z}{f}{l:000d}Thank goodness! So it's true you're in town. I thought I'd never get to meet you.{g}{j:0111}{x:00}
+
+@273
+{z}I've been looking for you all this time.{g}{x:00}
+
+@274
+{z}{f}{l:0000}You were looking for me?{g}{z}What is your name?{g}{x:00}
+
+@275
+{z}{f}{l:000d}I'm {a:000d}.{g}{x:00}
+
+@276
+{z}{f}{l:000d}Please, Captain {a:0000}, let me join the Tigre Mercenaries!{g}{j:0115}{x:00}
+
+@277
+{z}I heard about you and have admired you ever since.{j:0116}{x:00}
+
+@278
+ Please, I beg you!{g}{z}{f}{l:0000}I'm glad you feel that way, but...{g}{x:00}
+
+@280
+{z}{f}{l:000d}I even learned to use a sword for this day!{g}{z}{f}{l:0000}...{g}{j:0119}{x:00}
+
+@281
+{z}Come to think of it, I once felt the same about Captain {a:0023}, and became a mercenary...{g}{x:00}
+
+@282
+{z}{f}{l:0000}All right. From today you're a member of the Tigre Mercenaries. Do your best.{g}{x:00}
+
+@283
+{z}{f}{l:000d}Thank you! I'll prove I'm useful, I promise!{g}{x:00}
+
+@284
+{z}{a:000d} has joined you!{g}{x:00}
+
+@285
+{z}{f}{l:000d}It's like a dream. I've got to tell everyone!{g}{x:00}
+
+@300
+{z}{f}{l:00ce}{s:02c6}Seen the company Rankings? They show how good every company is.{g}{j:012d}{x:00}
+
+@301
+{z}Your rank rises when you finish jobs and falls when you fail.{g}{j:012e}{x:00}
+
+@302
+{z}Succeed at hard missions and it rises more.{g}{z}Best to take jobs that suit your ability, without overreaching.{g}{x:00}
+
+@303
+{z}{f}{l:00ce}{s:02c6}Seen the Power Map? It shows each nation's sphere of influence.{g}{j:0130}{x:00}
+
+@304
+{z}The bigger the territory, the stronger the economy, so the pay is better.{g}{x:00}
+
+@306
+{z}{f}{l:00ce}{s:02c6}Seen the nations' Opinions?{g}{j:0133}{x:00}
+
+@307
+{z}They show what each nation thinks of you.{g}{x:00}
+
+@309
+{z}{f}{l:00ce}{s:02c6}Jobs have six difficulty grades: S, A, B, C, D and E.{g}{j:0136}{x:00}
+
+@310
+{z}S is the hardest and E the easiest. In hard missions, the victory conditions are tough to meet.{g}{j:0137}{x:00}
+
+@311
+{z}Until you have a record, they'll only give you easy jobs.{g}{x:00}
+
+@312
+{z}{f}{l:00ce}{s:02c6}Bulk hiring is handy.{g}{j:0139}{x:00}
+
+@313
+{z}But it only covers the companies you plan to send out.{g}{j:013a}{x:00}
+
+@314
+{z}Put the platoons that need refilling into a company formation first, then do it.{g}{x:00}
+
+@315
+{z}{f}{l:00ce}{s:02c6}Better do your company formation before you set out on a job.{g}{j:013c}{x:00}
+
+@316
+{z}Then you won't panic once you reach the battlefield.{g}{x:00}
+
+@318
+{z}{f}{l:00ce}{s:02c6}Ever think about your employer?{g}{j:013f}{x:00}
+
+@319
+{z}The nation ruling a city is the employer, the one who commissions the job.{g}{j:0140}{x:00}
+
+@320
+{z}The one exception is the Wigg Church's Papal Domain: there, the neighbouring nations are the employers.{g}{x:00}
+
+@321
+{z}{f}{l:00ce}{s:02c6}Are you watching the nations' Opinions?{g}{j:0142}{x:00}
+
+@322
+{z}Take jobs for one nation and its opinion of you improves.{g}{j:0143}{x:00}
+
+@323
+{z}If you only take jobs against a nation, it will hate you.{g}{x:00}
+
+@324
+{z}{f}{l:00ce}{s:02c6}The Guild's mercenaries come in three grades for each unit type.{g}{j:0145}{x:00}
+
+@325
+{z}Higher grades cost more to hire, but they have the ability to match.{g}{j:0146}{x:00}
+
+@326
+{z}For hard jobs, use top-grade mercenaries where you can.{g}{x:00}
+
+@327
+{z}{f}{l:00ce}{s:02c6}The nations' Knight Commanders lead powerful soldiers, I hear.{g}{j:0148}{x:00}
+
+@328
+{z}Their magic seems strong too, so be careful when you fight them.{g}{x:00}
+
+@330
+{z}{f}{l:00ce}{s:02c6}Watching the Power Map? Territory has been changing fast lately.{g}{j:014b}{x:00}
+
+@331
+{z}Some small nation may fall before long...{g}{x:00}
+
+@333
+{z}{f}{l:00ce}{s:02c6}Mobility matters in pursuit jobs. An all-cavalry company is a good idea.{g}{j:014e}{x:00}
+
+@334
+{z}With only slow companies, you'll never catch the enemy.{g}{x:00}
+
+@336
+{z}{f}{l:00ce}{s:02c6}The more dangerous the job, the better it pays.{g}{j:0151}{x:00}
+
+@337
+{z}But don't overdo it. Dead men can't spend gold.{g}{x:00}
+
+@339
+{z}{f}{l:00ce}{s:02c6}The wars look like they're ending soon.{g}{j:0154}{x:00}
+
+@340
+{z}Once the wars are over, mercenaries won't be needed. What'll become of us?{g}{j:0155}{x:00}
+
+@341
+{z}I hope we don't end up as brigands or the like...{g}{x:00}
+

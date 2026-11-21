@@ -1,0 +1,387 @@
+@0
+{z}{s:0320}Damn... A revolt?{w} Peasants...{g}{x:00}
+
+@1
+{z}What?!{w}{w} {a:0000}, even you... You traitor!{g}{x:00}
+
+@2
+{z}{s:0320}{a:0000}! What is{w} the meaning of this?!{g}{x:00}
+
+@3
+{z}{s:0320}...{g}{x:00}
+
+@4
+{z}{s:0320}{a:0000} agreed with our cause!{g}{x:00}
+
+@5
+{z}Unlike you lot, he comes from common stock! He understands how we feel!{g}{x:00}
+
+@6
+{z}{s:0320}Hmph...{w} Lowborn, after all...{g}{x:00}
+
+@7
+{z}{s:0320}Whatever the reason, I cannot permit a revolt...{g}{x:00}
+
+@8
+{z}Send out the Firelight Knights!{g}{x:00}
+
+@9
+{z}{s:0320}Whether by words or by arms, the method is the same...{g}{x:00}
+
+@10
+{z}The strong always try to crush the weak by force...{g}{x:00}
+
+@11
+{z}We will turn the tide! I won't have peasants worked to the bone by nobles forever!{g}{x:00}
+
+@12
+{z}Let's go, {a:0000}!{g}{x:00}
+
+@13
+{z}Let's overthrow noble rule and build a new government! Ours!{g}{x:00}
+
+@14
+{z}{s:0320}Our targets are Chairman {a:0095} and {a:0096}!{g}{x:00}
+
+@15
+{z}Defeat them and the revolution will succeed!{g}{x:00}
+
+@16
+{z}{s:0320}Yeah!{g}{x:00}
+
+@17
+{z}{s:0320}Just a little more and we'll have a peaceful world...{g}{x:00}
+
+@18
+{z}I have to fight just a little longer!{g}{x:00}
+
+@19
+{z}{s:0320}This may be the last battle... Let me run wild one more time!{g}{x:00}
+
+@20
+{z}{s:0320}The outcome of this battle decides{w}{w} the future of Estania and the continent!{g}{x:00}
+
+@21
+{z}We can't afford to lose!{g}{x:00}
+
+@22
+{z}{s:0320}I thought the fighting was over and I could do as I pleased...{g}{x:00}
+
+@23
+{z}Well, one more push, then...{g}{x:00}
+
+@24
+{z}{s:0320}I hope this will be the last battle...{g}{x:00}
+
+@25
+{z}{s:0320}Nobles who only throw their weight about and produce nothing!{g}{x:00}
+
+@26
+{z}{s:0320}A handful of people can't hold all the power forever!{g}{x:00}
+
+@27
+{z}{s:0320}You'll learn what our anger is like!{g}{x:00}
+
+@28
+{z}{s:0320}To think it has come to this... I must put down this revolt...{g}{x:00}
+
+@29
+{z}{s:0320}Peasants... The insolence...{g}{x:00}
+
+@30
+{z}Who do you think united the continent in the first place?!{g}{x:00}
+
+@31
+{z}{s:0320}This is as far as I go...{w} But make the revolution succeed!{g}{x:00}
+
+@32
+{z}{s:0320}Damn... I wanted to help to the end...{g}{x:00}
+
+@33
+{z}{s:0320}Retreating in such a vital battle...{w} How pathetic...{g}{x:00}
+
+@34
+{z}{s:0320}These ones really are tough... Watch yourself, {a:0000}...{g}{x:00}
+
+@35
+{z}{s:0320}{a:0000}... Fight so that you have no regrets...{g}{x:00}
+
+@36
+{z}{s:0320}I...{w}{w} I've been beaten...{g}{x:00}
+
+@37
+{z}{a:0000}...{w} Everyone...{w} Make those nobles pay... I'm counting...{w}{w} on you...{g}{x:00}
+
+@38
+{z}{s:0320}{a:009e}!{g}{x:00}
+
+@39
+{z}{s:0320}No...{w}{w} Not {a:009e}...{g}{x:00}
+
+@40
+{z}{s:0320}{a:009e} has fallen?! Damn it!{g}{x:00}
+
+@41
+{z}{s:0320}{a:009e}... I won't let your resolve go to waste...{g}{x:00}
+
+@42
+{z}{s:0320}You were magnificent...{g}{x:00}
+
+@43
+{z}{s:0320}...Your ideals will surely be carried on by the people...{g}{x:00}
+
+@44
+{z}{s:0320}Then we'll do it by ourselves!{g}{x:00}
+
+@45
+{z}{s:0320}{a:009e}, who united us... Oh no...{g}{x:00}
+
+@46
+{z}{s:0320}Even if we fall, someone will rise up again...{g}{x:00}
+
+@47
+{z}{s:0320}Damn...{w}{w} I'll avenge you{w} without fail...{g}{x:00}
+
+@48
+{z}{s:0320}Was I... some use, at least...?{g}{x:00}
+
+@49
+{z}{s:0320}Ah...{w}{w} Of course. Rest easy in heaven...{g}{x:00}
+
+@50
+{z}{s:0320}I can't even put down a peasant revolt...{g}{x:00}
+
+@51
+{z}{s:0320}Traitor! Knighting you was a mistake!{g}{x:00}
+
+@52
+{z}{s:0320}Say what you like!{g}{x:00}
+
+@53
+{z}Government by nobles, for nobles, has to end now!{g}{x:00}
+
+@54
+{z}{s:0320}You people... If only you had...{g}{x:00}
+
+@55
+{z}thought of the peasants, it might not have come to this...{g}{x:00}
+
+@56
+{z}{s:0320}Spoil the rabble and they grow insolent at once...{g}{x:00}
+
+@57
+{z}A fine chance to show them who holds this country together!{g}{x:00}
+
+@58
+{z}{s:0320}If everyone's hearts turn away, there'll be no country left!{g}{x:00}
+
+@59
+{z}And then you'll be discarded too! Why can't you see that?!{g}{x:00}
+
+@60
+{z}{s:0320}I can't stand men who swagger on their titles alone!{g}{x:00}
+
+@61
+{z}{s:0320}Hahaha... That is just sour grapes...{g}{x:00}
+
+@62
+{z}{s:0320}You'll pay for that!{g}{x:00}
+
+@63
+{z}{s:0320}Enough! Insolent wretches... Kill anyone who defies us!{g}{x:00}
+
+@64
+{z}{s:0320}My lord Count...{g}{x:00}
+
+@65
+{z}Did you never think how much the people suffered behind the wars?{g}{x:00}
+
+@66
+{z}{s:0320}We set up the republic! Do you want a monarchy again?{g}{x:00}
+
+@67
+{z}{s:0320}Though you probably hate that too...{g}{x:00}
+
+@68
+{z}The peasants have simply had enough of your selfishness.{g}{x:00}
+
+@69
+{z}{s:0320}It was a mistake to think the peasants would obey for ever.{g}{x:00}
+
+@70
+{z}{s:0320}Hmph! Rebels! I'll see to it you never rebel again!{g}{x:00}
+
+@71
+{z}{s:0320}{a:0096}! I can never forgive you...{g}{x:00}
+
+@72
+{z}Pushing conscription, and retiring {a:0076}, who protected us...{g}{x:00}
+
+@73
+{z}It was all your doing, wasn't it!{g}{x:00}
+
+@74
+{z}{s:0320}Both were needed for the government to come!{g}{x:00}
+
+@75
+{z}Not that the likes of you would understand!{g}{x:00}
+
+@76
+{z}{s:0320}That's the selfishness I mean! No more government for nobles!{g}{x:00}
+
+@77
+{z}{s:0320}Lord Chairman!{g}{x:00}
+
+@78
+{z}{s:0320}{a:0000}, is it... Pull back the troops!{g}{x:00}
+
+@79
+{z}Whatever the reason, revolt cannot be tolerated.{g}{x:00}
+
+@80
+{z}{s:0320}Then why{w} did you never listen to the peasants' voices until now?!{g}{x:00}
+
+@81
+{z}{s:0320}Why does such a revolt arise? Was our rule at fault...?{g}{x:00}
+
+@82
+{z}I feel everyone's suffering keenly!{g}{x:00}
+
+@83
+{z}They're all sick of being made to fight as the nobles' tools!{g}{x:00}
+
+@84
+{z}{s:0320}The weak are always oppressed, so I wanted to be strong...{g}{x:00}
+
+@85
+{z}But I realised that if the strong were kind to the weak, the weak could live in peace...{g}{x:00}
+
+@86
+{z}Unless you show that kindness, the weak have the right to defeat you!{g}{x:00}
+
+@87
+{z}{s:0320}Lord Chairman...{g}{x:00}
+
+@88
+{z}Had you valued the peasants a little more, this revolt would never have happened.{g}{x:00}
+
+@89
+{z}{s:0320}What the peasants want is a seat on the Council for their own representatives.{g}{x:00}
+
+@90
+{z}You could make the Council accept that.{g}{x:00}
+
+@91
+{z}{s:0320}True... You are right...{g}{x:00}
+
+@92
+{z}But if we allow revolt, the order of the state will collapse. That we must prevent...{g}{x:00}
+
+@93
+{z}{s:0320}Why does a great sorcerer like you meddle in such worldly affairs?{g}{x:00}
+
+@94
+{z}{s:0320}After this battle, peace will come to the continent...{g}{x:00}
+
+@95
+{z}And to make that peace last, I felt the peasants must take part in government!{g}{x:00}
+
+@96
+{z}{s:0320}Are you the leader of the peasant army?{g}{x:00}
+
+@97
+{z}Do you mean to change the republic by such violent means?{g}{x:00}
+
+@98
+{z}{s:0320}Some republic!{g}{x:00}
+
+@99
+{z}Only nobles profit and the peasants bear the burden... That's no republic!{g}{x:00}
+
+@100
+{z}{s:0320}I had united the continent. My era should have begun...{g}{x:00}
+
+@101
+{z}To fall to a mere peasant revolt... I never{w} dreamed it...{g}{x:00}
+
+@102
+{z}{s:0320}What?! {a:0096} has...{g}{x:00}
+
+@103
+{z}This...{w} Can this be allowed?{g}{x:00}
+
+@104
+{z}{s:0320}Ngh... Damn...{g}{x:00}
+
+@105
+{z}{a:0000} is strong indeed...{w}{w} No choice! Fall back into the castle!{g}{x:00}
+
+@106
+{z}{s:0320}Ngh... Damn...{g}{x:00}
+
+@107
+{z}I shall fall back into the castle... I leave the rest to you, Lorenzo!{g}{x:00}
+
+@108
+{z}{s:0320}Understood... Lord Chairman, rest in the castle!{g}{x:00}
+
+@109
+{z}{s:0320}Mm...{g}{x:00}
+
+@110
+{z}{s:0320}Where is the Chairman? Has he abandoned us?{g}{x:00}
+
+@111
+{z}Damn it!{w} I won't stand for this!{w} We withdraw too!{g}{x:00}
+
+@112
+{z}All that remains is to chase {a:0095}, who fled into the castle, and capture him!{g}{x:00}
+
+@113
+{z}{a:0000}! I leave the rest to you! Capture the Chairman!{g}{x:00}
+
+@114
+{z}{s:0320}{a:0000}! {a:0095} fled to the castle!{g}{x:00}
+
+@115
+{z}Let's chase him down and catch him!{g}{x:00}
+
+@116
+{z}{s:0320}Only {a:0095}, who fled into the castle, remains...{g}{x:00}
+
+@117
+{z}Let's go to the castle, {a:0000}... We'll make the nobles recognise the peasants' rights.{g}{x:00}
+
+@118
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@119
+{z}We'll persuade {a:0095} at the castle, won't we? So everyone can sit on the Council...{g}{x:00}
+
+@120
+{z}He's sure to agree! Let's hurry!{g}{x:00}
+
+@121
+{z}{s:0320}{a:0000}...{g}{x:00}
+
+@122
+{z}Let's go to the castle... and ask the Chairman to let the peasants sit on the Council...{g}{x:00}
+
+@123
+{z}He must have felt the peasants' strength. I don't think he can refuse.{g}{x:00}
+
+@124
+{z}{s:0320}Phew...{w}{w} Almost there...{g}{x:00}
+
+@125
+{z}The great task of winning the peasants' rights remains...{g}{x:00}
+
+@126
+{z}{a:0000}... Let us head for the castle...{g}{x:00}
+
+@127
+{z}{s:0320}We did it! We finally did it!{g}{x:00}
+
+@128
+{z}{s:0320}Understood!{g}{x:00}
+

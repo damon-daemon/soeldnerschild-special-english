@@ -1,0 +1,258 @@
+@0
+{z}{s:0320}Look! Those look like bandits, over by that mountain.{g}{x:00}
+
+@1
+{z}{s:0320}{a:0009}... Is that them?{g}{x:00}
+
+@2
+{z}{s:0320}Yes... They're the bandits who stole my keepsake sword.{g}{x:00}
+
+@3
+{z}Their leader might know where it went...{g}{x:00}
+
+@4
+{z}{s:0320}So we just take the boss alive.{g}{x:00}
+
+@5
+{z}{s:0320}Sigh... no pay at all? A mercenary doing charity...{g}{x:00}
+
+@6
+{z}{s:0320}The captain took the job. Stop complaining!{g}{x:00}
+
+@7
+{z}{s:0320}True... leaving a pretty lady in trouble is a sin for any man.{g}{x:00}
+
+@8
+{z}{s:0320}Honestly!{w} I'm glad you're not the captain.{g}{x:00}
+
+@9
+{z}{s:0320}The bandits mean to wait for us. They show no sign of making the first move.{g}{x:00}
+
+@10
+{z}{s:0320}Then let us attack first. I must get that sword back!{g}{x:00}
+
+@11
+{z}{s:0320}I've been beaten, but you keep fighting, {a:0009}!{g}{x:00}
+
+@12
+{z}{s:0320}I'm beaten... Pulling out first. Sorry...{g}{x:00}
+
+@13
+{z}{s:0320}I'm done for... Retreating!{g}{x:00}
+
+@14
+{z}{s:0320}We have no choice but to withdraw...{g}{x:00}
+
+@15
+{z}{s:0320}I took a bad beating... Sorry, but this is as far as I go.{g}{x:00}
+
+@16
+{z}{s:0320}I leave the rest to you...{g}{x:00}
+
+@17
+{z}{s:0320}I'm beaten... I'm withdrawing to town.{g}{x:00}
+
+@18
+{z}{a:0000}... Please, get that sword back.{g}{x:00}
+
+@19
+{z}{s:0320}Stealing a precious keepsake... Unforgivable!{g}{x:00}
+
+@20
+{z}{s:0320}It's her lover's sword, after all... I want her to find it somehow.{g}{x:00}
+
+@21
+{z}{s:0320}For lovely {a:0009}, I'll put in some real work.{g}{x:00}
+
+@22
+{z}{s:0320}I will have that sword back, no matter what!{g}{x:00}
+
+@23
+{z}{s:0320}Just because they're mercenaries, we can't simply run away.{g}{x:00}
+
+@24
+{z}{s:0320}Why are mercenaries attacking us? What did we ever do to them?{g}{x:00}
+
+@25
+{z}Tch... no choice, then. We have to drive them off somehow...{g}{x:00}
+
+@26
+{z}{s:0320}You're the captain! If I take you down...{g}{x:00}
+
+@27
+{z}{s:0320}Stop this pointless fight and give back {a:0009}'s sword!{g}{x:00}
+
+@28
+{z}{s:0320}Shut up!{g}{x:00}
+
+@29
+{z}{s:0320}That sword...{w}{w} Give me back my sword!{g}{x:00}
+
+@30
+{z}{s:0320}We stole your sword? Sorry, I don't remember.{g}{x:00}
+
+@31
+{z}{s:0320}You steal from people and then claim you don't remember?{g}{x:00}
+
+@32
+{z}If that's how it is, I'll make you remember by force!{g}{x:00}
+
+@33
+{z}{s:0320}We're no match for mercenaries. I knew it...{g}{x:00}
+
+@34
+{z}{s:0320}The boss is down...{w}{w} Run...{w}{w} Run for it!{g}{x:00}
+
+@35
+{z}{s:0320}The boss is down...{w}{w} Run...{w}{w} Run for it!{g}{x:00}
+
+@36
+{z}{s:0320}The boss is down...{w}{w} Run...{w}{w} Run for it!{g}{x:00}
+
+@37
+{z}{s:0320}The boss is down...{w}{w} Run...{w}{w} Run for it!{g}{x:00}
+
+@38
+{z}{s:0320}I've finally cornered you...{g}{x:00}
+
+@39
+{z}Now... talk. Where is the sword you took from me?{g}{x:00}
+
+@40
+{z}{s:0320}You're the one from back then...{w}{w} I finally remember.{g}{x:00}
+
+@41
+{z}But too bad... We sell what we steal right away.{g}{x:00}
+
+@42
+{z}{s:0320}What!{w}{w} But you know who you sold it to?{g}{x:00}
+
+@43
+{z}{s:0320}Yes... A merchant in Trier.{g}{x:00}
+
+@44
+{z}But it's probably not there now. A sword like that, there's plenty who'd want it.{g}{x:00}
+
+@45
+{z}By now it's passed from hand to hand. We've no idea who has it.{g}{x:00}
+
+@46
+{z}{s:0320}I see...{w}{w} so that's how it is...{g}{x:00}
+
+@47
+{z}...{w}{w} I have no more use for you. Go wherever you like...{g}{x:00}
+
+@48
+{z}{s:0320}You're letting me go?{g}{x:00}
+
+@49
+{z}Much obliged. No hard feelings, eh...{w} So long.{g}{x:00}
+
+@50
+{z}{s:0320}...{g}{x:00}
+
+@51
+{z}{s:0320}{a:0009}... What will you do?{g}{x:00}
+
+@52
+{z}{s:0320}Will you believe that bandit and follow the sword's trail?{g}{x:00}
+
+@53
+{z}{s:0320}...{w}{w}...{w}{w}...{w}{w}...{w}{w} {a:0000}...{g}{x:00}
+
+@54
+{z}If it's all right, would you let me join this company?{g}{x:00}
+
+@55
+{z}{s:0320}Huh?{g}{x:00}
+
+@56
+{z}{s:0320}That I should forget the past and look to the future...{g}{x:00}
+
+@57
+{z}Watching all of you, I've come to feel that way...{g}{x:00}
+
+@58
+{z}I promise I won't hold you back. Please!{g}{x:00}
+
+@59
+{z}{s:0320}Are you sure? You'd stop looking for that sword...{g}{x:00}
+
+@60
+{z}{s:0320}If I fight as a mercenary, I may meet someone who carries it.{g}{x:00}
+
+@61
+{z}And besides...{w} even without the sword, he is in my heart...{w} So...{w}{w} it's all right.{g}{x:00}
+
+@62
+{z}{s:0320}Well, in a company the odds of finding that sword someday are good...{g}{x:00}
+
+@63
+{z}{s:0320}She's handy with a sword, too, and, above all, beautiful...{g}{x:00}
+
+@64
+{z}No problem, is there, {a:0000}?{g}{x:00}
+
+@65
+{z}{s:0320}...{w}{w} All right.{g}{x:00}
+
+@66
+{z}Lend us your strength as a platoon leader.{g}{x:00}
+
+@67
+{z}{s:0320}Really? Thank you!{g}{x:00}
+
+@68
+{z}{a:0009} has joined you!{g}{x:00}
+
+@69
+{z}{s:0320}Now... tell us where the sword you took from {a:0009} went!{g}{x:00}
+
+@70
+{z}{s:0320}All right... I'll talk! Just spare my life!{g}{x:00}
+
+@71
+{z}{s:0320}Then speak up, quickly.{g}{x:00}
+
+@72
+{z}{s:0320}The truth is, the sword we took from that {a:0009} woman... I already sold it...{g}{x:00}
+
+@73
+{z}{s:0320}What? Who did you sell it to?{g}{x:00}
+
+@74
+{z}{s:0320}A merchant in Trier... But it's probably not there now.{g}{x:00}
+
+@75
+{z}A sword like that, there's plenty who'd want it.{g}{x:00}
+
+@76
+{z}By now it's passed from hand to hand. I've no idea who has it.{g}{x:00}
+
+@77
+{z}{s:0320}I see...{w}{w} Very well...{g}{x:00}
+
+@78
+{z}As promised, we'll let you go. Go wherever you like.{g}{x:00}
+
+@79
+{z}{s:0320}Much obliged! I'll be on my way, then!{g}{x:00}
+
+@80
+{z}{s:0320}Sold off already, then... Shall we go report to {a:0009}?{g}{x:00}
+
+@81
+{z}{s:0320}{a:0009} is waiting in town. Sad as it is,{w} we must tell her plainly...{g}{x:00}
+
+@82
+{z}{s:0320}Poor {a:0009}... She'll be so disappointed...{g}{x:00}
+
+@83
+{z}{s:0320}Nothing else for it...{g}{x:00}
+
+@84
+{z}The rest is up to her, I suppose...{g}{x:00}
+
+@85
+{z}{s:0320}...{g}{x:00}
+

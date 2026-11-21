@@ -1,0 +1,258 @@
+# ADDR<TAB>English (see tools/progstr.py); Japanese: progstr.py show 02_labels.txt
+800e560c	-
+800e568c	Items
+800e5694	Type
+800e572c	Archers
+800e5734	Cavalry
+800e573c	Pikemen
+800e5744	Inf.
+800e575c	Unknown
+800e5764	-
+800e5788	Capital
+800e5790	Death
+800e5798	To War
+800e57a0	Courage
+800e57a8	Crisis
+800e57b0	Sorrow
+800e57b8	Joy
+800e57c0	Manor
+800e57c8	Castle
+800e57cc	Church
+800e57d4	Tavern
+800e57dc	Arena
+800e57e4	Drill
+800e57ec	Guild
+800e57f4	Town
+800e57fc	Continent
+800e5804	Silence
+800e5814	Cheers
+800e581c	Spec. 9
+800e5824	Spec. 8
+800e582c	Spec. 7
+800e5834	Spec. 6
+800e583c	Spec. 5
+800e5844	Spec. 4
+800e584c	Spec. 3
+800e5854	Spec. 2
+800e585c	Spec. 1
+800e5864	Atk 6
+800e586c	Atk 5
+800e5874	Atk 4
+800e587c	Atk 3
+800e5884	Atk 2
+800e588c	Atk 1
+800e5894	Magic 9
+800e589c	Magic 8
+800e58a4	Magic 7
+800e58ac	Magic 6
+800e58b4	Magic 5
+800e58bc	Magic 4
+800e58c4	Magic 3
+800e58cc	Magic 2
+800e58d4	Magic 1
+800e58dc	Bow
+800e58e0	Scuffle
+800e58e8	Slay
+800e58f0	Slash
+800e58f8	Appear
+800e5900	Unarmed
+800e5908	Clash
+800e5910	Denied
+800e5918	Confirm
+800e5938	%2d %s
+800e5940	No.%y
+800e5954	Ranks
+800e595c	OK
+800e5964	Remove
+800e596c	Back
+800e5978	Name
+800e5984	%5d
+800e5990	Men
+800e5998	%2d
+800e59a8	Manual
+800e59b0	Auto
+800e59c8	Normal
+800e59d0	Fast
+800e59d8	Left
+800e59e0	Right
+800e59e8	No
+800e59f0	Yes
+800e59f8	No. 2
+800e5a00	No. 1
+800e5a08	No
+800e5a10	Yes
+800e5a20	My Room
+800e5a28	Battle
+800e5a30	Inn
+800e5a38	-
+800e5a44	Town
+800e5a4c	Job
+800e5a54	Side
+800e5a5c	Funds
+800e5a64	Level
+800e5a6c	Rank
+800e5a74	Battle
+800e5a7c	%7luG
+800e5a8c	Save
+800e5a94	Resume
+800e5a9c	-
+800e5aa0	-
+800e5ab4	G
+800e5ab8	men
+800e5b38	Items
+800e5b40	Type
+800e5b70	Name
+800e5b78	Men
+800e5b80	Special
+800e5b88	Class:
+800e5b90	Gear
+800e5b98	Funds
+800e5ba0	%7luG
+800e5bb8	Rank
+800e5bc0	Age
+800e5bc8	Side
+800e5bd0	Died
+800e5bd8	%3d yrs
+800e5bf0	?
+800e5bfc	%2d x
+800e5c04	Town
+800e5c0c	Culture
+800e5c14	Ca
+800e5c18	Ar
+800e5c1c	Ho
+800e5c20	In
+800e5c24	Sq
+800e5c28	Visits
+800e5c40	Year
+800e5c48	Ruler
+800e5c50	None
+800e5c60	Unequip
+800e5c6c	Select
+800e5c74	Change
+800e5c7c	Options
+800e5c84	Company
+800e5c8c	Equip
+800e5c94	Notes
+800e5c9c	Info
+800e5cd4	Items
+800e5cdc	%7luG
+800e5cf4	Funds
+800e5d04	Sell
+800e5d0c	Buy
+800e5d30	Nation
+800e5d38	Fallen
+800e5d40	Pay
+800e5d48	Diff.
+800e5d60	%5dG
+800e5d70	%7luG
+800e5d88	Donate
+800e5d90	Learn
+800e5da0	Sell
+800e5da8	Buy
+800e5db0	Magic
+800e5db8	Units
+800e5dc0	Cmdr.
+800e5dc8	Sailors
+800e5dd0	Dark
+800e5dd8	Holy
+800e5de0	Archers
+800e5de8	Cavalry
+800e5df0	Pikemen
+800e5df8	Inf.
+800e5e00	Odds
+800e5e08	Morale
+800e5e10	Counter
+800e5e18	Dodge
+800e5e20	Guard
+800e5e28	Special
+800e5e30	Focus
+800e5e38	Attack
+800e5e58	Tactics
+800e5e60	Special
+800e5e68	Liquor
+800e5e78	%5uG
+800e5e80	%7luG
+800e5e98	Items
+800e5ea0	Type
+800e5ecc	Rest
+800e5edc	Medics
+800e5ee4	Supply
+800e5eec	Envoy
+800e5ef4	Peasant
+800e5efc	Citizen
+800e5f04	Noble
+800e5f0c	Local
+800e5f14	Leader
+800e5f1c	Captain
+800e5f24	Wounded
+800e5f2c	Hurt
+800e5f34	Fine
+800e5f60	Duty:
+800e5f6c	Hideout
+800e5f74	Castle
+800e5f78	Fort
+800e5f7c	Village
+800e5f80	Bridge
+800e5f84	Tower
+800e5f88	Beach
+800e5f90	Desert
+800e5f98	Plain
+800e5fa0	Swamp
+800e5fa4	Field
+800e5fa8	Road
+800e5fac	Forest
+800e5fb0	Mount
+800e5fb4	Lake
+800e5fb8	River
+800e5fbc	Sea
+800e5fc0	Grass
+800e5fd0	%2d
+800e5fe0	/
+800e5fe4	Men
+800e5fec	Side:
+800e5ff8	men
+800e6000	%5dG
+800e6008	%2d
+800e6010	Share
+800e6028	Enemy
+800e6030	Ours
+800e6038	Options
+800e6040	Resume
+800e6048	Save
+800e6050	Map
+800e6060	Mor.
+800e60d4	Spell
+800e60dc	Type
+800e60e4	Men
+800e60ec	men
+800e616c	Spell
+800e6174	Type
+800e6180	Men
+800e6188	 
+800e6194	%s!{g}
+800e619c	%s!
+800e61a4	%s %s!{g}
+800e61b4	Rear
+800e61bc	Front
+800e61c4	Retreat
+800e61cc	Guard
+800e61d4	Advance
+800e61e8	-
+800e630c	men
+800e6330	Special
+800e6338	Focus
+800e6340	Attack
+800e6348	Counter
+800e6350	Dodge
+800e6358	Guard
+800e6360	Dual
+800e6368	Spear
+800e636c	2H Axe
+800e6374	2H Swd
+800e637c	1H Axe
+800e6384	1H Swd
+800e638c	Brawl
+800e63b8	Archers
+800e63c0	Cavalry
+800e63c8	Pikemen
+800e63d0	Inf.

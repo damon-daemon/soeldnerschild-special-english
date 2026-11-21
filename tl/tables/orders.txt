@@ -1,0 +1,7 @@
+# Ein's knightly orders (lui 0x80096a10): KEY|English, at most 10 letters (see tools/tables.py; Japanese: tables.py show orders)
+00|Spr.Thundr
+01|Dragon God
+02|Daystar
+03|Radiant
+04|South Sea
+05|Ice & Snow

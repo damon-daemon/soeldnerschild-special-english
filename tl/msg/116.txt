@@ -1,0 +1,249 @@
+@0
+{z}{s:0320}Whoa... what a huge force!{g}{x:00}
+
+@1
+{z}{s:0320}We may struggle to complete the mission on our own.{g}{x:00}
+
+@2
+{z}{s:0320}You lot! Aren't you the Tigre Mercenaries?{g}{x:00}
+
+@3
+{z}Why are you here...{g}{x:00}
+
+@4
+{z}{s:0320}What are you doing here, then? We came at the Pope's request...{g}{x:00}
+
+@5
+{z}{s:0320}Ahh...{w} I see. That old fox is weighing us against each other, isn't he?{g}{x:00}
+
+@6
+{z}{s:0320}How rude! Comparing us to people like you!{g}{x:00}
+
+@7
+{z}{s:0320}Hmph! That's my line!{g}{x:00}
+
+@8
+{z}Fight alongside you? Not a chance! I'll do things my own way!{g}{x:00}
+
+@9
+{z}{s:0320}Wait, {a:002b}! It's dangerous unless we join forces!{g}{x:00}
+
+@10
+{z}{s:0320}No way! I won't lose to you!{g}{x:00}
+
+@11
+{z}{s:0320}{a:002b}...{g}{x:00}
+
+@12
+{z}{s:0320}Listen! Whoever takes down the enemy boss first wins...{g}{x:00}
+
+@13
+{z}And the winner becomes the Pope's favourite!{g}{x:00}
+
+@14
+{z}{s:0320}Ready yourselves! Here we go!{g}{x:00}
+
+@15
+{z}{s:0320}I don't know your reasons, but don't bring your fighting onto our land!{g}{x:00}
+
+@16
+{z}{s:0320}I'll show you how fearsome Ligurian magic is.{g}{x:00}
+
+@17
+{z}{s:0320}Here I come! Taste my blade!{g}{x:00}
+
+@18
+{z}{s:0320}Hmph! We'll crush the soldiers of this feeble continent in one go!{g}{x:00}
+
+@19
+{z}Attack!{g}{x:00}
+
+@20
+{z}{s:0320}Eek! These people are strong...{g}{x:00}
+
+@21
+{z}{s:0320}We can't even beat these guys! Pathetic!{g}{x:00}
+
+@22
+{z}{s:0320}Retreating before {a:002b}... how infuriating...{g}{x:00}
+
+@23
+{z}{s:0320}I'm sorry... I'm pulling out first...{g}{x:00}
+
+@24
+{z}{s:0320}Sorry, but I'm falling back.{g}{x:00}
+
+@25
+{z}{s:0320}Foreign tribes... {w}{w}They know no fear, which makes them a troublesome enemy...{g}{x:00}
+
+@26
+{z}{s:0320}{a:002b}! Sorry, but we're withdrawing!{g}{x:00}
+
+@27
+{z}{s:0320}Got him! I made the kill!{g}{x:00}
+
+@28
+{z}{s:0320}They called him the boss, so I wondered what he'd be like...{g}{x:00}
+
+@29
+{z}Well, he was no match for me!{g}{x:00}
+
+@30
+{z}{s:0320}So we win this one...{w}{w} I can just picture {a:002b} gnashing her teeth...{g}{x:00}
+
+@31
+{z}{s:0320}Your boss is down!{g}{x:00}
+
+@32
+{z}{s:0320}They've killed the leader...{g}{x:00}
+
+@33
+{z}{s:0320}Ha ha ha... I took down the enemy boss!{g}{x:00}
+
+@34
+{z}That audience with the Pope is mine now!{g}{x:00}
+
+@35
+{z}{s:0320}{a:002b}! Rejoice! {a:002c} here has killed the boss!{g}{x:00}
+
+@36
+{z}{s:0320}Yes! {a:002d} here has cut down the boss!{g}{x:00}
+
+@37
+{z}{s:0320}I killed the enemy boss!{g}{x:00}
+
+@38
+{z}{s:0320}Damn...{w}{w} Thanks to you lot, there goes our reward again...{g}{x:00}
+
+@39
+{z}Oh well... Everyone! Fall back!{g}{x:00}
+
+@40
+{z}{s:0320}I'll be claiming the enemy boss's head! Sorry about that!{g}{x:00}
+
+@41
+{z}{s:0320}Don't charge in so recklessly! It's dangerous, {a:002b}!{g}{x:00}
+
+@42
+{z}{s:0320}So the servants of a false faith have come out to meet us...{g}{x:00}
+
+@43
+{z}Listen! Now is the time to show our strength!{g}{x:00}
+
+@44
+{z}Stake your lives for the Great King and slaughter every one of the infidels!{g}{x:00}
+
+@45
+{z}{s:0320}You dare interfere with our holy war!{g}{x:00}
+
+@46
+{z}{s:0320}This is our land. We won't let you do as you please!{g}{x:00}
+
+@47
+{z}{s:0320}Dressed so indecently! Are the nations of Liguria rotten to the core?{g}{x:00}
+
+@48
+{z}{s:0320}My beauty is far too good for the likes of you!{g}{x:00}
+
+@49
+{z}{s:0320}These people... are strong!{g}{x:00}
+
+@50
+{z}Fall back! Fall back and report the result of this battle to the Great King!{g}{x:00}
+
+@51
+{z}{s:0320}Phew... the foreign tribes have withdrawn...{g}{x:00}
+
+@52
+{z}{s:0320}{a:002b}! We've killed the enemy leader!{g}{x:00}
+
+@53
+{z}{s:0320}Hmph! It's not over yet...{g}{x:00}
+
+@54
+{z}{a:0000}! If that's how it is, I'll beat you and steal the credit! Fight me!{g}{x:00}
+
+@55
+{z}{s:0320}I refuse!{g}{x:00}
+
+@56
+{z}{s:0320}You refuse a challenge? Are you even a man?{g}{x:00}
+
+@57
+{z}{s:0320}Say what you like...{w}{w} I have no reason to fight you here!{g}{x:00}
+
+@58
+{z}{s:0320}What a shame...{w}{w} I never thought you were such a coward...{g}{x:00}
+
+@59
+{z}Everyone! We're pulling out! There's no glory in beating the likes of these!{g}{x:00}
+
+@60
+{z}{s:0320}So the Pope will recognise our efforts now.{g}{x:00}
+
+@61
+{z}{s:0320}Still, that {a:002b} keeps picking on us.{g}{x:00}
+
+@62
+{z}Captain...{w}{w} this is only my hunch, mind...{g}{x:00}
+
+@63
+{z}Don't you think...{w}{w} she's sweet on you, Captain?{g}{x:00}
+
+@64
+{z}{s:0320}What? Surely not... that can't be...{g}{x:00}
+
+@65
+{z}{s:0320}No...{w} the way she looks at you, Captain...{w}{w} she means it.{g}{x:00}
+
+@66
+{z}{s:0320}Anyway, I'm glad we didn't lose to that woman...{g}{x:00}
+
+@67
+{z}{s:0320}I wondered what the foreign tribes would be like, but they're just like us...{g}{x:00}
+
+@68
+{z}Why can't we all get along...?{g}{x:00}
+
+@69
+{z}{s:0320}Damn... {a:002b} beat us to it!{g}{x:00}
+
+@70
+{z}{s:0320}Bad luck. This contest goes to us.{g}{x:00}
+
+@71
+{z}I'll tell the Pope about your efforts too... Ha ha ha ha ha...{g}{x:00}
+
+@72
+{z}{s:0320}Liar! She won't say a word about us!{g}{x:00}
+
+@73
+{z}{s:0320}That {a:002b} keeps picking on us.{g}{x:00}
+
+@74
+{z}Captain...{w}{w} this is only my hunch, mind...{g}{x:00}
+
+@75
+{z}Don't you think...{w}{w} she's sweet on you, Captain?{g}{x:00}
+
+@76
+{z}{s:0320}What? Surely not... that can't be...{g}{x:00}
+
+@77
+{z}{s:0320}No...{w} the way she looks at you, Captain...{w}{w} she means it.{g}{x:00}
+
+@78
+{z}{s:0320}How infuriating...{w}{w} to be beaten by that woman...{g}{x:00}
+
+@79
+{z}{s:0320}Foreign tribes or not, they were no different from us...{g}{x:00}
+
+@80
+{z}Why can't we all get along...?{g}{x:00}
+
+@81
+{z}{s:0320}We've been beaten...{g}{x:00}
+
+@82
+{z}{s:0320}A force that big wiped out...{w} These people...{w} are strong!{g}{x:00}
+

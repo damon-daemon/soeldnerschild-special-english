@@ -1,0 +1,393 @@
+@0
+{z}{s:0320}Something is wrong at the castle. Has something happened...?{g}{x:00}
+
+@1
+{z}Surely not... That {a:0091}...{g}{x:00}
+
+@2
+{z}{s:0320}Is that...{w}{w} {a:0091} leading knights...{g}{x:00}
+
+@3
+{z}{s:0320}Has he seized the castle?{g}{x:00}
+
+@4
+{z}{s:0320}Ha ha ha ha...{w}{w} The knights have finally arrived...{g}{x:00}
+
+@5
+{z}{s:0320}Former Chancellor...{w}{w} What is the meaning of this?{g}{x:00}
+
+@6
+{z}{s:0320}Damn...{w} The man who snatched the chancellorship from me...{g}{x:00}
+
+@7
+{z}But that ends today...{g}{x:00}
+
+@8
+{z}Since the Emperor would not give up his quarrel with the Pope...{g}{x:00}
+
+@9
+{z}I have had the Emperor put to death.{g}{x:00}
+
+@10
+{z}{s:0320}!!{w}{w} What...{g}{x:00}
+
+@11
+{z}{s:0320}Is it true?!{g}{x:00}
+
+@12
+{z}{s:0320}...{g}{x:00}
+
+@13
+{z}{s:0320}Surrender quietly, all of you!{g}{x:00}
+
+@14
+{z}Otherwise... Princess {a:0092} will not live!{g}{x:00}
+
+@15
+{z}{s:0320}Damn...{w}{w} {a:0091}... taking Lady {a:0092} hostage...{g}{x:00}
+
+@16
+{z}{s:0320}How cowardly! I won't forgive this!{g}{x:00}
+
+@17
+{z}{s:0320}Heh... Say what you like...{g}{x:00}
+
+@18
+{z}{a:0000}... I thought you of all people would understand what happens if Rana overthrows the Pope.{g}{x:00}
+
+@19
+{z}{s:0320}...{g}{x:00}
+
+@20
+{z}{s:0320}But the Emperor who plotted it is no longer of this world...{g}{x:00}
+
+@21
+{z}Come now! Join forces with me, all of you, and let us build a new Rana!{g}{x:00}
+
+@22
+{z}{s:0320}...{w}{w} How dare an Emperor-slayer say such things...{g}{x:00}
+
+@23
+{z}All forces, hear me! Make that man pay in blood{w} and lay His Majesty's soul to rest!{g}{x:00}
+
+@24
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@25
+{z}{s:0320}...{w}{w} Let's go, {a:005f}.{g}{x:00}
+
+@26
+{z}{s:0320}Yes, sir!{g}{x:00}
+
+@27
+{z}{s:0320}But even if we defeat {a:0091}, can we rescue Lady {a:0092}...?{g}{x:00}
+
+@28
+{z}{s:0320}It's no use saying that now! First we have to beat that man!{g}{x:00}
+
+@29
+{z}{s:0320}That's right!{g}{x:00}
+
+@30
+{z}Is everything we've done so far to be wrecked by that one man? I won't have it!{g}{x:00}
+
+@31
+{z}{s:0320}...{g}{x:00}
+
+@32
+{z}Understood...{w} We will join the attack too!{g}{x:00}
+
+@33
+{z}We will rescue Lady {a:0092} without fail!{g}{x:00}
+
+@34
+{z}{s:0320}Foolish knights... Why will you not think of the realm's future?{g}{x:00}
+
+@35
+{z}Or do you claim my thinking is mistaken?!{g}{x:00}
+
+@36
+{z}But I can show no mercy to those who defy me!{g}{x:00}
+
+@37
+{z}{s:0320}The world is so close to peace again...{g}{x:00}
+
+@38
+{z}I have to fight just a little longer!{g}{x:00}
+
+@39
+{z}{s:0320}Bring it on!{g}{x:00}
+
+@40
+{z}{s:0320}The outcome of this battle will decide the future of Rana,{w}{w} and of the whole continent.{g}{x:00}
+
+@41
+{z}I can't lose!{g}{x:00}
+
+@42
+{z}{s:0320}I thought the fighting was over and things would get easier...{g}{x:00}
+
+@43
+{z}Well, one more push, then.{g}{x:00}
+
+@44
+{z}{s:0320}So {a:0090} has been killed... But I won't let the world fall into chaos again!{g}{x:00}
+
+@45
+{z}{s:0320}...{w}{w} Curse you, {a:0091}...{g}{x:00}
+
+@46
+{z}{s:0320}The Emperor, who made me what I am...{g}{x:00}
+
+@47
+{z}I won't forgive this! You scum!{g}{x:00}
+
+@48
+{z}{s:0320}Following an Emperor-slayer... Do you call yourselves Rana knights?!{g}{x:00}
+
+@49
+{z}{s:0320}We must rescue Lady {a:0092} at all costs!{g}{x:00}
+
+@50
+{z}{s:0320}I can't go on...{w}{w} I'm retreating. Do your best...{w}{w} {a:0000}!{g}{x:00}
+
+@51
+{z}{s:0320}Damn, look at the state of us... Am I not strong enough?!{g}{x:00}
+
+@52
+{z}{s:0320}To have to withdraw in a battle this important...{g}{x:00}
+
+@53
+{z}{s:0320}{a:0000}, be sure to save Lady {a:0092}...{g}{x:00}
+
+@54
+{z}{s:0320}Forgive me, {a:0000}... This is as far as I go.{g}{x:00}
+
+@55
+{z}{s:0320}{a:0091}...{g}{x:00}
+
+@56
+{z}Whoever kills his lord will surely be brought down by someone else!{g}{x:00}
+
+@57
+{z}{s:0320}Damn...{w}{w} How galling... I wasn't strong enough...{g}{x:00}
+
+@58
+{z}{s:0320}Me, lose to a man like that?!{g}{x:00}
+
+@59
+{z}{s:0320}I-I can't hold out! Permit me to withdraw...{g}{x:00}
+
+@60
+{z}{s:0320}Lord {a:0091}...{g}{x:00}
+
+@61
+{z}Even if we avoided fighting the Pope, did it not occur to you that fighting here comes to the same thing?{g}{x:00}
+
+@62
+{z}{s:0320}...So even you could not understand my thinking...{g}{x:00}
+
+@63
+{z}The continent can be held together without the Emperor, but if harm comes to the Pope, the continent will be led into endless war...{g}{x:00}
+
+@64
+{z}{s:0320}His Majesty never intended to kill the Pope...{g}{x:00}
+
+@65
+{z}He only meant to stop the Church's power from ruling the realm!{g}{x:00}
+
+@66
+{z}{s:0320}Heh...{w}{w} What a pity...{g}{x:00}
+
+@67
+{z}I thought you, at least, would understand!{g}{x:00}
+
+@68
+{z}{s:0320}Why did you assassinate the Emperor?!{g}{x:00}
+
+@69
+{z}No one on the continent will accept assassination!{g}{x:00}
+
+@70
+{z}{s:0320}I don't care...{g}{x:00}
+
+@71
+{z}I did not act to win anyone's approval...{g}{x:00}
+
+@72
+{z}{s:0320}So selfish... Rule like that will never last!{g}{x:00}
+
+@73
+{z}{s:0320}I don't care what you're thinking!{g}{x:00}
+
+@74
+{z}Now that we are on opposite sides, I'll bring you down with everything I have!{g}{x:00}
+
+@75
+{z}{s:0320}You cannot see the larger picture, can you? A former mercenary, after all!{g}{x:00}
+
+@76
+{z}{s:0320}Even the Emperor meant to challenge the Pope according to the rules...{g}{x:00}
+
+@77
+{z}You broke the rules... People will not follow that!{g}{x:00}
+
+@78
+{z}{s:0320}You lecture me, a lover of intrigue, on the rules of the world? Laughable!{g}{x:00}
+
+@79
+{z}Were you not once mercenaries, creatures that flout the rules yourselves?!{g}{x:00}
+
+@80
+{z}{s:0320}Assassinate an Emperor and of course more rebellion follows.{g}{x:00}
+
+@81
+{z}If you don't win this battle, you have no future...{g}{x:00}
+
+@82
+{z}But making an enemy of us was your bad luck...{g}{x:00}
+
+@83
+{z}{s:0320}Damn...{w}{w} Hold your tongue!{g}{x:00}
+
+@84
+{z}{s:0320}Lord {a:0091}... Can you not see it yourself?{g}{x:00}
+
+@85
+{z}{s:0320}What do you mean?{g}{x:00}
+
+@86
+{z}{s:0320}That you too are merely a puppet dancing to the Pope's tune...{g}{x:00}
+
+@87
+{z}You may indeed have caused this incident meaning to help them.{g}{x:00}
+
+@88
+{z}But to them you are nothing but a disposable pawn...{g}{x:00}
+
+@89
+{z}Whichever side wins this battle, it will not hurt them in the least...{g}{x:00}
+
+@90
+{z}{s:0320}All the more reason I must win!{g}{x:00}
+
+@91
+{z}Here I come, old man!{g}{x:00}
+
+@92
+{z}{s:0320}Former Chancellor...{g}{x:00}
+
+@93
+{z}To cause so great a stir, you must have been fully resolved... I will not blame you for it.{g}{x:00}
+
+@94
+{z}{s:0320}Oh?{g}{x:00}
+
+@95
+{z}{s:0320}But my blood will not rest until I have struck you down myself!{g}{x:00}
+
+@96
+{z}{s:0320}All that I am today I owe to His Majesty's favour...{g}{x:00}
+
+@97
+{z}You, above all... You, above all, I will never forgive!{g}{x:00}
+
+@98
+{z}{s:0320}Oh?{w}{w} I'm surprised you had such a passionate side...{g}{x:00}
+
+@99
+{z}But if you get this hot, your much-praised wits may falter... Are you all right?{g}{x:00}
+
+@100
+{z}{s:0320}Your sharp tongue ends here! Prepare yourself, {a:0091}!{g}{x:00}
+
+@101
+{z}{s:0320}{a:0091}! Atone for your sin with your own blood!{g}{x:00}
+
+@102
+{z}{s:0320}Did you think the likes of you could beat me? I'll send you to the next world with the Emperor!{g}{x:00}
+
+@103
+{z}{s:0320}Oh?{w}{w} Even a second-rate knight like you means to defy me...{g}{x:00}
+
+@104
+{z}{s:0320}As a knight I may well still be green...{g}{x:00}
+
+@105
+{z}But my wish to strike you down is second to no one's!{g}{x:00}
+
+@106
+{z}{s:0320}Heh... Knights who understand nothing of politics...{g}{x:00}
+
+@107
+{z}I shall watch from Heaven what sort of government you make...{g}{x:00}
+
+@108
+{z}{s:0320}Lord {a:0091} has fallen! Fall back... fall back!{g}{x:00}
+
+@109
+{z}{s:0320}Ugh... I'm being pushed back... At this rate...{g}{x:00}
+
+@110
+{z}{s:0320}Damn... Our front line is crumbling...{g}{x:00}
+
+@111
+{z}Right... Send out the fresh troops from the castle!{g}{x:00}
+
+@112
+{z}{s:0320}Tch! Reinforcements?!{g}{x:00}
+
+@113
+{z}{s:0320}Damn... Reinforcements...{g}{x:00}
+
+@114
+{z}Just how many knights have sided with that {a:0091}?{g}{x:00}
+
+@115
+{z}{s:0320}Reinforcements, eh... He thought of everything.{g}{x:00}
+
+@116
+{z}{s:0320}Reinforcements...{g}{x:00}
+
+@117
+{z}Are there still more fresh troops waiting?{g}{x:00}
+
+@118
+{z}{s:0320}Enemy reinforcements? Why would they side with a man like that?!{g}{x:00}
+
+@119
+{z}{s:0320}Damn...{w}{w} Fresh troops!{g}{x:00}
+
+@120
+{z}Curse it... {a:0091}...{g}{x:00}
+
+@121
+{z}{s:0320}...{g}{x:00}
+
+@122
+{z}Lord {a:0091}... You too must have been desperately thinking of Rana's future...{g}{x:00}
+
+@123
+{z}What?!{w}{w} Is Lady {a:0092} safe?!{g}{x:00}
+
+@124
+{z}{s:0320}Lady {a:0092}...{g}{x:00}
+
+@125
+{z}{s:0320}Thank goodness... She's safe.{g}{x:00}
+
+@126
+{z}{s:0320}Lady {a:0092}!{g}{x:00}
+
+@127
+{z}{s:0320}{a:0000}... I have been watching your efforts all along...{g}{x:00}
+
+@128
+{z}Now, come into the castle...{g}{x:00}
+
+@129
+{z}And let us all talk together so that such a sad battle is never fought again...{g}{x:00}
+
+@130
+{z}{s:0320}!{w}{g}{x:00}
+

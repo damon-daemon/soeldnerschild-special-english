@@ -1,0 +1,306 @@
+@0
+{z}{s:0320}Just a little further... Just a little further and we're home...{g}{x:00}
+
+@1
+{z}{s:0320}Hey, let's hurry on. No telling what might happen.{g}{x:00}
+
+@2
+{z}{s:0320}Agreed.{g}{x:00}
+
+@3
+{z}{s:0320}Hm? {w}{w}What's that over there?{g}{x:00}
+
+@4
+{z}{s:0320}Looks like we've caught up.{g}{x:00}
+
+@5
+{z}{s:0320}Mercenaries...{g}{x:00}
+
+@6
+{z}{s:0320}They came from the south, so {p:01} must have hired them.{g}{x:00}
+
+@7
+{z}{s:0320}Which means... enemies.{g}{x:00}
+
+@8
+{z}{s:0320}So it seems.{g}{x:00}
+
+@9
+{z}{s:0320}If we head straight west, we'll run right into them.{g}{x:00}
+
+@10
+{z}What do we do?{g}{x:00}
+
+@11
+{z}{s:0320}Home is the only place we can go... We have no choice but to go west.{g}{x:00}
+
+@12
+{z}{s:0320}Are you sure we can get away?{g}{x:00}
+
+@13
+{z}{s:0320}That... {w}{w}I can't say.{g}{x:00}
+
+@14
+{z}{s:0320}Won't a unit be sent to escort those men?{g}{x:00}
+
+@15
+{z}{s:0320}It's not impossible.{g}{x:00}
+
+@16
+{z}{s:0320}Then let's finish this quickly, before any reinforcements arrive.{g}{x:00}
+
+@17
+{z}{s:0320}Right. We'd best hurry.{g}{x:00}
+
+@18
+{z}{s:0320}The enemy is coming!{g}{x:00}
+
+@19
+{z}{s:0320}Just run... That's all there is to it.{g}{x:00}
+
+@20
+{z}{s:0320}It's a bit of a detour, but let's follow this road.{g}{x:00}
+
+@21
+{z}{s:0320}Cutting across that islet to save distance is certainly risky.{g}{x:00}
+
+@22
+{z}{s:0320}Then let's go.{g}{x:00}
+
+@23
+{z}{s:0320}Right.{g}{x:00}
+
+@24
+{z}{s:0320}Oh? More mercenaries?{g}{x:00}
+
+@25
+{z}{s:0320}We'll get you back to {p:01}. You're safe now.{g}{x:00}
+
+@26
+{z}{s:0320}Who are you?{g}{x:00}
+
+@27
+{z}{s:0320}Mercenaries hired by {p:01}.{g}{x:00}
+
+@28
+{z}{s:0320}Home...{g}{x:00}
+
+@29
+{z}{s:0320}We may be saved after all.{g}{x:00}
+
+@30
+{z}{s:0320}Yes.{g}{x:00}
+
+@31
+{z}{s:0320}Just run, all of you. We'll hold the enemy off.{g}{x:00}
+
+@32
+{z}{s:0320}If you don't make it safely back to {p:01}...{g}{x:00}
+
+@33
+{z}We won't get paid. So get away, whatever it takes!{g}{x:00}
+
+@34
+{z}{s:0320}Understood.{g}{x:00}
+
+@35
+{z}{s:0320}They came after all...{g}{x:00}
+
+@36
+{z}{s:0320}Sooner than I expected.{g}{x:00}
+
+@37
+{z}{s:0320}We don't have to wipe out the mercenaries, right?{g}{x:00}
+
+@38
+{z}{s:0320}Right. The goal is to destroy the regular army.{g}{x:00}
+
+@39
+{z}{s:0320}And we can't let even one company escape?{g}{x:00}
+
+@40
+{z}{s:0320}That's right.{g}{x:00}
+
+@41
+{z}{s:0320}They have a lot of escorts, though. Will we be all right...?{g}{x:00}
+
+@42
+{z}{s:0320}Yes! We shook off the pursuit! We can go home!{g}{x:00}
+
+@43
+{z}I'll go on ahead, then. You lot get away too! Make sure you do!{g}{x:00}
+
+@44
+{z}{s:0320}We've finally made it this far... Phew... looks like we escaped.{g}{x:00}
+
+@45
+{z}{s:0320}They got away... Mission failed.{g}{x:00}
+
+@46
+{z}It's pointless to fight on. Everyone, let's go home.{g}{x:00}
+
+@47
+{z}{s:0320}We let them escape... It's galling, but... mission failed.{g}{x:00}
+
+@48
+{z}Let's pull out. There's no point fighting any more.{g}{x:00}
+
+@49
+{z}{s:0320}We failed the mission... How shameful.{g}{x:00}
+
+@50
+{z}Let's go home. There's no point fighting any more.{g}{x:00}
+
+@51
+{z}{s:0320}Damn, they got away... Mission failed, then...{g}{x:00}
+
+@52
+{z}Let's get out of here. It's no use fighting the rest.{g}{x:00}
+
+@53
+{z}{s:0320}Oh no... they got away... ...Mission failed.{g}{x:00}
+
+@54
+{z}Let's go home... There's no point fighting any more.{g}{x:00}
+
+@55
+{z}{s:0320}They escaped... Damn...{g}{x:00}
+
+@56
+{z}No help for it... Let's pull out.{g}{x:00}
+
+@57
+{z}{s:0320}Good for you. Looks like the enemy has given up.{g}{x:00}
+
+@58
+{z}{s:0320}We're going home... {w}{w}Yes! We're going home!{g}{x:00}
+
+@59
+{z}{s:0320}They made it... Phew... that was close.{g}{x:00}
+
+@60
+{z}That's our job done. Time to head home.{g}{x:00}
+
+@61
+{z}{s:0320}We nearly wiped them out...{g}{x:00}
+
+@62
+{z}{s:0320}Only one company left... Mission failed... how bitter.{g}{x:00}
+
+@63
+{z}{s:0320}Only that lot was left... Damn it...{g}{x:00}
+
+@64
+{z}{s:0320}Just one more company to beat... But a failure is a failure.{g}{x:00}
+
+@65
+{z}{s:0320}Only one company left... Mission failed... how shameful.{g}{x:00}
+
+@66
+{z}{s:0320}We ran all this way... And we were so close...{g}{x:00}
+
+@67
+{z}{s:0320}They were wiped out... We couldn't protect them...{g}{x:00}
+
+@68
+{z}Nothing for it... Let's pull out. Ah... losing the pay hurts.{g}{x:00}
+
+@69
+{z}{s:0320}Yes! Mission accomplished!{g}{x:00}
+
+@70
+{z}{s:0320}Thank goodness... we completed the mission.{g}{x:00}
+
+@71
+{z}{s:0320}That's our part done. Glad it ended safely.{g}{x:00}
+
+@72
+{z}{s:0320}Phew... the mission is done, at least.{g}{x:00}
+
+@73
+{z}{s:0320}That's our part done.{g}{x:00}
+
+@74
+{z}{s:0320}I was no use to anyone... Pathetic of me...{g}{x:00}
+
+@75
+{z}{s:0320}Losing to the likes of them... And me, of all people...{g}{x:00}
+
+@76
+{z}{s:0320}My company, wiped out... No...{g}{x:00}
+
+@77
+{z}{s:0320}I can't go on... Sorry...{g}{x:00}
+
+@78
+{z}{s:0320}I'll withdraw ahead of you...{g}{x:00}
+
+@79
+{z}{s:0320}Run on without us... We're finished... sorry...{g}{x:00}
+
+@80
+{z}{s:0320}Our escort is gone... What are we to do...{g}{x:00}
+
+@81
+{z}{s:0320}Damn... damn it... Why... to the likes of them...{g}{x:00}
+
+@82
+{z}{s:0320}Someone wiped out my company... I can't believe it...{g}{x:00}
+
+@83
+{z}{s:0320}Were they always this strong...? Strange...{g}{x:00}
+
+@84
+{z}{s:0320}So we couldn't... {w}{w}get away...{g}{x:00}
+
+@85
+{z}{s:0320}To fall in a place like this...{g}{x:00}
+
+@86
+{z}{s:0320}We were so close to home...{g}{x:00}
+
+@87
+{z}{s:0320}I have only one platoon... I must avoid annihilation...{g}{x:00}
+
+@88
+{z}{s:0320}They've caught up already...{g}{x:00}
+
+@89
+{z}{s:0320}Destroying a company... is unforgivable.{g}{x:00}
+
+@90
+{z}{s:0320}I'm {p:01}'s mercenary captain! I'll crush your company!{g}{x:00}
+
+@91
+{z}{s:0320}Bad luck for you, going up against us, {p:01}...{g}{x:00}
+
+@92
+{z}{s:0320}Here I come! Prepare yourself!{g}{x:00}
+
+@93
+{z}{s:0320}You can't beat me. We're not in the same league... not even close.{g}{x:00}
+
+@94
+{z}{s:0320}I won't lose to the likes of you!{g}{x:00}
+
+@95
+{z}{s:0320}Well, time to get to work.{g}{x:00}
+
+@96
+{z}{s:0320}Come on then! I'm ready any time!{g}{x:00}
+
+@97
+{z}{s:0320}Underestimate me, and you'll regret it.{g}{x:00}
+
+@98
+{z}{s:0320}Almost there... Almost home...{g}{x:00}
+
+@99
+{z}{s:0320}So only this company is left... Sigh... maybe it's hopeless.{g}{x:00}
+
+@100
+{z}{s:0320}Attacking people who are only running... I don't like it much.{g}{x:00}
+
+@101
+{z}But if that's the mission, I have to do it...{g}{x:00}
+

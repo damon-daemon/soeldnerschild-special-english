@@ -1,0 +1,264 @@
+@0
+{z}{s:0320}So that's the enemy's defence line...{g}{x:00}
+
+@1
+{z}{s:0320}I hear an allied mercenary company is here. Has it not arrived yet?{g}{x:00}
+
+@2
+{z}{s:0320}The Tigre Mercenaries, if I remember right...{g}{x:00}
+
+@3
+{z}{s:0320}Yes...{w} They say they've been rising fast of late...{g}{x:00}
+
+@4
+{z}{s:0320}I have served Rana for years. I'll not be bested by upstart mercenaries...{g}{x:00}
+
+@5
+{z}Today's battle... We must never fall behind them! Understood?{g}{x:00}
+
+@6
+{z}{s:0320}Sir!{g}{x:00}
+
+@7
+{z}{s:0320}We've finally reached the battlefield.{g}{x:00}
+
+@8
+{z}{s:0320}Look! Our allied knights, way out there!{g}{x:00}
+
+@9
+{z}{s:0320}Pushing out so far. What are they thinking?{g}{x:00}
+
+@10
+{z}{s:0320}They've no intention of cooperating with us, it seems.{g}{x:00}
+
+@11
+{z}They must fear we'd steal the glory.{g}{x:00}
+
+@12
+{z}Or do they just dislike us? What do you say, {a:0000}?{g}{x:00}
+
+@13
+{z}{s:0320}Either way, we're the supporting cast.{g}{x:00}
+
+@14
+{z}If the knights win, fine. If they falter, we lend a hand.{g}{x:00}
+
+@15
+{z}{s:0320}Either way, we're the supporting cast.{g}{x:00}
+
+@16
+{z}We'll back the knights up and aim to break the defence line.{g}{x:00}
+
+@17
+{z}{s:0320}{a:0000}... I'm sorry...{g}{x:00}
+
+@18
+{z}{s:0320}Argh! They're tough...{g}{x:00}
+
+@19
+{z}{s:0320}I can't fight any more... The rest is up to you!{g}{x:00}
+
+@20
+{z}{s:0320}Damn... This is as far as I go...{g}{x:00}
+
+@21
+{z}{s:0320}We have no choice but to retreat.{g}{x:00}
+
+@22
+{z}{s:0320}Curse the Tigre Mercenaries! You gave us no proper support...{g}{x:00}
+
+@23
+{z}No choice, then. All forces, withdraw!{g}{x:00}
+
+@24
+{z}{s:0320}Sir {a:0060}, I'm sorry...{g}{x:00}
+
+@25
+{z}{s:0320}I may not look it, but I'm a company captain of the Tigre Mercenaries!{g}{x:00}
+
+@26
+{z}{s:0320}We can't fight shamefully before the knights!{g}{x:00}
+
+@27
+{z}{s:0320}They charged in on their own. If they fall, it's their own doing.{g}{x:00}
+
+@28
+{z}{s:0320}On the pride of the Thunder Knights, we'll not lose to mercenaries!{g}{x:00}
+
+@29
+{z}{s:0320}For Sir {a:0060}'s sake, we must break this enemy line...{g}{x:00}
+
+@30
+{z}{s:0320}Come! They are a rabble without discipline! Scatter them at a stroke!{g}{x:00}
+
+@31
+{z}{s:0320}Look! Their command is in disarray. Let us show them our discipline.{g}{x:00}
+
+@32
+{z}All forces, fall back for now!{g}{x:00}
+
+@33
+{z}{s:0320}Strange... the way the enemy is moving.{g}{x:00}
+
+@34
+{z}{s:0320}You think so too, miss? That looks like...{w}{w} a trap.{g}{x:00}
+
+@35
+{z}{s:0320}Sir {a:0060}! Something is wrong with the enemy!{g}{x:00}
+
+@36
+{z}It must be a trap. Let us halt the advance for now.{g}{x:00}
+
+@37
+{z}{s:0320}Stopping for fear of that changes nothing.{g}{x:00}
+
+@38
+{z}Keep advancing!{g}{x:00}
+
+@39
+{z}{s:0320}Are they serious? They're charging in!{g}{x:00}
+
+@40
+{z}{s:0320}At this rate they'll be wiped out.{g}{x:00}
+
+@41
+{z}{s:0320}Good... Here, the enemy can't use the river to defend.{g}{x:00}
+
+@42
+{z}We need no help from mercenaries! With the strength of our knights, Rana can rule the continent!{g}{x:00}
+
+@43
+{z}{s:0320}Will it be that easy?{g}{x:00}
+
+@44
+{z}{s:0320}What?{g}{x:00}
+
+@45
+{z}{s:0320}They fell for the trap! Signal the mercenaries!{g}{x:00}
+
+@46
+{z}{s:0320}Finally called, are we? I was tired of waiting...{g}{x:00}
+
+@47
+{z}{s:0320}All forces, wheel about! Surround and annihilate the enemy!{g}{x:00}
+
+@48
+{z}{s:0320}Ah! Look there! Aren't those enemy reinforcements?{g}{x:00}
+
+@49
+{z}{s:0320}Reinforcements! Damn!{g}{x:00}
+
+@50
+{z}{s:0320}Oh dear... Just as I said...{g}{x:00}
+
+@51
+{z}{s:0320}Well, well. The enemy is no fool.{g}{x:00}
+
+@52
+{z}{s:0320}A trap after all!{g}{x:00}
+
+@53
+{z}Sir {a:0060}! What shall we do?{g}{x:00}
+
+@54
+{z}{s:0320}Hmph...{w}{w} Such a paltry force... My unit alone will scatter them!{g}{x:00}
+
+@55
+{z}Let's go!{g}{x:00}
+
+@56
+{z}{s:0320}You are the Tigre captain? You have a bold look about you.{g}{x:00}
+
+@57
+{z}{s:0320}Sir {a:0060}... Why push yourself so recklessly?{g}{x:00}
+
+@58
+{z}{s:0320}Recklessly...{w}{w} True enough. But I cannot lose to you.{g}{x:00}
+
+@59
+{z}All my life I have fought only for the Rana Empire.{g}{x:00}
+
+@60
+{z}I'll not hand the glory to money-grubbing mercenaries like you!{g}{x:00}
+
+@61
+{z}{s:0320}Out of my way! I, {a:0060}, will cut down whoever hinders me!{g}{x:00}
+
+@62
+{z}{s:0320}Hmph! Knight against knight! What is there to fear?{g}{x:00}
+
+@63
+{z}All units, charge!{g}{x:00}
+
+@64
+{z}{s:0320}We're finished. We're pulling out!{g}{x:00}
+
+@65
+{z}{s:0320}Hmph...{w}{w} The mercenaries are beaten? Useless lot...{g}{x:00}
+
+@66
+{z}But we have not given up yet!{g}{x:00}
+
+@67
+{z}{s:0320}To think this defence line was broken... Retreat!{g}{x:00}
+
+@68
+{z}{s:0320}To think this defence line was broken... Retreat! All units, follow me!{g}{x:00}
+
+@69
+{z}{s:0320}Good. The enemy's defence line is broken...{g}{x:00}
+
+@70
+{z}{s:0320}Sir {a:0060}, are you unharmed?{g}{x:00}
+
+@71
+{z}{s:0320}Ah...{w}{w} yes. You saved me from a tight spot.{g}{x:00}
+
+@72
+{z}For now, you have my thanks.{g}{x:00}
+
+@73
+{z}But I have not accepted you. And the glory today is ours alone. Make no mistake about that.{g}{x:00}
+
+@74
+{z}{s:0320}...{g}{x:00}
+
+@75
+{z}{s:0320}We will go and report this victory. I suppose you'll get your pay too.{g}{x:00}
+
+@76
+{z}{s:0320}The Thunder Knights have withdrawn, but the enemy's line is broken...{g}{x:00}
+
+@77
+{z}So the mission is done...{g}{x:00}
+
+@78
+{z}{s:0320}We save his neck and he acts like that. Infuriating...{g}{x:00}
+
+@79
+{z}{s:0320}What an attitude! He's looking down on us!{g}{x:00}
+
+@80
+{z}{s:0320}He is selfish, true, but knights have their own reasons...{g}{x:00}
+
+@81
+{z}To Rana, he's surely a valued and loyal servant.{g}{x:00}
+
+@82
+{z}{s:0320}Remember what {a:0060} said when he retreated?{g}{x:00}
+
+@83
+{z}It was his fault for pushing too far, yet he blamed us...{g}{x:00}
+
+@84
+{z}{s:0320}That {a:0060} fellow! I won't forgive him!{g}{x:00}
+
+@85
+{z}Getting beaten, and then blaming us for it...{g}{x:00}
+
+@86
+{z}{s:0320}Knights come in all sorts...{g}{x:00}
+
+@87
+{z}Who should I model myself on, if I want to become a knight?{g}{x:00}
+
