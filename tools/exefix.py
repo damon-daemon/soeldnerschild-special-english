@@ -67,6 +67,12 @@ make a column and the labels follow. progstr keeps 0x800e5764 "？" Japanese ("-
 used only there). Each padding space clears 8 px (vwf CLRSP), too little after a wider title ("Brigand
 Hunt" -> "Pirate Hunt" left a column of the "t"). "%-15s": 3 more spaces clear 24 px more (all 129
 titles over the widest, 71 px; the clear ends by x 268, inside the box).
+
+11. Melee order label box (0x80067944, issue #1): after choosing Charge / Back, a small box (window 9,
+opened 0x8002c224 at 0x80067990, closed 0x8002c270 at 0x80067ad8; x 9 y 8 w 5 h 4 cells of 8 px) shows
+the order (前進 / 防御 / 後退, table 0x800c3804) at pen x 0x50. 40 px was too narrow for "Advance" /
+"Retreat" (44 px), and the overflow stayed on screen after the close. Now x 8, w 8 (64-128 px; the
+rank menu starts at ~134), pen x 0x48.
 """
 import asm, vwf
 
@@ -204,6 +210,17 @@ TOWNBOX = (  # fix 9 (FACIL address filled in by patch)
 )
 
 
+ORDERBOX = (  # fix 11
+    (0x80067978, [('addiu', 's4', 'zero', 1), ('addiu', 'a0', 'zero', 9), ('addiu', 'a1', 'zero', 8),
+                  ('addiu', 'a2', 'zero', 5)],
+                 [('addiu', 's4', 'zero', 1), ('addiu', 'a0', 'zero', 8), ('addiu', 'a1', 'zero', 8),
+                  ('addiu', 'a2', 'zero', 8)]),
+    (0x800679a0, [('addiu', 'a0', 'zero', 0x50)], [('addiu', 'a0', 'zero', 0x48)]),
+    (0x80067acc, [('addiu', 'a0', 'zero', 9), ('addiu', 'a1', 'zero', 8), ('addiu', 'a2', 'zero', 5)],
+                 [('addiu', 'a0', 'zero', 8), ('addiu', 'a1', 'zero', 8), ('addiu', 'a2', 'zero', 8)]),
+)
+
+
 def patch(exe):
     exe = bytearray(exe)
 
@@ -242,7 +259,7 @@ def patch(exe):
     for va in BONUS_CALLS:
         assert exe[va - vwf.EXE_BASE + vwf.EXE_OFF:][:4] == asm.assemble(va, [('jal', PRINTF)]), hex(va)
         put(va, asm.assemble(va, [('jal', show + SHOWW_AT)]))
-    for va, old, new in SHOUT + MENU_X:
+    for va, old, new in SHOUT + MENU_X + ORDERBOX:
         o = va - vwf.EXE_BASE + vwf.EXE_OFF
         a = asm.assemble(va, old)
         assert exe[o:o + len(a)] == a, hex(va)

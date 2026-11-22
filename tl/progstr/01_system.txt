@@ -302,6 +302,7 @@
 8001203c	Commander
 80012048	Mercenary
 80012054	{C3}VS{C7}
+8001216c	This order needs{n}%d command points.{g}
 800121a4	{C6}Cmdr.
 800121b0	No usable spells.{g}
 800121c8	Commander

@@ -43,7 +43,7 @@ FILES = [('01_system', 0x80010000, 0x80012720), ('02_labels', 0x800e5600, 0x800e
 EXCLUDE_TABLES = [(0x800c040c, 0x800c040c + 4 * 0x17)]     # roles (names.py)
 EXCLUDE = {0x8001045c, 0x80010470, 0x80010488, 0x800104ac, 0x800e5700, 0x800e5708, 0x800e5710,
            0x800e5728}                                     # nameentry.py
-FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?l?[diouxXcsy%]')
+FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?l?[diouxXcsyY%]')
 # references the scan misses (the lui is in another block; the register keeps %hi): target -> addiu
 MANUAL_REFS = {0x800e5d38: [0x800409d4],                 # 滅亡: fallen nation in the nation list
                0x800e6188: [0x80066598, 0x80067198],     # 人 after %2d (men column)
@@ -53,7 +53,7 @@ KEYLINE = re.compile(r'([0-9a-f]{8})\t(.*)$')
 
 
 TAGRE = r'\{[A-Z][0-9a-zA-Z]\}|\{[a-z](?::[0-9a-f]*)?\}'
-FMTRE = r'%[-+ #0]*\d*(?:\.\d+)?l?[diouxXcsy%]'
+FMTRE = r'%[-+ #0]*\d*(?:\.\d+)?l?[diouxXcsyY%]'
 
 
 def to_tagged(b):
@@ -235,7 +235,9 @@ def encode(e):
 
 
 def convs(b):
-    return [re.sub(rb'^%[-+ #0]*\d*', b'%', c) for c in FMT.findall(b)]
+    """conversions without flags / width; %Y (full-width number) counts as %d: the English prints
+    the same int in ASCII digits"""
+    return [re.sub(rb'^%[-+ #0]*\d*', b'%', c).replace(b'%Y', b'%d') for c in FMT.findall(b)]
 
 
 def ctrl(t):
